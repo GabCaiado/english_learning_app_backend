@@ -1,7 +1,21 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-sqlalchemy==2.0.23
-psycopg2-binary==2.9.9
-pydantic==2.5.0
-pydantic-settings==2.1.0
+# Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Banco de Dados
+supabase==2.3.4
 python-dotenv==1.0.0
+
+# ML - Traducao e Embeddings
+sentence-transformers>=3.1.0
+transformers>=4.45.0
+torch==2.11.0
+
+# Validacao
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+
+# Utilitarios
+httpx==0.25.2
+numpy==2.2.1
