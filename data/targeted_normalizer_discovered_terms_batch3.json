@@ -1,0 +1,4802 @@
+[
+  {
+    "term": "table",
+    "notes": "literal furniture vs idiomatic verb meaning to postpone or (in some dialects) to bring up a topic",
+    "examples": [
+      [
+        "They bought a new dining table.",
+        "They bought a new dining table.",
+        "literal"
+      ],
+      [
+        "Let's table the topic until tomorrow.",
+        "Let's postpone the topic until tomorrow.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pass",
+    "notes": "literal hand or move something vs idiomatic 'decline' or refuse",
+    "examples": [
+      [
+        "Please pass the salt.",
+        "Please pass the salt.",
+        "literal"
+      ],
+      [
+        "I think I'll pass on dessert.",
+        "I will decline dessert.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "knock",
+    "notes": "literal strike a surface vs idiomatic 'criticize' or speak badly of someone/something",
+    "examples": [
+      [
+        "Someone knocked on the door.",
+        "Someone knocked on the door.",
+        "literal"
+      ],
+      [
+        "Don't knock my idea.",
+        "Don't criticize my idea.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "flip",
+    "notes": "literal turn over vs idiomatic 'lose one's temper' or become very angry",
+    "examples": [
+      [
+        "He flipped the pancake.",
+        "He flipped the pancake.",
+        "literal"
+      ],
+      [
+        "She flipped when she heard the news.",
+        "She became very angry when she heard the news.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bench",
+    "notes": "literal long seat vs idiomatic 'remove from active play' (sports)",
+    "examples": [
+      [
+        "He sat on the bench at the park.",
+        "He sat on the bench at the park.",
+        "literal"
+      ],
+      [
+        "The coach benched him after the first half.",
+        "The coach removed him from the game after the first half.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "check",
+    "notes": "literal verify vs idiomatic 'stop or restrain someone' (e.g., in sports)",
+    "examples": [
+      [
+        "Please check the numbers before you send them.",
+        "Please check the numbers before you send them.",
+        "literal"
+      ],
+      [
+        "The defender checked the runner at the line.",
+        "The defender stopped the runner at the line.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "clip",
+    "notes": "literal short video or attach vs idiomatic 'shoot or hit' someone",
+    "examples": [
+      [
+        "I watched a short clip of the concert.",
+        "I watched a short clip of the concert.",
+        "literal"
+      ],
+      [
+        "He clipped the man in the alley.",
+        "He shot the man in the alley.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "slam",
+    "notes": "literal close with force vs idiomatic 'criticize harshly'",
+    "examples": [
+      [
+        "She slammed the door on her way out.",
+        "She slammed the door on her way out.",
+        "literal"
+      ],
+      [
+        "The review slammed the new restaurant.",
+        "The review harshly criticized the new restaurant.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stash",
+    "notes": "literal store away vs idiomatic hide, often implying secret or illicit concealment",
+    "examples": [
+      [
+        "She stashed her spare keys in the drawer.",
+        "She stashed her spare keys in the drawer.",
+        "literal"
+      ],
+      [
+        "He stashed cash under the floorboards.",
+        "He hid cash under the floorboards.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "tag",
+    "notes": "literal attach a label or touch in a game vs idiomatic 'label' or 'identify someone' (often socially)",
+    "examples": [
+      [
+        "I put a price tag on the shirt.",
+        "I put a price tag on the shirt.",
+        "literal"
+      ],
+      [
+        "They tagged her as a troublemaker.",
+        "They labeled her a troublemaker.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "plant",
+    "notes": "literal living organism vs idiomatic 'place something secretly' or 'set someone up'",
+    "examples": [
+      [
+        "She watered the plant every morning.",
+        "She watered the plant every morning.",
+        "literal"
+      ],
+      [
+        "Someone planted evidence in his car.",
+        "Someone placed evidence in his car to make him look guilty.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "tip",
+    "notes": "literal gratuity vs idiomatic small piece of advice or hint",
+    "examples": [
+      [
+        "Leave a tip for the server.",
+        "Leave a tip for the server.",
+        "literal"
+      ],
+      [
+        "Here is a tip for studying more effectively.",
+        "Here is a helpful suggestion for studying more effectively.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pull",
+    "notes": "literal apply force vs idiomatic 'attract or pick up a romantic partner'",
+    "examples": [
+      [
+        "Pull the door open.",
+        "Pull the door open.",
+        "literal"
+      ],
+      [
+        "He pulled someone at the party.",
+        "He succeeded in attracting a romantic partner at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pocket",
+    "notes": "literal small garment compartment vs idiomatic 'take for oneself, often dishonestly or secretly'",
+    "examples": [
+      [
+        "She put her phone in her pocket.",
+        "She put her phone in her pocket.",
+        "literal"
+      ],
+      [
+        "He pocketed the extra cash from the register.",
+        "He kept the extra cash from the register for himself without permission.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "charge",
+    "notes": "literal ask for payment or hold electrical charge vs idiomatic 'rush forward' or move aggressively",
+    "examples": [
+      [
+        "They will charge ten dollars for admission.",
+        "They will charge ten dollars for admission.",
+        "literal"
+      ],
+      [
+        "The soldier charged across the field.",
+        "The soldier rushed across the field.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "grill",
+    "notes": "literal cook over heat vs idiomatic 'question someone intensely'",
+    "examples": [
+      [
+        "She grilled the steaks for dinner.",
+        "She grilled the steaks for dinner.",
+        "literal"
+      ],
+      [
+        "The manager grilled the employee about the missing money.",
+        "The manager questioned the employee harshly about the missing money.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "frame",
+    "notes": "literal surround with a border vs idiomatic 'falsely incriminate or set someone up'",
+    "examples": [
+      [
+        "He built a frame for the picture.",
+        "He built a frame for the picture.",
+        "literal"
+      ],
+      [
+        "They framed him for the theft.",
+        "They falsely accused him of the theft.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bank",
+    "notes": "literal financial institution or river edge vs idiomatic 'rely on' or 'expect' (bank on)",
+    "examples": [
+      [
+        "She deposited the check at the bank.",
+        "She deposited the check at the bank.",
+        "literal"
+      ],
+      [
+        "You can bank on her to arrive on time.",
+        "You can rely on her to arrive on time.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "nick",
+    "notes": "literal small cut vs idiomatic (chiefly British) 'steal' or take without permission",
+    "examples": [
+      [
+        "He got a nick on his finger from the knife.",
+        "He got a nick on his finger from the knife.",
+        "literal"
+      ],
+      [
+        "Someone nicked my bike last night.",
+        "Someone stole my bike last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "strike",
+    "notes": "literal hit or mark vs idiomatic 'refuse to work as a form of protest'",
+    "examples": [
+      [
+        "The hammer struck the nail.",
+        "The hammer struck the nail.",
+        "literal"
+      ],
+      [
+        "The factory workers decided to strike.",
+        "The factory workers decided to stop working as a form of protest.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bite",
+    "notes": "literal use of teeth vs idiomatic 'be unpleasant or disappointing'",
+    "examples": [
+      [
+        "The dog might bite if it is frightened.",
+        "The dog might bite if it is frightened.",
+        "literal"
+      ],
+      [
+        "Missing the train really bites.",
+        "Missing the train is really unfortunate.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "mark",
+    "notes": "literal visible sign or score vs idiomatic 'select or target someone'",
+    "examples": [
+      [
+        "He left a mark on the wall.",
+        "He left a mark on the wall.",
+        "literal"
+      ],
+      [
+        "They marked him as their next prospect.",
+        "They selected him as their next prospect.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sting",
+    "notes": "literal sharp pain from an insect vs idiomatic 'undercover operation' or to cause emotional pain",
+    "examples": [
+      [
+        "A bee can sting if you disturb it.",
+        "A bee can sting if you disturb it.",
+        "literal"
+      ],
+      [
+        "The police arranged a sting to catch the fraudsters.",
+        "The police arranged an undercover operation to catch the fraudsters.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sack",
+    "notes": "literal bag vs idiomatic 'fire someone' or 'plunder'",
+    "examples": [
+      [
+        "He carried a heavy sack of grain.",
+        "He carried a heavy sack of grain.",
+        "literal"
+      ],
+      [
+        "The company sacked the director after the scandal.",
+        "The company fired the director after the scandal.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "brew",
+    "notes": "literal make tea/beer vs idiomatic 'developing, often of trouble or tension'",
+    "examples": [
+      [
+        "She brews tea every morning.",
+        "She brews tea every morning.",
+        "literal"
+      ],
+      [
+        "There is tension brewing between the teams.",
+        "Tension is developing between the teams.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hold up",
+    "notes": "literal support or delay vs idiomatic 'rob' (as in 'hold up a bank')",
+    "examples": [
+      [
+        "Hold up the sign so everyone can see it.",
+        "Hold up the sign so everyone can see it.",
+        "literal"
+      ],
+      [
+        "The robbers held up the convenience store last night.",
+        "The robbers robbed the convenience store last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "line",
+    "notes": "literal queue or rope vs idiomatic 'a rehearsed remark or pickup line' or 'deceptive story'",
+    "examples": [
+      [
+        "Please stand in line for tickets.",
+        "Please stand in line for tickets.",
+        "literal"
+      ],
+      [
+        "He tried using a cheesy line to start a conversation.",
+        "He tried using a prepared remark to start a conversation.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "draft",
+    "notes": "literal preliminary version vs idiomatic 'select or recruit for service or a team'",
+    "examples": [
+      [
+        "I saved a draft of the article to edit later.",
+        "I saved a draft of the article to edit later.",
+        "literal"
+      ],
+      [
+        "She was drafted onto the national team.",
+        "She was selected to join the national team.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lame",
+    "notes": "literal physically disabled or injured vs idiomatic 'uncool, weak, or unconvincing'",
+    "examples": [
+      [
+        "The horse went lame after the race.",
+        "The horse went lame after the race.",
+        "literal"
+      ],
+      [
+        "That is a lame excuse for being late.",
+        "That is a weak or unconvincing excuse for being late.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "punch",
+    "notes": "literal hit with a fist or type of drink vs idiomatic 'make something more forceful or exciting' (e.g., 'punch up')",
+    "examples": [
+      [
+        "He threw a punch during the altercation.",
+        "He threw a punch during the altercation.",
+        "literal"
+      ],
+      [
+        "The writer was asked to punch up the dialogue.",
+        "The writer was asked to make the dialogue more exciting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bare",
+    "notes": "literal uncovered vs slang (regional) meaning 'very' or 'a lot'",
+    "examples": [
+      [
+        "her feet were bare in the sand.",
+        "her feet were bare in the sand.",
+        "literal"
+      ],
+      [
+        "there were bare people at the party.",
+        "there were a lot of people at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "breeze",
+    "notes": "literal gentle wind vs idiomatic 'breeze through' meaning do something easily",
+    "examples": [
+      [
+        "a cool breeze moved through the room.",
+        "a cool breeze moved through the room.",
+        "literal"
+      ],
+      [
+        "she breezed the exam.",
+        "she passed the exam easily.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "buzz",
+    "notes": "literal low humming sound vs slang/idiomatic meaning 'excitement' or 'talk about'",
+    "examples": [
+      [
+        "i heard a buzz coming from the speaker.",
+        "i heard a buzz coming from the speaker.",
+        "literal"
+      ],
+      [
+        "there is a buzz about the new cafe.",
+        "there is excitement about the new cafe.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "buck",
+    "notes": "literal male deer vs colloquial 'buck' meaning 'dollar'",
+    "examples": [
+      [
+        "we watched a buck graze near the tree line.",
+        "we watched a buck graze near the tree line.",
+        "literal"
+      ],
+      [
+        "it cost ten bucks.",
+        "it cost ten dollars.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "cut",
+    "notes": "literal slice/remove vs idiomatic 'cut' meaning remove someone from a team or job",
+    "examples": [
+      [
+        "she cut the cake into six pieces.",
+        "she cut the cake into six pieces.",
+        "literal"
+      ],
+      [
+        "the team cut him before the season.",
+        "the team removed him from the roster before the season.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "slick",
+    "notes": "literal smooth/slippery vs slang meaning skillful, clever, or impressive",
+    "examples": [
+      [
+        "the floor was slick with water.",
+        "the floor was slick with water.",
+        "literal"
+      ],
+      [
+        "that was a slick move.",
+        "that was an impressive and skillful move.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "dry",
+    "notes": "literal not wet vs idiomatic/slang describing humor as understated or sarcastic",
+    "examples": [
+      [
+        "the towel is dry after the wash.",
+        "the towel is dry after the wash.",
+        "literal"
+      ],
+      [
+        "his joke was dry.",
+        "his joke was understated and sarcastic.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pitch",
+    "notes": "literal throw vs idiomatic 'pitch' meaning present or promote an idea",
+    "examples": [
+      [
+        "he pitched the ball to the batter.",
+        "he pitched the ball to the batter.",
+        "literal"
+      ],
+      [
+        "she pitched her idea to the team.",
+        "she presented her idea to the team.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lift",
+    "notes": "literal raise something vs slang meaning steal (informal)",
+    "examples": [
+      [
+        "please lift the box onto the shelf.",
+        "please lift the box onto the shelf.",
+        "literal"
+      ],
+      [
+        "someone lifted my wallet last night.",
+        "someone stole my wallet last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "jack",
+    "notes": "literal mechanical device for lifting vs slang verb meaning steal",
+    "examples": [
+      [
+        "use the jack to lift the car.",
+        "use the jack to lift the car.",
+        "literal"
+      ],
+      [
+        "they jacked my bike outside the cafe.",
+        "they stole my bike outside the cafe.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "push",
+    "notes": "literal apply force vs idiomatic 'push' meaning postpone or promote in context",
+    "examples": [
+      [
+        "push the door to open it.",
+        "push the door to open it.",
+        "literal"
+      ],
+      [
+        "they pushed the deadline back.",
+        "they postponed the deadline.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lead",
+    "notes": "literal heavy metal (or guide) vs idiomatic 'lead someone on' meaning mislead romantically",
+    "examples": [
+      [
+        "the old pencil contained lead.",
+        "the old pencil contained lead.",
+        "literal"
+      ],
+      [
+        "she led him on for months.",
+        "she misled him into believing she wanted a relationship.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "screen",
+    "notes": "literal mesh or barrier vs idiomatic 'screen' meaning evaluate or filter applicants",
+    "examples": [
+      [
+        "put a screen on the window to keep bugs out.",
+        "put a screen on the window to keep bugs out.",
+        "literal"
+      ],
+      [
+        "they screened the applicants for the position.",
+        "they evaluated the applicants for the position.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "float",
+    "notes": "literal stay on a liquid surface vs idiomatic 'float an idea' meaning suggest",
+    "examples": [
+      [
+        "the log will float on the lake.",
+        "the log will float on the lake.",
+        "literal"
+      ],
+      [
+        "they floated an idea at the meeting.",
+        "they suggested an idea at the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stake",
+    "notes": "literal wooden post driven into ground vs idiomatic 'stake' meaning personal or financial interest",
+    "examples": [
+      [
+        "hammer a stake into the ground to mark the spot.",
+        "hammer a stake into the ground to mark the spot.",
+        "literal"
+      ],
+      [
+        "she has a large stake in the project.",
+        "she has a large personal or financial interest in the project.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "click",
+    "notes": "literal short sharp sound vs idiomatic 'click' meaning form an immediate connection",
+    "examples": [
+      [
+        "i heard a click when the camera shutter closed.",
+        "i heard a click when the camera shutter closed.",
+        "literal"
+      ],
+      [
+        "they clicked right away at the meeting.",
+        "they formed a good connection right away at the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "peg",
+    "notes": "literal small peg for hanging vs idiomatic 'peg' meaning judge or categorize someone",
+    "examples": [
+      [
+        "hang the coat on the peg by the door.",
+        "hang the coat on the peg by the door.",
+        "literal"
+      ],
+      [
+        "i pegged him as shy the first time we met.",
+        "i judged him to be shy the first time we met.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "skate",
+    "notes": "literal move on skates vs idiomatic 'skate through' meaning get by with little effort",
+    "examples": [
+      [
+        "she learned to skate on the frozen pond.",
+        "she learned to skate on the frozen pond.",
+        "literal"
+      ],
+      [
+        "he skated through the exam without studying much.",
+        "he passed the exam with little effort and little preparation.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lean",
+    "notes": "literal incline or rest against vs idiomatic 'lean on' meaning pressure or rely on",
+    "examples": [
+      [
+        "lean the ladder against the wall.",
+        "lean the ladder against the wall.",
+        "literal"
+      ],
+      [
+        "they leaned on him to change his decision.",
+        "they pressured him to change his decision.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "cloud",
+    "notes": "literal visible vapor in sky vs idiomatic 'cloud' meaning make unclear or overshadow",
+    "examples": [
+      [
+        "a cloud moved across the sun.",
+        "a cloud moved across the sun.",
+        "literal"
+      ],
+      [
+        "the error clouded the final results.",
+        "the error made the final results unclear.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "flag",
+    "notes": "literal banner vs idiomatic 'flag' meaning become tired or lose energy",
+    "examples": [
+      [
+        "the flag flew outside the building.",
+        "the flag flew outside the building.",
+        "literal"
+      ],
+      [
+        "i began to flag after lunch.",
+        "i began to lose energy after lunch.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "square",
+    "notes": "literal geometrical shape or plaza vs slang meaning old-fashioned or uncool",
+    "examples": [
+      [
+        "they met in the town square.",
+        "they met in the town square.",
+        "literal"
+      ],
+      [
+        "he is a bit of a square at parties.",
+        "he is somewhat conservative and not interested in modern trends at parties.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "smart",
+    "notes": "literal intelligent or neat vs idiomatic 'smart' (verb) meaning to cause pain or sting",
+    "examples": [
+      [
+        "she is very smart and studies hard.",
+        "she is very smart and studies hard.",
+        "literal"
+      ],
+      [
+        "that insult still smarts.",
+        "that insult still hurts.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sour",
+    "notes": "literal tasting acidic or spoiled vs idiomatic 'go sour' meaning a relationship or deal becomes unpleasant",
+    "examples": [
+      [
+        "the milk tasted sour so we threw it out.",
+        "the milk tasted sour so we threw it out.",
+        "literal"
+      ],
+      [
+        "their business deal went sour after the disagreement.",
+        "their business deal became unpleasant after the disagreement.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "case",
+    "notes": "literal container vs slang 'case' meaning observe a place to plan a crime (idiomatic)",
+    "examples": [
+      [
+        "put the glasses back in the case.",
+        "put the glasses back in the case.",
+        "literal"
+      ],
+      [
+        "they cased the building before the robbery.",
+        "they examined the building carefully to plan the robbery.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "gravy",
+    "notes": "literal sauce vs idiomatic 'gravy' meaning extra benefit or bonus",
+    "examples": [
+      [
+        "pour gravy over the mashed potatoes.",
+        "pour gravy over the mashed potatoes.",
+        "literal"
+      ],
+      [
+        "the extra money was just gravy after the sale.",
+        "the extra money was an additional benefit after the sale.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rope",
+    "notes": "literal cord for tying vs idiomatic 'rope someone into' meaning persuade or pressure someone to join",
+    "examples": [
+      [
+        "tie the package with a length of rope.",
+        "tie the package with a length of rope.",
+        "literal"
+      ],
+      [
+        "they roped him into the plan at the last minute.",
+        "they persuaded him to join the plan at the last minute.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "nuke",
+    "notes": "literal use of nuclear weapons or microwave food vs slang 'nuke' meaning delete or destroy fully (informal)",
+    "examples": [
+      [
+        "nuke the leftovers in the microwave for two minutes.",
+        "nuke the leftovers in the microwave for two minutes.",
+        "literal"
+      ],
+      [
+        "they nuked the corrupted file from the server.",
+        "they deleted the corrupted file completely from the server.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "melt",
+    "notes": "literal change from solid to liquid vs idiomatic 'melt' meaning become emotionally softened",
+    "examples": [
+      [
+        "let the butter melt in the pan.",
+        "let the butter melt in the pan.",
+        "literal"
+      ],
+      [
+        "her smile melted him.",
+        "her smile made him feel emotionally softened and affectionate.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stump",
+    "notes": "literal tree base left after felling vs idiomatic 'stump' meaning confuse or baffle",
+    "examples": [
+      [
+        "the old stump remained after the tree was cut down.",
+        "the old stump remained after the tree was cut down.",
+        "literal"
+      ],
+      [
+        "the tricky question stumped the students.",
+        "the tricky question confused the students.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "kick",
+    "notes": "literal physical strike vs idiomatic 'get a kick out of' = enjoy",
+    "examples": [
+      [
+        "Kick the ball toward the goal.",
+        "Kick the ball toward the goal.",
+        "literal"
+      ],
+      [
+        "I get a kick out of that joke.",
+        "I enjoy that joke.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "blow",
+    "notes": "literal exhale or move air vs idiomatic 'blow it' = fail/miss an opportunity",
+    "examples": [
+      [
+        "Blow on the soup to cool it.",
+        "Blow on the soup to cool it.",
+        "literal"
+      ],
+      [
+        "He blew the interview.",
+        "He failed the interview.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "fit",
+    "notes": "literal proper size/shape vs slang (BrE/colloq.) meaning attractive",
+    "examples": [
+      [
+        "This jacket will fit you well.",
+        "This jacket will fit you well.",
+        "literal"
+      ],
+      [
+        "That actor is fit.",
+        "That actor is attractive.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bug",
+    "notes": "literal insect vs idiomatic/colloquial 'bug' = annoy or bother",
+    "examples": [
+      [
+        "There is a bug on the window.",
+        "There is a bug on the window.",
+        "literal"
+      ],
+      [
+        "That comment bugs me.",
+        "That comment annoys me.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "call",
+    "notes": "literal phone call or shout vs idiomatic 'call' = declare or predict",
+    "examples": [
+      [
+        "I will call you after work.",
+        "I will call you after work.",
+        "literal"
+      ],
+      [
+        "I call him to win the race.",
+        "I predict he will win the race.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "spill",
+    "notes": "literal accidentally let liquid fall vs idiomatic 'spill' = reveal secrets",
+    "examples": [
+      [
+        "Be careful not to spill the milk.",
+        "Be careful not to spill the milk.",
+        "literal"
+      ],
+      [
+        "Spill the secret now.",
+        "Reveal the secret now.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "snag",
+    "notes": "literal tear/catch on fabric vs idiomatic 'snag' = grab or obtain quickly",
+    "examples": [
+      [
+        "There is a snag in my sweater.",
+        "There is a snag in my sweater.",
+        "literal"
+      ],
+      [
+        "I snagged tickets to the concert.",
+        "I grabbed tickets to the concert.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "steal",
+    "notes": "literal take without permission vs idiomatic 'steal the show' or 'a steal' = outperform or great bargain",
+    "examples": [
+      [
+        "Someone tried to steal my bike.",
+        "Someone tried to steal my bike.",
+        "literal"
+      ],
+      [
+        "Her performance stole the show.",
+        "Her performance attracted the most attention at the show.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "run",
+    "notes": "literal move quickly on foot vs idiomatic 'run' = manage or operate",
+    "examples": [
+      [
+        "I run three miles every morning.",
+        "I run three miles every morning.",
+        "literal"
+      ],
+      [
+        "She runs the small bakery downtown.",
+        "She manages the small bakery downtown.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "smack",
+    "notes": "literal slap or hit vs slang 'smack' used for strong approval of music ('this song smacks')",
+    "examples": [
+      [
+        "He gave the table a smack to move it.",
+        "He gave the table a smack to move it.",
+        "literal"
+      ],
+      [
+        "That new track really smacks.",
+        "That new track is excellent.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "suck",
+    "notes": "literal draw in with the mouth vs colloquial 'suck' = be bad/unsatisfying",
+    "examples": [
+      [
+        "The baby will suck the bottle.",
+        "The baby will suck the bottle.",
+        "literal"
+      ],
+      [
+        "This movie sucks.",
+        "This movie is terrible.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "clock",
+    "notes": "literal timepiece or record time vs slang 'clock' = notice or hit/punch",
+    "examples": [
+      [
+        "Check the clock to see the time.",
+        "Check the clock to see the time.",
+        "literal"
+      ],
+      [
+        "I clocked him in the hallway.",
+        "I noticed him in the hallway.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sweet",
+    "notes": "literal sugary taste vs colloquial 'sweet' = very good or pleasing",
+    "examples": [
+      [
+        "This cake tastes sweet.",
+        "This cake tastes sweet.",
+        "literal"
+      ],
+      [
+        "You got front row seats? Sweet.",
+        "You got front row seats? That is great.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hammer",
+    "notes": "literal tool or strike repeatedly vs idiomatic 'hammer' = defeat decisively or criticize strongly",
+    "examples": [
+      [
+        "Use the hammer to drive the nail.",
+        "Use the hammer to drive the nail.",
+        "literal"
+      ],
+      [
+        "They hammered the opposing team in the final.",
+        "They defeated the opposing team decisively in the final.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "tank",
+    "notes": "literal armored vehicle or container vs slang 'tank' = perform very poorly or fail",
+    "examples": [
+      [
+        "The museum had a World War II tank on display.",
+        "The museum had a World War II tank on display.",
+        "literal"
+      ],
+      [
+        "Our team tanked in the second half.",
+        "Our team performed very poorly in the second half.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "flop",
+    "notes": "literal fall or drop vs idiomatic 'flop' = fail commercially or be a failure",
+    "examples": [
+      [
+        "The book fell with a flop on the floor.",
+        "The book fell with a flop on the floor.",
+        "literal"
+      ],
+      [
+        "The movie flopped at the box office.",
+        "The movie failed at the box office.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "flake",
+    "notes": "literal small piece or scale vs colloquial 'flake' = person who cancels/plans unreliably",
+    "examples": [
+      [
+        "There is a flake of paint coming off the wall.",
+        "There is a flake of paint coming off the wall.",
+        "literal"
+      ],
+      [
+        "He flaked on our plans again.",
+        "He canceled our plans again.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "wasted",
+    "notes": "literal resources used without purpose vs slang 'wasted' = extremely drunk or high",
+    "examples": [
+      [
+        "The food was wasted after the party.",
+        "The food was wasted after the party.",
+        "literal"
+      ],
+      [
+        "He was wasted at the bar last night.",
+        "He was very drunk at the bar last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bust",
+    "notes": "literal sculpture of a head or to break vs idiomatic 'bust' = arrest or catch",
+    "examples": [
+      [
+        "The gallery displayed a marble bust.",
+        "The gallery displayed a marble bust.",
+        "literal"
+      ],
+      [
+        "Police busted the illegal operation.",
+        "Police arrested the people running the illegal operation.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "toss",
+    "notes": "literal throw lightly vs idiomatic 'toss' = discard or get rid of casually",
+    "examples": [
+      [
+        "Toss the ball back to me.",
+        "Toss the ball back to me.",
+        "literal"
+      ],
+      [
+        "Toss those old shoes.",
+        "Discard those old shoes.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "loop",
+    "notes": "literal circular shape vs idiomatic 'loop in' = include someone in a communication",
+    "examples": [
+      [
+        "The rope made a small loop.",
+        "The rope made a small loop.",
+        "literal"
+      ],
+      [
+        "Loop me in on the email chain.",
+        "Include me on the email chain.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ring",
+    "notes": "literal sound of a bell or call vs colloquial usage 'ring' = call someone on the phone",
+    "examples": [
+      [
+        "I heard the bell ring at noon.",
+        "I heard the bell ring at noon.",
+        "literal"
+      ],
+      [
+        "Ring me when you arrive.",
+        "Call me when you arrive.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "show up",
+    "notes": "literal arrive somewhere vs idiomatic 'show up' = embarrass or make someone look bad",
+    "examples": [
+      [
+        "She will show up at the party at eight.",
+        "She will show up at the party at eight.",
+        "literal"
+      ],
+      [
+        "He showed me up in front of the class.",
+        "He embarrassed me in front of the class.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "mess up",
+    "notes": "literal make messy vs idiomatic 'mess up' = make a mistake or ruin something",
+    "examples": [
+      [
+        "Don't mess up the papers on the desk.",
+        "Don't mess up the papers on the desk.",
+        "literal"
+      ],
+      [
+        "I messed up the presentation.",
+        "I made a mistake during the presentation.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "zone out",
+    "notes": "literal create a zone vs idiomatic 'zone out' = stop paying attention, daydream",
+    "examples": [
+      [
+        "They built a quiet zone in the library.",
+        "They built a quiet zone in the library.",
+        "literal"
+      ],
+      [
+        "I zoned out during the lecture.",
+        "I stopped paying attention during the lecture.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "step up",
+    "notes": "literal step onto a higher surface vs idiomatic 'step up' = take responsibility or increase effort",
+    "examples": [
+      [
+        "Step up onto the platform carefully.",
+        "Step up onto the platform carefully.",
+        "literal"
+      ],
+      [
+        "We need someone to step up and lead the team.",
+        "We need someone to take responsibility and lead the team.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bet",
+    "notes": "literal: a wager vs slang: an expression of agreement or assent",
+    "examples": [
+      [
+        "I will bet five dollars on the game.",
+        "I will bet five dollars on the game.",
+        "literal"
+      ],
+      [
+        "You coming tonight? Bet.",
+        "You are coming tonight? I agree.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "mug",
+    "notes": "literal: a cup vs slang: to rob or to attack someone (or insult) in informal contexts",
+    "examples": [
+      [
+        "He drank coffee from a blue mug.",
+        "He drank coffee from a blue mug.",
+        "literal"
+      ],
+      [
+        "They tried to mug him after the concert.",
+        "They tried to rob him after the concert.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stiff",
+    "notes": "literal: rigid or hard to bend vs slang: to cheat someone by not paying what is owed",
+    "examples": [
+      [
+        "The cardboard is too stiff to fold.",
+        "The cardboard is too stiff to fold.",
+        "literal"
+      ],
+      [
+        "Don't stiff me on the bill.",
+        "Don't fail to pay me what you owe for the bill.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "scrub",
+    "notes": "literal: to clean by rubbing vs slang: an unskilled or unimportant person",
+    "examples": [
+      [
+        "Please scrub the pan until it's clean.",
+        "Please scrub the pan until it's clean.",
+        "literal"
+      ],
+      [
+        "He called himself a scrub after losing the match.",
+        "He said he was an unskilled player after losing the match.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "dunk",
+    "notes": "literal: to dip into liquid or to submerge briefly vs slang: to perform a forceful basketball shot or to embarrass someone figuratively",
+    "examples": [
+      [
+        "Dunk the biscuit quickly in your tea.",
+        "Dunk the biscuit quickly in your tea.",
+        "literal"
+      ],
+      [
+        "She dunked on the other team in the final seconds.",
+        "She made a forceful basketball shot and embarrassed the other team in the final seconds.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "spike",
+    "notes": "literal: a sharp point or to pierce vs slang: to add something (often drugs or alcohol) to a drink or to sharply increase",
+    "examples": [
+      [
+        "The fence had a spike at the top.",
+        "The fence had a spike at the top.",
+        "literal"
+      ],
+      [
+        "Someone spiked my punch at the party.",
+        "Someone put a drug or extra alcohol into my punch at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "burner",
+    "notes": "literal: a device that produces a flame or heat vs slang: a temporary or disposable phone or contact",
+    "examples": [
+      [
+        "Turn the burner down; the sauce is boiling.",
+        "Turn the burner down; the sauce is boiling.",
+        "literal"
+      ],
+      [
+        "He used a burner to call the buyer.",
+        "He used a temporary phone to call the buyer.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "blank",
+    "notes": "literal: empty or without content vs slang: to ignore or deliberately not respond to someone",
+    "examples": [
+      [
+        "The form has a blank space for your name.",
+        "The form has a blank space for your name.",
+        "literal"
+      ],
+      [
+        "She just blanked him at the party.",
+        "She ignored him deliberately at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rat",
+    "notes": "literal: a rodent vs slang: to inform on someone or betray them to authorities",
+    "examples": [
+      [
+        "A rat ran across the alley.",
+        "A rat ran across the alley.",
+        "literal"
+      ],
+      [
+        "He ratted on his teammates to the coach.",
+        "He informed the coach about his teammates' mistakes.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stick",
+    "notes": "literal: a small branch or rod vs slang: to leave someone with responsibility or a task (or to charge someone unexpectedly)",
+    "examples": [
+      [
+        "She used a stick to roast the marshmallow.",
+        "She used a stick to roast the marshmallow.",
+        "literal"
+      ],
+      [
+        "Don't stick me with the extra work.",
+        "Don't leave me responsible for the extra work.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "clown",
+    "notes": "literal: an entertainer who performs comic acts vs slang: to make fun of someone or to behave foolishly",
+    "examples": [
+      [
+        "The clown at the party painted children's faces.",
+        "The clown at the party painted children's faces.",
+        "literal"
+      ],
+      [
+        "Stop clowning on him in front of everyone.",
+        "Stop making fun of him in front of everyone.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "chop",
+    "notes": "literal: to cut into pieces with a sharp tool vs slang: to edit or to reduce (e.g., in music or conversation)",
+    "examples": [
+      [
+        "Chop the onions finely before cooking.",
+        "Chop the onions finely before cooking.",
+        "literal"
+      ],
+      [
+        "They chopped the track to make a shorter version.",
+        "They edited the track to make a shorter version.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "wing",
+    "notes": "literal: an appendage for flight on a bird or airplane vs slang: to improvise or do something without preparation",
+    "examples": [
+      [
+        "The bird folded its wing and landed.",
+        "The bird folded its wing and landed.",
+        "literal"
+      ],
+      [
+        "I had to wing my presentation when the slides failed.",
+        "I had to improvise my presentation when the slides failed.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "slug",
+    "notes": "literal: a small slimy gastropod or a metal piece vs slang: to hit someone or to swig a drink quickly",
+    "examples": [
+      [
+        "A slug crawled across the garden path.",
+        "A slug crawled across the garden path.",
+        "literal"
+      ],
+      [
+        "He slugged the bottle and left.",
+        "He took a quick large swallow from the bottle and left.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "peach",
+    "notes": "literal: a fruit vs slang: to inform on someone or act as an informant (regional/dated slang)",
+    "examples": [
+      [
+        "She ate a ripe peach after lunch.",
+        "She ate a ripe peach after lunch.",
+        "literal"
+      ],
+      [
+        "He peached to the police about the theft.",
+        "He informed the police about the theft.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bluff",
+    "notes": "literal: a steep cliff or bank vs slang: to deceive someone about one's intentions or strength, especially by pretending confidence",
+    "examples": [
+      [
+        "They hiked around the bluff overlooking the lake.",
+        "They hiked around the bluff overlooking the lake.",
+        "literal"
+      ],
+      [
+        "He bluffed when he had a weak hand in poker.",
+        "He pretended to have a strong hand in poker when he did not.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pick up",
+    "notes": "literal: to lift something vs slang: to acquire, learn, or start a social/romantic interaction",
+    "examples": [
+      [
+        "Please pick up the book from the table.",
+        "Please pick up the book from the table.",
+        "literal"
+      ],
+      [
+        "He picked up a few words of Spanish on his trip.",
+        "He learned a few words of Spanish on his trip.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "polish",
+    "notes": "literal: to make a surface shiny by rubbing vs slang: to improve or perfect something (informal)",
+    "examples": [
+      [
+        "Polish the silver before the guests arrive.",
+        "Polish the silver before the guests arrive.",
+        "literal"
+      ],
+      [
+        "She polished her presentation before the meeting.",
+        "She improved and refined her presentation before the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "warm up",
+    "notes": "literal: to make something warmer vs slang: to prepare or practice before a performance or to begin a social/romantic approach",
+    "examples": [
+      [
+        "Warm up the soup before serving.",
+        "Warm up the soup before serving.",
+        "literal"
+      ],
+      [
+        "The band warmed up before the concert.",
+        "The band practiced to prepare before the concert.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "come through",
+    "notes": "literal: to physically pass from one side to another vs slang: to fulfill a promise or deliver results when needed",
+    "examples": [
+      [
+        "Walk through the door and come through to the garden.",
+        "Walk through the door and come through to the garden.",
+        "literal"
+      ],
+      [
+        "She really came through when we needed help.",
+        "She delivered the help we needed.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sway",
+    "notes": "literal: to move slowly back and forth vs slang: to influence someone's opinion or decision",
+    "examples": [
+      [
+        "The tall grass began to sway in the wind.",
+        "The tall grass began to sway in the wind.",
+        "literal"
+      ],
+      [
+        "His speech swayed many undecided voters.",
+        "His speech influenced many undecided voters.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "square up",
+    "notes": "literal: to make sides even or level vs slang: to settle a debt or prepare to fight someone",
+    "examples": [
+      [
+        "Square up the picture frame so it hangs straight.",
+        "Square up the picture frame so it hangs straight.",
+        "literal"
+      ],
+      [
+        "We need to square up the bill before we leave.",
+        "We need to settle the bill before we leave.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "dime",
+    "notes": "literal U.S. coin or small object vs slang for a very attractive person (a '10')",
+    "examples": [
+      [
+        "She found a dime on the sidewalk.",
+        "She found a dime on the sidewalk.",
+        "literal"
+      ],
+      [
+        "She is a dime.",
+        "She is very attractive.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bread",
+    "notes": "literal baked food vs slang for money",
+    "examples": [
+      [
+        "He bought bread at the store.",
+        "He bought bread at the store.",
+        "literal"
+      ],
+      [
+        "I need bread this week.",
+        "I need money this week.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "dough",
+    "notes": "literal mixture for baking vs slang for money",
+    "examples": [
+      [
+        "She kneaded the dough.",
+        "She kneaded the dough.",
+        "literal"
+      ],
+      [
+        "He's making a lot of dough.",
+        "He is making a lot of money.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "dish",
+    "notes": "literal plate or prepared food vs slang for gossip",
+    "examples": [
+      [
+        "Please wash the dish.",
+        "Please wash the dish.",
+        "literal"
+      ],
+      [
+        "Tell me the dish on them.",
+        "Tell me the gossip about them.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "banger",
+    "notes": "literal (UK) sausage or something that bangs vs slang for a hit song or very good thing",
+    "examples": [
+      [
+        "He fried a banger for lunch.",
+        "He fried a banger for lunch.",
+        "literal"
+      ],
+      [
+        "That song is a banger.",
+        "That song is very good.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "clout",
+    "notes": "older literal meaning (a blow / patch) vs modern slang for social influence or power",
+    "examples": [
+      [
+        "She patched the sleeve with a clout.",
+        "She patched the sleeve with a clout.",
+        "literal"
+      ],
+      [
+        "He has a lot of clout in that industry.",
+        "He has a lot of social influence in that industry.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "crown",
+    "notes": "literal ornamental headpiece vs idiomatic/sports slang meaning top position or championship",
+    "examples": [
+      [
+        "The king wore a crown.",
+        "The king wore a crown.",
+        "literal"
+      ],
+      [
+        "She took the crown of the tournament.",
+        "She won the tournament.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "dub",
+    "notes": "literal to add audio or give a name vs slang for a win or victory",
+    "examples": [
+      [
+        "They will dub the film into Spanish.",
+        "They will dub the film into Spanish.",
+        "literal"
+      ],
+      [
+        "We got the dub last night.",
+        "We got the win last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "joint",
+    "notes": "literal a place or a cut of meat vs slang for a marijuana cigarette or informal venue",
+    "examples": [
+      [
+        "They met at the joint on Main Street.",
+        "They met at the joint on Main Street.",
+        "literal"
+      ],
+      [
+        "He rolled a joint.",
+        "He rolled a marijuana cigarette.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "shotgun",
+    "notes": "literal firearm vs slang usage to claim the front passenger seat",
+    "examples": [
+      [
+        "He cleaned his shotgun.",
+        "He cleaned his shotgun.",
+        "literal"
+      ],
+      [
+        "I called shotgun for the front seat.",
+        "I claimed the front passenger seat.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "break up",
+    "notes": "literal separate something into pieces vs idiomatic end a romantic relationship",
+    "examples": [
+      [
+        "Please break up the chocolate into squares.",
+        "Please break up the chocolate into squares.",
+        "literal"
+      ],
+      [
+        "They decided to break up.",
+        "They decided to end their romantic relationship.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hustle",
+    "notes": "literal to move quickly vs slang meaning to work hard, run a side job, or (negatively) swindle",
+    "examples": [
+      [
+        "The players hustle down the court.",
+        "The players hustle down the court.",
+        "literal"
+      ],
+      [
+        "He has a side hustle.",
+        "He has a side job to earn extra money.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sell out",
+    "notes": "literal to sell all inventory vs idiomatic/slang to abandon principles for commercial gain",
+    "examples": [
+      [
+        "The store will sell out of tickets.",
+        "The store will sell out of tickets.",
+        "literal"
+      ],
+      [
+        "The band sold out.",
+        "The band stopped supporting its original values to gain commercial success.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stand up",
+    "notes": "literal to rise to a standing position vs idiomatic to fail to meet someone (stand someone up)",
+    "examples": [
+      [
+        "Please stand up when the teacher enters.",
+        "Please stand up when the teacher enters.",
+        "literal"
+      ],
+      [
+        "He stood her up last night.",
+        "He failed to meet her for their arranged date.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "troll",
+    "notes": "literal mythical creature vs internet slang for someone who provokes others online",
+    "examples": [
+      [
+        "The story described a troll under the bridge.",
+        "The story described a troll under the bridge.",
+        "literal"
+      ],
+      [
+        "Someone is trolling in the comments.",
+        "Someone is posting inflammatory comments to provoke people.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ditch",
+    "notes": "literal trench or cut in ground vs idiomatic/slang to abandon or skip someone or something",
+    "examples": [
+      [
+        "The car slid into the ditch.",
+        "The car slid into the ditch.",
+        "literal"
+      ],
+      [
+        "She ditched the meeting.",
+        "She left the meeting intentionally or did not attend it.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "setup",
+    "notes": "literal arrangement or system configuration vs slang meaning a trap or staged arrangement to trick someone",
+    "examples": [
+      [
+        "We fixed the audio setup.",
+        "We fixed the audio setup.",
+        "literal"
+      ],
+      [
+        "That was a setup to get him arrested.",
+        "That was a trap intended to get him arrested.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ringer",
+    "notes": "literal part that rings (e.g., bell ringer) vs slang for an impostor or secretly substituted skilled player",
+    "examples": [
+      [
+        "The ringer on the bell broke.",
+        "The ringer on the bell broke.",
+        "literal"
+      ],
+      [
+        "They brought in a ringer to play.",
+        "They brought in a skilled substitute player to unfairly increase their chances of winning.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "mole",
+    "notes": "literal small burrowing animal vs slang for an undercover agent or informant within an organization",
+    "examples": [
+      [
+        "A mole burrowed in the garden.",
+        "A mole burrowed in the garden.",
+        "literal"
+      ],
+      [
+        "The company found a mole in its marketing team.",
+        "The company found a spy within its marketing team.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stall",
+    "notes": "literal engine stopping vs idiomatic to delay or avoid answering",
+    "examples": [
+      [
+        "The car began to stall on the hill.",
+        "The car began to stall on the hill.",
+        "literal"
+      ],
+      [
+        "He stalled during the interview.",
+        "He delayed answering or avoided giving an answer during the interview.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "break down",
+    "notes": "literal collapse or stop functioning vs idiomatic to analyze or explain in detail",
+    "examples": [
+      [
+        "The old truck will break down soon.",
+        "The old truck will break down soon.",
+        "literal"
+      ],
+      [
+        "Can you break down these numbers for me?",
+        "Can you analyze and explain these numbers to me?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "break in",
+    "notes": "literal force entry vs idiomatic to wear in shoes or interrupt",
+    "examples": [
+      [
+        "Someone tried to break in last night.",
+        "Someone tried to break in last night.",
+        "literal"
+      ],
+      [
+        "We need to break in these boots.",
+        "We need to wear these boots until they are comfortable.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "break out",
+    "notes": "literal to emerge or appear vs idiomatic to suddenly become popular or to start suddenly (e.g., a rash, conflict)",
+    "examples": [
+      [
+        "A rash may break out after the bite.",
+        "A rash may break out after the bite.",
+        "literal"
+      ],
+      [
+        "The band broke out last year.",
+        "The band became very popular last year.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lose it",
+    "notes": "literal to misplace an item vs idiomatic to lose control of one's emotions or become very angry",
+    "examples": [
+      [
+        "If you misplace the book, you will lose it.",
+        "If you misplace the book, you will lose it.",
+        "literal"
+      ],
+      [
+        "He lost it at the news.",
+        "He lost control of his emotions at the news.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "come down",
+    "notes": "literal to descend vs idiomatic for a price or level to decrease",
+    "examples": [
+      [
+        "The balloon will come down after the party.",
+        "The balloon will come down after the party.",
+        "literal"
+      ],
+      [
+        "The price will come down next month.",
+        "The price will decrease next month.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ball",
+    "notes": "literal round object used in games vs idiomatic 'have a ball' meaning have a very good time",
+    "examples": [
+      [
+        "He kicked the ball.",
+        "He kicked the ball.",
+        "literal"
+      ],
+      [
+        "We had a ball at the festival.",
+        "We had a very good time at the festival.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "receipts",
+    "notes": "literal purchase records vs slang for proof or evidence (often of a claim or wrongdoing)",
+    "examples": [
+      [
+        "Keep your receipts for the return.",
+        "Keep your receipts for the return.",
+        "literal"
+      ],
+      [
+        "She wanted receipts for his story.",
+        "She wanted evidence to support his story.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "handle",
+    "notes": "literal part of an object used to hold it vs slang for a username or online alias",
+    "examples": [
+      [
+        "Turn the door handle to open the door.",
+        "Turn the door handle to open the door.",
+        "literal"
+      ],
+      [
+        "What's her handle on that site?",
+        "What is her username on that site?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "title",
+    "notes": "literal name of a book or label vs idiomatic to win a championship or top honor",
+    "examples": [
+      [
+        "He read the title of the article.",
+        "He read the title of the article.",
+        "literal"
+      ],
+      [
+        "They took the title this season.",
+        "They won the championship this season.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bar",
+    "notes": "literal drinking establishment or metal rod vs slang for a line of lyrics in rap (or a notable performance line)",
+    "examples": [
+      [
+        "They met at the bar after work.",
+        "They met at the bar after work.",
+        "literal"
+      ],
+      [
+        "That rapper has great bars.",
+        "That rapper writes very good lyrical lines.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "word",
+    "notes": "literal: a unit of language vs slang: a brief affirmation (agree/acknowledge)",
+    "examples": [
+      [
+        "That word has five letters.",
+        "That word has five letters.",
+        "literal"
+      ],
+      [
+        "Word, I'll be there soon.",
+        "I agree; I will be there soon.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "put on",
+    "notes": "literal: place clothing or an item onto someone/thing vs slang: pretend or feign",
+    "examples": [
+      [
+        "She put on her coat before leaving.",
+        "She put on her coat before leaving.",
+        "literal"
+      ],
+      [
+        "He put on an act to impress them.",
+        "He pretended to be someone else to impress them.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "on me",
+    "notes": "literal: physically resting on my body vs slang: I will pay for this",
+    "examples": [
+      [
+        "The jacket is on me.",
+        "The jacket is on me.",
+        "literal"
+      ],
+      [
+        "Drinks are on me tonight.",
+        "I will pay for the drinks tonight.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lock in",
+    "notes": "literal: secure something with a lock vs slang: commit to a plan or guarantee participation",
+    "examples": [
+      [
+        "Lock the bike in the rack.",
+        "Lock the bike in the rack.",
+        "literal"
+      ],
+      [
+        "We need to lock in a date for the trip.",
+        "We need to agree on and confirm a date for the trip.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hold",
+    "notes": "literal: grasp or carry something vs slang: ask someone to wait or pause",
+    "examples": [
+      [
+        "Hold the heavy box with both hands.",
+        "Hold the heavy box with both hands.",
+        "literal"
+      ],
+      [
+        "Hold on a second, I'll check.",
+        "Wait a second; I will check.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sleep on",
+    "notes": "literal: to sleep while on top of something vs slang: delay making a decision until later",
+    "examples": [
+      [
+        "He fell asleep on the couch.",
+        "He fell asleep on the couch.",
+        "literal"
+      ],
+      [
+        "I'll sleep on the job offer and tell you tomorrow.",
+        "I'll delay deciding about the job offer and tell you tomorrow.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sit with",
+    "notes": "literal: physically sit beside someone vs slang: accept or spend time considering an idea or feeling",
+    "examples": [
+      [
+        "Come sit with me on the bench.",
+        "Come sit with me on the bench.",
+        "literal"
+      ],
+      [
+        "I need to sit with this feedback for a while.",
+        "I need to spend time considering and accepting this feedback.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "put up",
+    "notes": "literal: place something on a wall or provide accommodation vs slang: host someone temporarily",
+    "examples": [
+      [
+        "Put the poster up on the wall.",
+        "Put the poster up on the wall.",
+        "literal"
+      ],
+      [
+        "Can you put me up for the night?",
+        "Can you let me stay at your place for the night?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "gas",
+    "notes": "literal fuel or air vs slang meaning a lot of fun or very enjoyable",
+    "examples": [
+      [
+        "The car needs gas before the trip.",
+        "The car needs gas before the trip.",
+        "literal"
+      ],
+      [
+        "That concert was a gas.",
+        "That concert was a lot of fun.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ping",
+    "notes": "literal sonar or signal sound vs slang meaning to send a quick message/notification",
+    "examples": [
+      [
+        "The submarine sent a ping to locate the object.",
+        "The submarine sent a ping to locate the object.",
+        "literal"
+      ],
+      [
+        "Ping me when you get home.",
+        "Message me when you get home.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "whack",
+    "notes": "literal to hit vs slang meaning bad, wrong, or surprising",
+    "examples": [
+      [
+        "He gave the piñata a hard whack.",
+        "He gave the piñata a hard whack.",
+        "literal"
+      ],
+      [
+        "That idea is whack.",
+        "That idea is really bad.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "suss",
+    "notes": "literal old use meaning suspect vs slang meaning to figure out or investigate informally",
+    "examples": [
+      [
+        "The detective tried to suss the timeline from the reports.",
+        "The detective tried to suss the timeline from the reports.",
+        "literal"
+      ],
+      [
+        "I need to suss out how the app works.",
+        "I need to figure out how the app works.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stan",
+    "notes": "literal proper name origin vs slang meaning an obsessive fan or to strongly support someone",
+    "examples": [
+      [
+        "Stan visited the museum with his family.",
+        "Stan visited the museum with his family.",
+        "literal"
+      ],
+      [
+        "I stan that singer.",
+        "I am a very enthusiastic fan of that singer.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "catfish",
+    "notes": "literal freshwater fish vs slang meaning to deceive someone online using a fake identity",
+    "examples": [
+      [
+        "We caught a big catfish on the lake.",
+        "We caught a big catfish on the lake.",
+        "literal"
+      ],
+      [
+        "She was catfished on the dating site.",
+        "Someone deceived her on the dating site by pretending to be a different person.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "butter up",
+    "notes": "literal to spread butter vs idiom/slang meaning to flatter someone to gain favor",
+    "examples": [
+      [
+        "Please butter up the toast before serving.",
+        "Please butter up the toast before serving.",
+        "literal"
+      ],
+      [
+        "He tried to butter up his boss before asking for time off.",
+        "He tried to flatter his boss before asking for time off.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "no sweat",
+    "notes": "literal sweating vs idiomatic/slang meaning no problem or it's easy",
+    "examples": [
+      [
+        "After the run I had no sweat on my shirt.",
+        "After the run I had no sweat on my shirt.",
+        "literal"
+      ],
+      [
+        "Can you finish this by five? No sweat.",
+        "Can you finish this by five? No problem.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "on point",
+    "notes": "literal pointing position vs slang meaning accurate, excellent, or very appropriate",
+    "examples": [
+      [
+        "Make sure the arrow is on point for the demonstration.",
+        "Make sure the arrow is on point for the demonstration.",
+        "literal"
+      ],
+      [
+        "Her presentation was on point.",
+        "Her presentation was very accurate and effective.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "blitz",
+    "notes": "literal military attack or fast campaign vs slang meaning an intense, concentrated effort",
+    "examples": [
+      [
+        "The team studied the history of the WWII blitz.",
+        "The team studied the history of the WWII blitz.",
+        "literal"
+      ],
+      [
+        "We're doing a marketing blitz this week.",
+        "We are doing an intense, concentrated marketing effort this week.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "link",
+    "notes": "literal chain connection or URL vs slang meaning to introduce or connect people informally",
+    "examples": [
+      [
+        "Click the link to open the article.",
+        "Click the link to open the article.",
+        "literal"
+      ],
+      [
+        "Can you link me with someone from HR?",
+        "Can you connect me with someone from HR?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "floss",
+    "notes": "literal dental cleaning vs slang meaning to show off wealth or style",
+    "examples": [
+      [
+        "You should floss after meals to clean your teeth.",
+        "You should floss after meals to clean your teeth.",
+        "literal"
+      ],
+      [
+        "He likes to floss his new watch.",
+        "He likes to show off his new watch.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "smash",
+    "notes": "literal to break by hitting vs slang meaning to do extremely well or to be a big success",
+    "examples": [
+      [
+        "Be careful not to smash the glass.",
+        "Be careful not to smash the glass.",
+        "literal"
+      ],
+      [
+        "Their single smashed the charts this month.",
+        "Their single became a major success this month.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pick",
+    "notes": "literal to choose or remove vs slang sense in some contexts meaning to criticize or single someone out",
+    "examples": [
+      [
+        "Please pick a book from the shelf.",
+        "Please pick a book from the shelf.",
+        "literal"
+      ],
+      [
+        "Don't pick on her about the mistake.",
+        "Don't criticize her about the mistake.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "kid",
+    "notes": "literal child vs slang/colloquial verb meaning to joke or tease",
+    "examples": [
+      [
+        "The kid drew a picture for the teacher.",
+        "The kid drew a picture for the teacher.",
+        "literal"
+      ],
+      [
+        "Are you kidding me?",
+        "Are you joking with me?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "clapback",
+    "notes": "literal clap sound vs slang meaning a sharp or effective verbal response to criticism",
+    "examples": [
+      [
+        "The audience gave a clapback after the joke.",
+        "The audience gave a clapback after the joke.",
+        "literal"
+      ],
+      [
+        "Her clapback shut down the critic.",
+        "Her sharp verbal response shut down the critic.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "greenlight",
+    "notes": "literal traffic signal color vs slang meaning to give permission to proceed",
+    "examples": [
+      [
+        "The greenlight on the dashboard indicates the system is ready.",
+        "The greenlight on the dashboard indicates the system is ready.",
+        "literal"
+      ],
+      [
+        "The manager greenlit the project.",
+        "The manager gave permission for the project to proceed.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "double down",
+    "notes": "literal gambling action vs slang meaning to increase commitment to a decision or strategy",
+    "examples": [
+      [
+        "He decided to double down in the card game.",
+        "He decided to double down in the card game.",
+        "literal"
+      ],
+      [
+        "After the setback they doubled down on their plan.",
+        "After the setback they increased their commitment to their plan.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ice",
+    "notes": "literal frozen water vs slang meaning expensive jewelry or to stop something (context-dependent)",
+    "examples": [
+      [
+        "Please put the ice in the cooler.",
+        "Please put the ice in the cooler.",
+        "literal"
+      ],
+      [
+        "She wears a lot of ice to the event.",
+        "She wears a lot of expensive jewelry to the event.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "catnap",
+    "notes": "literal short sleep vs colloquial/slang used informally for a quick rest",
+    "examples": [
+      [
+        "I took a catnap on the couch after lunch.",
+        "I took a catnap on the couch after lunch.",
+        "literal"
+      ],
+      [
+        "Take a catnap before the meeting so you're alert.",
+        "Take a short nap before the meeting so you're alert.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rope in",
+    "notes": "literal to entangle with rope vs idiom/slang meaning to recruit or involve someone (often reluctantly)",
+    "examples": [
+      [
+        "They used a rope to tie the boat to the dock.",
+        "They used a rope to tie the boat to the dock.",
+        "literal"
+      ],
+      [
+        "She roped him in to help with the event.",
+        "She persuaded him to help with the event.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bash",
+    "notes": "literal to strike hard vs slang meaning a party or to strongly criticize someone",
+    "examples": [
+      [
+        "Don't bash the metal with that hammer.",
+        "Don't bash the metal with that hammer.",
+        "literal"
+      ],
+      [
+        "They threw a big bash for her retirement.",
+        "They organized a large party for her retirement.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "green thumb",
+    "notes": "literal color plus thumb vs idiom/slang meaning being good at gardening",
+    "examples": [
+      [
+        "He painted his thumb green during the craft project.",
+        "He painted his thumb green during the craft project.",
+        "literal"
+      ],
+      [
+        "She has a green thumb and grows wonderful plants.",
+        "She is good at gardening and grows wonderful plants.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "throw in the towel",
+    "notes": "literal boxing action vs idiom/slang meaning to give up",
+    "examples": [
+      [
+        "In the match the coach threw in the towel to stop the fight.",
+        "In the match the coach threw in the towel to stop the fight.",
+        "literal"
+      ],
+      [
+        "After months of delay he threw in the towel.",
+        "After months of delay he gave up.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "cold turkey",
+    "notes": "literal cold prepared turkey vs idiom/slang meaning to stop something abruptly (usually an addiction)",
+    "examples": [
+      [
+        "We served cold turkey at the picnic.",
+        "We served cold turkey at the picnic.",
+        "literal"
+      ],
+      [
+        "She quit smoking cold turkey.",
+        "She stopped smoking abruptly without tapering off.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hang tight",
+    "notes": "literal hold on tightly vs idiom/slang meaning wait patiently",
+    "examples": [
+      [
+        "Hang tight to the railing on the stairs.",
+        "Hang tight to the railing on the stairs.",
+        "literal"
+      ],
+      [
+        "Hang tight, I'll be with you in a minute.",
+        "Wait patiently, I'll be with you in a minute.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sicko mode",
+    "notes": "literal sick mode not typical vs slang phrase meaning an intense or extreme state (colloquial, pop-culture); used here as an idiomatic intensifier",
+    "examples": [
+      [
+        "He was in a sicko mode after catching the flu.",
+        "He was in a sicko mode after catching the flu.",
+        "literal"
+      ],
+      [
+        "The team went into sicko mode and finished the project early.",
+        "The team worked with extreme intensity and finished the project early.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "ghostwrite",
+    "notes": "literal to write in place of another vs slang/industry term meaning to write for someone else privately",
+    "examples": [
+      [
+        "She will ghostwrite the article for the celebrity.",
+        "She will ghostwrite the article for the celebrity.",
+        "literal"
+      ],
+      [
+        "He ghostwrote the blog posts for the CEO.",
+        "He wrote the blog posts on behalf of the CEO without public credit.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "air",
+    "notes": "literal: move or expose to air vs slang: publicly broadcast or reveal (vent/air out)",
+    "examples": [
+      [
+        "Please air the laundry before folding it.",
+        "Please air the laundry before folding it.",
+        "literal"
+      ],
+      [
+        "She decided to air her complaints at the meeting.",
+        "She decided to publicly voice her complaints at the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "camp",
+    "notes": "literal: outdoor lodging vs slang: exaggerated, theatrical style or deliberately over-the-top behavior",
+    "examples": [
+      [
+        "We set up camp by the lake.",
+        "We set up camp by the lake.",
+        "literal"
+      ],
+      [
+        "His performance was very camp and full of theatrical jokes.",
+        "His performance was deliberately theatrical and exaggerated.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "coast",
+    "notes": "literal: travel along the shore or move without effort vs slang: proceed easily without trying",
+    "examples": [
+      [
+        "The road runs along the coast for ten miles.",
+        "The road runs along the coast for ten miles.",
+        "literal"
+      ],
+      [
+        "After finishing the hard part, he coasted through the rest of the project.",
+        "After finishing the hard part, he continued with little effort.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "glow",
+    "notes": "literal: emit light or warmth vs slang: experience a positive transformation (often 'glow up')",
+    "examples": [
+      [
+        "The lantern will glow in the dark.",
+        "The lantern will glow in the dark.",
+        "literal"
+      ],
+      [
+        "She really glowed after changing her routine.",
+        "She became noticeably more confident and attractive after changing her routine.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lace",
+    "notes": "literal: fasten with laces or decorate with lace vs slang: add a drug or alcohol to a drink/food (often surreptitiously)",
+    "examples": [
+      [
+        "Please lace your shoes before the run.",
+        "Please lace your shoes before the run.",
+        "literal"
+      ],
+      [
+        "He laced her coffee at the party.",
+        "He secretly put a drug into her coffee at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "scratch",
+    "notes": "literal: mark a surface with a sharp object vs slang: cancel, withdraw, or barely manage (e.g., 'scratched from the list')",
+    "examples": [
+      [
+        "The cat left a scratch on the table.",
+        "The cat left a scratch on the table.",
+        "literal"
+      ],
+      [
+        "They scratched the event when the speaker canceled.",
+        "They canceled the event when the speaker canceled.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rinse",
+    "notes": "literal: wash briefly with water vs slang: use repeatedly or exploit until exhausted (e.g., 'rinse a tactic')",
+    "examples": [
+      [
+        "Rinse the vegetables before cooking.",
+        "Rinse the vegetables before cooking.",
+        "literal"
+      ],
+      [
+        "The team kept rinsing the same strategy every season.",
+        "The team kept using the same strategy repeatedly every season.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pound",
+    "notes": "literal: strike repeatedly or unit of weight vs slang: defeat heavily or spend a lot (informal intensity)",
+    "examples": [
+      [
+        "The bakers measured one pound of flour.",
+        "The bakers measured one pound of flour.",
+        "literal"
+      ],
+      [
+        "They pounded the opposing team in yesterday's match.",
+        "They defeated the opposing team by a large margin in yesterday's match.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "plate",
+    "notes": "literal: dish used for food or cover with a plate vs slang: in sports, to bring a run home (baseball) or figuratively to achieve a score/result",
+    "examples": [
+      [
+        "Put the salad on a plate.",
+        "Put the salad on a plate.",
+        "literal"
+      ],
+      [
+        "She plated the winning run in the final inning.",
+        "She scored the winning run in the final inning.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "shell",
+    "notes": "literal: hard outer covering vs slang: remove outer layer or to heavily attack/charge someone (financially or verbally)",
+    "examples": [
+      [
+        "The turtle retreated into its shell.",
+        "The turtle retreated into its shell.",
+        "literal"
+      ],
+      [
+        "The company was shelled by heavy fines last year.",
+        "The company was hit with heavy financial penalties last year.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "wink",
+    "notes": "literal: briefly close one eye vs slang: give a subtle signal or hint (often implying complicity)",
+    "examples": [
+      [
+        "He gave her a quick wink across the table.",
+        "He gave her a quick wink across the table.",
+        "literal"
+      ],
+      [
+        "The memo was a wink that changes were coming.",
+        "The memo was a subtle signal that changes were coming.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "stew",
+    "notes": "literal: cook slowly in liquid vs slang: worry or brood over something",
+    "examples": [
+      [
+        "Let the beef stew simmer for two hours.",
+        "Let the beef stew simmer for two hours.",
+        "literal"
+      ],
+      [
+        "She stewed about the interview all weekend.",
+        "She worried about the interview all weekend.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "tuck",
+    "notes": "literal: fold or push in fabric/cloth vs slang: hide or secure something quickly (informal), or modify appearance (e.g., 'tuck in')",
+    "examples": [
+      [
+        "Tuck the shirt into your pants.",
+        "Tuck the shirt into your pants.",
+        "literal"
+      ],
+      [
+        "He tucked the evidence away before anyone saw.",
+        "He quickly hid the evidence before anyone saw.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sponge",
+    "notes": "literal: clean with a sponge or the aquatic animal vs slang: live off someone else or freeload (sponge off)",
+    "examples": [
+      [
+        "Use a sponge to wipe the counter.",
+        "Use a sponge to wipe the counter.",
+        "literal"
+      ],
+      [
+        "He sponged off his roommate for months.",
+        "He relied on his roommate for money and support for months.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "drain",
+    "notes": "literal: remove liquid via a drain vs slang: exhaust resources or energy (become depleted)",
+    "examples": [
+      [
+        "Please drain the pasta before serving.",
+        "Please drain the pasta before serving.",
+        "literal"
+      ],
+      [
+        "The long meeting drained the team of energy.",
+        "The long meeting exhausted the team of energy.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "anchor",
+    "notes": "literal: heavy object to moor a vessel vs slang: main host or reliable person who holds a team/situation together",
+    "examples": [
+      [
+        "They dropped the anchor to stop the boat.",
+        "They dropped the anchor to stop the boat.",
+        "literal"
+      ],
+      [
+        "She anchors the news broadcast every evening.",
+        "She is the main presenter of the news broadcast every evening.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "forge",
+    "notes": "literal: shape metal by heating and hammering vs slang: create or build something (often illicitly) or to create a fake document",
+    "examples": [
+      [
+        "The blacksmith will forge a new gate hinge.",
+        "The blacksmith will forge a new gate hinge.",
+        "literal"
+      ],
+      [
+        "He forged a strong reputation in a short time.",
+        "He built a strong reputation in a short time.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "toast (verb)",
+    "notes": "literal: brown bread by heating vs slang: celebrate by raising a glass or condemn/dismiss someone (informal 'you're toast')",
+    "examples": [
+      [
+        "Toast the bread until it is golden brown.",
+        "Toast the bread until it is golden brown.",
+        "literal"
+      ],
+      [
+        "They toasted the newlyweds at dinner.",
+        "They offered a celebratory speech and raised glasses to the newlyweds at dinner.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "squeeze",
+    "notes": "literal: compress between hands or press out liquid vs slang: extract information or resources from someone (press/pressure)",
+    "examples": [
+      [
+        "Squeeze the lemon over the salad.",
+        "Squeeze the lemon over the salad.",
+        "literal"
+      ],
+      [
+        "They squeezed him for details about the deal.",
+        "They pressured him to provide details about the deal.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "mop",
+    "notes": "literal: tool to clean floors or the act of wiping vs slang: express sadness or sulk (informal 'mop around')",
+    "examples": [
+      [
+        "Use the mop to clean the kitchen floor.",
+        "Use the mop to clean the kitchen floor.",
+        "literal"
+      ],
+      [
+        "He moped around the house after the rejection.",
+        "He sulked around the house after the rejection.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "spool",
+    "notes": "literal: reel for thread or tape vs slang: wind up repeatedly or metaphorically 'spool up' excitement (informal)",
+    "examples": [
+      [
+        "Wind the thread back onto the spool.",
+        "Wind the thread back onto the spool.",
+        "literal"
+      ],
+      [
+        "The crowd spooled up as the band took the stage.",
+        "The crowd became increasingly excited as the band took the stage.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "fillet",
+    "notes": "literal: cut meat or fish into boneless pieces vs slang: remove core or essential part metaphorically (less common idiom)",
+    "examples": [
+      [
+        "Fillet the fish before cooking it.",
+        "Fillet the fish before cooking it.",
+        "literal"
+      ],
+      [
+        "The editor filleted the article to meet the word limit.",
+        "The editor cut out parts of the article to meet the word limit.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pilot",
+    "notes": "literal: operate an aircraft or test a program vs slang: lead a trial effort or guide an initiative (used figuratively)",
+    "examples": [
+      [
+        "She will pilot the plane to the island.",
+        "She will pilot the plane to the island.",
+        "literal"
+      ],
+      [
+        "They piloted a new curriculum in three schools.",
+        "They trialed a new curriculum in three schools.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "trim",
+    "notes": "literal: cut away excess material vs slang: reduce budget or cut resources (informal 'trim the budget')",
+    "examples": [
+      [
+        "Trim the hedges this weekend.",
+        "Trim the hedges this weekend.",
+        "literal"
+      ],
+      [
+        "The department trimmed its budget for the next quarter.",
+        "The department reduced its budget for the next quarter.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pilot light",
+    "notes": "literal: small flame that stays lit on a gas appliance vs slang: small initial indicator or minor signal of larger change",
+    "examples": [
+      [
+        "Make sure the pilot light on the heater stays lit.",
+        "Make sure the pilot light on the heater stays lit.",
+        "literal"
+      ],
+      [
+        "The small sales bump was a pilot light for future growth.",
+        "The small sales increase was an early indicator of future growth.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "park",
+    "notes": "literal: leave a vehicle in a place vs slang: set something aside temporarily or ignore (e.g., 'park that idea')",
+    "examples": [
+      [
+        "Please park the car in the driveway.",
+        "Please park the car in the driveway.",
+        "literal"
+      ],
+      [
+        "Let's park that idea and revisit it next week.",
+        "Let's put that idea aside and revisit it next week.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "cool",
+    "notes": "literal temperature/low heat or relaxed behavior vs slang meaning good/approved",
+    "examples": [
+      [
+        "The soup is cool enough to eat.",
+        "The soup is cool enough to eat.",
+        "literal"
+      ],
+      [
+        "That performance was cool.",
+        "That performance was good.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "mad",
+    "notes": "literal angry vs slang intensifier meaning very/really",
+    "examples": [
+      [
+        "She was mad after the meeting.",
+        "She was mad after the meeting.",
+        "literal"
+      ],
+      [
+        "I'm mad tired today.",
+        "I'm very tired today.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "fine",
+    "notes": "literal acceptable/high quality vs slang meaning attractive",
+    "examples": [
+      [
+        "The print quality on the poster is fine.",
+        "The print quality on the poster is fine.",
+        "literal"
+      ],
+      [
+        "He said she looked fine at the party.",
+        "He said she looked attractive at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "chicken",
+    "notes": "literal bird/food vs slang meaning cowardly",
+    "examples": [
+      [
+        "We have chicken for dinner.",
+        "We have chicken for dinner.",
+        "literal"
+      ],
+      [
+        "Don't be a chicken — try the interview.",
+        "Don't be a coward — try the interview.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sold",
+    "notes": "literal past of sell vs slang meaning convinced/agreed",
+    "examples": [
+      [
+        "The car was sold yesterday.",
+        "The car was sold yesterday.",
+        "literal"
+      ],
+      [
+        "After her explanation I'm sold.",
+        "After her explanation I'm convinced.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "drag",
+    "notes": "literal pull along vs slang meaning boring or unpleasant",
+    "examples": [
+      [
+        "Please drag the box over there.",
+        "Please drag the box over there.",
+        "literal"
+      ],
+      [
+        "This lecture is a drag.",
+        "This lecture is boring.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rough",
+    "notes": "literal coarse/uneven surface vs idiomatic meaning difficult or unpleasant",
+    "examples": [
+      [
+        "The road was rough after the storm.",
+        "The road was rough after the storm.",
+        "literal"
+      ],
+      [
+        "The week has been rough for me.",
+        "The week has been difficult for me.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "right",
+    "notes": "literal direction/correctness vs idiomatic agreement/intensifier",
+    "examples": [
+      [
+        "Turn right at the light.",
+        "Turn right at the light.",
+        "literal"
+      ],
+      [
+        "Right, let's start the meeting.",
+        "Okay, let's start the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "warm",
+    "notes": "literal temperature vs figurative meaning friendly or approving",
+    "examples": [
+      [
+        "The soup is warm.",
+        "The soup is warm.",
+        "literal"
+      ],
+      [
+        "She gave me a warm welcome.",
+        "She gave me a friendly welcome.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "soft",
+    "notes": "literal texture yielding to pressure vs slang describing someone as weak or easygoing",
+    "examples": [
+      [
+        "The pillow is soft.",
+        "The pillow is soft.",
+        "literal"
+      ],
+      [
+        "He's soft on that rule.",
+        "He's lenient on that rule.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hard",
+    "notes": "literal solid/difficult to deform vs idiomatic meaning difficult or severe",
+    "examples": [
+      [
+        "The table is hard.",
+        "The table is hard.",
+        "literal"
+      ],
+      [
+        "That test was hard.",
+        "That test was difficult.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "solid",
+    "notes": "literal firm/not hollow vs slang meaning reliable or good",
+    "examples": [
+      [
+        "This rock is solid.",
+        "This rock is solid.",
+        "literal"
+      ],
+      [
+        "That's solid advice.",
+        "That's reliable advice.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "take",
+    "notes": "literal grab/receive vs slang noun meaning an opinion or reaction",
+    "examples": [
+      [
+        "Take the book from the shelf.",
+        "Take the book from the shelf.",
+        "literal"
+      ],
+      [
+        "What's your take on the plan?",
+        "What's your opinion on the plan?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "light",
+    "notes": "literal not heavy or low in brightness vs idiomatic meaning not serious or subtle",
+    "examples": [
+      [
+        "This suitcase is light.",
+        "This suitcase is light.",
+        "literal"
+      ],
+      [
+        "Keep the mood light for the meeting.",
+        "Keep the mood not serious for the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "left",
+    "notes": "literal direction/remaining vs idiomatic meaning abandoned or departed",
+    "examples": [
+      [
+        "There is one slice left.",
+        "There is one slice left.",
+        "literal"
+      ],
+      [
+        "After the argument he left the team.",
+        "After the argument he departed the team.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sound",
+    "notes": "literal auditory phenomenon vs idiomatic meaning sensible, reliable, or thorough",
+    "examples": [
+      [
+        "We could hear a sound outside.",
+        "We could hear a sound outside.",
+        "literal"
+      ],
+      [
+        "Her plan sounds very sound.",
+        "Her plan seems very sensible.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "spare",
+    "notes": "literal extra or unused vs idiomatic plea meaning to refrain or excuse",
+    "examples": [
+      [
+        "I keep a spare key by the door.",
+        "I keep a spare key by the door.",
+        "literal"
+      ],
+      [
+        "Spare me the details, please.",
+        "Please do not give me the details, please.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "drive",
+    "notes": "literal operate a vehicle vs figurative meaning motivation/ambition",
+    "examples": [
+      [
+        "I will drive to the store.",
+        "I will drive to the store.",
+        "literal"
+      ],
+      [
+        "She has a lot of drive to succeed.",
+        "She has a lot of motivation to succeed.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "slim",
+    "notes": "literal thin/narrow vs idiomatic meaning unlikely (slim chance)",
+    "examples": [
+      [
+        "The phone has a slim profile.",
+        "The phone has a slim profile.",
+        "literal"
+      ],
+      [
+        "There is a slim chance of rain.",
+        "There is a small chance of rain.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sore",
+    "notes": "literal painful or tender vs idiomatic meaning upset or resentful",
+    "examples": [
+      [
+        "My ankle is sore after the run.",
+        "My ankle is sore after the run.",
+        "literal"
+      ],
+      [
+        "He was sore about the decision.",
+        "He was upset about the decision.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "plain",
+    "notes": "literal simple or unadorned vs idiomatic meaning clearly or honestly",
+    "examples": [
+      [
+        "The cake is plain, with no frosting.",
+        "The cake is plain, with no frosting.",
+        "literal"
+      ],
+      [
+        "To put it plain, we need more money.",
+        "To put it simply, we need more money.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "cheap",
+    "notes": "literal low cost vs idiomatic meaning low-quality or mean",
+    "examples": [
+      [
+        "Those goods are cheap at that price.",
+        "Those goods are cheap at that price.",
+        "literal"
+      ],
+      [
+        "That was a cheap thing to say.",
+        "That was a mean thing to say.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bright",
+    "notes": "literal giving off much light or vivid vs idiomatic meaning intelligent/optimistic",
+    "examples": [
+      [
+        "The lamp is very bright.",
+        "The lamp is very bright.",
+        "literal"
+      ],
+      [
+        "She's a bright student.",
+        "She's an intelligent student.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bear",
+    "notes": "literal animal vs idiomatic verb meaning tolerate or be patient",
+    "examples": [
+      [
+        "We saw a bear in the woods.",
+        "We saw a bear in the woods.",
+        "literal"
+      ],
+      [
+        "Please bear with me while I explain.",
+        "Please be patient with me while I explain.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "scale",
+    "notes": "literal instrument for measuring or a size/ratio vs idiomatic verb meaning to climb or to change size/intensity",
+    "examples": [
+      [
+        "Put the fish on the scale.",
+        "Put the fish on the scale.",
+        "literal"
+      ],
+      [
+        "We need to scale back the project.",
+        "We need to reduce the size of the project.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "match",
+    "notes": "literal pair of similar items or a small stick that produces fire vs idiomatic meaning suitable pairing or competition",
+    "examples": [
+      [
+        "I need a match to light the candle.",
+        "I need a match to light the candle.",
+        "literal"
+      ],
+      [
+        "Those two make a good match.",
+        "Those two are well suited to each other.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "press",
+    "notes": "literal apply pressure or a machine for pressing vs idiomatic meaning to urge or push for action",
+    "examples": [
+      [
+        "Press the dough flat before baking.",
+        "Press the dough flat before baking.",
+        "literal"
+      ],
+      [
+        "They will press the committee for a decision.",
+        "They will urge the committee for a decision.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "spoon",
+    "notes": "literal utensil vs slang cuddle/lie closely",
+    "examples": [
+      [
+        "He stirred the soup with a spoon.",
+        "He stirred the soup with a spoon.",
+        "literal"
+      ],
+      [
+        "They spoon on the couch every night.",
+        "They cuddle on the couch every night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "school",
+    "notes": "literal place of learning vs slang defeat decisively",
+    "examples": [
+      [
+        "My sister goes to school today.",
+        "My sister goes to school today.",
+        "literal"
+      ],
+      [
+        "They schooled the other team last night.",
+        "They defeated the other team decisively last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "weed",
+    "notes": "literal unwanted plant vs slang marijuana",
+    "examples": [
+      [
+        "I pulled a weed from the garden.",
+        "I pulled a weed from the garden.",
+        "literal"
+      ],
+      [
+        "He bought weed from a friend.",
+        "He bought marijuana from a friend.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bottle",
+    "notes": "literal container vs slang lose one's nerve / fail under pressure",
+    "examples": [
+      [
+        "She filled the bottle with water.",
+        "She filled the bottle with water.",
+        "literal"
+      ],
+      [
+        "After missing the penalty, he bottled it.",
+        "After missing the penalty, he lost his nerve.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "heater",
+    "notes": "literal heating device vs slang firearm (colloquial)",
+    "examples": [
+      [
+        "The heater keeps the room warm.",
+        "The heater keeps the room warm.",
+        "literal"
+      ],
+      [
+        "He brought a heater to the fight.",
+        "He brought a gun to the fight.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "gassed",
+    "notes": "literal filled with gas / used gas vs slang excited/overconfident",
+    "examples": [
+      [
+        "He gassed the engine to start the car.",
+        "He gassed the engine to start the car.",
+        "literal"
+      ],
+      [
+        "He was gassed after the concert.",
+        "He was very excited after the concert.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "peep",
+    "notes": "literal small sound or quick look vs slang take a quick look/listen",
+    "examples": [
+      [
+        "I heard a peep from the chick in the nest.",
+        "I heard a peep from the chick in the nest.",
+        "literal"
+      ],
+      [
+        "Peep the new song when you have time.",
+        "Listen to the new song when you have time.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "kickback",
+    "notes": "literal small informal party vs slang bribe/payment for favors",
+    "examples": [
+      [
+        "They hosted a kickback after the game.",
+        "They hosted a kickback after the game.",
+        "literal"
+      ],
+      [
+        "The contractor paid a kickback to the official.",
+        "The contractor paid a bribe to the official.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "beef",
+    "notes": "literal meat from cattle vs slang interpersonal dispute or complaint",
+    "examples": [
+      [
+        "I bought beef for dinner.",
+        "I bought beef for dinner.",
+        "literal"
+      ],
+      [
+        "They have beef with their neighbor.",
+        "They have a serious disagreement with their neighbor.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "block",
+    "notes": "literal city block or physical block vs slang prevent contact / stop on social media",
+    "examples": [
+      [
+        "She lives on the next block.",
+        "She lives on the next block.",
+        "literal"
+      ],
+      [
+        "He blocked me on social media.",
+        "He prevented me from seeing or contacting him on social media.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "leak",
+    "notes": "literal unwanted escape of liquid/gas vs slang unauthorized release of information",
+    "examples": [
+      [
+        "There is a leak in the roof.",
+        "There is a leak in the roof.",
+        "literal"
+      ],
+      [
+        "Someone leaked the document online.",
+        "Someone released the document online.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lash",
+    "notes": "literal whip/strike vs slang suddenly express strong anger",
+    "examples": [
+      [
+        "The storm lashed the coast with wind and rain.",
+        "The storm lashed the coast with wind and rain.",
+        "literal"
+      ],
+      [
+        "She lashed out at him in the meeting.",
+        "She suddenly expressed strong anger at him in the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "juke",
+    "notes": "literal quick sports move vs slang trick/deceive/manipulate",
+    "examples": [
+      [
+        "He made a juke to avoid the defender.",
+        "He made a juke to avoid the defender.",
+        "literal"
+      ],
+      [
+        "They tried to juke the results.",
+        "They tried to manipulate the results.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "strap",
+    "notes": "literal fastening band vs slang be short of money or be armed (contextual)",
+    "examples": [
+      [
+        "Use the strap to secure the load.",
+        "Use the strap to secure the load.",
+        "literal"
+      ],
+      [
+        "I'm strapped this month.",
+        "I have very little money this month.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "carry",
+    "notes": "literal transport/hold vs slang lead a team or person to victory (gaming/sports)",
+    "examples": [
+      [
+        "I carry a bag to work every day.",
+        "I carry a bag to work every day.",
+        "literal"
+      ],
+      [
+        "She carried the team to victory.",
+        "She led the team to victory.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "graft",
+    "notes": "literal surgical transplant vs slang work hard (British informal)",
+    "examples": [
+      [
+        "The surgeon explained the skin graft procedure.",
+        "The surgeon explained the skin graft procedure.",
+        "literal"
+      ],
+      [
+        "He grafted all weekend to finish the job.",
+        "He worked very hard all weekend to finish the job.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "string",
+    "notes": "literal thin cord vs slang keep someone waiting / mislead repeatedly",
+    "examples": [
+      [
+        "She tied the box with string.",
+        "She tied the box with string.",
+        "literal"
+      ],
+      [
+        "They string him along for months.",
+        "They misled him for months.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hash",
+    "notes": "literal chopped meat dish vs slang discuss and settle an issue",
+    "examples": [
+      [
+        "I made corned beef hash for breakfast.",
+        "I made corned beef hash for breakfast.",
+        "literal"
+      ],
+      [
+        "They hashed out the plan in an hour.",
+        "They discussed and finalized the plan in an hour.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "grub",
+    "notes": "literal larvae or food (colloquial) vs slang informal word for food",
+    "examples": [
+      [
+        "The campers ate some hot grub after the hike.",
+        "The campers ate some hot grub after the hike.",
+        "literal"
+      ],
+      [
+        "Let's grab some grub before the movie.",
+        "Let's get some food before the movie.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "deal",
+    "notes": "literal distribute cards or transact vs slang sell illegal drugs / engage in illicit trade",
+    "examples": [
+      [
+        "Please deal the cards for the next hand.",
+        "Please deal the cards for the next hand.",
+        "literal"
+      ],
+      [
+        "He deals on that corner every night.",
+        "He sells illegal drugs on that corner every night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "book",
+    "notes": "literal reserve or noun for publication vs slang formally record an arrest / process at police station",
+    "examples": [
+      [
+        "I will book a table for dinner tonight.",
+        "I will book a table for dinner tonight.",
+        "literal"
+      ],
+      [
+        "The police booked him after the incident.",
+        "The police officially recorded his arrest after the incident.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sell",
+    "notes": "literal exchange for money vs slang betray someone / inform on someone",
+    "examples": [
+      [
+        "She will sell the old bike this weekend.",
+        "She will sell the old bike this weekend.",
+        "literal"
+      ],
+      [
+        "He sold his friend out to the police.",
+        "He betrayed his friend by telling the police.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "needle",
+    "notes": "literal sharp instrument vs slang tease or provoke someone",
+    "examples": [
+      [
+        "The nurse used a needle for the injection.",
+        "The nurse used a needle for the injection.",
+        "literal"
+      ],
+      [
+        "They needled him about his mistake.",
+        "They teased him about his mistake.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pawn",
+    "notes": "literal leave an item at a pawn shop vs slang pass off an unwanted task or person",
+    "examples": [
+      [
+        "He took the watch to the pawn shop.",
+        "He took the watch to the pawn shop.",
+        "literal"
+      ],
+      [
+        "She pawned the extra work off on her intern.",
+        "She passed the extra work to her intern.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "zip",
+    "notes": "literal fasten with a zipper or small amount vs slang zero / nothing",
+    "examples": [
+      [
+        "Zip the bag closed before you leave.",
+        "Zip the bag closed before you leave.",
+        "literal"
+      ],
+      [
+        "He has zip experience for that job.",
+        "He has zero experience for that job.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "gear",
+    "notes": "literal equipment/clothes vs slang illegal drugs (colloquial)",
+    "examples": [
+      [
+        "She packed her camping gear for the trip.",
+        "She packed her camping gear for the trip.",
+        "literal"
+      ],
+      [
+        "They sell gear out of that van.",
+        "They sell illegal drugs out of that van.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "turn up",
+    "notes": "literal increase volume vs slang arrive at an event or become lively",
+    "examples": [
+      [
+        "Turn up the radio so I can hear it.",
+        "Turn up the radio so I can hear it.",
+        "literal"
+      ],
+      [
+        "We turned up at the party last night.",
+        "We arrived at the party and became energetic last night.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rib",
+    "notes": "literal bone in the chest vs slang tease or joke with someone",
+    "examples": [
+      [
+        "He broke a rib in the fall.",
+        "He broke a rib in the fall.",
+        "literal"
+      ],
+      [
+        "They ribbed him about his haircut.",
+        "They teased him about his haircut.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "shred",
+    "notes": "literal tear into small pieces vs slang play an instrument very well or perform impressively",
+    "examples": [
+      [
+        "Shred the confidential files before recycling.",
+        "Shred the confidential files before recycling.",
+        "literal"
+      ],
+      [
+        "He shred on the guitar at the show.",
+        "He played the guitar very well at the show.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "boot",
+    "notes": "literal footwear vs slang forcibly remove someone from a system or place",
+    "examples": [
+      [
+        "She pulled on her boot before going outside.",
+        "She pulled on her boot before going outside.",
+        "literal"
+      ],
+      [
+        "They booted him from the server for breaking the rules.",
+        "They removed him from the server for breaking the rules.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "bolt",
+    "notes": "literal: metal fastener vs slang/idiomatic: run away suddenly",
+    "examples": [
+      [
+        "The bolt on the gate is loose.",
+        "The bolt on the gate is loose.",
+        "literal"
+      ],
+      [
+        "When the dog saw thunder it bolted.",
+        "When the dog saw thunder it ran away quickly.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "chew out",
+    "notes": "literal: bite or chew vs slang/idiomatic: scold harshly",
+    "examples": [
+      [
+        "The baby will chew out the toy.",
+        "The baby will chew out the toy.",
+        "literal"
+      ],
+      [
+        "The coach chewed him out after the mistake.",
+        "The coach angrily scolded him after the mistake.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "call out",
+    "notes": "literal: call someone’s name or summon vs slang/idiomatic: publicly criticize or challenge",
+    "examples": [
+      [
+        "She called out his name across the hall.",
+        "She called out his name across the hall.",
+        "literal"
+      ],
+      [
+        "They called out the company for false advertising.",
+        "They publicly criticized the company for false advertising.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "duck",
+    "notes": "literal: waterfowl or lower the head vs slang/idiomatic: avoid responsibility or an obligation",
+    "examples": [
+      [
+        "A duck swam by the pond.",
+        "A duck swam by the pond.",
+        "literal"
+      ],
+      [
+        "He ducked the question during the meeting.",
+        "He avoided answering the question during the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "throw in",
+    "notes": "literal: physically toss into something vs slang/idiomatic: include as a bonus or join unexpectedly",
+    "examples": [
+      [
+        "Throw in the napkin with the trash.",
+        "Throw in the napkin with the trash.",
+        "literal"
+      ],
+      [
+        "They threw in a free accessory with the purchase.",
+        "They included a free accessory with the purchase.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "cold shoulder",
+    "notes": "literal: cold part of the shoulder (rare) vs slang/idiomatic: deliberately ignore someone",
+    "examples": [
+      [
+        "The meat had a cold shoulder after being refrigerated.",
+        "The meat had a cold shoulder after being refrigerated.",
+        "literal"
+      ],
+      [
+        "She gave him the cold shoulder at the party.",
+        "She deliberately ignored him at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "run cold",
+    "notes": "literal: become physically cold vs slang/idiomatic: lose interest or enthusiasm",
+    "examples": [
+      [
+        "The coffee will run cold if you leave it.",
+        "The coffee will run cold if you leave it.",
+        "literal"
+      ],
+      [
+        "After the setback his enthusiasm ran cold.",
+        "After the setback his enthusiasm decreased.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "beat around the bush",
+    "notes": "literal: avoid walking through shrubs vs slang/idiomatic: avoid addressing the main point",
+    "examples": [
+      [
+        "They beat around the bush to reach the clearing.",
+        "They beat around the bush to reach the clearing.",
+        "literal"
+      ],
+      [
+        "Stop beating around the bush and tell me the truth.",
+        "Stop avoiding the main point and tell me the truth.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hit the books",
+    "notes": "literal: strike physical books vs slang/idiomatic: study intensely",
+    "examples": [
+      [
+        "The toddler hit the books off the shelf.",
+        "The toddler hit the books off the shelf.",
+        "literal"
+      ],
+      [
+        "I need to hit the books before the exam.",
+        "I need to study intensely before the exam.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "roll back",
+    "notes": "literal: roll something physically backward vs slang/idiomatic: reverse a policy or price change",
+    "examples": [
+      [
+        "Roll back the map to see the full route.",
+        "Roll back the map to see the full route.",
+        "literal"
+      ],
+      [
+        "The company rolled back the new fee after protests.",
+        "The company reversed the new fee after protests.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "go cold turkey",
+    "notes": "literal: cold turkey dish vs slang/idiomatic: quit an addiction abruptly",
+    "examples": [
+      [
+        "We served cold turkey at the holiday meal.",
+        "We served cold turkey at the holiday meal.",
+        "literal"
+      ],
+      [
+        "She went cold turkey on smoking last month.",
+        "She quit smoking abruptly last month.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hold out",
+    "notes": "literal: extend something physically vs slang/idiomatic: resist or persist in a demand",
+    "examples": [
+      [
+        "Hold out your hand so I can help you up.",
+        "Hold out your hand so I can help you up.",
+        "literal"
+      ],
+      [
+        "The union held out for better wages.",
+        "The union persisted in negotiating for better wages.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "wagon",
+    "notes": "literal: a vehicle vs idiom/slang: in the phrase 'fall off the wagon' meaning lapse back into old behavior",
+    "examples": [
+      [
+        "The farmer loaded hay onto the wooden wagon.",
+        "The farmer loaded hay onto the wooden wagon.",
+        "literal"
+      ],
+      [
+        "After a month sober, he fell off the wagon.",
+        "After a month without drinking, he started drinking again.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "brush",
+    "notes": "literal: stroke with a brush vs idiomatic/slang: 'brush off' meaning dismiss someone",
+    "examples": [
+      [
+        "She will brush the paint onto the wall.",
+        "She will brush the paint onto the wall.",
+        "literal"
+      ],
+      [
+        "He tried to brush me off when I asked for help.",
+        "He tried to dismiss me when I asked for help.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "chair",
+    "notes": "literal: a seat vs idiomatic: to chair a meeting = lead or preside",
+    "examples": [
+      [
+        "Please take a chair at the table.",
+        "Please take a chair at the table.",
+        "literal"
+      ],
+      [
+        "They asked her to chair the committee.",
+        "They asked her to lead the committee.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "catch",
+    "notes": "literal: physically seize something vs idiomatic/slang: 'catch feelings' or 'catch' meaning understand/notice",
+    "examples": [
+      [
+        "Did you catch the ball?",
+        "Did you catch the ball?",
+        "literal"
+      ],
+      [
+        "I think he is starting to catch feelings for her.",
+        "I think he is starting to develop romantic feelings for her.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pack",
+    "notes": "literal: put items into a bag vs slang/idiom: 'pack heat' = carry a weapon or 'pack' meaning strong group; ambiguous in short sentences",
+    "examples": [
+      [
+        "I need to pack my clothes for the trip.",
+        "I need to pack my clothes for the trip.",
+        "literal"
+      ],
+      [
+        "He said he might pack at the party.",
+        "He said he might carry a weapon at the party.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pump",
+    "notes": "literal: use a pump to move fluid vs idiomatic/slang: 'pump up' = excite or inflate metaphorically",
+    "examples": [
+      [
+        "Use the pump to fill the tire.",
+        "Use the pump to fill the tire.",
+        "literal"
+      ],
+      [
+        "They tried to pump the crowd before the show.",
+        "They tried to excite the crowd before the show.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "drift",
+    "notes": "literal: be carried slowly by a current or wind vs idiomatic: conversation/topic drift or 'drift' meaning lose focus",
+    "examples": [
+      [
+        "The boat began to drift down the river.",
+        "The boat began to drift down the river.",
+        "literal"
+      ],
+      [
+        "The meeting started on time but began to drift.",
+        "The meeting started on time but began to move away from the agenda.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rag",
+    "notes": "literal: a piece of cloth vs idiomatic/slang: 'rag on' = tease or criticize repeatedly",
+    "examples": [
+      [
+        "Wipe the table with a rag.",
+        "Wipe the table with a rag.",
+        "literal"
+      ],
+      [
+        "They always rag him about his accent.",
+        "They always tease him about his accent.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "spring",
+    "notes": "literal: the season or a coil that returns to shape vs idiomatic: 'spring on' = surprise or 'spring' as move suddenly",
+    "examples": [
+      [
+        "The flowers bloom in spring.",
+        "The flowers bloom in spring.",
+        "literal"
+      ],
+      [
+        "She sprang the news on us at lunch.",
+        "She surprised us with the news at lunch.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "board",
+    "notes": "literal: a flat piece of wood or a surface vs idiomatic: 'board' as join a vehicle or 'board' (verb) as take a position or responsibility",
+    "examples": [
+      [
+        "He nailed the board to the fence.",
+        "He nailed the board to the fence.",
+        "literal"
+      ],
+      [
+        "She will board the program next week.",
+        "She will join the program next week.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "host",
+    "notes": "literal: person who entertains guests vs idiomatic: host a show/event = organize or run",
+    "examples": [
+      [
+        "The host greeted guests at the door.",
+        "The host greeted guests at the door.",
+        "literal"
+      ],
+      [
+        "He will host the workshop on Friday.",
+        "He will run the workshop on Friday.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "coach",
+    "notes": "literal: a person who trains athletes vs idiomatic: coach someone = teach or mentor in non-sport contexts",
+    "examples": [
+      [
+        "The coach taught the players new drills.",
+        "The coach taught the players new drills.",
+        "literal"
+      ],
+      [
+        "Can you coach me before the presentation?",
+        "Can you give me guidance before the presentation?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "file",
+    "notes": "literal: store documents in a file vs idiomatic/slang: 'file' as formally submit a complaint or charge",
+    "examples": [
+      [
+        "Please file these receipts in the folder.",
+        "Please file these receipts in the folder.",
+        "literal"
+      ],
+      [
+        "She plans to file a complaint with HR.",
+        "She plans to submit a complaint to HR.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "seal",
+    "notes": "literal: close something tightly or marine mammal vs idiomatic: 'seal the deal' = finalize an agreement",
+    "examples": [
+      [
+        "Make sure you seal the jar before storing it.",
+        "Make sure you seal the jar before storing it.",
+        "literal"
+      ],
+      [
+        "They sealed the deal after the meeting.",
+        "They finalized the agreement after the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "root",
+    "notes": "literal: underground plant part vs idiomatic/slang: 'root for' = support someone or 'root' as cause/fundamental",
+    "examples": [
+      [
+        "The roots of the tree are deep.",
+        "The roots of the tree are deep.",
+        "literal"
+      ],
+      [
+        "We root for the team every season.",
+        "We support the team every season.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "skirt",
+    "notes": "literal: a garment that hangs from the waist vs idiomatic: 'skirt' meaning avoid or go around an issue",
+    "examples": [
+      [
+        "She wore a blue skirt to the party.",
+        "She wore a blue skirt to the party.",
+        "literal"
+      ],
+      [
+        "He tried to skirt the difficult questions at the interview.",
+        "He tried to avoid the difficult questions at the interview.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "map",
+    "notes": "literal: a visual representation of geography vs idiomatic: 'map out' = plan in detail",
+    "examples": [
+      [
+        "I used a map to find the village.",
+        "I used a map to find the village.",
+        "literal"
+      ],
+      [
+        "They mapped out the schedule for the festival.",
+        "They planned the schedule for the festival in detail.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "tack",
+    "notes": "literal: small nail or a sailing change of direction vs idiomatic: 'take a different tack' = adopt a different approach",
+    "examples": [
+      [
+        "Use a tack to hang the poster on the wall.",
+        "Use a tack to hang the poster on the wall.",
+        "literal"
+      ],
+      [
+        "We need to take a different tack with this client.",
+        "We need to adopt a different approach with this client.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "puzzle",
+    "notes": "literal: a game or problem to solve vs idiomatic: 'puzzle' meaning confuse someone",
+    "examples": [
+      [
+        "She worked on a puzzle during the flight.",
+        "She worked on a puzzle during the flight.",
+        "literal"
+      ],
+      [
+        "His behavior puzzles me.",
+        "His behavior confuses me.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "seed",
+    "notes": "literal: plant reproductive unit vs idiomatic: 'seed' as start or plant an idea or 'seed' in sports rankings",
+    "examples": [
+      [
+        "Plant each seed an inch deep.",
+        "Plant each seed an inch deep.",
+        "literal"
+      ],
+      [
+        "They seeded the competition's bracket based on last year's results.",
+        "They ranked the competitors in the bracket based on last year's results.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "belt",
+    "notes": "literal: a band worn at the waist or for holding tools vs idiomatic/slang: 'belt' as hit or drink quickly (colloquial)",
+    "examples": [
+      [
+        "He tightened his belt before the meeting.",
+        "He tightened his belt before the meeting.",
+        "literal"
+      ],
+      [
+        "She belted the song on stage.",
+        "She sang the song loudly and powerfully on stage.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "face",
+    "notes": "literal: the front of a head vs idiomatic: 'face' meaning confront or deal with a situation",
+    "examples": [
+      [
+        "His face was covered in paint.",
+        "His face was covered in paint.",
+        "literal"
+      ],
+      [
+        "We must face the problem now.",
+        "We must confront the problem now.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "grip",
+    "notes": "literal: hold firmly with the hand vs idiomatic/slang: 'get a grip' = gain control or 'grip' meaning complaint in some dialects",
+    "examples": [
+      [
+        "Keep a good grip on the rope.",
+        "Keep a good grip on the rope.",
+        "literal"
+      ],
+      [
+        "I need to get a grip before the meeting.",
+        "I need to calm down and gain control before the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "sink",
+    "notes": "literal: a basin for washing vs idiomatic: 'sink in' = be understood or 'sink' meaning fail",
+    "examples": [
+      [
+        "Wash the dishes in the sink.",
+        "Wash the dishes in the sink.",
+        "literal"
+      ],
+      [
+        "It took a while for the news to sink in.",
+        "It took a while for the news to be understood.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "can",
+    "notes": "literal: a metal container vs idiomatic/slang: 'can' meaning fire someone or dismiss",
+    "examples": [
+      [
+        "Put the tomatoes back in the can.",
+        "Put the tomatoes back in the can.",
+        "literal"
+      ],
+      [
+        "They decided to can the employee after the incident.",
+        "They decided to fire the employee after the incident.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "patch",
+    "notes": "literal: a small piece used to mend or an area of land vs idiomatic: 'patch things up' = reconcile or repair a relationship",
+    "examples": [
+      [
+        "Sew a patch over the hole in the jacket.",
+        "Sew a patch over the hole in the jacket.",
+        "literal"
+      ],
+      [
+        "They tried to patch up their friendship after the argument.",
+        "They tried to repair their friendship after the argument.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hinge",
+    "notes": "literal: a joint allowing a door to swing vs idiomatic: 'hinge on' = depend on something",
+    "examples": [
+      [
+        "The door hinge needs oiling.",
+        "The door hinge needs oiling.",
+        "literal"
+      ],
+      [
+        "The decision hinges on their approval.",
+        "The decision depends on their approval.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "lane",
+    "notes": "literal: a narrow road or marked area for traffic vs idiomatic: 'stay in your lane' = keep to your role or responsibilities",
+    "examples": [
+      [
+        "Drive slowly down the narrow lane.",
+        "Drive slowly down the narrow lane.",
+        "literal"
+      ],
+      [
+        "She told him to stay in his lane during the meeting.",
+        "She told him to keep to his responsibilities during the meeting.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "pigeon",
+    "notes": "literal: the bird vs idiomatic/slang: 'pigeon' or 'pigeonhole' meaning to assign a simple label or take advantage of someone (pigeon as dupe)",
+    "examples": [
+      [
+        "A pigeon perched on the windowsill.",
+        "A pigeon perched on the windowsill.",
+        "literal"
+      ],
+      [
+        "He felt pigeonholed after the promotion.",
+        "He felt unfairly assigned a narrow role after the promotion.",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "rain check",
+    "notes": "literal: a voucher or ticket allowing future admission vs idiomatic/slang: a polite request to postpone or decline now but accept later",
+    "examples": [
+      [
+        "I have a rain check from the concert.",
+        "I have a rain check from the concert.",
+        "literal"
+      ],
+      [
+        "Can I take a rain check on dinner tonight?",
+        "Can I postpone dinner tonight?",
+        "slang"
+      ]
+    ]
+  },
+  {
+    "term": "hold your horses",
+    "notes": "literal: physically restrain horses vs idiomatic/slang: tell someone to wait or be patient",
+    "examples": [
+      [
+        "Hold your horses while I saddle the mare.",
+        "Hold your horses while I saddle the mare.",
+        "literal"
+      ],
+      [
+        "Hold your horses — I'll be there in five minutes.",
+        "Wait — I'll be there in five minutes.",
+        "slang"
+      ]
+    ]
+  }
+]

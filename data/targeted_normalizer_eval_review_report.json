@@ -1,0 +1,650 @@
+{
+  "input_files": [
+    "data\\targeted_normalizer_eval_approved.json",
+    "data\\targeted_normalizer_eval_candidates.json",
+    "data\\targeted_normalizer_eval_candidates_batch2.json",
+    "data\\targeted_normalizer_eval_candidates_batch3.json"
+  ],
+  "approved_rows": 2235,
+  "rejected_rows": 118,
+  "approved_by_sense": {
+    "literal": 1138,
+    "slang": 1097
+  },
+  "unique_terms": 428,
+  "top_terms": [
+    [
+      "jam",
+      12
+    ],
+    [
+      "chill",
+      12
+    ],
+    [
+      "tight",
+      12
+    ],
+    [
+      "nasty",
+      12
+    ],
+    [
+      "cracked",
+      12
+    ],
+    [
+      "cooked",
+      12
+    ],
+    [
+      "sharp",
+      12
+    ],
+    [
+      "hooked",
+      12
+    ],
+    [
+      "press",
+      12
+    ],
+    [
+      "washed",
+      11
+    ],
+    [
+      "ate",
+      11
+    ],
+    [
+      "sick",
+      8
+    ],
+    [
+      "dope",
+      8
+    ],
+    [
+      "bad",
+      8
+    ],
+    [
+      "fire",
+      8
+    ],
+    [
+      "lit",
+      8
+    ],
+    [
+      "cold",
+      8
+    ],
+    [
+      "fresh",
+      8
+    ],
+    [
+      "beat",
+      8
+    ],
+    [
+      "salty",
+      8
+    ],
+    [
+      "ghost",
+      8
+    ],
+    [
+      "hit",
+      8
+    ],
+    [
+      "slide",
+      8
+    ],
+    [
+      "flex",
+      8
+    ],
+    [
+      "roast",
+      8
+    ]
+  ],
+  "thin_terms": [
+    {
+      "term": "ghostwrite",
+      "literal": 2,
+      "slang": 0
+    },
+    {
+      "term": "melt",
+      "literal": 2,
+      "slang": 0
+    },
+    {
+      "term": "raw",
+      "literal": 4,
+      "slang": 0
+    },
+    {
+      "term": "ringer",
+      "literal": 2,
+      "slang": 0
+    },
+    {
+      "term": "ship",
+      "literal": 4,
+      "slang": 0
+    }
+  ],
+  "rejected_reasons": {
+    "duplicate row": 114,
+    "term label contains parentheses": 4
+  },
+  "rejected_preview": [
+    {
+      "input": "do you want jam on your toast?",
+      "target": "do you want jam on your toast?",
+      "term": "jam",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "i bought strawberry jam yesterday.",
+      "target": "i bought strawberry jam yesterday.",
+      "term": "jam",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "she is making a batch of raspberry jam.",
+      "target": "she is making a batch of raspberry jam.",
+      "term": "jam",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the jam spilled on the table.",
+      "target": "the jam spilled on the table.",
+      "term": "jam",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "we ran out of jam this morning.",
+      "target": "we ran out of jam this morning.",
+      "term": "jam",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "he opened the jar of jam carefully.",
+      "target": "he opened the jar of jam carefully.",
+      "term": "jam",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "this song is my jam.",
+      "target": "this song is my favorite.",
+      "term": "jam",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that new movie is my jam.",
+      "target": "that new movie is my favorite.",
+      "term": "jam",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "i can't stop listening to that jam.",
+      "target": "i can't stop listening to that song.",
+      "term": "jam",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "those boots are totally my jam.",
+      "target": "those boots are totally my favorite.",
+      "term": "jam",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "friday night drinks are my jam.",
+      "target": "friday night drinks are my favorite.",
+      "term": "jam",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that's my jam.",
+      "target": "that's my favorite.",
+      "term": "jam",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "it is chill outside this morning.",
+      "target": "it is chill outside this morning.",
+      "term": "chill",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the pool water is chill.",
+      "target": "the pool water is chill.",
+      "term": "chill",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "my hands feel chill after being in the snow.",
+      "target": "my hands feel chill after being in the snow.",
+      "term": "chill",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "a chill breeze blew through the room.",
+      "target": "a chill breeze blew through the room.",
+      "term": "chill",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the basement stays chill all summer.",
+      "target": "the basement stays chill all summer.",
+      "term": "chill",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "he is a chill guy.",
+      "target": "he is a relaxed guy.",
+      "term": "chill",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "be chill and listen for a moment.",
+      "target": "stay calm and listen for a moment.",
+      "term": "chill",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "she seems chill about the move.",
+      "target": "she seems relaxed about the move.",
+      "term": "chill",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "chill out, it's fine.",
+      "target": "calm down, it's fine.",
+      "term": "chill",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "we had a chill afternoon at home.",
+      "target": "we had a relaxed afternoon at home.",
+      "term": "chill",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "they were really chill with the delay.",
+      "target": "they were very understanding about the delay.",
+      "term": "chill",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "these shoes are tight.",
+      "target": "these shoes are tight.",
+      "term": "tight",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "we're tight.",
+      "target": "we are close friends.",
+      "term": "tight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the jar lid is tight.",
+      "target": "the jar lid is tight.",
+      "term": "tight",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "they've been tight since childhood.",
+      "target": "they have been close friends since childhood.",
+      "term": "tight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "my shirt feels tight around the shoulders.",
+      "target": "my shirt feels tight around the shoulders.",
+      "term": "tight",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "he's tight with the manager.",
+      "target": "he has a close relationship with the manager.",
+      "term": "tight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the knot is tight and won't come undone.",
+      "target": "the knot is tight and won't come undone.",
+      "term": "tight",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the band is really tight.",
+      "target": "the band plays very well together.",
+      "term": "tight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "her bracelet is too tight on her wrist.",
+      "target": "her bracelet is too tight on her wrist.",
+      "term": "tight",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that new album is tight.",
+      "target": "that new album is excellent.",
+      "term": "tight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the helmet was tight and uncomfortable.",
+      "target": "the helmet was tight and uncomfortable.",
+      "term": "tight",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "our group is tight.",
+      "target": "our group is close-knit.",
+      "term": "tight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the bathroom smells nasty.",
+      "target": "the bathroom smells nasty.",
+      "term": "nasty",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "i found a nasty stain on my shirt.",
+      "target": "i found a nasty stain on my shirt.",
+      "term": "nasty",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that milk tastes nasty.",
+      "target": "that milk tastes nasty.",
+      "term": "nasty",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "she cut her hand; the wound looked nasty.",
+      "target": "she cut her hand; the wound looked nasty.",
+      "term": "nasty",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the garbage can had a nasty smell.",
+      "target": "the garbage can had a nasty smell.",
+      "term": "nasty",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "there is a nasty leak in the ceiling.",
+      "target": "there is a nasty leak in the ceiling.",
+      "term": "nasty",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that guitar solo was nasty.",
+      "target": "that guitar solo was amazing.",
+      "term": "nasty",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "his dribble moves were nasty.",
+      "target": "his dribbling moves were impressive.",
+      "term": "nasty",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "she pulled off a nasty dunk.",
+      "target": "she performed an incredible dunk.",
+      "term": "nasty",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that bassist lays down a nasty groove.",
+      "target": "that bassist plays an impressive groove.",
+      "term": "nasty",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the dj dropped a nasty beat last night.",
+      "target": "the dj played an amazing beat last night.",
+      "term": "nasty",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "that run was nasty.",
+      "target": "that run was impressive.",
+      "term": "nasty",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the glass is cracked.",
+      "target": "the glass is cracked.",
+      "term": "cracked",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "my phone screen is cracked.",
+      "target": "my phone screen is cracked.",
+      "term": "cracked",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    },
+    {
+      "input": "the old vase is cracked.",
+      "target": "the old vase is cracked.",
+      "term": "cracked",
+      "sense": "literal",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "duplicate row"
+      ]
+    }
+  ]
+}

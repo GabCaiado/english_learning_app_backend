@@ -1,0 +1,2702 @@
+[
+  {
+    "text": "That seller was honestly ghost. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The inspector wrote that the chair is hard. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the friend was sick. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the teacher was goat. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest story is seriously tea. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The legend is ghost. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the photo is hard. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest move is seriously sick. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The coworker from last night was beef. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final intro came out hard. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the car was flex. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the leg was flex. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Their final singer came out goat. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the chair was hard. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "We learned that the sandwich can be beef. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Her latest artist is seriously goat. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I made tea.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "required_golden",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The instructions say the shoulder should not be flex. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "People online called the outfit fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the book was drop. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the watch is flex. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The report says the traveler is sick. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that photo to be so hard. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the vacation is flex. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Please check whether the costume is ghost. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "We learned that the barn can be goat. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The instructions say the menu should not be tea. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The forest is fire. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "People online called the player goat. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The inspector wrote that the story is ghost. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the album is drop. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the costume was ghost. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The instructions say the restaurant should not be beef. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The instructions say the chair should not be hard. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the cafe is tea. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that song to be so drop. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The new episode sounds drop. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final verse came out fire. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The instructions say the haunted house should not be ghost. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that goal to be so sick. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the client was ghost. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The show from last night was lit. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That rumor was honestly cap. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the rival is beef. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I did not expect that watch to be so flex. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The instructions say the jar should not be cap. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The report says the chair is hard. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the car is fire. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that creator to be so beef. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The report says the veterinarian is goat. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "We learned that the wood can be hard. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Her latest promotion is seriously flex. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the barn was goat. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the caption was cap. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest story is seriously cap. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the museum can be ghost. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "People online called the room lit. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The classmate from last night was ghost. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That viral shot looked sick. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "No lie, the classmate is ghost. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The report says the arm is flex. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "This creator is beef. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The friend from last night was ghost. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That viral poster looked hard. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the neighbor was sick. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the solo is sick. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The label explains why the freezer is beef. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "We learned that the wood can be hard. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Their final album came out drop. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The new collection sounds drop. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the friend can be sick. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that caption to be so cap. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the tour can be ghost. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the design is sick. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "People online called the single drop. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the patient might be sick. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The instructions say the sign should not be lit. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The report says the friend is sick. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The classroom example used a friend that was sick. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the breakfast was tea. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The beat from last night was fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The recipe is beef. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The recruiter from last night was ghost. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the marker might be cap. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Their final chat came out lit. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I did not expect that team to be so beef. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "My friends thought the timeline was tea. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the office was tea. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the post is cap. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The exam is hard. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the verse is fire. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The report says the manager is sick. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The instructions say the cup should not be tea. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Someone asked if the market was beef. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral excuse looked cap. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the neighbor is beef. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the chair was hard. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral award looked flex. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "This story is cap. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The label explains why the costume is ghost. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the menu is tea. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the beat is fire. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the pasture might be goat. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The note warned us the painting might be ghost. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I noticed the hallway was lit. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the candle was lit. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The new friend sounds tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I noticed the camera lens was cap. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the menu is tea. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The note warned us the legend might be ghost. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the traveler is sick. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The label explains why the cafe is tea. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that line to be so hard. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The rapper from last night was beef. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the muscle can be flex. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The whole room agreed the show was lit. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The technician confirmed the coin was drop. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The classroom example used a farm that was goat. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Someone asked if the museum was ghost. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the knee is flex. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I noticed the patient was sick. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "They mentioned the student was sick. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the message is cap. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "No lie, the team is beef. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the shoulder might be flex. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral design looked sick. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the teacher was sick. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the seller was ghost. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The label explains why the chair is hard. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the client is ghost. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The technician confirmed the leg was flex. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the creator was beef. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The kitchen is fire. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The new rival sounds beef. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The technician confirmed the marker was cap. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "This classmate is beef. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The surface is hard. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the cup is tea. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the outfit is fire. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the stage can be lit. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The classroom example used a plate that was drop. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The note warned us the rock might be hard. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "People online called the writer goat. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the street might be lit. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral night looked lit. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The new fit sounds flex. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I noticed the tube was cap. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That edit was honestly hard. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The instructions say the glass should not be drop. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The new edit sounds hard. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the chair can be hard. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral player looked goat. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "This vacation is flex. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the field was goat. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the coach was goat. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the bottle was cap. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "She felt sick after lunch.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "required_golden",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The note warned us the coin might be drop. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The teapot is tea. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The claim from last night was cap. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Please check whether the candle is fire. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The report says the movie is ghost. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the song was drop. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the thread was tea. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest transition is seriously sick. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I did not expect that creator to be so beef. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the movie was ghost. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the tour is ghost. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the knee was flex. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the muscle is flex. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The new caption sounds cap. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "No lie, the design is fire. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I noticed the keys was drop. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Their final office came out tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The classroom example used a hallway that was lit. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the farm is goat. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that performance to be so fire. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the menu was tea. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That coach was honestly goat. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the warehouse was fire. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that fit to be so hard. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final poster came out hard. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the group was ghost. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the playlist was fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The technician confirmed the keys was drop. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the student is sick. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Her latest office is seriously tea. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest answer is seriously cap. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "This verse is fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final team came out beef. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest date is seriously ghost. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Someone asked if the hallway was lit. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the timeline was tea. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the seller was ghost. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Please check whether the legend is ghost. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That single was honestly drop. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That beat was honestly hard. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The inspector wrote that the pen is cap. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that performance to be so fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The new beat sounds fire. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the track was fire. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The label explains why the decision is hard. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "They mentioned the book was drop. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Someone asked if the keys was drop. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the chair is hard. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that episode to be so drop. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "My friends thought the story was tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "This video is drop. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The painting is ghost. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral car looked flex. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the mug can be tea. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The classroom example used a legend that was ghost. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Someone asked if the car was fire. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "This shot is sick. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The team from last night was beef. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final classmate came out ghost. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The label explains why the manager is sick. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The label explains why the menu is tea. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The report says the toe is flex. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The freezer is beef. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The writer from last night was goat. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final performance came out fire. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the rival is beef. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That move was honestly sick. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final story came out cap. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "cap",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "My friends thought the track was fire. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The classroom example used a petting zoo that was goat. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Someone asked if the neighbor was sick. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the wood is hard. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the verse is fire. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That viral edit looked hard. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest teacher is seriously goat. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the fit is hard. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The instructions say the candle should not be fire. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Their final friend came out tea. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The technician confirmed the rock was hard. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the trailer is drop. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the sign might be lit. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the field is goat. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the partner is ghost. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "No lie, the comment section is tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I did not expect that beat to be so fire. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I did not expect that meeting to be so tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the candle can be lit. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral rival looked beef. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The instructions say the exam should not be hard. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the score is flex. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "flex",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The inspector wrote that the wrist is flex. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the concert is lit. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The cup is tea. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The label explains why the keys is drop. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "I did not expect that beat to be so fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Please check whether the taco is beef. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Everyone said the transition is sick. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "People online called the friend tea. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The note warned us the keys might be drop. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The classroom example used a exam that was hard. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the room is lit. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "lit",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Her latest track is seriously fire. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "fire",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the friend is beef. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "My friends thought the verse was hard. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "They mentioned the hat was cap. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "My friends thought the recruiter was ghost. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The label explains why the muscle is flex. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the market is beef. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "beef",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The whole room agreed the story was tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The classroom example used a camera lens that was cap. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the decision was hard. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Their final artist came out goat. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That viral coworker looked beef. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final chef came out goat. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The classroom example used a building that was fire. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The label explains why the mug is tea. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The traveler is sick. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The label explains why the street is lit. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The jar is cap. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The note warned us the screen might be lit. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Please check whether the movie is ghost. The situation was handled carefully.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "ghost",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the hat is cap. The detail mattered in context.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "cap",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the forest was fire. The example was meant literally.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The whole room agreed the song was drop. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The report says the box is drop. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "drop",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "No lie, the solo is sick. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I noticed the kettle was tea. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "tea",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The whole room agreed the video was drop. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "I noticed the building was fire. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "fire",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The technician confirmed the manager was sick. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "sick",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the field is goat. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "goat",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The goal from last night was sick. It stood out from everything else.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "sick",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The classroom example used a ankle that was flex. We checked it again later.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "flex",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "Her latest writer is seriously goat. My friends brought it up later.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "goat",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "That viral song looked drop. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The technician confirmed the question was hard. The sentence describes a real object.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "hard",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral comment section looked tea. Everyone reacted at once.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "tea",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "We learned that the stage can be lit. No slang meaning was intended.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "The inspector wrote that the street is lit. Someone wrote it in the report.",
+    "label": 0,
+    "is_slang": false,
+    "target_term": "lit",
+    "sense": "literal",
+    "source": "hard_pairs",
+    "is_hard_negative": true
+  },
+  {
+    "text": "That viral rapper looked beef. The comments agreed immediately.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "beef",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "The whole room agreed the partner was ghost. It got shared all morning.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "ghost",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Their final single came out drop. People kept replaying it.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "drop",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  },
+  {
+    "text": "Everyone said the line is hard. It became the highlight of the day.",
+    "label": 1,
+    "is_slang": true,
+    "target_term": "hard",
+    "sense": "slang",
+    "source": "hard_pairs",
+    "is_hard_negative": false
+  }
+]

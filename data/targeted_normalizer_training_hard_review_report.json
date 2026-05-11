@@ -1,0 +1,131 @@
+{
+  "input_files": [
+    "data\\targeted_normalizer_training_hard_candidates.json"
+  ],
+  "approved_rows": 797,
+  "rejected_rows": 1,
+  "approved_by_sense": {
+    "literal": 401,
+    "slang": 396
+  },
+  "unique_terms": 50,
+  "top_terms": [
+    [
+      "chill",
+      16
+    ],
+    [
+      "busted",
+      16
+    ],
+    [
+      "sharp",
+      16
+    ],
+    [
+      "tight",
+      16
+    ],
+    [
+      "cracked",
+      16
+    ],
+    [
+      "hooked",
+      16
+    ],
+    [
+      "stoked",
+      16
+    ],
+    [
+      "press",
+      16
+    ],
+    [
+      "heat",
+      16
+    ],
+    [
+      "stomp",
+      16
+    ],
+    [
+      "savage",
+      16
+    ],
+    [
+      "nasty",
+      16
+    ],
+    [
+      "washed",
+      16
+    ],
+    [
+      "cold",
+      16
+    ],
+    [
+      "hit",
+      16
+    ],
+    [
+      "props",
+      16
+    ],
+    [
+      "wreck",
+      16
+    ],
+    [
+      "hot",
+      16
+    ],
+    [
+      "stunt",
+      16
+    ],
+    [
+      "paper",
+      16
+    ],
+    [
+      "rip",
+      16
+    ],
+    [
+      "ride",
+      16
+    ],
+    [
+      "dip",
+      16
+    ],
+    [
+      "spot",
+      16
+    ],
+    [
+      "splash",
+      16
+    ]
+  ],
+  "thin_terms": [],
+  "rejected_reasons": {
+    "slang row is identity": 1
+  },
+  "rejected_preview": [
+    {
+      "input": "what is the atmosphere at the office?",
+      "target": "what is the atmosphere at the office?",
+      "term": "vibe",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "repeat": 4,
+      "reasons": [
+        "slang row is identity"
+      ]
+    }
+  ]
+}

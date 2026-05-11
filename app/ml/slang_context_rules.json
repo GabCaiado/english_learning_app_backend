@@ -1,0 +1,721 @@
+{
+  "literal_patterns": {
+    "fire": [
+      "on fire",
+      "catch fire",
+      "caught fire",
+      "set fire",
+      "fire alarm",
+      "fire department",
+      "fire extinguisher",
+      "smoke",
+      "flames",
+      "burning",
+      "evacuate"
+    ],
+    "sick": [
+      "feel sick",
+      "felt sick",
+      "sick leave",
+      "doctor",
+      "fever",
+      "nausea",
+      "ill",
+      "patient"
+    ],
+    "lit": [
+      "lit the",
+      "well lit",
+      "poorly lit",
+      "candle",
+      "lamp",
+      "light bulb",
+      "streetlight"
+    ],
+    "goat": [
+      "farm",
+      "barn",
+      "pasture",
+      "herd",
+      "milk",
+      "animal",
+      "veterinarian"
+    ],
+    "cap": [
+      "bottle cap",
+      "pen cap",
+      "gas cap",
+      "blue cap",
+      "lens cap",
+      "cap on the"
+    ],
+    "tea": [
+      "cup of tea",
+      "made tea",
+      "green tea",
+      "black tea",
+      "kettle",
+      "teapot",
+      "drink tea",
+      "drink some tea",
+      "drink a tea",
+      "sip tea",
+      "brew tea"
+    ],
+    "beef": [
+      "ground beef",
+      "beef stew",
+      "beef burger",
+      "beef taco",
+      "meat",
+      "restaurant"
+    ],
+    "ghost": [
+      "ghost story",
+      "ghost movie",
+      "ghost costume",
+      "haunted",
+      "spirit",
+      "apparition"
+    ],
+    "flex": [
+      "flex your",
+      "flexed his",
+      "flexed her",
+      "muscle",
+      "arm",
+      "knee",
+      "ankle"
+    ],
+    "drop": [
+      "drop the glass",
+      "drop my phone",
+      "drop your keys",
+      "fall",
+      "fell",
+      "dropped the"
+    ],
+    "hard": [
+      "hard exam",
+      "hard question",
+      "hard rock",
+      "hard surface",
+      "hard wood",
+      "difficult"
+    ],
+    "soft": [
+      "soft fabric",
+      "soft pillow",
+      "soft voice",
+      "soft light",
+      "soft skin",
+      "soft soil",
+      "soft texture",
+      "gentle"
+    ],
+    "legit": [
+      "app is legit",
+      "website is legit",
+      "company is legit",
+      "business is legit",
+      "license is legit",
+      "source is legit",
+      "document is legit"
+    ],
+    "shady": [
+      "shady tree",
+      "shady spot",
+      "shady area",
+      "shady side",
+      "shady garden"
+    ],
+    "salty": [
+      "salty soup",
+      "salty chips",
+      "salty water",
+      "salty snack",
+      "salty sauce",
+      "too salty"
+    ],
+    "drip": [
+      "faucet",
+      "pipe",
+      "ceiling",
+      "coffee",
+      "paint",
+      "water drip",
+      "iv drip"
+    ],
+    "fit": [
+      "shoes fit",
+      "shoe fit",
+      "does not fit",
+      "will fit",
+      "fit in",
+      "fit my schedule"
+    ],
+    "extra": [
+      "extra chair",
+      "extra chairs",
+      "extra ticket",
+      "extra tickets",
+      "extra time",
+      "extra money",
+      "extra copy",
+      "extra copies",
+      "extra battery",
+      "extra batteries"
+    ],
+    "chill": [
+      "chill wind",
+      "chill air",
+      "chill weather",
+      "weather is chill",
+      "room was chill",
+      "felt chilly",
+      "chilly"
+    ],
+    "jam": [
+      "jam on",
+      "bread",
+      "toast",
+      "jar",
+      "strawberry jam",
+      "traffic jam"
+    ],
+    "my jam": [
+      "jam on",
+      "bread",
+      "toast",
+      "jar",
+      "strawberry jam",
+      "traffic jam"
+    ],
+    "crash": [
+      "car crash",
+      "plane crash",
+      "computer crashed",
+      "system crashed",
+      "market crash",
+      "blocked traffic"
+    ],
+    "crash at": [
+      "car crash",
+      "plane crash",
+      "computer crash",
+      "system crash",
+      "market crash"
+    ],
+    "crashed at": [
+      "car crashed",
+      "computer crashed",
+      "system crashed"
+    ],
+    "nasty": [
+      "smells nasty",
+      "smelled nasty",
+      "tastes nasty",
+      "tasted nasty",
+      "bathroom",
+      "trash",
+      "mold",
+      "odor"
+    ],
+    "ate": [
+      "ate dinner",
+      "ate lunch",
+      "ate breakfast",
+      "ate food",
+      "ate bread",
+      "ate soup",
+      "ate tacos"
+    ],
+    "dip": [
+      "dip the",
+      "dip bread",
+      "dip sauce",
+      "dip in the soup"
+    ],
+    "dipped": [
+      "dipped the",
+      "dipped bread",
+      "dipped in sauce"
+    ],
+    "trip": [
+      "trip on",
+      "trip over",
+      "field trip",
+      "road trip"
+    ],
+    "tripping": [
+      "tripping hazard",
+      "tripping over"
+    ],
+    "cooked": [
+      "cooked dinner",
+      "cooked lunch",
+      "cooked breakfast",
+      "cooked rice",
+      "cooked pasta",
+      "cooked vegetables",
+      "cooked well"
+    ],
+    "serving": [
+      "serving food",
+      "serving dinner",
+      "serving lunch",
+      "serving breakfast",
+      "serving customers",
+      "serving soup",
+      "serving time"
+    ],
+    "snatched": [
+      "snatched the",
+      "snatched a",
+      "snatched her bag",
+      "snatched his phone",
+      "snatched my purse"
+    ],
+    "slayed": [
+      "slayed the dragon",
+      "slayed a dragon",
+      "knight slayed",
+      "hero slayed",
+      "warrior slayed",
+      "monster"
+    ]
+  },
+  "slang_contexts": {
+    "fire": [
+      "beat",
+      "track",
+      "song",
+      "outfit",
+      "fit",
+      "verse",
+      "album",
+      "playlist",
+      "edit"
+    ],
+    "sick": [
+      "trick",
+      "move",
+      "solo",
+      "goal",
+      "shot",
+      "design",
+      "routine",
+      "transition"
+    ],
+    "lit": [
+      "party",
+      "show",
+      "festival",
+      "concert",
+      "timeline",
+      "chat",
+      "night"
+    ],
+    "goat": [
+      "player",
+      "artist",
+      "singer",
+      "coach",
+      "teacher",
+      "developer",
+      "writer"
+    ],
+    "cap": [
+      "no cap",
+      "that's cap",
+      "that is cap",
+      "stop capping",
+      "lie",
+      "lying"
+    ],
+    "tea": [
+      "spill the tea",
+      "the tea",
+      "gossip",
+      "group chat",
+      "drama",
+      "rumor"
+    ],
+    "beef": [
+      "has beef",
+      "their beef",
+      "beef with",
+      "argument",
+      "conflict",
+      "rival"
+    ],
+    "ghost": [
+      "ghosted",
+      "ghost me",
+      "ghost him",
+      "ghost her",
+      "ignore",
+      "text back"
+    ],
+    "flex": [
+      "weird flex",
+      "big flex",
+      "flexing",
+      "show off",
+      "brag",
+      "watch",
+      "car"
+    ],
+    "drop": [
+      "album",
+      "song",
+      "trailer",
+      "collection",
+      "single",
+      "episode",
+      "release"
+    ],
+    "hard": [
+      "goes hard",
+      "hit hard",
+      "beat",
+      "verse",
+      "fit",
+      "line",
+      "edit"
+    ],
+    "soft": [
+      "too soft",
+      "went soft",
+      "got soft",
+      "soft for",
+      "soft spot",
+      "sensitive",
+      "weak"
+    ],
+    "legit": [
+      "looks legit",
+      "seems legit",
+      "so legit",
+      "pretty legit",
+      "actually legit"
+    ],
+    "shady": [
+      "acting shady",
+      "seems shady",
+      "looks shady",
+      "looked shady",
+      "being shady",
+      "shady behavior"
+    ],
+    "salty": [
+      "got salty",
+      "still salty",
+      "sounded salty",
+      "salty comment",
+      "salty reply"
+    ],
+    "drip": [
+      "his drip",
+      "her drip",
+      "serious drip",
+      "has drip",
+      "drip is clean",
+      "fit drip"
+    ],
+    "fit": [
+      "nice fit",
+      "fit check",
+      "her fit",
+      "his fit",
+      "the fit",
+      "whole fit"
+    ],
+    "extra": [
+      "being extra",
+      "so extra",
+      "too extra",
+      "was extra",
+      "were extra",
+      "felt extra"
+    ],
+    "chill": [
+      "chill guy",
+      "chill person",
+      "chill friend",
+      "chill teacher",
+      "chill manager",
+      "seems chill",
+      "is chill"
+    ],
+    "jam": [
+      "my jam",
+      "is my jam"
+    ],
+    "my jam": [
+      "my jam",
+      "is my jam"
+    ],
+    "crash": [
+      "crash at",
+      "crashed at",
+      "crash on the couch"
+    ],
+    "crash at": [
+      "crash at"
+    ],
+    "crashed at": [
+      "crashed at"
+    ],
+    "nasty": [
+      "solo",
+      "beat drop",
+      "dunk",
+      "goal",
+      "transition",
+      "verse"
+    ],
+    "ate": [
+      "ate that performance",
+      "ate the performance",
+      "ate and left no crumbs"
+    ],
+    "dipped": [
+      "dipped after",
+      "dipped from",
+      "dipped out"
+    ],
+    "tripping": [
+      "tripping about",
+      "tripping over nothing",
+      "stop tripping"
+    ],
+    "cooked": [
+      "i'm cooked",
+      "im cooked",
+      "we're cooked",
+      "were cooked",
+      "you're cooked",
+      "youre cooked",
+      "cooked if",
+      "cooked for"
+    ],
+    "serving": [
+      "serving confidence",
+      "serving looks",
+      "serving energy",
+      "serving attitude",
+      "look is serving",
+      "outfit is serving"
+    ],
+    "snatched": [
+      "looks snatched",
+      "looked snatched",
+      "outfit looks snatched",
+      "fit looks snatched",
+      "waist looks snatched"
+    ],
+    "slayed": [
+      "slayed that",
+      "slayed the look",
+      "slayed her outfit",
+      "slayed his outfit",
+      "slayed the performance"
+    ]
+  },
+  "literal_regexes": {
+    "tea": [
+      "\\bdrink(?:ing)?\\s+(?:some|a|the)?\\s*tea\\b",
+      "\\b(?:made|make|brewed|brew|sip|sipping)\\s+(?:some|a|the)?\\s*tea\\b",
+      "\\btea\\s+(?:cup|bag|kettle|pot|shop)\\b"
+    ],
+    "sick": [
+      "\\b(?:feel|feeling|felt)\\s+sick\\b",
+      "\\b(?:called|calling|call)\\s+in\\s+sick\\b",
+      "\\bsick\\s+(?:today|leave|day|patient|child)\\b"
+    ],
+    "fire": [
+      "\\b(?:on|catch|caught|set)\\s+fire\\b",
+      "\\bfire\\s+(?:alarm|department|extinguisher|truck|fighter)\\b"
+    ],
+    "hard": [
+      "\\bhard\\s+(?:exam|question|test|surface|wood|rock|time|decision|work)\\b"
+    ],
+    "soft": [
+      "\\bsoft\\s+(?:fabric|pillow|voice|light|skin|soil|texture|drink|cheese|bread)\\b",
+      "\\b(?:fabric|pillow|voice|light|skin|soil|texture|drink|cheese|bread)\\s+(?:is|was|feels|felt|became)\\s+soft\\b"
+    ],
+    "legit": [
+      "\\b(?:app|website|site|company|business|license|source|document|seller)\\s+is\\s+legit\\b",
+      "\\blegit(?:imate)?\\s+(?:app|website|site|company|business|license|source|document|seller)\\b"
+    ],
+    "salty": [
+      "\\b(?:soup|chips|water|snack|broth|sauce|pretzel|meal)\\s+(?:is|was|tasted)\\s+salty\\b",
+      "\\btoo\\s+salty\\b"
+    ],
+    "drip": [
+      "\\b(?:faucet|pipe|ceiling|tap|roof)\\s+(?:has|had)\\s+a\\s+drip\\b",
+      "\\b(?:water|coffee|paint)\\s+(?:started\\s+to\\s+)?drip\\b"
+    ],
+    "fit": [
+      "\\b(?:shoes?|helmet|ring|seat|key)\\s+(?:does\\s+not\\s+|did\\s+not\\s+|should\\s+)?fit\\b",
+      "\\bfit\\s+(?:in|my|your|the)\\b"
+    ],
+    "extra": [
+      "\\bextra\\s+(?:chair|chairs|ticket|tickets|time|money|copy|copies|battery|batteries|blanket|blankets|credit)\\b",
+      "\\b(?:need|bring|pack|packed|make|made|have|has)\\s+(?:an?\\s+)?extra\\b",
+      "\\bthere\\s+(?:is|are|was|were)\\s+extra\\b"
+    ],
+    "chill": [
+      "\\b(?:weather|room|air|wind|morning)\\s+(?:is|was|felt|feels)\\s+chill\\b",
+      "\\bchill\\s+(?:wind|air|weather|morning)\\b",
+      "\\bchilly\\b"
+    ],
+    "jam": [
+      "\\b(?:jam|jelly)\\s+(?:on|with|for)\\s+(?:my\\s+)?(?:bread|toast|bagel)\\b",
+      "\\b(?:traffic|strawberry|raspberry|grape)\\s+jam\\b"
+    ],
+    "my jam": [
+      "\\b(?:jam|jelly)\\s+(?:on|with|for)\\s+(?:my\\s+)?(?:bread|toast|bagel)\\b",
+      "\\b(?:traffic|strawberry|raspberry|grape)\\s+jam\\b"
+    ],
+    "crash": [
+      "\\b(?:car|plane|bike|bus|train|computer|system|market)\\s+crash(?:ed|es)?\\b",
+      "\\bcrash(?:ed|es)?\\s+(?:the\\s+)?(?:car|plane|bike|bus|train|computer|system)\\b"
+    ],
+    "nasty": [
+      "\\b(?:bathroom|trash|garbage|smell|odor|food|soup|meat)\\s+(?:smells?|tastes?|is|was)\\s+nasty\\b",
+      "\\bnasty\\s+(?:smell|odor|food|trash|garbage)\\b"
+    ],
+    "ate": [
+      "\\bate\\s+(?:dinner|lunch|breakfast|food|bread|soup|tacos|pizza|rice|a\\s+meal)\\b"
+    ],
+    "dip": [
+      "\\bdip\\s+(?:the\\s+)?(?:bread|chip|chips|fries|vegetables?)\\b",
+      "\\bdip\\s+.+\\s+in\\s+(?:the\\s+)?(?:soup|sauce|hummus)\\b"
+    ],
+    "dipped": [
+      "\\bdipped\\s+(?:the\\s+)?(?:bread|chip|chips|fries|vegetables?)\\b",
+      "\\bdipped\\s+.+\\s+in\\s+(?:the\\s+)?(?:soup|sauce|hummus)\\b"
+    ],
+    "trip": [
+      "\\btrip\\s+(?:on|over|to)\\b",
+      "\\b(?:field|road|business)\\s+trip\\b"
+    ],
+    "tripping": [
+      "\\btripping\\s+(?:on|over)\\b",
+      "\\btripping\\s+hazard\\b"
+    ],
+    "cooked": [
+      "\\b(?:vegetables|pasta|rice|meat|food|dinner|lunch|breakfast|meal)\\s+(?:is|are|was|were)\\s+cooked\\b",
+      "\\bcooked\\s+(?:vegetables|pasta|rice|meat|food|dinner|lunch|breakfast|meal)\\b"
+    ],
+    "serving": [
+      "\\bserving\\s+(?:food|dinner|lunch|breakfast|soup|customers|guests|drinks)\\b",
+      "\\b(?:waiter|server|restaurant|cafeteria)\\s+.+\\bserving\\b"
+    ],
+    "snatched": [
+      "\\bsnatched\\s+(?:the|a|an|my|your|his|her|their)\\s+(?:bag|phone|purse|wallet|keys|package)\\b"
+    ],
+    "slayed": [
+      "\\b(?:knight|hero|warrior|hunter)\\s+slayed\\s+(?:the\\s+|a\\s+)?(?:dragon|monster|beast)\\b",
+      "\\bslayed\\s+(?:the\\s+|a\\s+)?(?:dragon|monster|beast)\\b"
+    ]
+  },
+  "slang_regexes": {
+    "tea": [
+      "\\b(?:what'?s|where'?s|spill|spilled|spilling|share|shared|sharing)\\s+(?:the\\s+)?tea\\b",
+      "\\btea\\s+(?:about|on)\\b"
+    ],
+    "sick": [
+      "\\b(?:that|this|those|these)\\s+.+\\s+(?:is|was|are|were)\\s+sick\\b"
+    ],
+    "hard": [
+      "\\b(?:goes|went|hits|hit|slaps)\\s+hard\\b"
+    ],
+    "soft": [
+      "\\b(?:too|so|kinda|sorta)\\s+soft\\b",
+      "\\b(?:got|went|acting|being)\\s+soft\\b",
+      "\\bsoft\\s+for\\s+(?:him|her|them|you|me)\\b"
+    ],
+    "legit": [
+      "\\b(?:that|this|those|these)\\s+.+\\s+(?:is|was|are|were)\\s+legit\\b",
+      "\\bthat'?s\\s+legit\\b"
+    ],
+    "shady": [
+      "\\b(?:acting|being|seems|looks|looked|felt|feels)\\s+shady\\b",
+      "\\b(?:link|deal|seller|message|excuse|behavior|story|comment)\\s+(?:looked|looks|seems|felt|feels|was|is)\\s+shady\\b"
+    ],
+    "salty": [
+      "\\b(?:got|gets|getting|still|sounded|seemed|was|were)\\s+salty\\b"
+    ],
+    "drip": [
+      "\\b(?:his|her|their|my)\\s+drip\\b",
+      "\\b(?:has|have|had)\\s+drip\\b",
+      "\\bdrip\\s+is\\s+(?:clean|crazy|serious)\\b"
+    ],
+    "fit": [
+      "\\b(?:nice|clean|fire|hard)\\s+fit\\b",
+      "\\bfit\\s+check\\b"
+    ],
+    "extra": [
+      "\\b(?:being|be|so|too)\\s+extra\\b",
+      "\\b(?:decorations?|reaction|entrance|outfit|comment|makeup|speech|plan|party)\\s+(?:was|were|is|are|felt|feels|looked|looks|seemed|seems)\\s+extra\\b"
+    ],
+    "chill": [
+      "\\bchill\\s+(?:guy|person|friend|teacher|manager|neighbor)\\b",
+      "\\b(?:guy|person|friend|teacher|manager|neighbor)\\s+(?:is|was|seems|seemed)\\s+chill\\b",
+      "\\b(?:he|she|they|my)\\s+.+\\s+(?:is|was|seems|seemed)\\s+chill\\b",
+      "\\b(?:he|she|they)(?:'s|'re)\\s+(?:super\\s+|really\\s+|very\\s+|so\\s+)?chill\\b"
+    ],
+    "jam": [
+      "\\b(?:this|that|the)\\s+.+\\s+is\\s+my\\s+jam\\b",
+      "\\bmy\\s+jam\\b"
+    ],
+    "my jam": [
+      "\\b(?:this|that|the)\\s+.+\\s+is\\s+my\\s+jam\\b",
+      "\\bmy\\s+jam\\b"
+    ],
+    "crash": [
+      "\\bcrash(?:ed)?\\s+at\\b",
+      "\\bcrash\\s+on\\s+(?:the\\s+)?(?:couch|sofa|floor)\\b"
+    ],
+    "crash at": [
+      "\\bcrash\\s+at\\b"
+    ],
+    "crashed at": [
+      "\\bcrashed\\s+at\\b"
+    ],
+    "nasty": [
+      "\\b(?:solo|beat\\s+drop|dunk|goal|transition|verse|riff|move)\\s+(?:was|is|sounded|looked)\\s+nasty\\b",
+      "\\bnasty\\s+(?:solo|beat\\s+drop|dunk|goal|transition|verse|riff|move)\\b"
+    ],
+    "ate": [
+      "\\bate\\s+(?:that|the|her|his|their)\\s+(?:performance|presentation|routine|speech|outfit|scene)\\b",
+      "\\bate\\s+and\\s+left\\s+no\\s+crumbs\\b"
+    ],
+    "dipped": [
+      "\\bdipped\\s+(?:after|from|out)\\b"
+    ],
+    "tripping": [
+      "\\btripping\\s+about\\b",
+      "\\bstop\\s+tripping\\b"
+    ],
+    "cooked": [
+      "\\b(?:i'?m|im|we'?re|were|you'?re|youre|they'?re|theyre)\\s+cooked\\b",
+      "\\bcooked\\s+(?:if|for|before|without)\\b"
+    ],
+    "serving": [
+      "\\b(?:look|fit|outfit|makeup|style)\\s+(?:is|was|looks|looked)\\s+serving\\b",
+      "\\bserving\\s+(?:confidence|looks|energy|attitude|main character|face|body)\\b"
+    ],
+    "snatched": [
+      "\\b(?:look|fit|outfit|makeup|waist|style)\\s+(?:is|was|looks|looked)\\s+snatched\\b",
+      "\\b(?:her|his|their|my)\\s+(?:look|fit|outfit|makeup|waist|style)\\s+(?:is|was|looks|looked)\\s+snatched\\b"
+    ],
+    "slayed": [
+      "\\bslayed\\s+(?:that|the)\\s+(?:look|fit|outfit|performance|presentation|routine|speech)\\b",
+      "\\b(?:she|he|they)\\s+slayed\\b"
+    ]
+  }
+}

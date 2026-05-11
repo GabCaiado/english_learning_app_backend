@@ -39,8 +39,9 @@ class WordAnalysisResponse(BaseModel):
     meaning_en: Optional[str]
     meaning_pt: Optional[str]
     formality: str
-    category: str
+    category: Optional[str]
     examples: list[str]
+    contextual_translations: list[dict] = []
 
 
 class SentenceTranslationResponse(BaseModel):
@@ -49,3 +50,4 @@ class SentenceTranslationResponse(BaseModel):
     slangs_detected: list[dict]
     normalized_english: str
     translation_pt: str
+    contextual_translations: list[dict] = []

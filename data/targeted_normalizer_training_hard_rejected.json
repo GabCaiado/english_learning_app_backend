@@ -1,0 +1,13 @@
+[
+  {
+    "input": "what is the atmosphere at the office?",
+    "target": "what is the atmosphere at the office?",
+    "term": "vibe",
+    "sense": "slang",
+    "source": "openai_targeted_eval",
+    "repeat": 4,
+    "reasons": [
+      "slang row is identity"
+    ]
+  }
+]

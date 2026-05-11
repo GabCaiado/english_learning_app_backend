@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Body
 
 from app.database import get_supabase
 from app.ml.pipeline import get_pipeline
@@ -11,8 +11,8 @@ router = APIRouter(prefix="/translate", tags=["translate"])
 @router.get("/word/{word}", response_model=WordAnalysisResponse)
 async def analyze_word(word: str, user_id: str = Depends(get_current_user)):
     """
-    Analisa uma palavra.
-    Detecta se é giria, traduz, gera embedding.
+    Analyzes a word.
+    Detects if it's slang, translates, generates embedding.
     """
     supabase = get_supabase()
     pipeline = get_pipeline(supabase)
@@ -28,18 +28,19 @@ async def analyze_word(word: str, user_id: str = Depends(get_current_user)):
         meaning_pt=result.meaning_pt,
         formality=result.formality,
         category=result.category,
-        examples=result.examples
+        examples=result.examples,
+        contextual_translations=result.contextual_translations
     )
 
 
 @router.post("/sentence", response_model=SentenceTranslationResponse)
-async def translate_sentence(sentence: str, user_id: str = Depends(get_current_user)):
+async def translate_sentence(sentence: str = Body(..., embed=True), user_id: str = Depends(get_current_user)):
     """
-    Traduz uma frase completa.
-    Detecta girias, normaliza, traduz.
+    Translates a full sentence.
+    Detects slangs, normalizes, translates.
     """
     if not sentence or len(sentence) > 1000:
-        raise HTTPException(400, "Frase invalida ou muito longa")
+        raise HTTPException(400, "Invalid or too long sentence")
     
     supabase = get_supabase()
     pipeline = get_pipeline(supabase)
@@ -51,5 +52,5 @@ async def translate_sentence(sentence: str, user_id: str = Depends(get_current_u
 
 @router.get("/health")
 async def health_check():
-    """Verifica se o servico esta ok (funcionando)"""
+    """Checks if the service is ok (working)"""
     return {"status": "ok", "service": "translate"}

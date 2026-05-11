@@ -1,0 +1,5511 @@
+[
+  {
+    "input": "the concert got lit",
+    "target": "the concert got exciting",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that whole link felt shady",
+    "target": "that whole link felt suspicious",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "stop with the burns, it's getting mean.",
+    "target": "stop making insulting remarks; it's getting mean.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "press the brake gently.",
+    "target": "press the brake gently.",
+    "term": "press",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the setup looks legit.",
+    "target": "the setup looks excellent.",
+    "term": "legit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "let's hang after work.",
+    "target": "let's spend time together after work.",
+    "term": "hang",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she called in sick",
+    "target": "she called in sick",
+    "term": "sick",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "that episode was mid",
+    "target": "that episode was mediocre",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "chill out, you're overreacting.",
+    "target": "calm down, you're overreacting.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that transition was nasty.",
+    "target": "that transition was amazing.",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they ghosted me.",
+    "target": "they stopped responding to me.",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this whole message feels sus.",
+    "target": "this whole message feels suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the behavior looked shady",
+    "target": "the behavior looked suspicious",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "a cold wind blew.",
+    "target": "a cold wind blew.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we're cooked for the presentation",
+    "target": "we are in trouble for the presentation",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this is a quiet zone.",
+    "target": "this is a quiet zone.",
+    "term": "zone",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "he will hit the ball.",
+    "target": "he will hit the ball.",
+    "term": "hit",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they killed our team in the match.",
+    "target": "they defeated our team thoroughly in the match.",
+    "term": "kill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the playlist is fire",
+    "target": "the playlist is excellent",
+    "term": "fire",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the cop wrote me a ticket.",
+    "target": "the cop wrote me a ticket.",
+    "term": "cop",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the paint is fresh.",
+    "target": "the paint is fresh.",
+    "term": "fresh",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "her intro hits hard",
+    "target": "her intro is impressive",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she dropped the plate on the floor.",
+    "target": "she dropped the plate on the floor.",
+    "term": "floor",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they have beef with the team",
+    "target": "they have a conflict with the team",
+    "term": "beef",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i have a crush on my neighbor.",
+    "target": "i am romantically attracted to my neighbor.",
+    "term": "crush",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i need a cover for the grill.",
+    "target": "i need a cover for the grill.",
+    "term": "cover",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that verse was fire",
+    "target": "that verse was excellent",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the hacker cracked the server.",
+    "target": "the hacker broke into the server.",
+    "term": "cracked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they were salty after the game.",
+    "target": "they were resentful after the game.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her edit hits hard.",
+    "target": "her edit is impressive.",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "parents always ride teens about grades.",
+    "target": "parents always criticize teenagers about grades.",
+    "term": "ride",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he carried the props onto the stage.",
+    "target": "he carried the props onto the stage.",
+    "term": "props",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his dunk was nasty",
+    "target": "his dunk was amazing",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the train crash was reported",
+    "target": "the train crash was reported",
+    "term": "crash",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "her pizza is bussin",
+    "target": "her pizza is delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "her beat drop was nasty.",
+    "target": "her beat drop was amazing.",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "there was a burn mark on the carpet.",
+    "target": "there was a burn mark on the carpet.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they lowkey want to leave.",
+    "target": "they somewhat want to leave.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "my shirt is hooked on the zipper.",
+    "target": "my shirt is hooked on the zipper.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we need someone to cover reception this afternoon.",
+    "target": "we need someone to take the reception shift this afternoon.",
+    "term": "cover",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "don't ride me about my accent.",
+    "target": "don't criticize me about my accent.",
+    "term": "ride",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she slayed the presentation",
+    "target": "she did extremely well in the presentation",
+    "term": "slay",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that old track is my jam",
+    "target": "that old track is my favorite",
+    "term": "my jam",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the new score is a big flex",
+    "target": "the new score is a big way to show off",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the ride to school takes twenty minutes.",
+    "target": "the ride to school takes twenty minutes.",
+    "term": "ride",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the rock is hard",
+    "target": "the rock is hard",
+    "term": "hard",
+    "sense": "literal",
+    "source": "template"
+  },
+  {
+    "input": "my car has a bump on the hood.",
+    "target": "my car has a bump on the hood.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "serve the salad with fresh lettuce.",
+    "target": "serve the salad with fresh lettuce.",
+    "term": "fresh",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "can you slide into his dm and ask about the job?",
+    "target": "can you send him a private direct message and ask about the job?",
+    "term": "slide",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the website is legit",
+    "target": "the website is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the business is legit",
+    "target": "the business is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the rice is cooked",
+    "target": "the rice is cooked",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the pond froze under a thin cover of ice.",
+    "target": "the pond froze under a thin cover of ice.",
+    "term": "cover",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "can i crash at their guest room.",
+    "target": "can i sleep at their guest room.",
+    "term": "crash",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this verse is fire",
+    "target": "this verse is excellent",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "crush the garlic with a knife.",
+    "target": "crush the garlic with a knife.",
+    "term": "crush",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "bump the playlist when they arrive.",
+    "target": "play the playlist loudly when they arrive.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he told me to slide up on her at the cafe.",
+    "target": "he told me to approach her discreetly at the cafe.",
+    "term": "slide",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they hammered the signs onto the fence.",
+    "target": "they hammered the signs onto the fence.",
+    "term": "hammered",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the ceramic bowl is cracked.",
+    "target": "the ceramic bowl is cracked.",
+    "term": "cracked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i spotted a rare bird this morning.",
+    "target": "i noticed a rare bird this morning.",
+    "term": "spot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the medicine caused bad side effects.",
+    "target": "the medicine caused bad side effects.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "parents always ride teens about grades.",
+    "target": "parents always criticize teenagers about grades.",
+    "term": "ride",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they ate and left no crumbs with that speech.",
+    "target": "they did extremely well with that speech.",
+    "term": "ate and left no crumbs",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "wanna hang tonight?",
+    "target": "do you want to spend time together tonight?",
+    "term": "hang",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he opened the jar of jam carefully.",
+    "target": "he opened the jar of jam carefully.",
+    "term": "jam",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "this app is legit",
+    "target": "this app is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the goat jumped over the fence.",
+    "target": "the goat jumped over the fence.",
+    "term": "goat",
+    "sense": "literal",
+    "source": "template"
+  },
+  {
+    "input": "he slayed the audition",
+    "target": "he did extremely well in the audition",
+    "term": "slay",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the new cafe popped on opening day.",
+    "target": "the new cafe became very popular on opening day.",
+    "term": "pop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she wrote his number on the paper.",
+    "target": "she wrote his number on the paper.",
+    "term": "paper",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the low-key lighting made the room calm.",
+    "target": "the low-key lighting made the room calm.",
+    "term": "low-key",
+    "sense": "literal",
+    "source": "template"
+  },
+  {
+    "input": "hold the railing tight.",
+    "target": "hold the railing tight.",
+    "term": "tight",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i felt that burn when she roasted me.",
+    "target": "i felt hurt by that insulting remark.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the carpenter hammered each plank carefully.",
+    "target": "the carpenter hammered each plank carefully.",
+    "term": "hammered",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "stop being salty about the score.",
+    "target": "stop being bitter about the score.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we were hooked by the opening scene.",
+    "target": "the opening scene immediately captured our interest.",
+    "term": "hooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the comedian's joke was savage.",
+    "target": "the comedian's joke was brutally harsh.",
+    "term": "savage",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "give props where they're due.",
+    "target": "give credit where it's due.",
+    "term": "props",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "do not be salty about the mistake.",
+    "target": "do not be bitter about the mistake.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they installed a new wooden floor.",
+    "target": "they installed a new wooden floor.",
+    "term": "floor",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the streets were lit by the neon signs.",
+    "target": "the streets were lit by the neon signs.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they were beat by the end of the shift.",
+    "target": "they were exhausted by the end of the shift.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she works in the industrial zone.",
+    "target": "she works in the industrial zone.",
+    "term": "zone",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the movie was a hit at the box office.",
+    "target": "the movie was very successful at the box office.",
+    "term": "hit",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "hang the sign above the entrance.",
+    "target": "hang the sign above the entrance.",
+    "term": "hang",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i need a piece of paper.",
+    "target": "i need a piece of paper.",
+    "term": "paper",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that set was lit",
+    "target": "that set was exciting",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they have beef with the creator.",
+    "target": "they have a conflict with the creator.",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i'm hooked on the new detective series.",
+    "target": "i am really into the new detective series.",
+    "term": "hooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "those sneakers are fresh.",
+    "target": "those sneakers are stylish.",
+    "term": "fresh",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she was cold after the argument.",
+    "target": "she was emotionally distant after the argument.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "they understood the assignment with that performance.",
+    "target": "they did exactly what was needed with that performance.",
+    "term": "understood the assignment",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "we used to hang after school.",
+    "target": "we used to spend time together after school.",
+    "term": "hang",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the hunter will shoot at dawn.",
+    "target": "the hunter will shoot at dawn.",
+    "term": "shoot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she lowkey feel nervous.",
+    "target": "she somewhat feel nervous.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the dj kept bumping that remix.",
+    "target": "the dj kept playing that remix loudly.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "heat can kill bacteria in the food.",
+    "target": "heat can kill bacteria in the food.",
+    "term": "kill",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the new setup is a big flex.",
+    "target": "the new setup is a big way to show off.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "deadass, this is true.",
+    "target": "seriously, this is true.",
+    "term": "deadass",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i lowkey like this song.",
+    "target": "i somewhat like this song.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the business is legit",
+    "target": "the business is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "did you spot the mistake?",
+    "target": "did you notice the mistake?",
+    "term": "spot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he practiced the fire stunt carefully.",
+    "target": "he practiced the fire stunt carefully.",
+    "term": "stunt",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the machine will crush the cans.",
+    "target": "the machine will crush the cans.",
+    "term": "crush",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the actor did a dangerous stunt.",
+    "target": "the actor did a dangerous stunt.",
+    "term": "stunt",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he stoked the charcoal before grilling.",
+    "target": "he stoked the charcoal before grilling.",
+    "term": "stoked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that decorations was extra.",
+    "target": "that decorations was excessive.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "after the concert he was hammered.",
+    "target": "after the concert he was very drunk.",
+    "term": "hammered",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "her waist looks snatched",
+    "target": "her waist looks stylish and flattering",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "cookies are cooked and ready.",
+    "target": "cookies are cooked and ready.",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "you look sharp in that jacket.",
+    "target": "you look stylish in that jacket.",
+    "term": "sharp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the business is legit",
+    "target": "the business is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they dropped a new album last night.",
+    "target": "they released a new album last night.",
+    "term": "drop",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the actor got washed after the scandal.",
+    "target": "the actor's career was ruined after the scandal.",
+    "term": "washed",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "we found a quiet spot by the lake.",
+    "target": "we found a quiet spot by the lake.",
+    "term": "spot",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "don't crush the bread.",
+    "target": "don't crush the bread.",
+    "term": "crush",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "i washed the dishes after dinner.",
+    "target": "i washed the dishes after dinner.",
+    "term": "washed",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the coach was cold toward the new player.",
+    "target": "the coach was unfriendly toward the new player.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "if you're chill with the plan, let's go.",
+    "target": "if you are okay with the plan, let's go.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the decrease in sales was sharp.",
+    "target": "the decrease in sales was sharp.",
+    "term": "sharp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the party got lit.",
+    "target": "the party got exciting.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the chill in the air woke me up.",
+    "target": "the chill in the air woke me up.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the hammer hit the nail.",
+    "target": "the hammer hit the nail.",
+    "term": "hit",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "fans got salty after the referee's call.",
+    "target": "fans were resentful after the referee's call.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that comeback was sharp.",
+    "target": "that comeback was clever.",
+    "term": "sharp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "what's the tea about the office drama.",
+    "target": "what is the gossip about the office drama.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this trick is sick",
+    "target": "this trick is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "wrap a sweater around yourself to beat the chill.",
+    "target": "wrap a sweater around yourself to beat the chill.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they dropped season three on the streaming site.",
+    "target": "they released season three on the streaming site.",
+    "term": "drop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the singer was in the zone during the concert.",
+    "target": "the singer was fully focused during the concert.",
+    "term": "zone",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he is overreacting because the meeting was delayed.",
+    "target": "he is overreacting because the meeting was delayed.",
+    "term": "trip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "watch your head, there is a bump on the ceiling.",
+    "target": "watch your head, there is a bump on the ceiling.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "watch him slide down the hill.",
+    "target": "watch him slide down the hill.",
+    "term": "slide",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "don't sleep on the paper.",
+    "target": "don't ignore the chance to make money.",
+    "term": "paper",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he's tight with the manager.",
+    "target": "he has a close relationship with the manager.",
+    "term": "tight",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "everyone called the singer the goat.",
+    "target": "everyone called the singer the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the warrior slayed the beast",
+    "target": "the warrior slayed the beast",
+    "term": "slayed",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "his message was cap",
+    "target": "his message was a lie",
+    "term": "cap",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "let's dip before the traffic gets bad.",
+    "target": "let's leave before the traffic gets bad.",
+    "term": "dip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that fit adds drip",
+    "target": "that fit adds style",
+    "term": "drip",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that makeup was extra",
+    "target": "that makeup was excessive",
+    "term": "extra",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he ate the whole pizza.",
+    "target": "he ate the whole pizza.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "that routine was sick",
+    "target": "that routine was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the bus is coming.",
+    "target": "the bus is coming.",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she is still salty about the loser.",
+    "target": "she is still upset about the loser.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the firefighter warned of a savage wildfire.",
+    "target": "the firefighter warned of a savage wildfire.",
+    "term": "savage",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "if that works, shoot me an email.",
+    "target": "if that works, send me an email.",
+    "term": "shoot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that slide was nasty.",
+    "target": "that slide was impressive.",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they stomped us in the debate.",
+    "target": "they defeated us soundly in the debate.",
+    "term": "stomp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the final twist in the movie floored me.",
+    "target": "the final twist in the movie surprised me greatly.",
+    "term": "floor",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i smoked him in chess.",
+    "target": "i defeated him decisively in chess.",
+    "term": "smoke",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the smoke alarm went off.",
+    "target": "the smoke alarm went off.",
+    "term": "smoke",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i found a nasty stain on my shirt.",
+    "target": "i found a nasty stain on my shirt.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the hunter will shoot at dawn.",
+    "target": "the hunter will shoot at dawn.",
+    "term": "shoot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate",
+    "target": "she ate and left no crumbs on the plate",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the champion is washed up.",
+    "target": "the champion is no longer successful.",
+    "term": "washed",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his rumor was cap",
+    "target": "his rumor was a lie",
+    "term": "cap",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she needs a ride to her doctor's appointment.",
+    "target": "she needs a ride to her doctor's appointment.",
+    "term": "ride",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the heat in the greenhouse helps plants grow.",
+    "target": "the heat in the greenhouse helps plants grow.",
+    "term": "heat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm cooked, i can't drive.",
+    "target": "i am too tired to drive.",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this song is fire.",
+    "target": "this song is excellent.",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i gotta dip, see you later.",
+    "target": "i have to leave, see you later.",
+    "term": "dip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the coffee hits different today",
+    "target": "the coffee feels especially meaningful today",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she helped the vase slide onto the shelf.",
+    "target": "she helped the vase slide onto the shelf.",
+    "term": "slide",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this outfit is hot.",
+    "target": "this outfit is very fashionable.",
+    "term": "hot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the label dropped the remastered recordings.",
+    "target": "the label released the remastered recordings.",
+    "term": "drop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the deal looks legit",
+    "target": "the deal looks excellent",
+    "term": "legit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "please wipe the floor after cooking.",
+    "target": "please wipe the floor after cooking.",
+    "term": "floor",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the news wrecked him.",
+    "target": "the news devastated him.",
+    "term": "wreck",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i need to rip this envelope open.",
+    "target": "i need to rip this envelope open.",
+    "term": "rip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the faulty wiring could kill someone.",
+    "target": "the faulty wiring could kill someone.",
+    "term": "kill",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "please slide the glass toward me.",
+    "target": "please slide the glass toward me.",
+    "term": "slide",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she added a splash of lemon to the tea.",
+    "target": "she added a splash of lemon to the tea.",
+    "term": "splash",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "raspberry jam is sweet",
+    "target": "raspberry jam is sweet",
+    "term": "jam",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "that show was mid",
+    "target": "that show was mediocre",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the plastic wrap will pop under heat.",
+    "target": "the plastic wrap will pop under heat.",
+    "term": "pop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he pressed charges after the attack.",
+    "target": "he filed charges after the attack.",
+    "term": "press",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "stop riding the new kid.",
+    "target": "stop criticizing the new kid.",
+    "term": "ride",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "after trying vaping he became hooked.",
+    "target": "after trying vaping he became addicted.",
+    "term": "hooked",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the jacket has drip",
+    "target": "the jacket has style",
+    "term": "drip",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that excuse seems shady.",
+    "target": "that excuse seems suspicious.",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that meal was bussin.",
+    "target": "that meal was delicious.",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "there was a steady vibe under the floorboards.",
+    "target": "there was a steady vibe under the floorboards.",
+    "term": "vibe",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the sauce turned out salty.",
+    "target": "the sauce turned out salty.",
+    "term": "salty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the food was nasty",
+    "target": "the food was nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "stop capping about the excuse",
+    "target": "stop lying about the excuse",
+    "term": "cap",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he dipped bread in oil",
+    "target": "he dipped bread in oil",
+    "term": "dipped",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the food was nasty",
+    "target": "the food was nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the fit has drip.",
+    "target": "the fit has style.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this intro goes hard.",
+    "target": "this intro is impressive.",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "my teammate is cracked at aim.",
+    "target": "my teammate is excellent at aiming.",
+    "term": "cracked",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she measured the heat with a thermometer.",
+    "target": "she measured the heat with a thermometer.",
+    "term": "heat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they ghosted my texts.",
+    "target": "they stopped responding to my texts.",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that cut looks nasty.",
+    "target": "that cut looks nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the answer was clutch",
+    "target": "the answer was decisive",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he pressed charges after the attack.",
+    "target": "he filed charges after the attack.",
+    "term": "press",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "props to anyone who tried.",
+    "target": "credit to anyone who tried.",
+    "term": "props",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "press the paper between two books.",
+    "target": "press the paper between two books.",
+    "term": "press",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the weather is bad.",
+    "target": "the weather is bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she keeps flexing her watch",
+    "target": "she keeps showing off her watch",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that verse was nasty.",
+    "target": "that verse was amazing.",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this app is legit",
+    "target": "this app is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "dip the cookie in the milk.",
+    "target": "dip the cookie in the milk.",
+    "term": "dip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his sneaker game is tight.",
+    "target": "his sneakers are very stylish.",
+    "term": "tight",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she tripped over the loose tile in the kitchen.",
+    "target": "she tripped over the loose tile in the kitchen.",
+    "term": "trip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she keeps flexing her promotion.",
+    "target": "she keeps showing off her promotion.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this sandwich is bussin",
+    "target": "this sandwich is delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the toy was hooked to the string.",
+    "target": "the toy was hooked to the string.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i love the ride at the fair.",
+    "target": "i love the ride at the fair.",
+    "term": "ride",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the post was salty",
+    "target": "the post was bitter",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the food was nasty.",
+    "target": "the food was nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that shot was sick",
+    "target": "that shot was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "there is a sharp turn ahead.",
+    "target": "there is a sharp turn ahead.",
+    "term": "sharp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the clutch slipped while i was driving uphill.",
+    "target": "the clutch slipped while i was driving uphill.",
+    "term": "clutch",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "i'm cooked, i can't drive.",
+    "target": "i am too tired to drive.",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the jar lid is tight.",
+    "target": "the jar lid is tight.",
+    "term": "tight",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the hackers got busted by the FBI.",
+    "target": "the hackers were arrested by the FBI.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the dj kept bumping that remix.",
+    "target": "the dj kept playing that remix loudly.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "their performance was bad.",
+    "target": "their performance was outstanding.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the song is mid",
+    "target": "the song is mediocre",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i ship them",
+    "target": "i support them as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i'm beat after work.",
+    "target": "i am exhausted after work.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "press the sensor to open the door.",
+    "target": "press the sensor to open the door.",
+    "term": "press",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her watch is busted after the fall.",
+    "target": "her watch is busted after the fall.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that story seems shady.",
+    "target": "that story seems suspicious.",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they ripped the presenter during the podcast.",
+    "target": "they harshly criticized the presenter during the podcast.",
+    "term": "rip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i am cooked for the meeting",
+    "target": "i am in trouble for the meeting",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the cafe is serving breakfast",
+    "target": "the cafe is serving breakfast",
+    "term": "serving",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "that comment is sus.",
+    "target": "that comment is suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they pressed their luck and lost everything.",
+    "target": "they took more risks and lost everything.",
+    "term": "press",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the website is legit",
+    "target": "the website is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "her debut album is a hit.",
+    "target": "her debut album is very popular.",
+    "term": "hit",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the photo has a sharp focus.",
+    "target": "the photo has a sharp focus.",
+    "term": "sharp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "a wave splashed my bag on the beach.",
+    "target": "a wave splashed my bag on the beach.",
+    "term": "splash",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they run a chill little cafe downtown.",
+    "target": "they run a relaxed small cafe downtown.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "my brother is a cop.",
+    "target": "my brother is a cop.",
+    "term": "cop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "no cap, the message is true",
+    "target": "seriously, the message is true",
+    "term": "cap",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the stained shirt finally washed clean.",
+    "target": "the stained shirt finally washed clean.",
+    "term": "washed",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that link is sus.",
+    "target": "that link is suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the carpenter hammered each plank carefully.",
+    "target": "the carpenter hammered each plank carefully.",
+    "term": "hammered",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she keeps flexing her award.",
+    "target": "she keeps showing off her award.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i told her i had a crush on her.",
+    "target": "i told her i was romantically attracted to her.",
+    "term": "crush",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she threw shade at him.",
+    "target": "she subtly insulted him.",
+    "term": "throw shade",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the hero slayed the monster.",
+    "target": "the hero slayed the monster.",
+    "term": "slay",
+    "sense": "literal",
+    "source": "template"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the new song sounds fire.",
+    "target": "the new song sounds excellent.",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this look is serving attitude",
+    "target": "this look is projecting attitude",
+    "term": "serving",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the wreck on the highway closed two lanes.",
+    "target": "the wreck on the highway closed two lanes.",
+    "term": "wreck",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the announcement floored everyone in the room.",
+    "target": "the announcement surprised everyone in the room.",
+    "term": "floor",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her coffee hits different.",
+    "target": "her coffee feels especially meaningful.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he is in the zone during games.",
+    "target": "he is highly focused during games.",
+    "term": "zone",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i need to hang the wet clothes outside.",
+    "target": "i need to hang the wet clothes outside.",
+    "term": "hang",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that new song is tight.",
+    "target": "that new song is excellent.",
+    "term": "tight",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "tell me the tea",
+    "target": "tell me the gossip",
+    "term": "tea",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he made a sharp remark at the meeting.",
+    "target": "he made a cutting remark at the meeting.",
+    "term": "sharp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she measured the heat with a thermometer.",
+    "target": "she measured the heat with a thermometer.",
+    "term": "heat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "who will cover the night shift tonight?",
+    "target": "who will take the night shift tonight?",
+    "term": "cover",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that pick is washed now.",
+    "target": "that pick is no longer effective.",
+    "term": "washed",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her cold reply hurt me.",
+    "target": "her unemotional reply hurt me.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate",
+    "target": "she ate and left no crumbs on the plate",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he tried to flex his vacation",
+    "target": "he tried to show off his vacation",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the food was nasty.",
+    "target": "the food was nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the meal was cooked by my mom.",
+    "target": "the meal was cooked by my mom.",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the abandoned dog looked savage and scared.",
+    "target": "the abandoned dog looked savage and scared.",
+    "term": "savage",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "everyone called the show mid.",
+    "target": "everyone called the show mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the lake is salty.",
+    "target": "the lake is salty.",
+    "term": "salty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she killed the exam.",
+    "target": "she did extremely well on the exam.",
+    "term": "kill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "my shirt is hooked on the zipper.",
+    "target": "my shirt is hooked on the zipper.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bike crashed into the fence.",
+    "target": "the bike crashed into the fence.",
+    "term": "crash",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "shoot me your address and i'll drop by.",
+    "target": "send me your address and i'll come by.",
+    "term": "shoot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the food was nasty",
+    "target": "the food was nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "her album really slaps.",
+    "target": "her album is really excellent.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "we were hammered by midnight.",
+    "target": "we were very drunk by midnight.",
+    "term": "hammered",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i want to shoot her portrait this weekend.",
+    "target": "i want to shoot her portrait this weekend.",
+    "term": "shoot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this playlist slaps.",
+    "target": "this playlist is excellent.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the keys hang on a hook by the door.",
+    "target": "the keys hang on a hook by the door.",
+    "term": "hang",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "don't press me for details.",
+    "target": "don't push me for details.",
+    "term": "press",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she was beat after the hike.",
+    "target": "she was exhausted after the hike.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i will roast you if you start bragging.",
+    "target": "i will make fun of you if you start bragging.",
+    "term": "roast",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "be careful or the bubble will pop.",
+    "target": "be careful or the bubble will pop.",
+    "term": "pop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that roast delivered a savage burn.",
+    "target": "that roast contained a very harsh insult.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the trend popped on Twitter.",
+    "target": "the trend became very popular on Twitter.",
+    "term": "pop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they splashed out on a new car.",
+    "target": "they spent a lot of money on a new car.",
+    "term": "splash",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she ate the speech",
+    "target": "she did very well in the speech",
+    "term": "ate",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "we're cooked without a backup plan",
+    "target": "we're in trouble without a backup plan",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "they busted him breaking into cars.",
+    "target": "they arrested him for breaking into cars.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she splashed out on designer shoes.",
+    "target": "she spent a lot of money on designer shoes.",
+    "term": "splash",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "dip the cookie in the milk.",
+    "target": "dip the cookie in the milk.",
+    "term": "dip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the singer was in the zone during the concert.",
+    "target": "the singer was fully focused during the concert.",
+    "term": "zone",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this scene hits different.",
+    "target": "this scene feels especially meaningful.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "we got stomped in the playoffs.",
+    "target": "we were beaten badly in the playoffs.",
+    "term": "stomp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they understood the assignment with that performance",
+    "target": "they did exactly what was needed with that performance",
+    "term": "understood the assignment",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "you are tripping about nothing",
+    "target": "you are overreacting about nothing",
+    "term": "tripping",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "they smoked the competition last season.",
+    "target": "they defeated the competition decisively last season.",
+    "term": "smoke",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the steady beat helped me sleep.",
+    "target": "the steady beat helped me sleep.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she is still salty about the fan",
+    "target": "she is still upset about the fan",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "her beat really slaps",
+    "target": "her beat is really excellent",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the stage was lit for the concert.",
+    "target": "the stage was lit for the concert.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that was a main character outfit.",
+    "target": "that was a very confident and central outfit.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "please don't stomp on my new shoes.",
+    "target": "please don't stomp on my new shoes.",
+    "term": "stomp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we're down if you want to go early.",
+    "target": "we are willing to go early if you want.",
+    "term": "down",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the windshield is cracked.",
+    "target": "the windshield is cracked.",
+    "term": "cracked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "can we crash at their apartment",
+    "target": "can we sleep at their apartment",
+    "term": "crash",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the bass line was nasty",
+    "target": "the bass line was amazing",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "this is main character outfit",
+    "target": "this feels very confident and central",
+    "term": "main character",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this is main character moment",
+    "target": "this feels very confident and central",
+    "term": "main character",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the new single really brings the heat.",
+    "target": "the new single is very impressive.",
+    "term": "heat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the party has a relaxed vibe.",
+    "target": "the party has a relaxed atmosphere.",
+    "term": "vibe",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i ship that couple.",
+    "target": "i support that couple as a couple.",
+    "term": "ship",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i'm tripping thinking i failed the test.",
+    "target": "i'm worried that i failed the test.",
+    "term": "trip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the cop took my statement.",
+    "target": "the cop took my statement.",
+    "term": "cop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the hunter tried to kill the deer.",
+    "target": "the hunter tried to kill the deer.",
+    "term": "kill",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she is still salty about the player.",
+    "target": "she is still upset about the player.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i hit a bump on the road.",
+    "target": "i hit a bump on the road.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we stomped the rivals in last night's match.",
+    "target": "we defeated the rivals decisively in last night's match.",
+    "term": "stomp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he's flexing his playlist on social media.",
+    "target": "he is showing off his playlist on social media.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "i might slide into your inbox tomorrow.",
+    "target": "i might send you a private message tomorrow.",
+    "term": "slide",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "you killed it on stage last night.",
+    "target": "you performed extremely well on stage last night.",
+    "term": "kill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that design was sick",
+    "target": "that design was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the mask fits tight around my face.",
+    "target": "the mask fits tight around my face.",
+    "term": "tight",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i was wrecked after the workout.",
+    "target": "i was exhausted after the workout.",
+    "term": "wreck",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm deadass hungry.",
+    "target": "i am seriously hungry.",
+    "term": "deadass",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this app is legit",
+    "target": "this app is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the hunter tried to kill the deer.",
+    "target": "the hunter tried to kill the deer.",
+    "term": "kill",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the food was nasty",
+    "target": "the food was nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "we smoked them in the tournament.",
+    "target": "we defeated them decisively in the tournament.",
+    "term": "smoke",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "their defense played nasty tonight.",
+    "target": "their defense played aggressively and effectively tonight.",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "bet, the deal works",
+    "target": "okay, the deal works",
+    "term": "bet",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i want to shoot her portrait this weekend.",
+    "target": "i want to shoot her portrait this weekend.",
+    "term": "shoot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his goal was nasty",
+    "target": "his goal was amazing",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the answer was clutch.",
+    "target": "the answer was decisive.",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "everyone called the singer the goat",
+    "target": "everyone called the singer the greatest of all time",
+    "term": "goat",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this beat goes hard",
+    "target": "this beat is impressive",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the candidate faced the heat during the debate.",
+    "target": "the candidate faced intense pressure during the debate.",
+    "term": "heat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the vase is cracked.",
+    "target": "the vase is cracked.",
+    "term": "cracked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they said they're down to volunteer this weekend.",
+    "target": "they said they are willing to volunteer this weekend.",
+    "term": "down",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he threw shade at her.",
+    "target": "he subtly insulted her.",
+    "term": "throw shade",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they were throwing shade at her",
+    "target": "they were subtly insulting her",
+    "term": "throw shade",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they have beef with the rival.",
+    "target": "they have a conflict with the rival.",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the cat will rip the curtains if you leave the window open.",
+    "target": "the cat will rip the curtains if you leave the window open.",
+    "term": "rip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that episode hits different.",
+    "target": "that episode feels especially meaningful.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they slayed the routine.",
+    "target": "they did extremely well in the routine.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he threw shade at him.",
+    "target": "he subtly insulted him.",
+    "term": "throw shade",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the zipper is busted.",
+    "target": "the zipper is busted.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he had main character outfit",
+    "target": "he seemed very confident and central with his outfit",
+    "term": "main character",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "someone snatched my purse",
+    "target": "someone snatched my purse",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they have beef with the team",
+    "target": "they have a conflict with the team",
+    "term": "beef",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the play required many props.",
+    "target": "the play required many props.",
+    "term": "props",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he got roasted during the standup set.",
+    "target": "he was mocked during the standup routine.",
+    "term": "roast",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm cooked for the presentation",
+    "target": "i am in trouble for the presentation",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "her memory hits different.",
+    "target": "her memory feels especially meaningful.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "her verse was nasty",
+    "target": "her verse was amazing",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "shoot me a quick reply so i can plan.",
+    "target": "send me a quick reply so i can plan.",
+    "term": "shoot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that chef is the goat.",
+    "target": "that chef is the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i felt floored after hearing the verdict.",
+    "target": "i felt overwhelmed after hearing the verdict.",
+    "term": "floor",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the decrease in sales was sharp.",
+    "target": "the decrease in sales was sharp.",
+    "term": "sharp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that last-minute answer was clutch",
+    "target": "that last-minute answer was decisive",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "drop the letter in the mailbox.",
+    "target": "drop the letter in the mailbox.",
+    "term": "drop",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the host ripped the guest for missing facts.",
+    "target": "the host criticized the guest for missing facts.",
+    "term": "rip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i tripped on the sidewalk and scraped my knee.",
+    "target": "i tripped on the sidewalk and scraped my knee.",
+    "term": "trip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they ate and left no crumbs with that routine",
+    "target": "they did extremely well with that routine",
+    "term": "ate and left no crumbs",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they lowkey love this",
+    "target": "they somewhat love this",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "be careful, the pan has a lot of heat.",
+    "target": "be careful, the pan has a lot of heat.",
+    "term": "heat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that comeback was nasty.",
+    "target": "that comeback was harsh.",
+    "term": "nasty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "beef tacos are on the menu",
+    "target": "beef tacos are on the menu",
+    "term": "beef",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "she is a chill person",
+    "target": "she is a relaxed person",
+    "term": "chill",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i smelled smoke outside.",
+    "target": "i smelled smoke outside.",
+    "term": "smoke",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "can you roast the coffee beans today?",
+    "target": "can you roast the coffee beans today?",
+    "term": "roast",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he climbed down the ladder slowly.",
+    "target": "he climbed down the ladder slowly.",
+    "term": "down",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she tries to stunt for likes on her profile.",
+    "target": "she tries to show off for likes on her profile.",
+    "term": "stunt",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "that solo was sick",
+    "target": "that solo was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i'll cover the morning route this week.",
+    "target": "i'll take the morning route this week.",
+    "term": "cover",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "there's a nasty stain on the shirt.",
+    "target": "there's a nasty stain on the shirt.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the verse went hard.",
+    "target": "the verse was impressive.",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that meal is legit",
+    "target": "that meal is excellent",
+    "term": "legit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this edit is fire",
+    "target": "this edit is excellent",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i'll spot you the entry fee.",
+    "target": "i will cover the entry fee for you.",
+    "term": "spot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they have beef with the team",
+    "target": "they have a conflict with the team",
+    "term": "beef",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he's cooked after getting caught.",
+    "target": "he is in serious trouble after getting caught.",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "stop tripping and answer the email.",
+    "target": "stop worrying and answer the email.",
+    "term": "trip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "don't ghost his date",
+    "target": "do not ignore his date",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "be careful, the pan is hot.",
+    "target": "be careful, the pan is hot.",
+    "term": "hot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she stomped her foot to get their attention.",
+    "target": "she stomped her foot to get their attention.",
+    "term": "stomp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she pulled the cover over the sleeping child.",
+    "target": "she pulled the cover over the sleeping child.",
+    "term": "cover",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this app is legit",
+    "target": "this app is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "before you leave, shoot me a note about the keys.",
+    "target": "before you leave, send me a note about the keys.",
+    "term": "shoot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we ship the main characters",
+    "target": "we support the main characters as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "last night's night was lit.",
+    "target": "last night's night was exciting.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that concert was chill.",
+    "target": "that concert was relaxed.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the windshield got cracked.",
+    "target": "the windshield got cracked.",
+    "term": "cracked",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate",
+    "target": "she ate and left no crumbs on the plate",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the trend popped on Twitter.",
+    "target": "the trend became very popular on Twitter.",
+    "term": "pop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the soup tastes bussin.",
+    "target": "the soup tastes delicious.",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "who will cover the night shift tonight?",
+    "target": "who will take the night shift tonight?",
+    "term": "cover",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they have beef with the team",
+    "target": "they have a conflict with the team",
+    "term": "beef",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she had a bad burn after the accident.",
+    "target": "she had a bad burn after the accident.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this edit goes hard",
+    "target": "this edit is impressive",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the party has a relaxed vibe.",
+    "target": "the party has a relaxed atmosphere.",
+    "term": "vibe",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the paint job left a nasty finish.",
+    "target": "the paint job left a nasty finish.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "stop roasting me for my haircut.",
+    "target": "stop making fun of me for my haircut.",
+    "term": "roast",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this transition is sick.",
+    "target": "this transition is excellent.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they bumped the new song all night.",
+    "target": "they played the new song loudly all night.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the website is legit",
+    "target": "the website is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the business is legit",
+    "target": "the business is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this feature was legit",
+    "target": "this feature was excellent",
+    "term": "legit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i got hammered at the wedding last weekend.",
+    "target": "i got very drunk at the wedding last weekend.",
+    "term": "hammered",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she stomped out of the room in anger.",
+    "target": "she stomped out of the room in anger.",
+    "term": "stomp",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "her hands were washed before lunch.",
+    "target": "her hands were washed before lunch.",
+    "term": "washed",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the save was clutch",
+    "target": "the save was decisive",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i hit a bump on the road.",
+    "target": "i hit a bump on the road.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we need paper to start the business.",
+    "target": "we need money to start the business.",
+    "term": "paper",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i hit the glass with a spoon.",
+    "target": "i hit the glass with a spoon.",
+    "term": "hit",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she threw shade at the singer",
+    "target": "she subtly insulted the singer",
+    "term": "throw shade",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "my guy is chill",
+    "target": "my guy is relaxed",
+    "term": "chill",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "can i crash at their guest room?.",
+    "target": "can i sleep at their guest room?.",
+    "term": "crash",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this outfit is hot.",
+    "target": "this outfit is very fashionable.",
+    "term": "hot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the drummer kept the beat.",
+    "target": "the drummer kept the beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he stoked the fire with more wood.",
+    "target": "he stoked the fire with more wood.",
+    "term": "stoked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "a savage jungle stretched for miles.",
+    "target": "a savage jungle stretched for miles.",
+    "term": "savage",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they made paper from that deal.",
+    "target": "they made money from that deal.",
+    "term": "paper",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that pro gamer is washed.",
+    "target": "that professional gamer is no longer good.",
+    "term": "washed",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "he gave a cold performance.",
+    "target": "he gave an unemotional performance.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "flex the ankle slowly",
+    "target": "flex the ankle slowly",
+    "term": "flex",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "this is main character entrance.",
+    "target": "this feels very confident and central.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they have beef with the rapper",
+    "target": "they have a conflict with the rapper",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "her intro hits hard.",
+    "target": "her intro is impressive.",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i got busted cheating on the exam.",
+    "target": "i was caught cheating on the exam.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that jacket adds drip.",
+    "target": "that jacket adds style.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "my steak is cooked medium rare.",
+    "target": "my steak is cooked medium rare.",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "his sneaker game is tight.",
+    "target": "his sneakers are very stylish.",
+    "term": "tight",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that was just a stunt to get followers.",
+    "target": "that was just an attempt to show off to get followers.",
+    "term": "stunt",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her song really slaps.",
+    "target": "her song is really excellent.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "her debut album is a hit.",
+    "target": "her debut album is very popular.",
+    "term": "hit",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he slayed the audition.",
+    "target": "he did extremely well in the audition.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "his message seems sus.",
+    "target": "his message seems suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they have beef with the team",
+    "target": "they have a conflict with the team",
+    "term": "beef",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that message is sus.",
+    "target": "that message is suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "don't stunt in front of the guests.",
+    "target": "don't show off in front of the guests.",
+    "term": "stunt",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the camera lens is busted.",
+    "target": "the camera lens is busted.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the campfire lit quickly in the wind.",
+    "target": "the campfire lit quickly in the wind.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his goal was clutch.",
+    "target": "his goal was decisive.",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he cleaned the spot with soap.",
+    "target": "he cleaned the spot with soap.",
+    "term": "spot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm tripping thinking i failed the test.",
+    "target": "i'm worried that i failed the test.",
+    "term": "trip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that reaction was extra",
+    "target": "that reaction was excessive",
+    "term": "extra",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the bus is coming.",
+    "target": "the bus is coming.",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the ball rolled down the hill.",
+    "target": "the ball rolled down the hill.",
+    "term": "down",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "don't splash water on the floor.",
+    "target": "don't splash water on the floor.",
+    "term": "splash",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they slayed the audition.",
+    "target": "they did extremely well in the audition.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "last night's night was lit",
+    "target": "last night's night was exciting",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the food was nasty.",
+    "target": "the food was nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the food was nasty",
+    "target": "the food was nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that cut looks nasty.",
+    "target": "that cut looks nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "your new shoes are bad.",
+    "target": "your new shoes are very stylish.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "we were hooked by the opening scene.",
+    "target": "the opening scene immediately captured our interest.",
+    "term": "hooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit",
+    "target": "the website is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the fish is cooked through.",
+    "target": "the fish is cooked through.",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they ate and left no crumbs with that scene",
+    "target": "they did extremely well with that scene",
+    "term": "ate and left no crumbs",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she ghosted the group chat.",
+    "target": "she stopped responding to the group chat.",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he is tripping on the stairs",
+    "target": "he is tripping on the stairs",
+    "term": "tripping",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "they lowkey like this song",
+    "target": "they somewhat like this song",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he practiced the fire stunt carefully.",
+    "target": "he practiced the fire stunt carefully.",
+    "term": "stunt",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that plan was extra.",
+    "target": "that plan was excessive.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "his story was shady.",
+    "target": "his story was suspicious.",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i want to cop those shoes.",
+    "target": "i want to buy those shoes.",
+    "term": "cop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "everyone called the performance mid.",
+    "target": "everyone called the performance mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that's a sharp move.",
+    "target": "that's a clever move.",
+    "term": "sharp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bus is coming.",
+    "target": "the bus is coming.",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this gadget is a hit among students.",
+    "target": "this gadget is very popular among students.",
+    "term": "hit",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they drew a safe zone around the camp.",
+    "target": "they drew a safe zone around the camp.",
+    "term": "zone",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his beef with the friend got worse",
+    "target": "his conflict with the friend got worse",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this deal was legit",
+    "target": "this deal was excellent",
+    "term": "legit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the new beat slaps.",
+    "target": "the new beat is excellent.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "fire smoke filled the room",
+    "target": "fire smoke filled the room",
+    "term": "fire",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "this phone is hot.",
+    "target": "this phone is very popular at the moment.",
+    "term": "hot",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "you can feel the beat in your chest.",
+    "target": "you can feel the beat in your chest.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the device's vibe interfered with the signal.",
+    "target": "the device's vibe interfered with the signal.",
+    "term": "vibe",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the new routine was sick",
+    "target": "the new routine was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he splashed money on his birthday guests.",
+    "target": "he spent a lot of money on his birthday guests to impress them.",
+    "term": "splash",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the metal is hot.",
+    "target": "the metal is hot.",
+    "term": "hot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they dipped when the teacher entered.",
+    "target": "they left when the teacher entered.",
+    "term": "dip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i felt the vibe from the bass.",
+    "target": "i felt the vibe from the bass.",
+    "term": "vibe",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "be careful not to rip the sticker when you peel it.",
+    "target": "be careful not to rip the sticker when you peel it.",
+    "term": "rip",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "stop throwing shade at them",
+    "target": "stop subtly insulting them",
+    "term": "throw shade",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i was stoked when my team won.",
+    "target": "i was very excited when my team won.",
+    "term": "stoked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he added a dip of soy sauce to the rice.",
+    "target": "he added a dip of soy sauce to the rice.",
+    "term": "dip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the car got washed yesterday.",
+    "target": "the car got washed yesterday.",
+    "term": "washed",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "they tripped on the uneven pavement.",
+    "target": "they tripped on the uneven pavement.",
+    "term": "trip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "put the paper in the folder.",
+    "target": "put the paper in the folder.",
+    "term": "paper",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the business is legit",
+    "target": "the business is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he got busted for shoplifting.",
+    "target": "he was arrested for shoplifting.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the soup is cold.",
+    "target": "the soup is cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we crashed at his apartment",
+    "target": "we slept at his apartment",
+    "term": "crash",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he gave me a fresh answer.",
+    "target": "he gave me a rude answer.",
+    "term": "fresh",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the lamp is lit in the hallway.",
+    "target": "the lamp is lit in the hallway.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "their motorcycle was a total wreck.",
+    "target": "their motorcycle was a total wreck.",
+    "term": "wreck",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the cat slept on the kitchen floor.",
+    "target": "the cat slept on the kitchen floor.",
+    "term": "floor",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the room felt cold.",
+    "target": "the room felt cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she has beef with her classmate.",
+    "target": "she has a conflict with her classmate.",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "don't ghost her friend.",
+    "target": "do not ignore her friend.",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "her birthday party was lit.",
+    "target": "her birthday party was lively and exciting.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the basement has a nasty dampness.",
+    "target": "the basement has a nasty dampness.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the paint is fresh.",
+    "target": "the paint is fresh.",
+    "term": "fresh",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the cop pulled me over.",
+    "target": "the cop pulled me over.",
+    "term": "cop",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "i stoked the wood stove to warm the house.",
+    "target": "i stoked the wood stove to warm the house.",
+    "term": "stoked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he might ghost me",
+    "target": "he might stop responding to me",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the boat made a big splash when it hit the waves.",
+    "target": "the boat made a big splash when it hit the waves.",
+    "term": "splash",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the chef will roast the lamb until it is tender.",
+    "target": "the chef will roast the lamb until it is tender.",
+    "term": "roast",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "when he raps, he brings the heat every time.",
+    "target": "when he raps, he performs exceptionally well every time.",
+    "term": "heat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "wanna hang tonight?",
+    "target": "do you want to spend time together tonight?",
+    "term": "hang",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm trying to get paper this month.",
+    "target": "i am trying to earn money this month.",
+    "term": "paper",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they said they're down to volunteer this weekend.",
+    "target": "they said they are willing to volunteer this weekend.",
+    "term": "down",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the props table is at the back.",
+    "target": "the props table is at the back.",
+    "term": "props",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm worried i'll trip during the performance.",
+    "target": "i'm worried i'll trip during the performance.",
+    "term": "trip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the toddler likes to stomp in puddles.",
+    "target": "the toddler likes to stomp in puddles.",
+    "term": "stomp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate rice",
+    "target": "she ate rice",
+    "term": "ate",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "don't let them rip you for a mistake.",
+    "target": "don't let them harshly criticize you for a mistake.",
+    "term": "rip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the soup is hot.",
+    "target": "the soup is hot.",
+    "term": "hot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they ripped a hole in the tarp.",
+    "target": "they ripped a hole in the tarp.",
+    "term": "rip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that guy is fit.",
+    "target": "that guy is attractive.",
+    "term": "fit",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "he dipped from the event",
+    "target": "he left the event",
+    "term": "dipped",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "she's sharp at math.",
+    "target": "she is very good at math.",
+    "term": "sharp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his cough sounds bad.",
+    "target": "his cough sounds bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the car got washed yesterday.",
+    "target": "the car got washed yesterday.",
+    "term": "washed",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her roast was savage.",
+    "target": "her roast was brutally harsh.",
+    "term": "savage",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the paper is wet from the rain.",
+    "target": "the paper is wet from the rain.",
+    "term": "paper",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the recipe says to roast the peppers until charred.",
+    "target": "the recipe says to roast the peppers until charred.",
+    "term": "roast",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "he copped a vintage jacket at the thrift store.",
+    "target": "he bought a vintage jacket at the thrift store.",
+    "term": "cop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "do you ship those two?",
+    "target": "do you support those two as a couple?",
+    "term": "ship",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "these chips are too salty.",
+    "target": "these chips are too salty.",
+    "term": "salty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bread is fresh.",
+    "target": "the bread is fresh.",
+    "term": "fresh",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she is deadass tired.",
+    "target": "she is seriously tired.",
+    "term": "deadass",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "press the juice from the fruit.",
+    "target": "press the juice from the fruit.",
+    "term": "press",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i was stoked when my team won.",
+    "target": "i was very excited when my team won.",
+    "term": "stoked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he gave me a fresh answer.",
+    "target": "he gave me a rude answer.",
+    "term": "fresh",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that speech understood the assignment.",
+    "target": "that speech did exactly what was needed.",
+    "term": "understood the assignment",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the website is legit",
+    "target": "the website is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the hacker cracked the server.",
+    "target": "the hacker broke into the server.",
+    "term": "cracked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the party got lit fast",
+    "target": "the party got exciting fast",
+    "term": "lit",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "the bus is coming.",
+    "target": "the bus is coming.",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the food was nasty.",
+    "target": "the food was nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i love the ride at the fair.",
+    "target": "i love the ride at the fair.",
+    "term": "ride",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the basement always has a damp chill.",
+    "target": "the basement always has a damp chill.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she tried to crush the ice for the drinks.",
+    "target": "she tried to crush the ice for the drinks.",
+    "term": "crush",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his seller was shady.",
+    "target": "his seller was suspicious.",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "he got salty about the comment.",
+    "target": "he got upset about the comment.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this party is sick.",
+    "target": "this party is awesome.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she is a chill friend",
+    "target": "she is a relaxed friend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the candidate faced the heat during the debate.",
+    "target": "the candidate faced intense pressure during the debate.",
+    "term": "heat",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they slayed the outfit.",
+    "target": "they did extremely well in the outfit.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "my neighbor hammered at the door all night.",
+    "target": "my neighbor hammered at the door all night.",
+    "term": "hammered",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they gave a savage review of the play.",
+    "target": "they gave a brutally harsh review of the play.",
+    "term": "savage",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the food was nasty",
+    "target": "the food was nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "their motorcycle was a total wreck.",
+    "target": "their motorcycle was a total wreck.",
+    "term": "wreck",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "their beef with the rival is old",
+    "target": "their conflict with the rival is old",
+    "term": "beef",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "don't get fresh with me.",
+    "target": "don't be rude to me.",
+    "term": "fresh",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate.",
+    "target": "she ate and left no crumbs on the plate.",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "careful, the pan is hot.",
+    "target": "careful, the pan is hot.",
+    "term": "hot",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "he got a burn on his arm.",
+    "target": "he got a burn on his arm.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "don't drop the vase.",
+    "target": "don't drop the vase.",
+    "term": "drop",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "everyone called the chef the goat.",
+    "target": "everyone called the chef the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "slide into my dms with the details.",
+    "target": "send me a private direct message with the details.",
+    "term": "slide",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the garbage smelled nasty",
+    "target": "the garbage smelled nasty",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "she prepared a garlic dip for the vegetables.",
+    "target": "she prepared a garlic dip for the vegetables.",
+    "term": "dip",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that dessert was bussin.",
+    "target": "that dessert was delicious.",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i have a crush on my neighbor.",
+    "target": "i am romantically attracted to my neighbor.",
+    "term": "crush",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she hit him during the game.",
+    "target": "she hit him during the game.",
+    "term": "hit",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he got salty when his idea was ignored.",
+    "target": "he became resentful when his idea was ignored.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her outfit is straight fire.",
+    "target": "her outfit is excellent.",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she spilled tea on her shirt",
+    "target": "she spilled tea on her shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the food was nasty.",
+    "target": "the food was nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "can i crash at her couch?",
+    "target": "can i sleep at her couch?",
+    "term": "crash",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "we were stoked to get the tickets.",
+    "target": "we were very excited to get the tickets.",
+    "term": "stoked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the hallway was well lit.",
+    "target": "the hallway was well lit.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "template"
+  },
+  {
+    "input": "this episode feels mid.",
+    "target": "this episode feels mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the weather is bad.",
+    "target": "the weather is bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this is a no-parking zone.",
+    "target": "this is a no-parking zone.",
+    "term": "zone",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she ate and left no crumbs on the plate",
+    "target": "she ate and left no crumbs on the plate",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the temperature went down last night.",
+    "target": "the temperature went down last night.",
+    "term": "down",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "what's the tea about the group chat.",
+    "target": "what is the gossip about the group chat.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "use a cover to protect the phone screen.",
+    "target": "use a cover to protect the phone screen.",
+    "term": "cover",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the device's vibe interfered with the signal.",
+    "target": "the device's vibe interfered with the signal.",
+    "term": "vibe",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the basement stays chill all summer.",
+    "target": "the basement stays chill all summer.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "she's stoked about her promotion.",
+    "target": "she is very excited about her promotion.",
+    "term": "stoked",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the paint job left a nasty finish.",
+    "target": "the paint job left a nasty finish.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they ripped her on stage.",
+    "target": "they made fun of her on stage.",
+    "term": "rip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that plan is legit",
+    "target": "that plan is excellent",
+    "term": "legit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the smoke from the grill smelled good.",
+    "target": "the smoke from the grill smelled good.",
+    "term": "smoke",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that trick was bad.",
+    "target": "that trick was incredible.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we stomped the rivals in last night's match.",
+    "target": "we defeated the rivals decisively in last night's match.",
+    "term": "stomp",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he made a savage comeback.",
+    "target": "he made an impressively ruthless comeback.",
+    "term": "savage",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the news floored me.",
+    "target": "the news surprised me greatly.",
+    "term": "floor",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "that show was lit",
+    "target": "that show was exciting",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she has beef with her rival",
+    "target": "she has a conflict with her rival",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "my phone screen is busted.",
+    "target": "my phone screen is busted.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the player is goated.",
+    "target": "the player is excellent.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that vacation was a flex.",
+    "target": "that vacation was showing off.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "a chill wind blew through the alley.",
+    "target": "a chill wind blew through the alley.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the festival got lit.",
+    "target": "the festival got exciting.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "his excuse seems sus",
+    "target": "his excuse seems suspicious",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she pressed him to sign the contract.",
+    "target": "she urged him to sign the contract.",
+    "term": "press",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "people ship the main characters",
+    "target": "people support the main characters as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "we crashed at your place",
+    "target": "we slept at your place",
+    "term": "crash",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "don't let the decorations hang too low.",
+    "target": "don't let the decorations hang too low.",
+    "term": "hang",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she lowkey like this song.",
+    "target": "she somewhat like this song.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the food was nasty.",
+    "target": "the food was nasty.",
+    "term": "nasty",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "she is still salty about the friend.",
+    "target": "she is still upset about the friend.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the tea bag ripped",
+    "target": "the tea bag ripped",
+    "term": "tea",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "he practiced the fire stunt carefully.",
+    "target": "he practiced the fire stunt carefully.",
+    "term": "stunt",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "i am cooked for the presentation.",
+    "target": "i am in trouble for the presentation.",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i smoked him in chess.",
+    "target": "i defeated him decisively in chess.",
+    "term": "smoke",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his excuse was shady",
+    "target": "his excuse was suspicious",
+    "term": "shady",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that festival was lit.",
+    "target": "that festival was exciting.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that's a big flex",
+    "target": "that is a big way to show off",
+    "term": "flex",
+    "sense": "slang",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i stoked the wood stove to warm the house.",
+    "target": "i stoked the wood stove to warm the house.",
+    "term": "stoked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he got salty about the player",
+    "target": "he got upset about the player",
+    "term": "salty",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "smoke rose from the chimney.",
+    "target": "smoke rose from the chimney.",
+    "term": "smoke",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the news wrecked him.",
+    "target": "the news devastated him.",
+    "term": "wreck",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "they came back hammered from the bar.",
+    "target": "they came back very drunk from the bar.",
+    "term": "hammered",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the speaker made the balloon pop.",
+    "target": "the speaker made the balloon pop.",
+    "term": "pop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his beef with the classmate got worse",
+    "target": "his conflict with the classmate got worse",
+    "term": "beef",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "that design was fire.",
+    "target": "that design was excellent.",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "don't ghost the client",
+    "target": "do not ignore the client",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "last night's party was lit.",
+    "target": "last night's party was exciting.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the candle lit the hallway",
+    "target": "the candle lit the hallway",
+    "term": "lit",
+    "sense": "literal",
+    "source": "v4_dev_contrast"
+  },
+  {
+    "input": "his message seems sus",
+    "target": "his message seems suspicious",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "they splashed a fortune on their wedding.",
+    "target": "they spent a huge amount of money on their wedding.",
+    "term": "splash",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "this meal hits different.",
+    "target": "this meal feels especially meaningful.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the deal looked sus",
+    "target": "the deal looked suspicious",
+    "term": "sus",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "give him props for finishing the project.",
+    "target": "give him credit for finishing the project.",
+    "term": "props",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her design is straight fire",
+    "target": "her design is excellent",
+    "term": "fire",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she's down for sushi after work.",
+    "target": "she is willing to go for sushi after work.",
+    "term": "down",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "last night's performance was lit",
+    "target": "last night's performance was exciting",
+    "term": "lit",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "i copped the limited edition skin in Fortnite.",
+    "target": "i bought the limited edition skin in Fortnite.",
+    "term": "cop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "after the hike i'm cooked.",
+    "target": "i am exhausted after the hike.",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that meal was mid",
+    "target": "that meal was mediocre",
+    "term": "mid",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "these jeans are tight.",
+    "target": "these jeans are tight.",
+    "term": "tight",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that teacher is the goat.",
+    "target": "that teacher is the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "children love to slide at the playground.",
+    "target": "children love to slide at the playground.",
+    "term": "slide",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she has main character entrance",
+    "target": "she seems very confident and central with her entrance",
+    "term": "main character",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she beat the eggs for the cake.",
+    "target": "she beat the eggs for the cake.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "what's the tea about the timeline.",
+    "target": "what is the gossip about the timeline.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the fish was hooked.",
+    "target": "the fish was hooked.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i copped the limited edition skin in Fortnite.",
+    "target": "i bought the limited edition skin in Fortnite.",
+    "term": "cop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "please drop the books on the table.",
+    "target": "please drop the books on the table.",
+    "term": "drop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "a yellow spot appeared on the leaf.",
+    "target": "a yellow spot appeared on the leaf.",
+    "term": "spot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "they have beef with the team",
+    "target": "they have a conflict with the team",
+    "term": "beef",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "there is a spot on the window.",
+    "target": "there is a spot on the window.",
+    "term": "spot",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "be careful not to drop your phone.",
+    "target": "be careful not to drop your phone.",
+    "term": "drop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "her line hits hard",
+    "target": "her line is impressive",
+    "term": "hard",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she's stunting with that designer bag.",
+    "target": "she's showing off with that designer bag.",
+    "term": "stunt",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the fish was hooked",
+    "target": "the fish was hooked",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "my sleeve got hooked on the fence.",
+    "target": "my sleeve got hooked on the fence.",
+    "term": "hooked",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the water is cold.",
+    "target": "the water is cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "her TikTok popped and she got thousands of followers.",
+    "target": "her TikTok became very popular and she got thousands of followers.",
+    "term": "pop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "can you spot me ten bucks?",
+    "target": "can you lend me ten dollars?",
+    "term": "spot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the exam wrecked me.",
+    "target": "the exam overwhelmed me.",
+    "term": "wreck",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he killed the interview today.",
+    "target": "he did extremely well in the interview today.",
+    "term": "kill",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "we will roast a turkey for the holiday.",
+    "target": "we will roast a turkey for the holiday.",
+    "term": "roast",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she was in the zone and finished the painting in one night.",
+    "target": "she was completely focused and finished the painting in one night.",
+    "term": "zone",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the sea water is salty.",
+    "target": "the sea water is salty.",
+    "term": "salty",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she dropped a surprise mixtape overnight.",
+    "target": "she released a surprise mixtape overnight.",
+    "term": "drop",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he is a chill neighbor",
+    "target": "he is a relaxed neighbor",
+    "term": "chill",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the bus is coming.",
+    "target": "the bus is coming.",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that last-minute assist was clutch",
+    "target": "that last-minute assist was decisive",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the business is legit",
+    "target": "the business is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "you're hooked if you try that cake.",
+    "target": "you will become addicted if you try that cake.",
+    "term": "hooked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "he is a chill neighbor.",
+    "target": "he is a relaxed neighbor.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the windshield is cracked.",
+    "target": "the windshield is cracked.",
+    "term": "cracked",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that album is my jam",
+    "target": "that album is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the balloon might pop during the party.",
+    "target": "the balloon might pop during the party.",
+    "term": "pop",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this sandwich is bussin.",
+    "target": "this sandwich is delicious.",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "the sun gave me a burn at the beach.",
+    "target": "the sun gave me a burn at the beach.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that playlist slaps",
+    "target": "that playlist is excellent",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "try not to trip over what she said; move on.",
+    "target": "try not to worry about what she said; move on.",
+    "term": "trip",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "after the all-nighter i'm totally beat.",
+    "target": "after the all-nighter i am completely exhausted.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the new goal was sick.",
+    "target": "the new goal was excellent.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the old house was a wreck after the fire.",
+    "target": "the old house was a wreck after the fire.",
+    "term": "wreck",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she cracked the presentation and wowed everyone.",
+    "target": "she delivered the presentation brilliantly and impressed everyone.",
+    "term": "cracked",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the props department is busy today.",
+    "target": "the props department is busy today.",
+    "term": "props",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "bet, the answer works",
+    "target": "okay, the answer works",
+    "term": "bet",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "press the button to start the machine.",
+    "target": "press the button to start the machine.",
+    "term": "press",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "this song is my jam",
+    "target": "this song is my favorite",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "let's dip before the traffic gets bad.",
+    "target": "let's leave before the traffic gets bad.",
+    "term": "dip",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his post was cap.",
+    "target": "his post was a lie.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "she climbed down the ladder.",
+    "target": "she climbed down the ladder.",
+    "term": "down",
+    "sense": "literal",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "the bus is coming",
+    "target": "the bus is coming",
+    "term": "bus",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this app is legit",
+    "target": "this app is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "props for handling the complaint calmly.",
+    "target": "give credit for handling the complaint calmly.",
+    "term": "props",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that's facts",
+    "target": "that is true",
+    "term": "facts",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "i will roast you if you start bragging.",
+    "target": "i will make fun of you if you start bragging.",
+    "term": "roast",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "his new single is hot.",
+    "target": "his new single is very popular.",
+    "term": "hot",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the website is legit.",
+    "target": "the website is legit.",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "this song is my jam.",
+    "target": "this song is my favorite.",
+    "term": "jam",
+    "sense": "slang",
+    "source": "hard_case_repeat"
+  },
+  {
+    "input": "that car is bad.",
+    "target": "that car is very cool.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "targeted_approved"
+  },
+  {
+    "input": "that cafe's vibe attracts students.",
+    "target": "that cafe's atmosphere attracts students.",
+    "term": "vibe",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "the island remained savage and unexplored.",
+    "target": "the island remained savage and unexplored.",
+    "term": "savage",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "she felt a sharp pain in her side.",
+    "target": "she felt a sharp pain in her side.",
+    "term": "sharp",
+    "sense": "literal",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "that comment was a burn.",
+    "target": "that comment was an insulting remark.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "targeted_hard_training"
+  },
+  {
+    "input": "stop capping about the answer",
+    "target": "stop lying about the answer",
+    "term": "cap",
+    "sense": "slang",
+    "source": "template"
+  },
+  {
+    "input": "the company is legit",
+    "target": "the company is legit",
+    "term": "legit",
+    "sense": "literal",
+    "source": "hard_case_repeat"
+  }
+]

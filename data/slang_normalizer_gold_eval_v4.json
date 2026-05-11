@@ -1,0 +1,135 @@
+[
+  {"input": "the concert was lit", "expected": "the concert was exciting", "term": "lit", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "that party was lit", "expected": "that party was exciting", "term": "lit", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the streets were lit by neon signs", "expected": "the streets were lit by neon signs", "term": "lit", "sense": "literal", "category": "literal_contrast"},
+  {"input": "she lit the candle", "expected": "she lit the candle", "term": "lit", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "spill the tea", "expected": "share the gossip", "term": "spill the tea", "sense": "slang", "category": "idiom"},
+  {"input": "she spilled the tea about the meeting", "expected": "she shared the gossip about the meeting", "term": "spill the tea", "sense": "slang", "category": "idiom"},
+  {"input": "he spilled tea on the table", "expected": "he spilled tea on the table", "term": "tea", "sense": "literal", "category": "literal_contrast"},
+  {"input": "i like green tea", "expected": "i like green tea", "term": "tea", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "that song is my jam", "expected": "that song is my favorite", "term": "my jam", "sense": "slang", "category": "idiom"},
+  {"input": "this playlist is my jam", "expected": "this playlist is my favorite", "term": "my jam", "sense": "slang", "category": "idiom"},
+  {"input": "i put jam on my bread", "expected": "i put jam on my bread", "term": "jam", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the traffic jam lasted an hour", "expected": "the traffic jam lasted an hour", "term": "jam", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "can i crash at your place?", "expected": "can i sleep at your place?", "term": "crash", "sense": "slang", "category": "idiom"},
+  {"input": "i crashed at my friend's house", "expected": "i slept at my friend's house", "term": "crash", "sense": "slang", "category": "idiom"},
+  {"input": "the car crash blocked traffic", "expected": "the car crash blocked traffic", "term": "crash", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the computer crashed during the update", "expected": "the computer crashed during the update", "term": "crash", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "they have beef with the coworker", "expected": "they have a conflict with the coworker", "term": "beef", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "their beef became public", "expected": "their conflict became public", "term": "beef", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "she ordered beef tacos", "expected": "she ordered beef tacos", "term": "beef", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the beef stew smelled good", "expected": "the beef stew smelled good", "term": "beef", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "that guitar solo was nasty", "expected": "that guitar solo was amazing", "term": "nasty", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "that dunk was nasty", "expected": "that dunk was amazing", "term": "nasty", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the bathroom smells nasty", "expected": "the bathroom smells nasty", "term": "nasty", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the food tasted nasty", "expected": "the food tasted nasty", "term": "nasty", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "she ate that performance", "expected": "she did very well in that performance", "term": "ate", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "she ate and left no crumbs", "expected": "she did very well", "term": "ate and left no crumbs", "sense": "slang", "category": "idiom"},
+  {"input": "she ate dinner", "expected": "she ate dinner", "term": "ate", "sense": "literal", "category": "literal_contrast"},
+  {"input": "he ate tacos after work", "expected": "he ate tacos after work", "term": "ate", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "he dipped after the party", "expected": "he left after the party", "term": "dipped", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "they dipped out before midnight", "expected": "they left before midnight", "term": "dipped", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "dip the bread in the soup", "expected": "dip the bread in the soup", "term": "dip", "sense": "literal", "category": "literal_contrast"},
+  {"input": "she dipped the chip in salsa", "expected": "she dipped the chip in salsa", "term": "dipped", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "they're tripping about one missed practice", "expected": "they're overreacting about one missed practice", "term": "tripping", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "stop tripping over nothing", "expected": "stop overreacting over nothing", "term": "tripping", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "be careful not to trip on the step", "expected": "be careful not to trip on the step", "term": "trip", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the road trip starts tomorrow", "expected": "the road trip starts tomorrow", "term": "trip", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "that trick was sick", "expected": "that trick was excellent", "term": "sick", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "this move is sick", "expected": "this move is excellent", "term": "sick", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "i feel sick today", "expected": "i feel sick today", "term": "sick", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the sick child stayed home", "expected": "the sick child stayed home", "term": "sick", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "this beat is fire", "expected": "this beat is excellent", "term": "fire", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "that outfit was fire", "expected": "that outfit was excellent", "term": "fire", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the house is on fire", "expected": "the house is on fire", "term": "fire", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the fire alarm went off", "expected": "the fire alarm went off", "term": "fire", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "that car is a flex", "expected": "that car is showing off", "term": "flex", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "he tried to flex his watch", "expected": "he tried to show off his watch", "term": "flex", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "flex your arm slowly", "expected": "flex your arm slowly", "term": "flex", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the doctor asked him to flex his knee", "expected": "the doctor asked him to flex his knee", "term": "flex", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "that's cap", "expected": "that is a lie", "term": "cap", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "stop capping about the story", "expected": "stop lying about the story", "term": "cap", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the bottle has a blue cap", "expected": "the bottle has a blue cap", "term": "cap", "sense": "literal", "category": "literal_contrast"},
+  {"input": "put the cap on the pen", "expected": "put the cap on the pen", "term": "cap", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "she ghosted me", "expected": "she stopped responding to me", "term": "ghost", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "don't ghost the recruiter", "expected": "do not ignore the recruiter", "term": "ghost", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the ghost story was scary", "expected": "the ghost story was scary", "term": "ghost", "sense": "literal", "category": "literal_contrast"},
+  {"input": "he wore a ghost costume", "expected": "he wore a ghost costume", "term": "ghost", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "he got salty after losing", "expected": "he got upset after losing", "term": "salty", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "that reply sounded salty", "expected": "that reply sounded upset", "term": "salty", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the soup is salty", "expected": "the soup is salty", "term": "salty", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the chips tasted salty", "expected": "the chips tasted salty", "term": "salty", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "the link looked shady", "expected": "the link looked suspicious", "term": "shady", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "his behavior was shady", "expected": "his behavior was suspicious", "term": "shady", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "we sat under a shady tree", "expected": "we sat under a shady tree", "term": "shady", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the shady garden stayed cool", "expected": "the shady garden stayed cool", "term": "shady", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "his drip is clean", "expected": "his style is clean", "term": "drip", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "she has serious drip", "expected": "she has serious style", "term": "drip", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the faucet has a drip", "expected": "the faucet has a drip", "term": "drip", "sense": "literal", "category": "literal_contrast"},
+  {"input": "water started to drip from the pipe", "expected": "water started to drip from the pipe", "term": "drip", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "nice fit today", "expected": "nice outfit today", "term": "fit", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "her fit was clean", "expected": "her outfit was stylish", "term": "fit", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the shoes fit well", "expected": "the shoes fit well", "term": "fit", "sense": "literal", "category": "literal_contrast"},
+  {"input": "this meeting will fit my schedule", "expected": "this meeting will fit my schedule", "term": "fit", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "the decorations were extra", "expected": "the decorations were excessive", "term": "extra", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "you do not have to be so extra", "expected": "you do not have to be so excessive", "term": "extra", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "we need an extra chair", "expected": "we need an extra chair", "term": "extra", "sense": "literal", "category": "literal_contrast"},
+  {"input": "bring extra batteries", "expected": "bring extra batteries", "term": "extra", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "that album was mid", "expected": "that album was mediocre", "term": "mid", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "that performance was mid", "expected": "that performance was mediocre", "term": "mid", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "facts", "expected": "that is true", "term": "facts", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "he said facts", "expected": "he said something true", "term": "facts", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "he is cracked at fortnite", "expected": "he is very good at fortnite", "term": "cracked", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "that player is washed", "expected": "that player is no longer good", "term": "washed", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "we're tight", "expected": "we are close friends", "term": "tight", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "these shoes are tight", "expected": "these shoes are tight", "term": "tight", "sense": "literal", "category": "literal_contrast"},
+  {"input": "you look sharp today", "expected": "you look stylish today", "term": "sharp", "sense": "slang", "category": "non_ambiguous_slang"},
+  {"input": "the knife is sharp", "expected": "the knife is sharp", "term": "sharp", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "i'm cooked for the exam", "expected": "i am in trouble for the exam", "term": "cooked", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "we're cooked for the meeting", "expected": "we are in trouble for the meeting", "term": "cooked", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the chicken is cooked", "expected": "the chicken is cooked", "term": "cooked", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the rice was cooked yesterday", "expected": "the rice was cooked yesterday", "term": "cooked", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "he is a chill guy", "expected": "he is a relaxed guy", "term": "chill", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "my teacher is chill", "expected": "my teacher is relaxed", "term": "chill", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "she's super chill", "expected": "she's super relaxed", "term": "chill", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the weather is chill today", "expected": "the weather is chill today", "term": "chill", "sense": "literal", "category": "literal_contrast"},
+  {"input": "the room felt chilly", "expected": "the room felt chilly", "term": "chill", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "we're cooked if we miss the deadline", "expected": "we're in trouble if we miss the deadline", "term": "cooked", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "this look is serving confidence", "expected": "this look is projecting confidence", "term": "serving", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the waiter is serving dinner", "expected": "the waiter is serving dinner", "term": "serving", "sense": "literal", "category": "literal_contrast"},
+  {"input": "her outfit looks snatched", "expected": "her outfit looks stylish and flattering", "term": "snatched", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the thief snatched her bag", "expected": "the thief snatched her bag", "term": "snatched", "sense": "literal", "category": "literal_contrast"},
+  {"input": "she slayed that presentation", "expected": "she did very well in that presentation", "term": "slayed", "sense": "slang", "category": "ambiguous_slang"},
+  {"input": "the knight slayed the dragon", "expected": "the knight slayed the dragon", "term": "slayed", "sense": "literal", "category": "literal_contrast"},
+
+  {"input": "this song slaps", "expected": "this song is excellent", "term": "slaps", "sense": "slang", "category": "idiom"},
+  {"input": "this pizza is bussin", "expected": "this pizza is delicious", "term": "bussin", "sense": "slang", "category": "idiom"},
+  {"input": "are you deadass?", "expected": "are you serious?", "term": "deadass", "sense": "slang", "category": "idiom"},
+  {"input": "this episode hits different", "expected": "this episode feels especially meaningful", "term": "hits different", "sense": "slang", "category": "idiom"},
+  {"input": "she understood the assignment", "expected": "she did exactly what was needed", "term": "understood the assignment", "sense": "slang", "category": "idiom"},
+  {"input": "i ship those two characters", "expected": "i support those two characters as a couple", "term": "ship", "sense": "slang", "category": "idiom"},
+  {"input": "the ship left the harbor", "expected": "the ship left the harbor", "term": "ship", "sense": "literal", "category": "literal_contrast"},
+  {"input": "i need to ship this package", "expected": "i need to ship this package", "term": "ship", "sense": "literal", "category": "literal_contrast"}
+]

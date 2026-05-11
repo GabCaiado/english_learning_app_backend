@@ -1,0 +1,4717 @@
+[
+  {
+    "informal": "See you later, alligator!",
+    "formal": "Goodbye, see you later.",
+    "translation_pt": "Adeus, até mais."
+  },
+  {
+    "informal": "This food is bomb!",
+    "formal": "This cuisine is outstanding.",
+    "translation_pt": "Esta comida é excepcional."
+  },
+  {
+    "informal": "No worries, I got this.",
+    "formal": "There is no need to be concerned; I will handle this.",
+    "translation_pt": "Não se preocupe; eu vou lidar com isso."
+  },
+  {
+    "informal": "This pizza is fire!",
+    "formal": "This pizza is excellent.",
+    "translation_pt": "Esta pizza é excelente."
+  },
+  {
+    "informal": "I’m feeling under the weather",
+    "formal": "I am not feeling well",
+    "translation_pt": "Não estou me sentindo bem"
+  },
+  {
+    "informal": "Don't sweat it, it's all good.",
+    "formal": "Do not worry, everything is fine.",
+    "translation_pt": "Não se preocupe, está tudo bem."
+  },
+  {
+    "informal": "I can't even with this weather!",
+    "formal": "I find this weather quite intolerable.",
+    "translation_pt": "Eu acho este tempo bastante intolerável."
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am agreeable to that proposal.",
+    "translation_pt": "Estou de acordo com essa proposta."
+  },
+  {
+    "informal": "I’ve got your back!",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "That’s whack",
+    "formal": "That is inappropriate",
+    "translation_pt": "Isso é inadequado"
+  },
+  {
+    "informal": "That’s a bummer.",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é lamentável."
+  },
+  {
+    "informal": "You’re a lifesaver!",
+    "formal": "You are a tremendous help!",
+    "translation_pt": "Você é uma ajuda enorme!"
+  },
+  {
+    "informal": "I’m out of the loop.",
+    "formal": "I am not informed about the current situation.",
+    "translation_pt": "Não estou informado sobre a situação atual."
+  },
+  {
+    "informal": "It’s a vibe.",
+    "formal": "It creates a pleasant atmosphere.",
+    "translation_pt": "Isso cria uma atmosfera agradável."
+  },
+  {
+    "informal": "I'm really tired, man",
+    "formal": "I am quite fatigued, my friend",
+    "translation_pt": "Estou bastante cansado, meu amigo"
+  },
+  {
+    "informal": "I’m super busy right now.",
+    "formal": "I am extremely occupied at the moment.",
+    "translation_pt": "Estou extremamente ocupado no momento."
+  },
+  {
+    "informal": "It’s kinda chilly out today.",
+    "formal": "It is rather cold outside today.",
+    "translation_pt": "Hoje está bastante frio lá fora."
+  },
+  {
+    "informal": "I’m dead tired.",
+    "formal": "I am very fatigued.",
+    "translation_pt": "Estou muito cansado."
+  },
+  {
+    "informal": "I’m so stoked for the weekend.",
+    "formal": "I am very excited for the weekend.",
+    "translation_pt": "Estou muito animado para o fim de semana."
+  },
+  {
+    "informal": "I’m just saying.",
+    "formal": "I am merely expressing my opinion.",
+    "translation_pt": "Estou apenas expressando minha opinião."
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am agreeable to that.",
+    "translation_pt": "Estou de acordo com isso."
+  },
+  {
+    "informal": "You did your thing!",
+    "formal": "You performed excellently.",
+    "translation_pt": "Você se apresentou de forma excelente."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed excellently!",
+    "translation_pt": "Você se destacou!"
+  },
+  {
+    "informal": "He’s a real MVP.",
+    "formal": "He is a truly valuable contributor.",
+    "translation_pt": "Ele é uma contribuição realmente valiosa."
+  },
+  {
+    "informal": "He's super chill.",
+    "formal": "He is very relaxed.",
+    "translation_pt": "Ele é muito tranquilo."
+  },
+  {
+    "informal": "I’m feeling a bit under the weather.",
+    "formal": "I am feeling somewhat ill.",
+    "translation_pt": "Estou me sentindo um pouco mal."
+  },
+  {
+    "informal": "He totally crashed the party.",
+    "formal": "He unexpectedly arrived at the party.",
+    "translation_pt": "Ele chegou inesperadamente à festa."
+  },
+  {
+    "informal": "I'll hit you up later.",
+    "formal": "I will contact you later.",
+    "translation_pt": "Vou te contatar mais tarde."
+  },
+  {
+    "informal": "I’m so over this!",
+    "formal": "I have reached my limit with this.",
+    "translation_pt": "Cheguei ao meu limite com isso."
+  },
+  {
+    "informal": "I totally forgot about that meeting.",
+    "formal": "I completely overlooked that meeting.",
+    "translation_pt": "Eu totalmente esqueci daquela reunião."
+  },
+  {
+    "informal": "That’s a cool idea!",
+    "formal": "That is an interesting suggestion!",
+    "translation_pt": "Essa é uma sugestão interessante!"
+  },
+  {
+    "informal": "I’m stoked for the trip!",
+    "formal": "I am very excited about the trip!",
+    "translation_pt": "Estou muito animado para a viagem!"
+  },
+  {
+    "informal": "He’s got mad skills!",
+    "formal": "He possesses exceptional abilities.",
+    "translation_pt": "Ele possui habilidades excepcionais."
+  },
+  {
+    "informal": "I’m ready to roll!",
+    "formal": "I am prepared to begin.",
+    "translation_pt": "Estou preparado para começar."
+  },
+  {
+    "informal": "Take it easy!",
+    "formal": "Please relax!",
+    "translation_pt": "Por favor, relaxe!"
+  },
+  {
+    "informal": "She’s so extra.",
+    "formal": "She is quite dramatic.",
+    "translation_pt": "Ela é bastante dramática."
+  },
+  {
+    "informal": "You’re the best!",
+    "formal": "You are highly appreciated.",
+    "translation_pt": "Você é muito apreciado."
+  },
+  {
+    "informal": "You’re totally awesome!",
+    "formal": "You are truly remarkable.",
+    "translation_pt": "Você é realmente notável."
+  },
+  {
+    "informal": "I’m beat.",
+    "formal": "I am very tired.",
+    "translation_pt": "Estou muito cansado."
+  },
+  {
+    "informal": "This pizza is bomb!",
+    "formal": "This pizza is exceptionally good!",
+    "translation_pt": "Esta pizza é excepcionalmente boa!"
+  },
+  {
+    "informal": "What’s your take on this?",
+    "formal": "What is your opinion on this matter?",
+    "translation_pt": "Qual é sua opinião sobre isso?"
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "What’s good?",
+    "formal": "What is happening?",
+    "translation_pt": "O que está acontecendo?"
+  },
+  {
+    "informal": "I’m out of the loop.",
+    "formal": "I am not up-to-date on that.",
+    "translation_pt": "Não estou atualizado sobre isso."
+  },
+  {
+    "informal": "Don't sweat it!",
+    "formal": "Do not worry about it!",
+    "translation_pt": "Não se preocupe com isso!"
+  },
+  {
+    "informal": "Hit me up later.",
+    "formal": "Please contact me later.",
+    "translation_pt": "Por favor, entre em contato comigo mais tarde."
+  },
+  {
+    "informal": "Just chillax for a bit.",
+    "formal": "Please relax for a short while.",
+    "translation_pt": "Por favor, relaxe por um curto período."
+  },
+  {
+    "informal": "I’m not a fan of that.",
+    "formal": "I do not particularly like that.",
+    "translation_pt": "Eu não gosto particularmente disso."
+  },
+  {
+    "informal": "That's a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Essa é uma decisão óbvia."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That decision is quite obvious.",
+    "translation_pt": "Essa decisão é bastante óbvia."
+  },
+  {
+    "informal": "I’m dead tired.",
+    "formal": "I am extremely fatigued.",
+    "translation_pt": "Estou extremamente cansado."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "We’re all in this together, fam.",
+    "formal": "We are all united in this endeavor, family.",
+    "translation_pt": "Estamos todos unidos neste esforço, família."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Oi, como você está?"
+  },
+  {
+    "informal": "You’re a lifesaver!",
+    "formal": "You are incredibly helpful!",
+    "translation_pt": "Você é incrivelmente útil!"
+  },
+  {
+    "informal": "Don’t beat around the bush.",
+    "formal": "Please speak directly.",
+    "translation_pt": "Por favor, fale diretamente."
+  },
+  {
+    "informal": "I’m down for whatever.",
+    "formal": "I am agreeable to any plans.",
+    "translation_pt": "Estou de acordo com qualquer plano."
+  },
+  {
+    "informal": "Let’s go, fam!",
+    "formal": "Let us proceed, family!",
+    "translation_pt": "Vamos em frente, família!"
+  },
+  {
+    "informal": "He’s a real one.",
+    "formal": "He is a genuinely trustworthy person.",
+    "translation_pt": "Ele é uma pessoa realmente confiável."
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is unreasonable.",
+    "translation_pt": "Isso é irracional."
+  },
+  {
+    "informal": "I can't even right now.",
+    "formal": "I am unable to cope at the moment.",
+    "translation_pt": "Não consigo lidar com isso no momento."
+  },
+  {
+    "informal": "He’s got a good heart.",
+    "formal": "He possesses a kind nature.",
+    "translation_pt": "Ele tem uma natureza gentil."
+  },
+  {
+    "informal": "She’s so extra sometimes.",
+    "formal": "She can be quite dramatic at times.",
+    "translation_pt": "Ela pode ser bastante dramática às vezes."
+  },
+  {
+    "informal": "I’m just saying...",
+    "formal": "I am merely expressing my opinion...",
+    "translation_pt": "Estou apenas expressando minha opinião..."
+  },
+  {
+    "informal": "That party was lit!",
+    "formal": "The party was very enjoyable.",
+    "translation_pt": "A festa foi muito divertida."
+  },
+  {
+    "informal": "I can't even with this weather.",
+    "formal": "I find it difficult to cope with this weather.",
+    "translation_pt": "Estou achando difícil lidar com este clima."
+  },
+  {
+    "informal": "That’s lit!",
+    "formal": "That is exciting!",
+    "translation_pt": "Isso é empolgante!"
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are remarkable!",
+    "translation_pt": "Você é notável!"
+  },
+  {
+    "informal": "That test was a piece of cake.",
+    "formal": "That test was very easy.",
+    "translation_pt": "Aquela prova foi muito fácil."
+  },
+  {
+    "informal": "That’s dope!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "I’m feeling it.",
+    "formal": "I am resonating with this.",
+    "translation_pt": "Estou ressoando com isso."
+  },
+  {
+    "informal": "Can you chill for a sec?",
+    "formal": "Could you please relax for a moment?",
+    "translation_pt": "Você poderia relaxar por um momento?"
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song!",
+    "translation_pt": "Essa é a minha música favorita!"
+  },
+  {
+    "informal": "I’m down for whatever!",
+    "formal": "I am open to any suggestion.",
+    "translation_pt": "Estou aberto a qualquer sugestão."
+  },
+  {
+    "informal": "She’s totally got your back.",
+    "formal": "She is completely supportive of you.",
+    "translation_pt": "Ela é totalmente solidária a você."
+  },
+  {
+    "informal": "I’m just gonna wing it.",
+    "formal": "I will proceed without a plan.",
+    "translation_pt": "Vou prosseguir sem um plano."
+  },
+  {
+    "informal": "Let’s roll.",
+    "formal": "Let us proceed.",
+    "translation_pt": "Vamos prosseguir."
+  },
+  {
+    "informal": "Let’s catch up later",
+    "formal": "Let us meet and discuss later",
+    "translation_pt": "Vamos nos encontrar e conversar mais tarde"
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song!",
+    "translation_pt": "Esta é a minha música favorita!"
+  },
+  {
+    "informal": "I'm gonna grab some food.",
+    "formal": "I am going to get something to eat.",
+    "translation_pt": "Eu vou pegar algo para comer."
+  },
+  {
+    "informal": "That’s so dope!",
+    "formal": "That is very impressive!",
+    "translation_pt": "Isso é muito impressionante!"
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is unreasonable!",
+    "translation_pt": "Isso é irracional!"
+  },
+  {
+    "informal": "What’s the deal?",
+    "formal": "What is the situation?",
+    "translation_pt": "Qual é a situação?"
+  },
+  {
+    "informal": "What’s the scoop?",
+    "formal": "What are the latest updates?",
+    "translation_pt": "Quais são as últimas novidades?"
+  },
+  {
+    "informal": "That’s a wrap!",
+    "formal": "That concludes our session!",
+    "translation_pt": "Isso conclui nossa sessão!"
+  },
+  {
+    "informal": "Don’t sweat it!",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I’m over the moon about it!",
+    "formal": "I am extremely pleased about it.",
+    "translation_pt": "Estou extremamente satisfeito com isso."
+  },
+  {
+    "informal": "It’s time to level up.",
+    "formal": "It is time to improve oneself.",
+    "translation_pt": "É hora de melhorar a si mesmo."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song.",
+    "translation_pt": "Esta é minha música favorita."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This music is my favorite.",
+    "translation_pt": "Esta música é a minha favorita."
+  },
+  {
+    "informal": "I’m totally stoked!",
+    "formal": "I am very excited!",
+    "translation_pt": "Estou muito animado!"
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave!",
+    "translation_pt": "Vamos embora!"
+  },
+  {
+    "informal": "Let’s catch up later.",
+    "formal": "Let us reconnect later.",
+    "translation_pt": "Vamos nos reencontrar mais tarde."
+  },
+  {
+    "informal": "Why you gotta be like that?",
+    "formal": "Why do you have to behave in that manner?",
+    "translation_pt": "Por que você tem que se comportar dessa maneira?"
+  },
+  {
+    "informal": "I don't feel like it.",
+    "formal": "I do not wish to engage in that activity.",
+    "translation_pt": "Eu não quero me envolver nessa atividade."
+  },
+  {
+    "informal": "Don’t trip, it’s fine.",
+    "formal": "Do not worry; everything is fine.",
+    "translation_pt": "Não se preocupe; está tudo bem."
+  },
+  {
+    "informal": "That’s tight!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "Let’s get this bread.",
+    "formal": "Let us work towards our goals.",
+    "translation_pt": "Vamos trabalhar em direção aos nossos objetivos."
+  },
+  {
+    "informal": "I’m feeling under the weather.",
+    "formal": "I am not feeling well.",
+    "translation_pt": "Não estou me sentindo bem."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You executed it perfectly.",
+    "translation_pt": "Você executou isso perfeitamente."
+  },
+  {
+    "informal": "That's a whole mood.",
+    "formal": "That represents a complete state of mind.",
+    "translation_pt": "Isso representa um estado de espírito completo."
+  },
+  {
+    "informal": "I’m dead tired.",
+    "formal": "I am extremely fatigued.",
+    "translation_pt": "Estou extremamente fatigado."
+  },
+  {
+    "informal": "That’s just how it is.",
+    "formal": "That is simply the reality of the situation.",
+    "translation_pt": "Essa é simplesmente a realidade da situação."
+  },
+  {
+    "informal": "Let’s just wing it.",
+    "formal": "Let us improvise.",
+    "translation_pt": "Vamos improvisar."
+  },
+  {
+    "informal": "Can’t believe it’s Monday again!",
+    "formal": "I am surprised that it is Monday once more.",
+    "translation_pt": "Estou surpreso que seja segunda-feira mais uma vez."
+  },
+  {
+    "informal": "What a drag!",
+    "formal": "What a disappointment!",
+    "translation_pt": "Que decepção!"
+  },
+  {
+    "informal": "That’s lit!",
+    "formal": "That is exciting!",
+    "translation_pt": "Isso é emocionante!"
+  },
+  {
+    "informal": "I’m feeling under the weather.",
+    "formal": "I am feeling unwell.",
+    "translation_pt": "Estou me sentindo mal."
+  },
+  {
+    "informal": "This book is a page-turner!",
+    "formal": "This book is very engaging.",
+    "translation_pt": "Este livro é muito envolvente."
+  },
+  {
+    "informal": "I’m feeling blue.",
+    "formal": "I am feeling sad.",
+    "translation_pt": "Estou me sentindo triste."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "Let’s roll!",
+    "formal": "Let us proceed!",
+    "translation_pt": "Vamos prosseguir!"
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed excellently!",
+    "translation_pt": "Você teve um desempenho excelente!"
+  },
+  {
+    "informal": "It’s all good.",
+    "formal": "Everything is satisfactory.",
+    "translation_pt": "Está tudo satisfatório."
+  },
+  {
+    "informal": "I’m over it.",
+    "formal": "I have moved on from that situation.",
+    "translation_pt": "Já superei essa situação."
+  },
+  {
+    "informal": "He totally flaked on us.",
+    "formal": "He failed to show up as promised.",
+    "translation_pt": "Ele não apareceu como prometido."
+  },
+  {
+    "informal": "Can we get a rain check?",
+    "formal": "May we postpone this meeting?",
+    "translation_pt": "Podemos adiar esta reunião?"
+  },
+  {
+    "informal": "It’s all good.",
+    "formal": "Everything is fine.",
+    "translation_pt": "Está tudo bem."
+  },
+  {
+    "informal": "The party was lit!",
+    "formal": "The gathering was very enjoyable.",
+    "translation_pt": "A reunião foi muito agradável."
+  },
+  {
+    "informal": "That was a wild ride!",
+    "formal": "That was an exhilarating experience!",
+    "translation_pt": "Foi uma experiência emocionante!"
+  },
+  {
+    "informal": "I'm just chilling at home.",
+    "formal": "I am simply relaxing at home.",
+    "translation_pt": "Estou apenas relaxando em casa."
+  },
+  {
+    "informal": "That’s a total win!",
+    "formal": "That is a complete success!",
+    "translation_pt": "Isso é um sucesso total!"
+  },
+  {
+    "informal": "What’s the scoop?",
+    "formal": "What is the latest information?",
+    "translation_pt": "Qual é a última informação?"
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "She’s got a heart of gold.",
+    "formal": "She possesses a very kind and generous nature.",
+    "translation_pt": "Ela possui uma natureza muito bondosa e generosa."
+  },
+  {
+    "informal": "Can you help me out?",
+    "formal": "Could you assist me, please?",
+    "translation_pt": "Você poderia me ajudar, por favor?"
+  },
+  {
+    "informal": "What a drag!",
+    "formal": "What an unfortunate situation!",
+    "translation_pt": "Que situação infeliz!"
+  },
+  {
+    "informal": "I’m so pumped for the concert!",
+    "formal": "I am very excited about the concert!",
+    "translation_pt": "Estou muito animado para o concerto!"
+  },
+  {
+    "informal": "That’s sus.",
+    "formal": "That seems suspicious.",
+    "translation_pt": "Isso parece suspeito."
+  },
+  {
+    "informal": "This task is a drag.",
+    "formal": "This task is quite tedious.",
+    "translation_pt": "Esta tarefa é bastante tediosa."
+  },
+  {
+    "informal": "That's a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Essa é uma decisão óbvia."
+  },
+  {
+    "informal": "That’s sick!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "I can't even right now.",
+    "formal": "I am unable to cope at this moment.",
+    "translation_pt": "Estou incapaz de lidar com isso neste momento."
+  },
+  {
+    "informal": "Just let it go, man.",
+    "formal": "Simply disregard it.",
+    "translation_pt": "Apenas desconsidere isso."
+  },
+  {
+    "informal": "She totally nailed it!",
+    "formal": "She performed exceptionally well!",
+    "translation_pt": "Ela se saiu excepcionalmente bem!"
+  },
+  {
+    "informal": "I'm all ears.",
+    "formal": "I am fully attentive.",
+    "translation_pt": "Estou totalmente atento."
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am agreeable to that proposal.",
+    "translation_pt": "Estou de acordo com essa proposta."
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "No cap, I love this!",
+    "formal": "I sincerely love this!",
+    "translation_pt": "Eu realmente amo isso!"
+  },
+  {
+    "informal": "I’m gonna chill with my friends.",
+    "formal": "I will spend time with my friends.",
+    "translation_pt": "Vou passar um tempo com meus amigos."
+  },
+  {
+    "informal": "You're killing it!",
+    "formal": "You are performing exceptionally well.",
+    "translation_pt": "Você está se saindo excepcionalmente bem."
+  },
+  {
+    "informal": "I’m on cloud nine!",
+    "formal": "I am extremely happy!",
+    "translation_pt": "Estou extremamente feliz!"
+  },
+  {
+    "informal": "I’m legit tired.",
+    "formal": "I am genuinely fatigued.",
+    "translation_pt": "Estou genuinamente cansado."
+  },
+  {
+    "informal": "I’m in for the long haul.",
+    "formal": "I am committed for the long term.",
+    "translation_pt": "Estou comprometido a longo prazo."
+  },
+  {
+    "informal": "Chill out, dude.",
+    "formal": "Please calm down.",
+    "translation_pt": "Por favor, acalme-se."
+  },
+  {
+    "informal": "Why you gotta be like that?",
+    "formal": "Why must you behave in such a manner?",
+    "translation_pt": "Por que você deve se comportar dessa forma?"
+  },
+  {
+    "informal": "That outfit is fire!",
+    "formal": "That outfit is very stylish.",
+    "translation_pt": "Esse traje é muito estiloso."
+  },
+  {
+    "informal": "I need to hit the books.",
+    "formal": "I need to study.",
+    "translation_pt": "Preciso estudar."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You did an excellent job.",
+    "translation_pt": "Você fez um excelente trabalho."
+  },
+  {
+    "informal": "I’ve got your back.",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "I’m just saying.",
+    "formal": "I am merely expressing my opinion.",
+    "translation_pt": "Estou apenas expressando minha opinião."
+  },
+  {
+    "informal": "No cap, that was amazing.",
+    "formal": "Honestly, that was remarkable.",
+    "translation_pt": "Honestamente, isso foi notável."
+  },
+  {
+    "informal": "That's whack!",
+    "formal": "That is unacceptable!",
+    "translation_pt": "Isso é inaceitável!"
+  },
+  {
+    "informal": "That’s a no-go for me.",
+    "formal": "That is unacceptable to me.",
+    "translation_pt": "Isso é inaceitável para mim."
+  },
+  {
+    "informal": "Don’t sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I’m just trying to keep it 100.",
+    "formal": "I am attempting to be completely honest.",
+    "translation_pt": "Estou tentando ser completamente honesto."
+  },
+  {
+    "informal": "I’m just sayin’...",
+    "formal": "I am merely suggesting that...",
+    "translation_pt": "Estou apenas sugerindo que..."
+  },
+  {
+    "informal": "She’s got mad skills!",
+    "formal": "She possesses exceptional skills.",
+    "translation_pt": "Ela possui habilidades excepcionais."
+  },
+  {
+    "informal": "She’s totally my bestie.",
+    "formal": "She is truly my closest friend.",
+    "translation_pt": "Ela é realmente minha melhor amiga."
+  },
+  {
+    "informal": "I can’t deal with this!",
+    "formal": "I am unable to manage this situation!",
+    "translation_pt": "Não consigo lidar com isso!"
+  },
+  {
+    "informal": "She’s super nice.",
+    "formal": "She is very kind.",
+    "translation_pt": "Ela é muito gentil."
+  },
+  {
+    "informal": "I’m beat",
+    "formal": "I am extremely tired.",
+    "translation_pt": "Estou extremamente cansado."
+  },
+  {
+    "informal": "Don’t sweat it!",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "That was a sweet move",
+    "formal": "That was a clever strategy",
+    "translation_pt": "Aquela foi uma estratégia inteligente"
+  },
+  {
+    "informal": "I’m just messing with you",
+    "formal": "I am simply teasing you.",
+    "translation_pt": "Estou apenas brincando com você."
+  },
+  {
+    "informal": "Let’s grab some grub.",
+    "formal": "Let us go eat some food.",
+    "translation_pt": "Vamos comer algo."
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well.",
+    "translation_pt": "Você está se saindo excepcionalmente bem."
+  },
+  {
+    "informal": "I’m feeling kind of off.",
+    "formal": "I am feeling somewhat unwell.",
+    "translation_pt": "Estou me sentindo um pouco mal."
+  },
+  {
+    "informal": "I’m peacing out.",
+    "formal": "I am departing.",
+    "translation_pt": "Estou partindo."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Essa é uma decisão óbvia."
+  },
+  {
+    "informal": "I hit them up yesterday",
+    "formal": "I contacted them yesterday",
+    "translation_pt": "Eu entrei em contato com eles ontem"
+  },
+  {
+    "informal": "What a bummer",
+    "formal": "That is quite disappointing.",
+    "translation_pt": "Isso é bastante decepcionante."
+  },
+  {
+    "informal": "That’s a bummer.",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é lamentável."
+  },
+  {
+    "informal": "I’m so over this.",
+    "formal": "I am quite fed up with this situation.",
+    "translation_pt": "Estou bastante farto dessa situação."
+  },
+  {
+    "informal": "She’s got mad skills.",
+    "formal": "She possesses exceptional skills.",
+    "translation_pt": "Ela possui habilidades excepcionais."
+  },
+  {
+    "informal": "Can we just say it was a flop?",
+    "formal": "Can we agree that it was unsuccessful?",
+    "translation_pt": "Podemos concordar que foi um fracasso?"
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is unacceptable!",
+    "translation_pt": "Isso é inaceitável!"
+  },
+  {
+    "informal": "What a grab bag of options!",
+    "formal": "What a variety of choices!",
+    "translation_pt": "Que variedade de opções!"
+  },
+  {
+    "informal": "No way, that’s wild!",
+    "formal": "That is incredible!",
+    "translation_pt": "Isso é incrível!"
+  },
+  {
+    "informal": "That exam was a piece of cake!",
+    "formal": "That exam was quite easy.",
+    "translation_pt": "Aquela prova foi bastante fácil."
+  },
+  {
+    "informal": "I’m just browsing.",
+    "formal": "I am simply looking around.",
+    "translation_pt": "Estou apenas olhando ao redor."
+  },
+  {
+    "informal": "That’s sick, man!",
+    "formal": "That is impressive.",
+    "translation_pt": "Isso é impressionante."
+  },
+  {
+    "informal": "I’m so over this.",
+    "formal": "I am quite tired of this situation.",
+    "translation_pt": "Estou bastante cansado dessa situação."
+  },
+  {
+    "informal": "You rock, dude!",
+    "formal": "You are truly impressive.",
+    "translation_pt": "Você é realmente impressionante."
+  },
+  {
+    "informal": "This place is my jam.",
+    "formal": "I really enjoy this place.",
+    "translation_pt": "Eu realmente gosto deste lugar."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I’m just vibing.",
+    "formal": "I am simply enjoying the atmosphere.",
+    "translation_pt": "Estou apenas desfrutando da atmosfera."
+  },
+  {
+    "informal": "I’m swamped with work.",
+    "formal": "I am overwhelmed with my workload.",
+    "translation_pt": "Estou sobrecarregado com meu trabalho."
+  },
+  {
+    "informal": "Don't sweat it, it's no biggie.",
+    "formal": "Do not worry, it is not a significant issue.",
+    "translation_pt": "Não se preocupe, não é um grande problema."
+  },
+  {
+    "informal": "That was a total fail.",
+    "formal": "That was a complete failure.",
+    "translation_pt": "Isso foi um fracasso total."
+  },
+  {
+    "informal": "I’m vibing with this song.",
+    "formal": "I am enjoying this song.",
+    "translation_pt": "Estou gostando desta música."
+  },
+  {
+    "informal": "Don't sweat it!",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I’m so stoked for the weekend!",
+    "formal": "I am very excited for the weekend.",
+    "translation_pt": "Estou muito animado para o fim de semana."
+  },
+  {
+    "informal": "I need to chill for a bit.",
+    "formal": "I need to relax for a short period.",
+    "translation_pt": "Preciso relaxar por um curto período."
+  },
+  {
+    "informal": "You do you, man.",
+    "formal": "You should follow your own path.",
+    "translation_pt": "Você deve seguir seu próprio caminho."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed exceptionally well!",
+    "translation_pt": "Você se saiu excepcionalmente bem!"
+  },
+  {
+    "informal": "He’s a real MVP.",
+    "formal": "He is truly exceptional.",
+    "translation_pt": "Ele é realmente excepcional."
+  },
+  {
+    "informal": "He's got mad skills.",
+    "formal": "He possesses exceptional abilities.",
+    "translation_pt": "Ele possui habilidades excepcionais."
+  },
+  {
+    "informal": "Let’s keep it real.",
+    "formal": "Let us be honest.",
+    "translation_pt": "Vamos ser sinceros."
+  },
+  {
+    "informal": "Chill out, man.",
+    "formal": "Please calm down.",
+    "translation_pt": "Por favor, acalme-se."
+  },
+  {
+    "informal": "He’s a total player.",
+    "formal": "He is quite charming with the opposite sex.",
+    "translation_pt": "Ele é bastante charmoso com o sexo oposto."
+  },
+  {
+    "informal": "Let’s see what happens.",
+    "formal": "Let us observe the outcome.",
+    "translation_pt": "Vamos observar o resultado."
+  },
+  {
+    "informal": "Don’t sweat it!",
+    "formal": "Do not worry about it!",
+    "translation_pt": "Não se preocupe com isso!"
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This party is very enjoyable!",
+    "translation_pt": "Esta festa é muito agradável!"
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let's leave!",
+    "translation_pt": "Vamos embora!"
+  },
+  {
+    "informal": "I’ll catch you later.",
+    "formal": "I will see you later.",
+    "translation_pt": "Eu te verei mais tarde."
+  },
+  {
+    "informal": "Let’s get this bread!",
+    "formal": "Let us achieve our goals!",
+    "translation_pt": "Vamos alcançar nossos objetivos!"
+  },
+  {
+    "informal": "I’m super busy right now.",
+    "formal": "I am currently very occupied.",
+    "translation_pt": "Estou atualmente muito ocupado."
+  },
+  {
+    "informal": "Let’s keep it real.",
+    "formal": "Let us be honest.",
+    "translation_pt": "Vamos ser honestos."
+  },
+  {
+    "informal": "Hey, what's up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "That party was lit!",
+    "formal": "The party was very enjoyable.",
+    "translation_pt": "A festa foi muito divertida."
+  },
+  {
+    "informal": "I’m not mad at it.",
+    "formal": "I have no objections to it.",
+    "translation_pt": "Não tenho objeções a isso."
+  },
+  {
+    "informal": "That concert was dope!",
+    "formal": "That concert was outstanding!",
+    "translation_pt": "Aquele show foi extraordinário!"
+  },
+  {
+    "informal": "Let’s grab some food.",
+    "formal": "Let us go out for a meal.",
+    "translation_pt": "Vamos sair para comer."
+  },
+  {
+    "informal": "This place is dope!",
+    "formal": "This location is quite impressive!",
+    "translation_pt": "Este lugar é muito impressionante!"
+  },
+  {
+    "informal": "I’m bored out of my mind.",
+    "formal": "I am exceedingly bored.",
+    "translation_pt": "Estou extremamente entediado."
+  },
+  {
+    "informal": "That's a no-brainer!",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Isso é uma decisão óbvia."
+  },
+  {
+    "informal": "Let’s grab a bite!",
+    "formal": "Let us have a meal!",
+    "translation_pt": "Vamos comer algo!"
+  },
+  {
+    "informal": "She’s got a killer sense of humor!",
+    "formal": "She possesses an exceptional sense of humor.",
+    "translation_pt": "Ela possui um senso de humor excepcional."
+  },
+  {
+    "informal": "I’m stoked for the weekend!",
+    "formal": "I am very excited for the weekend.",
+    "translation_pt": "Estou muito empolgado para o fim de semana."
+  },
+  {
+    "informal": "I’m feeling kind of blah.",
+    "formal": "I am feeling rather uninterested.",
+    "translation_pt": "Estou me sentindo meio desinteressado."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Isso é uma decisão óbvia."
+  },
+  {
+    "informal": "It’s a no-brainer.",
+    "formal": "It is an obvious decision.",
+    "translation_pt": "É uma decisão óbvia."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are remarkable!",
+    "translation_pt": "Você é notável!"
+  },
+  {
+    "informal": "You’re just being dramatic.",
+    "formal": "You are overreacting.",
+    "translation_pt": "Você está exagerando."
+  },
+  {
+    "informal": "I’m just here for the snacks.",
+    "formal": "I am only present for the refreshments.",
+    "translation_pt": "Estou aqui apenas pelos petiscos."
+  },
+  {
+    "informal": "I’m not gonna lie, I’m nervous.",
+    "formal": "I must admit, I am feeling anxious.",
+    "translation_pt": "Devo admitir que estou me sentindo ansioso."
+  },
+  {
+    "informal": "That movie was a total bummer.",
+    "formal": "That movie was quite disappointing.",
+    "translation_pt": "Aquele filme foi bastante decepcionante."
+  },
+  {
+    "informal": "I’m really bummed about the news.",
+    "formal": "I am quite disappointed by the news.",
+    "translation_pt": "Estou bastante decepcionado com as notícias."
+  },
+  {
+    "informal": "That’s the way the cookie crumbles.",
+    "formal": "That is how things sometimes turn out.",
+    "translation_pt": "É assim que as coisas às vezes acontecem."
+  },
+  {
+    "informal": "That’s savage!",
+    "formal": "That is quite ruthless!",
+    "translation_pt": "Isso é bastante cruel!"
+  },
+  {
+    "informal": "Let’s roll with it.",
+    "formal": "Let us proceed with this plan.",
+    "translation_pt": "Vamos prosseguir com este plano."
+  },
+  {
+    "informal": "Just chillax for a bit.",
+    "formal": "Please relax for a moment.",
+    "translation_pt": "Por favor, relaxe por um momento."
+  },
+  {
+    "informal": "Hit the sack.",
+    "formal": "Go to bed.",
+    "translation_pt": "Ir para a cama."
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This party is very enjoyable.",
+    "translation_pt": "Esta festa é muito agradável."
+  },
+  {
+    "informal": "That was a total fail.",
+    "formal": "That was a complete failure.",
+    "translation_pt": "Aquilo foi uma falha completa."
+  },
+  {
+    "informal": "What’s the tea?",
+    "formal": "What is the latest news?",
+    "translation_pt": "Quais são as últimas notícias?"
+  },
+  {
+    "informal": "This party is popping!",
+    "formal": "This party is very lively.",
+    "translation_pt": "Esta festa está muito animada."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song.",
+    "translation_pt": "Esta é minha música favorita."
+  },
+  {
+    "informal": "Let’s hit the road!",
+    "formal": "Let us begin our journey!",
+    "translation_pt": "Vamos começar nossa jornada!"
+  },
+  {
+    "informal": "Let’s wrap it up.",
+    "formal": "Let us conclude the discussion.",
+    "translation_pt": "Vamos concluir a discussão."
+  },
+  {
+    "informal": "That’s a no-brainer",
+    "formal": "That is an obvious decision",
+    "translation_pt": "Isso é uma decisão óbvia"
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed exceptionally well!",
+    "translation_pt": "Você se saiu excepcionalmente bem!"
+  },
+  {
+    "informal": "What a total waste!",
+    "formal": "That was a complete waste of time.",
+    "translation_pt": "Isso foi uma completa perda de tempo."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave!",
+    "translation_pt": "Vamos embora!"
+  },
+  {
+    "informal": "Hey, what's up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I'm not gonna lie, that was hilarious.",
+    "formal": "I must admit, that was quite amusing.",
+    "translation_pt": "Devo admitir, aquilo foi bastante engraçado."
+  },
+  {
+    "informal": "I'm broke af.",
+    "formal": "I am financially constrained.",
+    "translation_pt": "Estou financeiramente restrito."
+  },
+  {
+    "informal": "Don’t sweat it!",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is absurd!",
+    "translation_pt": "Isso é absurdo!"
+  },
+  {
+    "informal": "I’m just vibing.",
+    "formal": "I am enjoying the moment.",
+    "translation_pt": "Estou desfrutando do momento."
+  },
+  {
+    "informal": "I'm broke right now.",
+    "formal": "I am currently financially constrained.",
+    "translation_pt": "Estou financeiramente apertado no momento."
+  },
+  {
+    "informal": "That concert was lit!",
+    "formal": "The concert was exceptionally exciting.",
+    "translation_pt": "O concerto foi excepcionalmente emocionante."
+  },
+  {
+    "informal": "I’m just vibing.",
+    "formal": "I am simply enjoying the moment.",
+    "translation_pt": "Estou apenas desfrutando o momento."
+  },
+  {
+    "informal": "I’m feeling under the weather.",
+    "formal": "I am not feeling well.",
+    "translation_pt": "Não estou me sentindo bem."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed excellently.",
+    "translation_pt": "Você se saiu excelentemente."
+  },
+  {
+    "informal": "You’re such a champ!",
+    "formal": "You are quite admirable!",
+    "translation_pt": "Você é bastante admirável!"
+  },
+  {
+    "informal": "It’s a no-brainer.",
+    "formal": "It is an obvious decision.",
+    "translation_pt": "É uma decisão óbvia."
+  },
+  {
+    "informal": "I can’t believe you did that!",
+    "formal": "I am astonished that you did that.",
+    "translation_pt": "Estou surpreso que você fez isso."
+  },
+  {
+    "informal": "I’m catching some Zs",
+    "formal": "I am getting some sleep.",
+    "translation_pt": "Estou dormindo um pouco."
+  },
+  {
+    "informal": "I’m shook.",
+    "formal": "I am quite surprised.",
+    "translation_pt": "Estou bastante surpreso."
+  },
+  {
+    "informal": "I’m just chilling at home.",
+    "formal": "I am simply relaxing at home.",
+    "translation_pt": "Estou simplesmente relaxando em casa."
+  },
+  {
+    "informal": "I’ve got a lot on my plate.",
+    "formal": "I have many responsibilities at the moment.",
+    "translation_pt": "Estou com muitas responsabilidades no momento."
+  },
+  {
+    "informal": "I’m over the moon about my promotion",
+    "formal": "I am extremely pleased about my promotion",
+    "translation_pt": "Estou extremamente satisfeito com a minha promoção"
+  },
+  {
+    "informal": "That sounds dope!",
+    "formal": "That sounds impressive!",
+    "translation_pt": "Isso soa impressionante!"
+  },
+  {
+    "informal": "He’s acting shady.",
+    "formal": "He is behaving suspiciously.",
+    "translation_pt": "Ele está se comportando de forma suspeita."
+  },
+  {
+    "informal": "That’s awesome!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "I’m not buying it.",
+    "formal": "I do not believe it.",
+    "translation_pt": "Eu não acredito."
+  },
+  {
+    "informal": "I’m so over this.",
+    "formal": "I am tired of this situation.",
+    "translation_pt": "Estou cansado desta situação."
+  },
+  {
+    "informal": "She’s outta my league.",
+    "formal": "She is beyond my reach.",
+    "translation_pt": "Ela está fora do meu alcance."
+  },
+  {
+    "informal": "I can't even right now.",
+    "formal": "I am currently unable to process this situation.",
+    "translation_pt": "Atualmente, não consigo processar esta situação."
+  },
+  {
+    "informal": "You’ve got this!",
+    "formal": "You are capable of achieving this!",
+    "translation_pt": "Você é capaz de alcançar isso!"
+  },
+  {
+    "informal": "I’m just chillin’ here.",
+    "formal": "I am simply relaxing here.",
+    "translation_pt": "Estou apenas relaxando aqui."
+  },
+  {
+    "informal": "I’m just saying.",
+    "formal": "I am merely expressing my opinion.",
+    "translation_pt": "Estou apenas expressando minha opinião."
+  },
+  {
+    "informal": "I’m down for that.",
+    "formal": "I am in agreement with that.",
+    "translation_pt": "Estou de acordo com isso."
+  },
+  {
+    "informal": "I’m feeling kinda down today.",
+    "formal": "I am experiencing a sense of sadness today.",
+    "translation_pt": "Estou sentindo uma certa tristeza hoje."
+  },
+  {
+    "informal": "Don't freak out!",
+    "formal": "Please do not panic.",
+    "translation_pt": "Por favor, não entre em pânico."
+  },
+  {
+    "informal": "That sounds lit!",
+    "formal": "That sounds exciting!",
+    "translation_pt": "Isso soa empolgante!"
+  },
+  {
+    "informal": "That’s crazy cool!",
+    "formal": "That is remarkably impressive!",
+    "translation_pt": "Isso é notavelmente impressionante!"
+  },
+  {
+    "informal": "I’m super tired today.",
+    "formal": "I am very tired today.",
+    "translation_pt": "Estou muito cansado hoje."
+  },
+  {
+    "informal": "I totally blew off that meeting.",
+    "formal": "I completely missed that meeting.",
+    "translation_pt": "Eu perdi completamente aquela reunião."
+  },
+  {
+    "informal": "You rock, man!",
+    "formal": "You are truly impressive.",
+    "translation_pt": "Você é realmente impressionante."
+  },
+  {
+    "informal": "He’s a bit of a nerd.",
+    "formal": "He has a strong interest in academic subjects.",
+    "translation_pt": "Ele tem um forte interesse em assuntos acadêmicos."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song!",
+    "translation_pt": "Esta é minha música favorita!"
+  },
+  {
+    "informal": "That’s hella cool!",
+    "formal": "That is exceptionally interesting.",
+    "translation_pt": "Isso é excepcionalmente interessante."
+  },
+  {
+    "informal": "Let’s just wing it.",
+    "formal": "Let us proceed without a plan.",
+    "translation_pt": "Vamos prosseguir sem um plano."
+  },
+  {
+    "informal": "I’m super busy right now",
+    "formal": "I am currently very occupied",
+    "translation_pt": "Estou muito ocupado agora"
+  },
+  {
+    "informal": "I’m beat.",
+    "formal": "I am exhausted.",
+    "translation_pt": "Estou exausto."
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This gathering is quite lively!",
+    "translation_pt": "Esta reunião está bastante animada!"
+  },
+  {
+    "informal": "I’ll hit you up later.",
+    "formal": "I will contact you later.",
+    "translation_pt": "Eu entrarei em contato com você mais tarde."
+  },
+  {
+    "informal": "Let’s make it happen.",
+    "formal": "Let us implement this.",
+    "translation_pt": "Vamos implementar isso."
+  },
+  {
+    "informal": "Catch you later!",
+    "formal": "I will see you later.",
+    "translation_pt": "Até mais!"
+  },
+  {
+    "informal": "That’s a whole mood.",
+    "formal": "That represents a complete sentiment.",
+    "translation_pt": "Isso representa um sentimento completo."
+  },
+  {
+    "informal": "You’re gonna love this!",
+    "formal": "You will certainly enjoy this!",
+    "translation_pt": "Você certamente vai gostar disso!"
+  },
+  {
+    "informal": "That’s whack.",
+    "formal": "That is unacceptable.",
+    "translation_pt": "Isso é inaceitável."
+  },
+  {
+    "informal": "I’m beat after that workout.",
+    "formal": "I am exhausted after that workout.",
+    "translation_pt": "Estou exausto após aquele treino."
+  },
+  {
+    "informal": "I'm totally down for that!",
+    "formal": "I fully support that idea!",
+    "translation_pt": "Eu apoio totalmente essa ideia!"
+  },
+  {
+    "informal": "It’s all good, no worries.",
+    "formal": "Everything is fine; do not be concerned.",
+    "translation_pt": "Está tudo bem; não se preocupe."
+  },
+  {
+    "informal": "Let’s roll!",
+    "formal": "Let us proceed!",
+    "translation_pt": "Vamos prosseguir!"
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am willing to participate in that.",
+    "translation_pt": "Estou disposto a participar disso."
+  },
+  {
+    "informal": "I’m not gonna lie, it was kinda boring.",
+    "formal": "To be honest, it was somewhat uninteresting.",
+    "translation_pt": "Para ser honesto, foi um pouco desinteressante."
+  },
+  {
+    "informal": "I just wanna chill.",
+    "formal": "I simply want to relax.",
+    "translation_pt": "Eu só quero relaxar."
+  },
+  {
+    "informal": "That’s a no-go.",
+    "formal": "That is not acceptable.",
+    "translation_pt": "Isso não é aceitável."
+  },
+  {
+    "informal": "He’s a real MVP.",
+    "formal": "He is an exceptional individual.",
+    "translation_pt": "Ele é um indivíduo excepcional."
+  },
+  {
+    "informal": "No worries, I got your back.",
+    "formal": "There is no need for concern; I will support you.",
+    "translation_pt": "Não há razão para se preocupar; eu vou te apoiar."
+  },
+  {
+    "informal": "We’ll figure it out.",
+    "formal": "We will find a solution.",
+    "translation_pt": "Encontraremos uma solução."
+  },
+  {
+    "informal": "I feel you.",
+    "formal": "I understand your perspective.",
+    "translation_pt": "Entendo sua perspectiva."
+  },
+  {
+    "informal": "She’s a total queen.",
+    "formal": "She is a remarkable individual.",
+    "translation_pt": "Ela é uma pessoa notável."
+  },
+  {
+    "informal": "He's a real piece of work.",
+    "formal": "He is quite challenging to deal with.",
+    "translation_pt": "Ele é bastante desafiador de lidar."
+  },
+  {
+    "informal": "He's got mad skills",
+    "formal": "He possesses exceptional abilities",
+    "translation_pt": "Ele possui habilidades excepcionais"
+  },
+  {
+    "informal": "I’m on cloud nine!",
+    "formal": "I am extremely happy!",
+    "translation_pt": "Estou extremamente feliz!"
+  },
+  {
+    "informal": "That’s dope!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You executed it flawlessly.",
+    "translation_pt": "Você executou isso perfeitamente."
+  },
+  {
+    "informal": "You're on fire today!",
+    "formal": "You are performing exceptionally well today!",
+    "translation_pt": "Você está se saindo excepcionalmente bem hoje!"
+  },
+  {
+    "informal": "Let’s chill at my place.",
+    "formal": "Let us relax at my residence.",
+    "translation_pt": "Vamos relaxar na minha casa."
+  },
+  {
+    "informal": "That’s dope!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "I’m gonna grab some grub",
+    "formal": "I am going to procure some food.",
+    "translation_pt": "Vou procurar comida."
+  },
+  {
+    "informal": "Can you believe she ghosted me?",
+    "formal": "Can you believe she discontinued communication with me?",
+    "translation_pt": "Você pode acreditar que ela cortou comunicação comigo?"
+  },
+  {
+    "informal": "I’m outta here!",
+    "formal": "I am leaving now.",
+    "translation_pt": "Estou indo embora agora."
+  },
+  {
+    "informal": "You’re so extra!",
+    "formal": "You tend to be overly dramatic.",
+    "translation_pt": "Você tende a ser exagerado."
+  },
+  {
+    "informal": "She has a knack for this.",
+    "formal": "She possesses a talent for this.",
+    "translation_pt": "Ela possui um talento para isso."
+  },
+  {
+    "informal": "I'm broke right now.",
+    "formal": "I am currently experiencing financial constraints.",
+    "translation_pt": "Atualmente estou enfrentando restrições financeiras."
+  },
+  {
+    "informal": "Keep it 100.",
+    "formal": "Remain honest and genuine.",
+    "translation_pt": "Permaneça honesto e genuíno."
+  },
+  {
+    "informal": "Sorry, I spaced out.",
+    "formal": "I apologize; I lost focus.",
+    "translation_pt": "Peço desculpas; perdi o foco."
+  },
+  {
+    "informal": "Hey, what's up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "This is a game-changer.",
+    "formal": "This is a significant breakthrough.",
+    "translation_pt": "Isto é um avanço significativo."
+  },
+  {
+    "informal": "I'm so over this.",
+    "formal": "I am quite tired of this.",
+    "translation_pt": "Estou bastante cansado disso."
+  },
+  {
+    "informal": "Let’s grab some grub.",
+    "formal": "Let us go eat some food.",
+    "translation_pt": "Vamos comer algo."
+  },
+  {
+    "informal": "This is whack.",
+    "formal": "This is unacceptable.",
+    "translation_pt": "Isto é inaceitável."
+  },
+  {
+    "informal": "That’s dope, dude!",
+    "formal": "That is impressive, my friend!",
+    "translation_pt": "Isso é impressionante, meu amigo!"
+  },
+  {
+    "informal": "You killed it out there!",
+    "formal": "You performed exceptionally well out there!",
+    "translation_pt": "Você teve um desempenho excepcional lá fora!"
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am interested in participating in that!",
+    "translation_pt": "Estou interessado em participar disso!"
+  },
+  {
+    "informal": "He's so extra!",
+    "formal": "He tends to exaggerate a lot.",
+    "translation_pt": "Ele tende a exagerar muito."
+  },
+  {
+    "informal": "That’s lit!",
+    "formal": "That is very exciting.",
+    "translation_pt": "Isso é muito empolgante."
+  },
+  {
+    "informal": "I can’t even right now.",
+    "formal": "I am unable to handle the situation at this moment.",
+    "translation_pt": "Eu não consigo lidar com a situação neste momento."
+  },
+  {
+    "informal": "Let’s get this bread!",
+    "formal": "Let us strive for success!",
+    "translation_pt": "Vamos lutar pelo sucesso!"
+  },
+  {
+    "informal": "That joke was hilarious!",
+    "formal": "That joke was very amusing!",
+    "translation_pt": "Aquela piada foi muito divertida!"
+  },
+  {
+    "informal": "Let’s call it a day.",
+    "formal": "Let us conclude for today.",
+    "translation_pt": "Vamos encerrar por hoje."
+  },
+  {
+    "informal": "I can’t wait to hang out!",
+    "formal": "I am eagerly anticipating our meeting!",
+    "translation_pt": "Estou ansioso para nos encontrarmos!"
+  },
+  {
+    "informal": "I feel you.",
+    "formal": "I understand your perspective.",
+    "translation_pt": "Entendo sua perspectiva."
+  },
+  {
+    "informal": "I’m good with that.",
+    "formal": "I am agreeable to that.",
+    "translation_pt": "Estou de acordo com isso."
+  },
+  {
+    "informal": "Don’t sweat it!",
+    "formal": "Do not worry about it!",
+    "translation_pt": "Não se preocupe com isso!"
+  },
+  {
+    "informal": "I’ve got your back.",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "You're killing it!",
+    "formal": "You are performing exceptionally well.",
+    "translation_pt": "Você está se saindo excepcionalmente bem."
+  },
+  {
+    "informal": "I’m pumped!",
+    "formal": "I am very enthusiastic!",
+    "translation_pt": "Estou muito entusiasmado!"
+  },
+  {
+    "informal": "This weather is nuts!",
+    "formal": "This weather is quite unpredictable!",
+    "translation_pt": "Este tempo é bastante imprevisível!"
+  },
+  {
+    "informal": "She’s a total boss.",
+    "formal": "She is a very capable leader.",
+    "translation_pt": "Ela é uma líder muito capaz."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed exceptionally well!",
+    "translation_pt": "Você se saiu excepcionalmente bem!"
+  },
+  {
+    "informal": "I’m so over this",
+    "formal": "I am quite tired of this situation.",
+    "translation_pt": "Estou bastante cansado desta situação."
+  },
+  {
+    "informal": "Time flies when you’re having fun!",
+    "formal": "Time passes quickly when one is enjoying themselves.",
+    "translation_pt": "O tempo passa rapidamente quando se está se divertindo."
+  },
+  {
+    "informal": "No cap, it's amazing!",
+    "formal": "I am not exaggerating; it is truly remarkable.",
+    "translation_pt": "Não estou exagerando; é realmente notável."
+  },
+  {
+    "informal": "I’m buzzing from the coffee!",
+    "formal": "I feel energized from the coffee.",
+    "translation_pt": "Estou energizado pelo café."
+  },
+  {
+    "informal": "No worries, I got this!",
+    "formal": "There is no need to be concerned; I can handle this.",
+    "translation_pt": "Não há necessidade de se preocupar; eu posso lidar com isso."
+  },
+  {
+    "informal": "I’m feeling kinda blue today.",
+    "formal": "I am feeling somewhat sad today.",
+    "translation_pt": "Estou me sentindo um pouco triste hoje."
+  },
+  {
+    "informal": "Chill out, man.",
+    "formal": "Please relax.",
+    "translation_pt": "Por favor, relaxe."
+  },
+  {
+    "informal": "She totally bailed on us.",
+    "formal": "She completely canceled her plans with us.",
+    "translation_pt": "Ela totalmente cancelou os planos com a gente."
+  },
+  {
+    "informal": "It’s all good, no worries.",
+    "formal": "Everything is fine, do not be concerned.",
+    "translation_pt": "Está tudo bem, não se preocupe."
+  },
+  {
+    "informal": "I'm super pumped for the trip!",
+    "formal": "I am extremely excited about the trip!",
+    "translation_pt": "Estou extremamente animado para a viagem!"
+  },
+  {
+    "informal": "That’s how it goes.",
+    "formal": "That is an inevitability.",
+    "translation_pt": "Isso é uma inevitabilidade."
+  },
+  {
+    "informal": "I’m just gonna wing it.",
+    "formal": "I will improvise.",
+    "translation_pt": "Vou improvisar."
+  },
+  {
+    "informal": "He’s just a noob.",
+    "formal": "He is merely a beginner.",
+    "translation_pt": "Ele é apenas um iniciante."
+  },
+  {
+    "informal": "What a letdown!",
+    "formal": "What a disappointment!",
+    "translation_pt": "Que decepção!"
+  },
+  {
+    "informal": "I’m not about that drama.",
+    "formal": "I do not wish to be involved in that drama.",
+    "translation_pt": "Eu não desejo estar envolvido nesse drama."
+  },
+  {
+    "informal": "This test is gonna be a breeze.",
+    "formal": "I believe this test will be very easy.",
+    "translation_pt": "Acredito que este teste será muito fácil."
+  },
+  {
+    "informal": "It’s all good!",
+    "formal": "Everything is fine.",
+    "translation_pt": "Está tudo bem."
+  },
+  {
+    "informal": "He's a real piece of work",
+    "formal": "He is quite a complex individual",
+    "translation_pt": "Ele é uma pessoa bastante complexa"
+  },
+  {
+    "informal": "I’m totally down for that!",
+    "formal": "I am completely agreeable to that proposal.",
+    "translation_pt": "Estou totalmente de acordo com essa proposta."
+  },
+  {
+    "informal": "I just wanna vibe.",
+    "formal": "I simply want to relax and enjoy.",
+    "translation_pt": "Eu só quero relaxar e aproveitar."
+  },
+  {
+    "informal": "Hit me up whenever!",
+    "formal": "Please contact me at your convenience.",
+    "translation_pt": "Por favor, entre em contato quando quiser."
+  },
+  {
+    "informal": "We should hang out more.",
+    "formal": "We should spend more time together.",
+    "translation_pt": "Deveríamos passar mais tempo juntos."
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is unacceptable!",
+    "translation_pt": "Isso é inaceitável!"
+  },
+  {
+    "informal": "She totally nailed that presentation.",
+    "formal": "She performed exceptionally well during that presentation.",
+    "translation_pt": "Ela se apresentou excepcionalmente bem naquela apresentação."
+  },
+  {
+    "informal": "I can't believe it, that's whack!",
+    "formal": "I find that hard to believe; that is quite unreasonable.",
+    "translation_pt": "Eu acho difícil acreditar; isso é bastante irrazoável."
+  },
+  {
+    "informal": "No cap, that was amazing.",
+    "formal": "Honestly, that was remarkable.",
+    "translation_pt": "Sinceramente, isso foi notável."
+  },
+  {
+    "informal": "I’m in a bit of a pickle.",
+    "formal": "I find myself in a difficult situation.",
+    "translation_pt": "Estou em uma situação difícil."
+  },
+  {
+    "informal": "Let’s catch up soon!",
+    "formal": "Let us meet up soon to talk.",
+    "translation_pt": "Vamos nos encontrar em breve para conversar."
+  },
+  {
+    "informal": "I’m feeling under the weather.",
+    "formal": "I am not feeling well.",
+    "translation_pt": "Não estou me sentindo bem."
+  },
+  {
+    "informal": "Let’s get this bread.",
+    "formal": "Let us work hard for success.",
+    "translation_pt": "Vamos trabalhar duro para o sucesso."
+  },
+  {
+    "informal": "Hang tight!",
+    "formal": "Please wait patiently.",
+    "translation_pt": "Por favor, aguarde pacientemente."
+  },
+  {
+    "informal": "Can we just chill?",
+    "formal": "May we take a moment to relax?",
+    "translation_pt": "Podemos tirar um momento para relaxar?"
+  },
+  {
+    "informal": "That’s old news.",
+    "formal": "That information is outdated.",
+    "translation_pt": "Essa informação está desatualizada."
+  },
+  {
+    "informal": "I can’t wait for the weekend!",
+    "formal": "I am eagerly anticipating the weekend.",
+    "translation_pt": "Estou ansioso pelo final de semana."
+  },
+  {
+    "informal": "Chill out, man!",
+    "formal": "Please calm down.",
+    "translation_pt": "Por favor, acalme-se."
+  },
+  {
+    "informal": "Take it easy.",
+    "formal": "Please relax.",
+    "translation_pt": "Por favor, relaxe."
+  },
+  {
+    "informal": "He’s a real one.",
+    "formal": "He is a genuinely trustworthy person.",
+    "translation_pt": "Ele é uma pessoa verdadeiramente confiável."
+  },
+  {
+    "informal": "I’m so here for this!",
+    "formal": "I am fully supportive of this.",
+    "translation_pt": "Estou totalmente a favor disso."
+  },
+  {
+    "informal": "That’s a wrap!",
+    "formal": "That concludes our meeting!",
+    "translation_pt": "Isso conclui nossa reunião!"
+  },
+  {
+    "informal": "You're killing it!",
+    "formal": "You are performing excellently.",
+    "translation_pt": "Você está se saindo muito bem."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us depart.",
+    "translation_pt": "Vamos embora."
+  },
+  {
+    "informal": "This is a vibe.",
+    "formal": "This atmosphere is very pleasant.",
+    "translation_pt": "Esta atmosfera é muito agradável."
+  },
+  {
+    "informal": "She’s such a nerd!",
+    "formal": "She is very knowledgeable.",
+    "translation_pt": "Ela é muito inteligente."
+  },
+  {
+    "informal": "That’s a cool idea!",
+    "formal": "That is an excellent suggestion!",
+    "translation_pt": "Essa é uma excelente sugestão!"
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This gathering is quite enjoyable!",
+    "translation_pt": "Esta festa é bastante agradável!"
+  },
+  {
+    "informal": "He just dipped",
+    "formal": "He just left",
+    "translation_pt": "Ele simplesmente saiu"
+  },
+  {
+    "informal": "I’m so tired; I’m dead.",
+    "formal": "I am very tired; I feel exhausted.",
+    "translation_pt": "Estou tão cansado; me sinto exausto."
+  },
+  {
+    "informal": "It’s whatever.",
+    "formal": "It is inconsequential.",
+    "translation_pt": "É inconsequente."
+  },
+  {
+    "informal": "What's the deal?",
+    "formal": "What is the situation?",
+    "translation_pt": "Qual é a situação?"
+  },
+  {
+    "informal": "That sounds like a plan.",
+    "formal": "That seems like a reasonable course of action.",
+    "translation_pt": "Isso parece uma ação razoável."
+  },
+  {
+    "informal": "Stop being so salty.",
+    "formal": "Please do not be so resentful.",
+    "translation_pt": "Por favor, não fique tão ressentido."
+  },
+  {
+    "informal": "I’m in a pickle.",
+    "formal": "I am in a difficult situation.",
+    "translation_pt": "Estou em uma situação difícil."
+  },
+  {
+    "informal": "That’s a game changer.",
+    "formal": "That represents a significant change in the situation.",
+    "translation_pt": "Isso representa uma mudança significativa na situação."
+  },
+  {
+    "informal": "You're so extra.",
+    "formal": "You tend to be overly dramatic.",
+    "translation_pt": "Você tende a ser excessivamente dramático."
+  },
+  {
+    "informal": "I’m really tired, fam.",
+    "formal": "I am quite fatigued, my friend.",
+    "translation_pt": "Estou bastante fatigado, meu amigo."
+  },
+  {
+    "informal": "What a bummer!",
+    "formal": "That is unfortunate!",
+    "translation_pt": "Isso é uma pena!"
+  },
+  {
+    "informal": "I totally ship them!",
+    "formal": "I fully support their relationship!",
+    "translation_pt": "Eu apoio totalmente o relacionamento deles!"
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave!",
+    "translation_pt": "Vamos embora!"
+  },
+  {
+    "informal": "Take it easy!",
+    "formal": "Please relax!",
+    "translation_pt": "Por favor, relaxe!"
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You accomplished it exceptionally well!",
+    "translation_pt": "Você fez isso excepcionalmente bem!"
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This music resonates with me!",
+    "translation_pt": "Esta música ressoa comigo!"
+  },
+  {
+    "informal": "She’s on fire today!",
+    "formal": "She is performing exceptionally well today!",
+    "translation_pt": "Ela está se saindo excepcionalmente bem hoje!"
+  },
+  {
+    "informal": "What a bummer!",
+    "formal": "That is quite disappointing.",
+    "translation_pt": "Isso é bastante decepcionante."
+  },
+  {
+    "informal": "I’ll hit you up later.",
+    "formal": "I will contact you later.",
+    "translation_pt": "Entrarei em contato com você mais tarde."
+  },
+  {
+    "informal": "This news blew my mind!",
+    "formal": "This news surprised me greatly.",
+    "translation_pt": "Essa notícia me surpreendeu muito."
+  },
+  {
+    "informal": "I’m feeling pumped!",
+    "formal": "I am feeling very enthusiastic.",
+    "translation_pt": "Estou me sentindo muito entusiasmado."
+  },
+  {
+    "informal": "That dress looks fire on you!",
+    "formal": "That dress is very flattering on you!",
+    "translation_pt": "Esse vestido é muito lisonjeiro em você!"
+  },
+  {
+    "informal": "I’m outta here.",
+    "formal": "I am leaving now.",
+    "translation_pt": "Estou indo embora agora."
+  },
+  {
+    "informal": "What a bummer!",
+    "formal": "What a disappointment!",
+    "translation_pt": "Que decepção!"
+  },
+  {
+    "informal": "It's lit!",
+    "formal": "It is exciting!",
+    "translation_pt": "É emocionante!"
+  },
+  {
+    "informal": "That’s a dope idea!",
+    "formal": "That is an excellent idea.",
+    "translation_pt": "Essa é uma excelente ideia."
+  },
+  {
+    "informal": "Let’s call it a day.",
+    "formal": "Let us conclude our activities for the day.",
+    "translation_pt": "Vamos concluir nossas atividades do dia."
+  },
+  {
+    "informal": "I’m just chillin’ at home.",
+    "formal": "I am currently relaxing at home.",
+    "translation_pt": "Estou relaxando em casa."
+  },
+  {
+    "informal": "Don’t sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I’m here for the snacks.",
+    "formal": "I am primarily interested in the refreshments.",
+    "translation_pt": "Estou principalmente interessado nos lanches."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave!",
+    "translation_pt": "Vamos embora!"
+  },
+  {
+    "informal": "I'll catch you later.",
+    "formal": "I will see you later.",
+    "translation_pt": "Vou te ver mais tarde."
+  },
+  {
+    "informal": "Let’s hit up that new café.",
+    "formal": "Let us visit that new café.",
+    "translation_pt": "Vamos visitar aquele novo café."
+  },
+  {
+    "informal": "Hey, what's up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I’m just chillin’ at home.",
+    "formal": "I am simply relaxing at home.",
+    "translation_pt": "Estou apenas relaxando em casa."
+  },
+  {
+    "informal": "I’m feeling myself today.",
+    "formal": "I have a high level of self-confidence today.",
+    "translation_pt": "Estou com um alto nível de autoconfiança hoje."
+  },
+  {
+    "informal": "I totally get it.",
+    "formal": "I completely understand.",
+    "translation_pt": "Eu entendo completamente."
+  },
+  {
+    "informal": "It’s all good.",
+    "formal": "Everything is fine.",
+    "translation_pt": "Está tudo bem."
+  },
+  {
+    "informal": "It's time to hit the road.",
+    "formal": "It is time to depart.",
+    "translation_pt": "É hora de partir."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave now.",
+    "translation_pt": "Vamos sair agora."
+  },
+  {
+    "informal": "I’m on cloud nine.",
+    "formal": "I am extremely happy.",
+    "translation_pt": "Estou extremamente feliz."
+  },
+  {
+    "informal": "Let’s chill at my place.",
+    "formal": "Let us relax at my residence.",
+    "translation_pt": "Vamos relaxar na minha casa."
+  },
+  {
+    "informal": "Just a heads up",
+    "formal": "This is a brief notification.",
+    "translation_pt": "Esta é uma breve notificação."
+  },
+  {
+    "informal": "You’ve gotta be kidding me!",
+    "formal": "You must be joking!",
+    "translation_pt": "Você deve estar brincando!"
+  },
+  {
+    "informal": "I messed up big time.",
+    "formal": "I made a significant mistake.",
+    "translation_pt": "Cometi um erro significativo."
+  },
+  {
+    "informal": "She’s got mad skills!",
+    "formal": "She possesses remarkable abilities.",
+    "translation_pt": "Ela possui habilidades notáveis."
+  },
+  {
+    "informal": "Let’s roll!",
+    "formal": "Let us proceed.",
+    "translation_pt": "Vamos prosseguir."
+  },
+  {
+    "informal": "He’s got your back.",
+    "formal": "He is supportive of you.",
+    "translation_pt": "Ele é solidário a você."
+  },
+  {
+    "informal": "Stop being so extra.",
+    "formal": "Please refrain from being overly dramatic.",
+    "translation_pt": "Por favor, evite ser excessivamente dramático."
+  },
+  {
+    "informal": "It’s a no-go",
+    "formal": "That is not acceptable",
+    "translation_pt": "Isso não é aceitável"
+  },
+  {
+    "informal": "It's a vibe.",
+    "formal": "It creates a pleasant atmosphere.",
+    "translation_pt": "Cria uma atmosfera agradável."
+  },
+  {
+    "informal": "I'm just chillin' today.",
+    "formal": "I am taking it easy today.",
+    "translation_pt": "Estou relaxando hoje."
+  },
+  {
+    "informal": "Let’s catch up later.",
+    "formal": "Let us converse later.",
+    "translation_pt": "Vamos conversar mais tarde."
+  },
+  {
+    "informal": "I’m on cloud nine!",
+    "formal": "I am extremely happy!",
+    "translation_pt": "Estou extremamente feliz!"
+  },
+  {
+    "informal": "She’s a real go-getter.",
+    "formal": "She is highly motivated.",
+    "translation_pt": "Ela é muito motivada."
+  },
+  {
+    "informal": "You got this!",
+    "formal": "You are capable of achieving this.",
+    "translation_pt": "Você é capaz de conseguir isso."
+  },
+  {
+    "informal": "I’m just messing with you.",
+    "formal": "I am joking with you.",
+    "translation_pt": "Estou brincando com você."
+  },
+  {
+    "informal": "I’m just gonna chill at home.",
+    "formal": "I will simply relax at home.",
+    "translation_pt": "Vou simplesmente relaxar em casa."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "He really knows his stuff.",
+    "formal": "He is very knowledgeable in his field.",
+    "translation_pt": "Ele é muito conhecedor em sua área."
+  },
+  {
+    "informal": "I'm gonna hit the gym later.",
+    "formal": "I am going to exercise later.",
+    "translation_pt": "Eu vou me exercitar mais tarde."
+  },
+  {
+    "informal": "She's a total boss!",
+    "formal": "She is a highly competent individual.",
+    "translation_pt": "Ela é uma pessoa extremamente competente!"
+  },
+  {
+    "informal": "This idea is fire!",
+    "formal": "This idea is excellent!",
+    "translation_pt": "Essa ideia é excelente!"
+  },
+  {
+    "informal": "I’m good, thanks.",
+    "formal": "I am well, thank you.",
+    "translation_pt": "Estou bem, obrigado."
+  },
+  {
+    "informal": "Don't sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "It's all good in the hood.",
+    "formal": "Everything is satisfactory in the community.",
+    "translation_pt": "Está tudo satisfatório na comunidade."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave now.",
+    "translation_pt": "Vamos sair agora."
+  },
+  {
+    "informal": "It’s up to you.",
+    "formal": "The decision is yours.",
+    "translation_pt": "A decisão é sua."
+  },
+  {
+    "informal": "I’m gonna grab some food.",
+    "formal": "I am going to obtain some food.",
+    "translation_pt": "Vou pegar um pouco de comida."
+  },
+  {
+    "informal": "You’re pulling my leg.",
+    "formal": "You are not being serious.",
+    "translation_pt": "Você não está sendo sério."
+  },
+  {
+    "informal": "He’s such a nerd.",
+    "formal": "He is quite academically inclined.",
+    "translation_pt": "Ele é muito inclinado academicamente."
+  },
+  {
+    "informal": "Let's grab some grub.",
+    "formal": "Let us have a meal.",
+    "translation_pt": "Vamos fazer uma refeição."
+  },
+  {
+    "informal": "This is so sketchy.",
+    "formal": "This is quite suspicious.",
+    "translation_pt": "Isso é bastante suspeito."
+  },
+  {
+    "informal": "This isn’t my vibe.",
+    "formal": "This does not align with my preferences.",
+    "translation_pt": "Isso não está alinhado com minhas preferências."
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is very strange!",
+    "translation_pt": "Isso é muito estranho!"
+  },
+  {
+    "informal": "Let’s call it a day.",
+    "formal": "Let us conclude our activities for today.",
+    "translation_pt": "Vamos concluir nossas atividades por hoje."
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am listening attentively.",
+    "translation_pt": "Estou ouvindo atentamente."
+  },
+  {
+    "informal": "That idea is dope!",
+    "formal": "That idea is excellent.",
+    "translation_pt": "Essa ideia é excelente."
+  },
+  {
+    "informal": "That’s the tea.",
+    "formal": "That is the information.",
+    "translation_pt": "Essa é a informação."
+  },
+  {
+    "informal": "I'm totally bummed about the game.",
+    "formal": "I am quite disappointed about the match.",
+    "translation_pt": "Estou bastante desapontado com o jogo."
+  },
+  {
+    "informal": "Going on a trip soon",
+    "formal": "I will be traveling shortly",
+    "translation_pt": "Estarei viajando em breve"
+  },
+  {
+    "informal": "You’ve got this!",
+    "formal": "You are capable of achieving this!",
+    "translation_pt": "Você é capaz de alcançar isso!"
+  },
+  {
+    "informal": "That concert was dope!",
+    "formal": "That concert was outstanding!",
+    "translation_pt": "Aquele concerto foi excepcional!"
+  },
+  {
+    "informal": "I’m running late.",
+    "formal": "I am delayed.",
+    "translation_pt": "Estou atrasado."
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "My bad, I forgot.",
+    "formal": "I apologize, I neglected to remember.",
+    "translation_pt": "Peço desculpas, eu não me lembrei."
+  },
+  {
+    "informal": "I’m out of here!",
+    "formal": "I am leaving now!",
+    "translation_pt": "Estou saindo agora!"
+  },
+  {
+    "informal": "It’s been a minute.",
+    "formal": "It has been some time since we last met.",
+    "translation_pt": "Faz algum tempo desde a última vez que nos encontramos."
+  },
+  {
+    "informal": "Let's grab some grub",
+    "formal": "Let us have a meal",
+    "translation_pt": "Vamos fazer uma refeição"
+  },
+  {
+    "informal": "That was a major fail.",
+    "formal": "That was a significant failure.",
+    "translation_pt": "Isso foi um fracasso significativo."
+  },
+  {
+    "informal": "You’re such a lifesaver.",
+    "formal": "You are immensely helpful.",
+    "translation_pt": "Você é imensamente útil."
+  },
+  {
+    "informal": "Let’s grab a bite.",
+    "formal": "Let us have a meal.",
+    "translation_pt": "Vamos fazer uma refeição."
+  },
+  {
+    "informal": "Take it easy!",
+    "formal": "Please relax!",
+    "translation_pt": "Por favor, relaxe!"
+  },
+  {
+    "informal": "That’s my jam!",
+    "formal": "That is my favorite song!",
+    "translation_pt": "Essa é a minha música favorita!"
+  },
+  {
+    "informal": "You’ve gotta be kidding me!",
+    "formal": "You cannot be serious!",
+    "translation_pt": "Você não pode estar falando sério!"
+  },
+  {
+    "informal": "I’m not a fan of that show.",
+    "formal": "I do not appreciate that television program.",
+    "translation_pt": "Eu não aprecio aquele programa de televisão."
+  },
+  {
+    "informal": "I’m sorry for being late.",
+    "formal": "I apologize for my tardiness.",
+    "translation_pt": "Peço desculpas pela minha demora."
+  },
+  {
+    "informal": "Don't sweat it!",
+    "formal": "Do not worry about it!",
+    "translation_pt": "Não se preocupe com isso!"
+  },
+  {
+    "informal": "I can’t even!",
+    "formal": "I am overwhelmed!",
+    "translation_pt": "Estou sobrecarregado!"
+  },
+  {
+    "informal": "It’s all good in the hood.",
+    "formal": "Everything is well in our community.",
+    "translation_pt": "Está tudo bem em nossa comunidade."
+  },
+  {
+    "informal": "I gotta bounce, see ya!",
+    "formal": "I must leave now; goodbye!",
+    "translation_pt": "Eu preciso ir agora; até logo!"
+  },
+  {
+    "informal": "That’s hella cool!",
+    "formal": "That is extremely impressive.",
+    "translation_pt": "Isso é extremamente impressionante."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave now.",
+    "translation_pt": "Vamos embora agora."
+  },
+  {
+    "informal": "That was a savage comment.",
+    "formal": "That comment was quite harsh.",
+    "translation_pt": "Esse comentário foi bastante duro."
+  },
+  {
+    "informal": "I'm gonna hit the store real quick.",
+    "formal": "I am going to visit the store briefly.",
+    "translation_pt": "Eu vou visitar a loja rapidamente."
+  },
+  {
+    "informal": "Don't worry about it.",
+    "formal": "Please do not concern yourself with this matter.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "That idea is lit!",
+    "formal": "That idea is outstanding!",
+    "translation_pt": "Essa ideia é excepcional!"
+  },
+  {
+    "informal": "Stop being so extra.",
+    "formal": "Please refrain from being overly dramatic.",
+    "translation_pt": "Por favor, evite ser tão dramático."
+  },
+  {
+    "informal": "I'm feeling kinda tired today.",
+    "formal": "I am feeling somewhat fatigued today.",
+    "translation_pt": "Estou me sentindo um pouco cansado hoje."
+  },
+  {
+    "informal": "I can't even with this traffic!",
+    "formal": "I am quite frustrated with this traffic.",
+    "translation_pt": "Estou bastante frustrado com este trânsito."
+  },
+  {
+    "informal": "Keep it 100!",
+    "formal": "Be honest and straightforward.",
+    "translation_pt": "Seja honesto e direto."
+  },
+  {
+    "informal": "I’m just trying to vibe.",
+    "formal": "I am merely attempting to enjoy myself.",
+    "translation_pt": "Estou apenas tentando me divertir."
+  },
+  {
+    "informal": "I can't even with this weather!",
+    "formal": "I am quite frustrated with the current weather conditions!",
+    "translation_pt": "Estou bastante frustrado com as condições climáticas atuais!"
+  },
+  {
+    "informal": "This is the real deal.",
+    "formal": "This is authentic.",
+    "translation_pt": "Isto é autêntico."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are outstanding!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "He’s such a noob.",
+    "formal": "He is relatively inexperienced.",
+    "translation_pt": "Ele é relativamente inexperiente."
+  },
+  {
+    "informal": "It’s a no-brainer.",
+    "formal": "It is an obvious decision.",
+    "translation_pt": "É uma decisão óbvia."
+  },
+  {
+    "informal": "Take it easy!",
+    "formal": "Please relax!",
+    "translation_pt": "Por favor, relaxe!"
+  },
+  {
+    "informal": "Get outta here!",
+    "formal": "Leave this place!",
+    "translation_pt": "Saia deste lugar!"
+  },
+  {
+    "informal": "That’s lit!",
+    "formal": "That is quite impressive!",
+    "translation_pt": "Isso é bastante impressionante!"
+  },
+  {
+    "informal": "That’s so cringe.",
+    "formal": "That is quite embarrassing.",
+    "translation_pt": "Isso é bastante embaraçoso."
+  },
+  {
+    "informal": "I’m feeling under the weather.",
+    "formal": "I am not feeling well.",
+    "translation_pt": "Não estou me sentindo bem."
+  },
+  {
+    "informal": "I'm really into this show.",
+    "formal": "I am quite interested in this program.",
+    "translation_pt": "Estou bastante interessado neste programa."
+  },
+  {
+    "informal": "That’s a bummer!",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é uma pena."
+  },
+  {
+    "informal": "I’ve got your back.",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "I’m low-key excited for this trip.",
+    "formal": "I am subtly excited for this journey.",
+    "translation_pt": "Estou sutilmente animado por esta viagem."
+  },
+  {
+    "informal": "He's got mad skills!",
+    "formal": "He possesses exceptional skills.",
+    "translation_pt": "Ele possui habilidades excepcionais."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I’m just chilling at home.",
+    "formal": "I am currently relaxing at home.",
+    "translation_pt": "Atualmente estou relaxando em casa."
+  },
+  {
+    "informal": "I’m so over this!",
+    "formal": "I have lost interest in this!",
+    "translation_pt": "Perdi o interesse por isso!"
+  },
+  {
+    "informal": "That idea is whack!",
+    "formal": "That idea is quite unreasonable.",
+    "translation_pt": "Essa ideia é bastante irracional."
+  },
+  {
+    "informal": "Let’s hang out later.",
+    "formal": "Let us meet later.",
+    "translation_pt": "Vamos nos encontrar mais tarde."
+  },
+  {
+    "informal": "I’m game for anything!",
+    "formal": "I am willing to participate in any activity.",
+    "translation_pt": "Estou disposto a participar de qualquer atividade."
+  },
+  {
+    "informal": "I’m just chillin’ at home.",
+    "formal": "I am merely relaxing at home.",
+    "translation_pt": "Estou apenas relaxando em casa."
+  },
+  {
+    "informal": "This place is the bomb!",
+    "formal": "This place is outstanding.",
+    "translation_pt": "Este lugar é excepcional."
+  },
+  {
+    "informal": "I’m feeling blue today.",
+    "formal": "I am feeling somewhat melancholic today.",
+    "translation_pt": "Estou me sentindo um pouco melancólico hoje."
+  },
+  {
+    "informal": "I’m beat after that workout.",
+    "formal": "I am exhausted after that exercise session.",
+    "translation_pt": "Estou exausto depois daquela sessão de treino."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This song is one of my favorites!",
+    "translation_pt": "Esta música é uma das minhas favoritas!"
+  },
+  {
+    "informal": "I'm not gonna lie, I’m tired.",
+    "formal": "I must be honest; I am fatigued.",
+    "translation_pt": "Devo ser honesto; estou fatigado."
+  },
+  {
+    "informal": "I’m crashing here tonight.",
+    "formal": "I will be staying over tonight.",
+    "translation_pt": "Eu ficarei aqui esta noite."
+  },
+  {
+    "informal": "I'm feeling a bit under the weather.",
+    "formal": "I am feeling slightly unwell.",
+    "translation_pt": "Estou me sentindo um pouco mal."
+  },
+  {
+    "informal": "Shut the front door!",
+    "formal": "I cannot believe that!",
+    "translation_pt": "Eu não posso acreditar nisso!"
+  },
+  {
+    "informal": "That’s whack.",
+    "formal": "That is unacceptable.",
+    "translation_pt": "Isso é inaceitável."
+  },
+  {
+    "informal": "You do you.",
+    "formal": "You should do what makes you happy.",
+    "translation_pt": "Você deve fazer o que te faz feliz."
+  },
+  {
+    "informal": "She’s got style for days!",
+    "formal": "She has an impeccable sense of style.",
+    "translation_pt": "Ela tem um senso de estilo impecável."
+  },
+  {
+    "informal": "Let’s hit the road",
+    "formal": "Let us depart",
+    "translation_pt": "Vamos partir"
+  },
+  {
+    "informal": "I’m so tired, fam.",
+    "formal": "I am very tired, my friend.",
+    "translation_pt": "Estou muito cansado, meu amigo."
+  },
+  {
+    "informal": "That idea is fire!",
+    "formal": "That idea is outstanding!",
+    "translation_pt": "Essa ideia é excelente!"
+  },
+  {
+    "informal": "That’s awkward, lol!",
+    "formal": "That situation is quite uncomfortable, indeed.",
+    "translation_pt": "Essa situação é bastante desconfortável, de fato."
+  },
+  {
+    "informal": "Don't sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I’m in a pickle.",
+    "formal": "I find myself in a difficult situation.",
+    "translation_pt": "Eu me encontro em uma situação difícil."
+  },
+  {
+    "informal": "Keep it real!",
+    "formal": "Remain genuine!",
+    "translation_pt": "Mantenha-se genuíno!"
+  },
+  {
+    "informal": "What a bummer!",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é uma pena."
+  },
+  {
+    "informal": "That exam was a piece of cake.",
+    "formal": "That exam was very easy.",
+    "translation_pt": "Aquela prova foi muito fácil."
+  },
+  {
+    "informal": "That outfit is on point!",
+    "formal": "That outfit is very well coordinated.",
+    "translation_pt": "Aquela roupa está muito bem coordenada."
+  },
+  {
+    "informal": "I’m feeling kinda down today.",
+    "formal": "I am feeling somewhat sad today.",
+    "translation_pt": "Estou me sentindo um pouco triste hoje."
+  },
+  {
+    "informal": "I can't stand this traffic!",
+    "formal": "I find this traffic intolerable!",
+    "translation_pt": "Acho este trânsito intolerável!"
+  },
+  {
+    "informal": "Chill out, dude.",
+    "formal": "Calm down, my friend.",
+    "translation_pt": "Calma, meu amigo."
+  },
+  {
+    "informal": "I'm feeling pumped!",
+    "formal": "I am feeling very enthusiastic!",
+    "translation_pt": "Estou me sentindo muito entusiasmado!"
+  },
+  {
+    "informal": "She’s got mad skills",
+    "formal": "She possesses exceptional abilities",
+    "translation_pt": "Ela possui habilidades excepcionais"
+  },
+  {
+    "informal": "I can’t believe you did that!",
+    "formal": "I am astonished that you did that!",
+    "translation_pt": "Estou surpreso que você fez isso!"
+  },
+  {
+    "informal": "That was lit!",
+    "formal": "That was very exciting!",
+    "translation_pt": "Isso foi muito emocionante!"
+  },
+  {
+    "informal": "I’m just vibing.",
+    "formal": "I am simply enjoying the atmosphere.",
+    "translation_pt": "Estou apenas aproveitando o ambiente."
+  },
+  {
+    "informal": "I heard they’re tying the knot!",
+    "formal": "I heard they are getting married!",
+    "translation_pt": "Eu ouvi que eles vão se casar!"
+  },
+  {
+    "informal": "Can you keep it 100?",
+    "formal": "Can you be completely honest?",
+    "translation_pt": "Você pode ser completamente honesto?"
+  },
+  {
+    "informal": "Let’s keep it real.",
+    "formal": "Let us be honest.",
+    "translation_pt": "Vamos ser honestos."
+  },
+  {
+    "informal": "That’s dope!",
+    "formal": "That is impressive!",
+    "translation_pt": "Isso é impressionante!"
+  },
+  {
+    "informal": "She’s a queen.",
+    "formal": "She is an admirable woman.",
+    "translation_pt": "Ela é uma mulher admirável."
+  },
+  {
+    "informal": "I’m lost for words.",
+    "formal": "I am at a loss for words.",
+    "translation_pt": "Estou sem palavras."
+  },
+  {
+    "informal": "You’ve got this!",
+    "formal": "You are capable of achieving this!",
+    "translation_pt": "Você é capaz de alcançar isso!"
+  },
+  {
+    "informal": "I can't believe you did that!",
+    "formal": "I am astonished that you did that!",
+    "translation_pt": "Estou surpreso que você fez isso!"
+  },
+  {
+    "informal": "I’m just vibing today.",
+    "formal": "I am simply enjoying my day today.",
+    "translation_pt": "Estou apenas aproveitando meu dia hoje."
+  },
+  {
+    "informal": "I can't even.",
+    "formal": "I am unable to comprehend.",
+    "translation_pt": "Não consigo compreender."
+  },
+  {
+    "informal": "She’s a real gem!",
+    "formal": "She is a genuinely wonderful person.",
+    "translation_pt": "Ela é uma pessoa genuinamente maravilhosa."
+  },
+  {
+    "informal": "You’re such a lifesaver!",
+    "formal": "You are incredibly helpful.",
+    "translation_pt": "Você é incrivelmente útil."
+  },
+  {
+    "informal": "That’s a major bummer.",
+    "formal": "That is quite disappointing.",
+    "translation_pt": "Isso é bastante decepcionante."
+  },
+  {
+    "informal": "I’m just messin’ with you.",
+    "formal": "I am just joking with you.",
+    "translation_pt": "Estou apenas brincando com você."
+  },
+  {
+    "informal": "Let’s keep it real.",
+    "formal": "Let us be honest.",
+    "translation_pt": "Vamos ser honestos."
+  },
+  {
+    "informal": "That’s a tough break.",
+    "formal": "That is an unfortunate circumstance.",
+    "translation_pt": "Isso é uma circunstância infeliz."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious choice.",
+    "translation_pt": "Essa é uma escolha óbvia."
+  },
+  {
+    "informal": "I’m just playing it by ear.",
+    "formal": "I am deciding as I go along.",
+    "translation_pt": "Estou decidindo à medida que vou."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Isso é uma decisão óbvia."
+  },
+  {
+    "informal": "She's super nice!",
+    "formal": "She is very kind.",
+    "translation_pt": "Ela é muito gentil."
+  },
+  {
+    "informal": "Hit me up if you need anything.",
+    "formal": "Please contact me if you require assistance.",
+    "translation_pt": "Por favor, entre em contato comigo se precisar de ajuda."
+  },
+  {
+    "informal": "That’s how it goes.",
+    "formal": "That is how situations often unfold.",
+    "translation_pt": "É assim que as situações costumam se desenrolar."
+  },
+  {
+    "informal": "I’m just trying to vibe.",
+    "formal": "I am simply attempting to enjoy the atmosphere.",
+    "translation_pt": "Estou apenas tentando aproveitar a atmosfera."
+  },
+  {
+    "informal": "I’m just sayin’...",
+    "formal": "I am merely suggesting...",
+    "translation_pt": "Estou apenas sugerindo..."
+  },
+  {
+    "informal": "I'm broke as a joke.",
+    "formal": "I am currently experiencing financial difficulties.",
+    "translation_pt": "Estou passando por dificuldades financeiras."
+  },
+  {
+    "informal": "I can’t even right now!",
+    "formal": "I am incredibly overwhelmed at the moment.",
+    "translation_pt": "Estou incrivelmente sobrecarregado neste momento."
+  },
+  {
+    "informal": "I'm gonna grab some food.",
+    "formal": "I am going to obtain some food.",
+    "translation_pt": "Vou obter algumas refeições."
+  },
+  {
+    "informal": "We should hang out more.",
+    "formal": "We should spend more time together.",
+    "translation_pt": "Deveríamos passar mais tempo juntos."
+  },
+  {
+    "informal": "I’m swamped with work",
+    "formal": "I am overwhelmed with work.",
+    "translation_pt": "Estou sobrecarregado com o trabalho."
+  },
+  {
+    "informal": "I’ll hit you up later.",
+    "formal": "I will contact you later.",
+    "translation_pt": "Eu entrarei em contato com você mais tarde."
+  },
+  {
+    "informal": "You’re the best!",
+    "formal": "You are the best!",
+    "translation_pt": "Você é o melhor!"
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "That was a total fail.",
+    "formal": "That was a complete failure.",
+    "translation_pt": "Aquilo foi um completo fracasso."
+  },
+  {
+    "informal": "This pizza is bomb!",
+    "formal": "This pizza is exceptional.",
+    "translation_pt": "Esta pizza é excepcional."
+  },
+  {
+    "informal": "We shouldn’t bail on them.",
+    "formal": "We should not abandon them.",
+    "translation_pt": "Não devemos abandoná-los."
+  },
+  {
+    "informal": "I’m so hungry, I could eat a horse.",
+    "formal": "I am extremely hungry.",
+    "translation_pt": "Estou extremamente faminto."
+  },
+  {
+    "informal": "Who’s down for some fun?",
+    "formal": "Who is interested in having some enjoyment?",
+    "translation_pt": "Quem está interessado em se divertir?"
+  },
+  {
+    "informal": "What’s the tea?",
+    "formal": "What is the latest gossip?",
+    "translation_pt": "Qual é a última fofoca?"
+  },
+  {
+    "informal": "You’re all set!",
+    "formal": "You are prepared!",
+    "translation_pt": "Você está preparado!"
+  },
+  {
+    "informal": "Hey, what's up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I'm down for that!",
+    "formal": "I am agreeable to that proposal.",
+    "translation_pt": "Estou de acordo com essa proposta."
+  },
+  {
+    "informal": "That’s lit!",
+    "formal": "That is exciting!",
+    "translation_pt": "Isso é empolgante!"
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am agreeable to that.",
+    "translation_pt": "Estou de acordo com isso."
+  },
+  {
+    "informal": "I'm feeling kinda anxious.",
+    "formal": "I am experiencing some anxiety.",
+    "translation_pt": "Estou sentindo um pouco de ansiedade."
+  },
+  {
+    "informal": "Just shoot me a text.",
+    "formal": "Please send me a message.",
+    "translation_pt": "Por favor, me envie uma mensagem."
+  },
+  {
+    "informal": "I’m beat after that workout.",
+    "formal": "I am exhausted following that exercise session.",
+    "translation_pt": "Estou exausto após aquela sessão de exercícios."
+  },
+  {
+    "informal": "You’ve got balls!",
+    "formal": "You are very courageous.",
+    "translation_pt": "Você é muito corajoso."
+  },
+  {
+    "informal": "Life’s a journey.",
+    "formal": "Life is a series of experiences.",
+    "translation_pt": "A vida é uma série de experiências."
+  },
+  {
+    "informal": "That’s a mood.",
+    "formal": "That is relatable.",
+    "translation_pt": "Isso é compreensível."
+  },
+  {
+    "informal": "She’s a total queen.",
+    "formal": "She is a remarkable individual.",
+    "translation_pt": "Ela é uma pessoa notável."
+  },
+  {
+    "informal": "That film was dope!",
+    "formal": "That film was excellent.",
+    "translation_pt": "Aquele filme foi excelente."
+  },
+  {
+    "informal": "Let’s wing it.",
+    "formal": "Let us proceed without a plan.",
+    "translation_pt": "Vamos seguir sem um plano."
+  },
+  {
+    "informal": "I’m just saying...",
+    "formal": "I would like to point out...",
+    "translation_pt": "Gostaria de destacar..."
+  },
+  {
+    "informal": "I can't stand this weather",
+    "formal": "I find this weather unbearable",
+    "translation_pt": "Considero este tempo insuportável"
+  },
+  {
+    "informal": "Let’s get this bread!",
+    "formal": "Let us work hard for success!",
+    "translation_pt": "Vamos trabalhar duro para ter sucesso!"
+  },
+  {
+    "informal": "I’m super tired.",
+    "formal": "I am extremely fatigued.",
+    "translation_pt": "Estou extremamente cansado."
+  },
+  {
+    "informal": "You're such a lifesaver!",
+    "formal": "You are truly a great help!",
+    "translation_pt": "Você é realmente uma grande ajuda!"
+  },
+  {
+    "informal": "I’m not gonna lie.",
+    "formal": "I am being honest.",
+    "translation_pt": "Estou sendo honesto."
+  },
+  {
+    "informal": "She’s a real MVP.",
+    "formal": "She is a truly valuable member of the team.",
+    "translation_pt": "Ela é um membro realmente valioso da equipe."
+  },
+  {
+    "informal": "That’s my jam!",
+    "formal": "That is my favorite music.",
+    "translation_pt": "Essa é minha música favorita."
+  },
+  {
+    "informal": "Chill out, man.",
+    "formal": "Please relax.",
+    "translation_pt": "Por favor, relaxe."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are remarkable!",
+    "translation_pt": "Você é notável!"
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This gathering is vibrant!",
+    "translation_pt": "Esta festa está animada!"
+  },
+  {
+    "informal": "That’s plain awesome!",
+    "formal": "That is simply remarkable!",
+    "translation_pt": "Isso é simplesmente notável!"
+  },
+  {
+    "informal": "Let’s get this bread!",
+    "formal": "Let us strive for success!",
+    "translation_pt": "Vamos lutar pelo sucesso!"
+  },
+  {
+    "informal": "That’s sick!",
+    "formal": "That is impressive.",
+    "translation_pt": "Isso é impressionante."
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This gathering is very enjoyable!",
+    "translation_pt": "Esta festa é muito agradável!"
+  },
+  {
+    "informal": "I'm just chillin' at home.",
+    "formal": "I am simply relaxing at home.",
+    "translation_pt": "Estou apenas relaxando em casa."
+  },
+  {
+    "informal": "Hit me up later.",
+    "formal": "Contact me later.",
+    "translation_pt": "Entre em contato comigo mais tarde."
+  },
+  {
+    "informal": "That test was a piece of cake!",
+    "formal": "That test was very easy.",
+    "translation_pt": "Aquele teste foi muito fácil."
+  },
+  {
+    "informal": "I feel ya.",
+    "formal": "I understand your feelings.",
+    "translation_pt": "Entendo seus sentimentos."
+  },
+  {
+    "informal": "Let’s hit the road.",
+    "formal": "Let us begin our journey.",
+    "translation_pt": "Vamos começar nossa jornada."
+  },
+  {
+    "informal": "I’m gonna hit the gym later.",
+    "formal": "I am going to go to the gym later.",
+    "translation_pt": "Eu vou à academia mais tarde."
+  },
+  {
+    "informal": "I’m feeling pumped!",
+    "formal": "I am feeling very excited!",
+    "translation_pt": "Estou me sentindo muito animado!"
+  },
+  {
+    "informal": "This show is my jam!",
+    "formal": "I truly enjoy this program.",
+    "translation_pt": "Eu realmente gosto deste programa."
+  },
+  {
+    "informal": "Can you not?",
+    "formal": "Could you please refrain from that?",
+    "translation_pt": "Você poderia se abster disso, por favor?"
+  },
+  {
+    "informal": "She's a real go-getter.",
+    "formal": "She is very ambitious and proactive.",
+    "translation_pt": "Ela é muito ambiciosa e proativa."
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing excellently!",
+    "translation_pt": "Você está se saindo excelentemente!"
+  },
+  {
+    "informal": "I’m all about that!",
+    "formal": "I am entirely in favor of that!",
+    "translation_pt": "Estou totalmente a favor disso!"
+  },
+  {
+    "informal": "I’m so over it",
+    "formal": "I have lost interest in it",
+    "translation_pt": "Perdi o interesse nisso"
+  },
+  {
+    "informal": "Let’s kick it!",
+    "formal": "Let us spend time together.",
+    "translation_pt": "Vamos passar um tempo juntos."
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am listening attentively.",
+    "translation_pt": "Estou ouvindo atentamente."
+  },
+  {
+    "informal": "Let’s get this party started!",
+    "formal": "Let us commence the celebration!",
+    "translation_pt": "Vamos iniciar a celebração!"
+  },
+  {
+    "informal": "Can I grab a bite?",
+    "formal": "May I have a small meal?",
+    "translation_pt": "Posso fazer uma refeição rápida?"
+  },
+  {
+    "informal": "I’m just messing around.",
+    "formal": "I am just joking.",
+    "translation_pt": "Estou apenas brincando."
+  },
+  {
+    "informal": "That’s the bomb!",
+    "formal": "That is excellent.",
+    "translation_pt": "Isso é excelente."
+  },
+  {
+    "informal": "I’m just chilling at home.",
+    "formal": "I am simply relaxing at home.",
+    "translation_pt": "Estou apenas relaxando em casa."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I’m not feeling it today.",
+    "formal": "I am not in the mood today.",
+    "translation_pt": "Não estou no clima hoje."
+  },
+  {
+    "informal": "He’s my best bud.",
+    "formal": "He is my closest friend.",
+    "translation_pt": "Ele é meu melhor amigo."
+  },
+  {
+    "informal": "I'm taking a rain check.",
+    "formal": "I will have to postpone.",
+    "translation_pt": "Vou ter que adiar."
+  },
+  {
+    "informal": "You crack me up!",
+    "formal": "You make me laugh greatly!",
+    "translation_pt": "Você me faz rir muito!"
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are doing an outstanding job!",
+    "translation_pt": "Você está fazendo um trabalho excepcional!"
+  },
+  {
+    "informal": "No cap, that was amazing!",
+    "formal": "I genuinely found that to be amazing.",
+    "translation_pt": "Eu realmente achei isso incrível."
+  },
+  {
+    "informal": "Gimme a break!",
+    "formal": "Please give me a break.",
+    "translation_pt": "Por favor, me dê um tempo."
+  },
+  {
+    "informal": "I can't wait to see you!",
+    "formal": "I am eagerly anticipating our meeting!",
+    "translation_pt": "Estou ansiosamente aguardando nosso encontro!"
+  },
+  {
+    "informal": "I’m not gonna lie, it’s been tough.",
+    "formal": "I must admit, it has been challenging.",
+    "translation_pt": "Devo admitir, tem sido desafiador."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Essa é uma decisão óbvia."
+  },
+  {
+    "informal": "I’m outta here.",
+    "formal": "I am leaving now.",
+    "translation_pt": "Estou saindo agora."
+  },
+  {
+    "informal": "He’s such a tool.",
+    "formal": "He behaves in a foolish manner.",
+    "translation_pt": "Ele se comporta de maneira tola."
+  },
+  {
+    "informal": "I’m pumped for this event!",
+    "formal": "I am very enthusiastic about this event.",
+    "translation_pt": "Estou muito entusiasmado com este evento."
+  },
+  {
+    "informal": "You’ve got this!",
+    "formal": "You are capable of succeeding.",
+    "translation_pt": "Você é capaz de ter sucesso."
+  },
+  {
+    "informal": "She’s kinda cool, I guess.",
+    "formal": "She is somewhat pleasant, in my opinion.",
+    "translation_pt": "Ela é um pouco agradável, na minha opinião."
+  },
+  {
+    "informal": "This place is a vibe.",
+    "formal": "The ambiance of this location is quite enjoyable.",
+    "translation_pt": "A atmosfera deste local é bastante agradável."
+  },
+  {
+    "informal": "You’re such a lifesaver.",
+    "formal": "You are truly a great help.",
+    "translation_pt": "Você é realmente uma grande ajuda."
+  },
+  {
+    "informal": "This party is lit!",
+    "formal": "This gathering is quite lively.",
+    "translation_pt": "Esta festa está bem animada."
+  },
+  {
+    "informal": "Don’t be salty.",
+    "formal": "Please do not be upset.",
+    "translation_pt": "Por favor, não fique chateado."
+  },
+  {
+    "informal": "Let’s get this bread!",
+    "formal": "Let us work hard to achieve success.",
+    "translation_pt": "Vamos trabalhar duro para alcançar o sucesso."
+  },
+  {
+    "informal": "They’ve got my back.",
+    "formal": "They support me.",
+    "translation_pt": "Eles me apoiam."
+  },
+  {
+    "informal": "That’s whack.",
+    "formal": "That is unacceptable.",
+    "translation_pt": "Isso é inaceitável."
+  },
+  {
+    "informal": "He’s got a big mouth.",
+    "formal": "He tends to speak too freely.",
+    "translation_pt": "Ele tende a falar demais."
+  },
+  {
+    "informal": "Let’s grab some grub.",
+    "formal": "Let us obtain some food.",
+    "translation_pt": "Vamos pegar um pouco de comida."
+  },
+  {
+    "informal": "This place is dope!",
+    "formal": "This establishment is impressive.",
+    "translation_pt": "Este estabelecimento é impressionante."
+  },
+  {
+    "informal": "I’m gonna pass on that.",
+    "formal": "I will decline that offer.",
+    "translation_pt": "Vou recusar essa oferta."
+  },
+  {
+    "informal": "That’s a bummer.",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é uma pena."
+  },
+  {
+    "informal": "Don’t sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I’m gonna bounce; see ya later!",
+    "formal": "I am going to leave; I will see you later.",
+    "translation_pt": "Eu vou embora; vejo você mais tarde."
+  },
+  {
+    "informal": "I can't even right now.",
+    "formal": "I am unable to process this information at the moment.",
+    "translation_pt": "Não consigo lidar com isso agora."
+  },
+  {
+    "informal": "Let’s bounce and grab some food!",
+    "formal": "Let us leave and obtain some food.",
+    "translation_pt": "Vamos embora e pegar algo para comer!"
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are outstanding!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "I’m just vibing right now.",
+    "formal": "I am currently enjoying a relaxed state.",
+    "translation_pt": "Atualmente estou desfrutando de um estado relaxado."
+  },
+  {
+    "informal": "I can’t even right now.",
+    "formal": "I am unable to cope at this moment.",
+    "translation_pt": "Não consigo lidar com isso neste momento."
+  },
+  {
+    "informal": "That’s whack!",
+    "formal": "That is unacceptable.",
+    "translation_pt": "Isso é inaceitável."
+  },
+  {
+    "informal": "I just wanna vibe",
+    "formal": "I simply wish to enjoy the atmosphere.",
+    "translation_pt": "Eu apenas quero aproveitar a atmosfera."
+  },
+  {
+    "informal": "Let’s roll!",
+    "formal": "Let us proceed!",
+    "translation_pt": "Vamos prosseguir!"
+  },
+  {
+    "informal": "No cap, that was amazing!",
+    "formal": "Without exaggeration, that was impressive!",
+    "translation_pt": "Sem exagero, isso foi impressionante!"
+  },
+  {
+    "informal": "This party is a vibe!",
+    "formal": "This party has a great atmosphere.",
+    "translation_pt": "Esta festa tem uma ótima atmosfera."
+  },
+  {
+    "informal": "Hey, what's up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "It’s lit in here!",
+    "formal": "The atmosphere here is very exciting!",
+    "translation_pt": "A atmosfera aqui é muito empolgante!"
+  },
+  {
+    "informal": "Can I get a refund?",
+    "formal": "May I request a refund?",
+    "translation_pt": "Posso solicitar um reembolso?"
+  },
+  {
+    "informal": "I’m not really feeling it.",
+    "formal": "I am not particularly enthusiastic about it.",
+    "translation_pt": "Não estou particularmente entusiasmado com isso."
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Isso é uma decisão óbvia."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song!",
+    "translation_pt": "Esta é a minha música favorita!"
+  },
+  {
+    "informal": "I need to hit the books.",
+    "formal": "I need to study diligently.",
+    "translation_pt": "Preciso estudar com dedicação."
+  },
+  {
+    "informal": "I’m game for that.",
+    "formal": "I am open to that suggestion.",
+    "translation_pt": "Estou aberto a essa sugestão."
+  },
+  {
+    "informal": "I’m not gonna lie.",
+    "formal": "To be honest, I am not going to deceive you.",
+    "translation_pt": "Para ser honesto, não vou te enganar."
+  },
+  {
+    "informal": "This place is dope!",
+    "formal": "This location is impressive!",
+    "translation_pt": "Este lugar é impressionante!"
+  },
+  {
+    "informal": "That joke was hilarious!",
+    "formal": "That joke was very amusing!",
+    "translation_pt": "Aquela piada foi muito engraçada!"
+  },
+  {
+    "informal": "Let’s just chillax.",
+    "formal": "Let us relax.",
+    "translation_pt": "Vamos relaxar."
+  },
+  {
+    "informal": "I messed up big time.",
+    "formal": "I made a significant mistake.",
+    "translation_pt": "Cometi um erro significativo."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song.",
+    "translation_pt": "Esta é a minha música favorita."
+  },
+  {
+    "informal": "I’m down for that.",
+    "formal": "I would be happy to participate.",
+    "translation_pt": "Eu ficaria feliz em participar."
+  },
+  {
+    "informal": "Let’s catch up soon!",
+    "formal": "Let us reconnect soon!",
+    "translation_pt": "Vamos nos reconectar em breve!"
+  },
+  {
+    "informal": "I’m on cloud nine!",
+    "formal": "I am extremely happy!",
+    "translation_pt": "Estou extremamente feliz!"
+  },
+  {
+    "informal": "This is my jam.",
+    "formal": "This music is my favorite.",
+    "translation_pt": "Esta música é a minha favorita."
+  },
+  {
+    "informal": "I’ve got so much on my plate.",
+    "formal": "I have a great deal of responsibilities.",
+    "translation_pt": "Tenho muitas responsabilidades."
+  },
+  {
+    "informal": "That's my jam!",
+    "formal": "That is my favorite song!",
+    "translation_pt": "Essa é a minha música favorita!"
+  },
+  {
+    "informal": "I'm feeling kinda down today.",
+    "formal": "I am experiencing a bit of sadness today.",
+    "translation_pt": "Estou me sentindo um pouco triste hoje."
+  },
+  {
+    "informal": "Just keep it real.",
+    "formal": "Please remain honest.",
+    "translation_pt": "Por favor, permaneça honesto."
+  },
+  {
+    "informal": "You're killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "I'm gonna grab some food.",
+    "formal": "I am going to acquire some food.",
+    "translation_pt": "Eu vou pegar algo para comer."
+  },
+  {
+    "informal": "Let’s roll with it.",
+    "formal": "Let us proceed accordingly.",
+    "translation_pt": "Vamos prosseguir de acordo."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You executed it perfectly!",
+    "translation_pt": "Você executou perfeitamente!"
+  },
+  {
+    "informal": "She’s got a good heart.",
+    "formal": "She is a kind person.",
+    "translation_pt": "Ela é uma pessoa bondosa."
+  },
+  {
+    "informal": "I’m stoked for the concert!",
+    "formal": "I am very excited about the concert!",
+    "translation_pt": "Estou muito animado para o concerto!"
+  },
+  {
+    "informal": "I’m so stoked for the concert.",
+    "formal": "I am very excited for the concert.",
+    "translation_pt": "Estou muito empolgado para o show."
+  },
+  {
+    "informal": "This place is dope!",
+    "formal": "This location is impressive!",
+    "translation_pt": "Este lugar é impressionante!"
+  },
+  {
+    "informal": "I’m just saying, it’s a no-brainer.",
+    "formal": "I am suggesting that it is an obvious choice.",
+    "translation_pt": "Estou sugerindo que é uma escolha óbvia."
+  },
+  {
+    "informal": "Don’t sweat it!",
+    "formal": "Do not worry about it!",
+    "translation_pt": "Não se preocupe com isso!"
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are excelling.",
+    "translation_pt": "Você está se destacando."
+  },
+  {
+    "informal": "This game is dope!",
+    "formal": "This game is very enjoyable.",
+    "translation_pt": "Este jogo é muito divertido."
+  },
+  {
+    "informal": "I gotta run!",
+    "formal": "I must leave now.",
+    "translation_pt": "Eu preciso sair agora."
+  },
+  {
+    "informal": "That’s a cool idea!",
+    "formal": "That is an interesting idea.",
+    "translation_pt": "Essa é uma ideia interessante."
+  },
+  {
+    "informal": "Can you chill for a sec?",
+    "formal": "Could you please calm down for a moment?",
+    "translation_pt": "Você pode se acalmar por um momento, por favor?"
+  },
+  {
+    "informal": "That's whack.",
+    "formal": "That is not acceptable.",
+    "translation_pt": "Isso não é aceitável."
+  },
+  {
+    "informal": "She’s a total boss.",
+    "formal": "She is a highly competent individual.",
+    "translation_pt": "Ela é uma pessoa altamente competente."
+  },
+  {
+    "informal": "That was so awkward.",
+    "formal": "That situation was very uncomfortable.",
+    "translation_pt": "Aquela situação foi muito desconfortável."
+  },
+  {
+    "informal": "Don’t sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "I don't wanna deal with that now.",
+    "formal": "I prefer not to handle that at this moment.",
+    "translation_pt": "Prefiro não lidar com isso neste momento."
+  },
+  {
+    "informal": "I’m just keeping it real.",
+    "formal": "I am being honest.",
+    "translation_pt": "Estou sendo honesto."
+  },
+  {
+    "informal": "I’m broke right now.",
+    "formal": "I am currently experiencing financial difficulties.",
+    "translation_pt": "Atualmente, estou enfrentando dificuldades financeiras."
+  },
+  {
+    "informal": "He really nailed that presentation.",
+    "formal": "He performed exceptionally well during the presentation.",
+    "translation_pt": "Ele teve um desempenho excepcional na apresentação."
+  },
+  {
+    "informal": "You do you",
+    "formal": "You should be yourself",
+    "translation_pt": "Você deve ser você mesmo"
+  },
+  {
+    "informal": "I can't even right now.",
+    "formal": "I am currently unable to handle this situation.",
+    "translation_pt": "Neste momento, não consigo lidar com essa situação."
+  },
+  {
+    "informal": "You gotta check this out!",
+    "formal": "You should definitely take a look at this.",
+    "translation_pt": "Você definitivamente deve conferir isso."
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am attentively listening.",
+    "translation_pt": "Estou ouvindo atentamente."
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am listening attentively.",
+    "translation_pt": "Estou ouvindo atentamente."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song.",
+    "translation_pt": "Esta é a minha música favorita."
+  },
+  {
+    "informal": "This game is a total blast!",
+    "formal": "This game is extremely enjoyable.",
+    "translation_pt": "Este jogo é extremamente agradável."
+  },
+  {
+    "informal": "Let’s grab some grub.",
+    "formal": "Let us go eat something.",
+    "translation_pt": "Vamos comer algo."
+  },
+  {
+    "informal": "This burger is bomb!",
+    "formal": "This burger is outstanding!",
+    "translation_pt": "Este hambúrguer é excepcional!"
+  },
+  {
+    "informal": "He's a real MVP.",
+    "formal": "He is a true valuable player.",
+    "translation_pt": "Ele é um verdadeiro jogador valioso."
+  },
+  {
+    "informal": "I’m feeling blue.",
+    "formal": "I am experiencing sadness.",
+    "translation_pt": "Estou sentindo tristeza."
+  },
+  {
+    "informal": "I’m just vibing.",
+    "formal": "I am simply enjoying the moment.",
+    "translation_pt": "Estou apenas aproveitando o momento."
+  },
+  {
+    "informal": "I’m gonna chill at home.",
+    "formal": "I intend to relax at home.",
+    "translation_pt": "Pretendo relaxar em casa."
+  },
+  {
+    "informal": "That’s a solid plan.",
+    "formal": "That is a well-thought-out plan.",
+    "translation_pt": "Esse é um plano bem elaborado."
+  },
+  {
+    "informal": "Let’s bounce!",
+    "formal": "Let us leave now.",
+    "translation_pt": "Vamos embora agora."
+  },
+  {
+    "informal": "I’m just gonna chill at home.",
+    "formal": "I plan to relax at home.",
+    "translation_pt": "Eu pretendo relaxar em casa."
+  },
+  {
+    "informal": "Chill out, you’re overreacting.",
+    "formal": "Please relax; you are exaggerating your response.",
+    "translation_pt": "Por favor, relaxe; você está exagerando sua reação."
+  },
+  {
+    "informal": "That’s a vibe!",
+    "formal": "That creates a pleasant atmosphere!",
+    "translation_pt": "Isso cria uma atmosfera agradável!"
+  },
+  {
+    "informal": "This place is a total vibe.",
+    "formal": "This location has an excellent atmosphere.",
+    "translation_pt": "Este lugar tem uma excelente atmosfera."
+  },
+  {
+    "informal": "What’s popping?",
+    "formal": "What is happening?",
+    "translation_pt": "O que está acontecendo?"
+  },
+  {
+    "informal": "That’s my jam!",
+    "formal": "That is my favorite song!",
+    "translation_pt": "Essa é minha música favorita!"
+  },
+  {
+    "informal": "I just wanna binge-watch some shows.",
+    "formal": "I would like to watch several episodes of a series.",
+    "translation_pt": "Gostaria de assistir a vários episódios de uma série."
+  },
+  {
+    "informal": "I’m on cloud nine!",
+    "formal": "I am extremely happy!",
+    "translation_pt": "Estou extremamente feliz!"
+  },
+  {
+    "informal": "I’ll text you later.",
+    "formal": "I will message you later.",
+    "translation_pt": "Vou te mandar uma mensagem mais tarde."
+  },
+  {
+    "informal": "That was a major fail.",
+    "formal": "That was a significant failure.",
+    "translation_pt": "Isso foi um grande fracasso."
+  },
+  {
+    "informal": "I can't believe it! That's insane!",
+    "formal": "I find it hard to believe; that is unbelievable!",
+    "translation_pt": "Eu tenho dificuldade em acreditar; isso é inacreditável!"
+  },
+  {
+    "informal": "That’s a wrap!",
+    "formal": "That concludes the presentation.",
+    "translation_pt": "Isso conclui a apresentação."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I need some downtime.",
+    "formal": "I require some rest and relaxation.",
+    "translation_pt": "Preciso de um tempo para descansar e relaxar."
+  },
+  {
+    "informal": "That’s a sweet deal.",
+    "formal": "That is a very attractive offer.",
+    "translation_pt": "Essa é uma oferta muito atraente."
+  },
+  {
+    "informal": "You’ve got to be kidding me!",
+    "formal": "You must be joking!",
+    "translation_pt": "Você deve estar brincando!"
+  },
+  {
+    "informal": "Let’s hang out!",
+    "formal": "Let us spend some time together.",
+    "translation_pt": "Vamos passar um tempo juntos."
+  },
+  {
+    "informal": "He’s a real know-it-all.",
+    "formal": "He tends to act as if he knows everything.",
+    "translation_pt": "Ele tende a agir como se soubesse de tudo."
+  },
+  {
+    "informal": "Let’s hit the road.",
+    "formal": "Let us commence our journey.",
+    "translation_pt": "Vamos começar nossa jornada."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You executed it perfectly!",
+    "translation_pt": "Você fez isso perfeitamente!"
+  },
+  {
+    "informal": "I’m all about that.",
+    "formal": "I am very enthusiastic about that.",
+    "translation_pt": "Estou muito entusiasmado com isso."
+  },
+  {
+    "informal": "What's up, dude?",
+    "formal": "How are you doing today?",
+    "translation_pt": "Como você está hoje?"
+  },
+  {
+    "informal": "What’s the scoop?",
+    "formal": "What is the latest news?",
+    "translation_pt": "Quais são as novidades?"
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "I’m swamped with work.",
+    "formal": "I am overwhelmed with my workload.",
+    "translation_pt": "Estou sobrecarregado com meu trabalho."
+  },
+  {
+    "informal": "I can’t even deal right now.",
+    "formal": "I am unable to handle this at present.",
+    "translation_pt": "Não consigo lidar com isso no momento."
+  },
+  {
+    "informal": "This weather is kinda sketchy.",
+    "formal": "The weather is somewhat unreliable.",
+    "translation_pt": "O clima é um tanto instável."
+  },
+  {
+    "informal": "Let’s chill tonight",
+    "formal": "Shall we relax together this evening?",
+    "translation_pt": "Vamos relaxar juntos esta noite?"
+  },
+  {
+    "informal": "That’s a no-brainer.",
+    "formal": "That is an obvious decision.",
+    "translation_pt": "Essa é uma decisão óbvia."
+  },
+  {
+    "informal": "She threw a fit.",
+    "formal": "She had an emotional outburst.",
+    "translation_pt": "Ela teve uma explosão emocional."
+  },
+  {
+    "informal": "I’m feeling snacky.",
+    "formal": "I have a desire for snacks.",
+    "translation_pt": "Estou com vontade de petiscos."
+  },
+  {
+    "informal": "This is so awkward.",
+    "formal": "This situation is quite uncomfortable.",
+    "translation_pt": "Esta situação é bastante desconfortável."
+  },
+  {
+    "informal": "They’re throwing a fit.",
+    "formal": "They are behaving very poorly.",
+    "translation_pt": "Eles estão se comportando muito mal."
+  },
+  {
+    "informal": "You gotta be kidding me!",
+    "formal": "You must be joking!",
+    "translation_pt": "Você deve estar brincando!"
+  },
+  {
+    "informal": "I’m tired of this drama.",
+    "formal": "I am weary of this ongoing conflict.",
+    "translation_pt": "Estou cansado desse conflito contínuo."
+  },
+  {
+    "informal": "That’s a bummer.",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é lamentável."
+  },
+  {
+    "informal": "He’s a total boss.",
+    "formal": "He is a very competent leader.",
+    "translation_pt": "Ele é um líder muito competente."
+  },
+  {
+    "informal": "Let’s wrap this up.",
+    "formal": "Let us conclude this matter.",
+    "translation_pt": "Vamos concluir este assunto."
+  },
+  {
+    "informal": "You’ve got this!",
+    "formal": "You are capable of achieving this!",
+    "translation_pt": "Você é capaz de alcançar isso!"
+  },
+  {
+    "informal": "I’ve got your back",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "That hits different",
+    "formal": "That resonates in a unique way",
+    "translation_pt": "Isso ressoa de uma maneira única"
+  },
+  {
+    "informal": "I’m feeling blessed.",
+    "formal": "I am feeling fortunate.",
+    "translation_pt": "Estou me sentindo afortunado."
+  },
+  {
+    "informal": "I’m just vibing out.",
+    "formal": "I am simply enjoying myself.",
+    "translation_pt": "Estou apenas aproveitando."
+  },
+  {
+    "informal": "It’s raining cats and dogs.",
+    "formal": "It is raining heavily.",
+    "translation_pt": "Está chovendo muito."
+  },
+  {
+    "informal": "I’m just chillin’ at home.",
+    "formal": "I am simply relaxing at home.",
+    "translation_pt": "Estou apenas relaxando em casa."
+  },
+  {
+    "informal": "I’m totally down for that.",
+    "formal": "I am completely agreeable to that.",
+    "translation_pt": "Estou totalmente de acordo com isso."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are outstanding!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "I'm really tired, man.",
+    "formal": "I am quite fatigued.",
+    "translation_pt": "Estou bastante cansado."
+  },
+  {
+    "informal": "You gotta check this out!",
+    "formal": "You should take a look at this!",
+    "translation_pt": "Você deveria dar uma olhada nisso!"
+  },
+  {
+    "informal": "No cap, that was the best pizza ever!",
+    "formal": "Honestly, that was the best pizza I have ever had.",
+    "translation_pt": "Honestamente, aquela foi a melhor pizza que eu já comi."
+  },
+  {
+    "informal": "I’m feeling blessed.",
+    "formal": "I am feeling fortunate.",
+    "translation_pt": "Estou me sentindo afortunado."
+  },
+  {
+    "informal": "I’ve got your back.",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song.",
+    "translation_pt": "Esta é a minha música favorita."
+  },
+  {
+    "informal": "I’m outta here!",
+    "formal": "I am leaving now.",
+    "translation_pt": "Estou indo embora agora."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are exceptional!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "I’m feeling blue.",
+    "formal": "I am feeling quite sad.",
+    "translation_pt": "Estou me sentindo triste."
+  },
+  {
+    "informal": "I’m rooting for you!",
+    "formal": "I am supporting you!",
+    "translation_pt": "Estou torcendo por você!"
+  },
+  {
+    "informal": "Let’s just wing it!",
+    "formal": "Let us improvise!",
+    "translation_pt": "Vamos improvisar!"
+  },
+  {
+    "informal": "I can’t even right now.",
+    "formal": "I am unable to cope at this moment.",
+    "translation_pt": "Não consigo lidar neste momento."
+  },
+  {
+    "informal": "I can’t wait to see you!",
+    "formal": "I am looking forward to seeing you!",
+    "translation_pt": "Estou ansioso para te ver!"
+  },
+  {
+    "informal": "He’s a real one.",
+    "formal": "He is genuinely trustworthy.",
+    "translation_pt": "Ele é realmente confiável."
+  },
+  {
+    "informal": "That was a total fail.",
+    "formal": "That was a complete failure.",
+    "translation_pt": "Isso foi um fracasso total."
+  },
+  {
+    "informal": "You do you!",
+    "formal": "You should act in accordance with your own preferences.",
+    "translation_pt": "Você deve agir de acordo com suas próprias preferências."
+  },
+  {
+    "informal": "He’s got that vibe.",
+    "formal": "He exudes a certain charm.",
+    "translation_pt": "Ele emana um certo charme."
+  },
+  {
+    "informal": "That sounds like a plan!",
+    "formal": "That appears to be a well-thought-out plan.",
+    "translation_pt": "Isso parece um plano bem pensado."
+  },
+  {
+    "informal": "I can’t wait for the weekend!",
+    "formal": "I am eagerly anticipating the weekend.",
+    "translation_pt": "Estou ansioso pelo final de semana."
+  },
+  {
+    "informal": "I’m game!",
+    "formal": "I am interested in participating!",
+    "translation_pt": "Estou interessado em participar!"
+  },
+  {
+    "informal": "This weather is nuts!",
+    "formal": "The weather today is quite extreme.",
+    "translation_pt": "O tempo hoje está bastante extremo."
+  },
+  {
+    "informal": "I’m buzzing from that coffee!",
+    "formal": "I am invigorated by that coffee!",
+    "translation_pt": "Estou revigorado por aquele café!"
+  },
+  {
+    "informal": "I'm out of the loop.",
+    "formal": "I am not informed about recent developments.",
+    "translation_pt": "Não estou informado sobre os desenvolvimentos recentes."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You did an excellent job!",
+    "translation_pt": "Você fez um excelente trabalho!"
+  },
+  {
+    "informal": "That’s a bummer.",
+    "formal": "That is unfortunate.",
+    "translation_pt": "Isso é uma pena."
+  },
+  {
+    "informal": "That's nuts!",
+    "formal": "That is extraordinary!",
+    "translation_pt": "Isso é extraordinário!"
+  },
+  {
+    "informal": "No worries, I got this.",
+    "formal": "There is no need for concern, I can handle this.",
+    "translation_pt": "Não há necessidade de preocupação, eu posso lidar com isso."
+  },
+  {
+    "informal": "He’s my ride or die.",
+    "formal": "He is my loyal companion.",
+    "translation_pt": "Ele é meu companheiro leal."
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are performing exceptionally well.",
+    "translation_pt": "Você está se saindo excepcionalmente bem."
+  },
+  {
+    "informal": "He always gets my back.",
+    "formal": "He is always supportive of me.",
+    "translation_pt": "Ele sempre me apoia."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are outstanding!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "He totally nailed it.",
+    "formal": "He performed exceptionally well.",
+    "translation_pt": "Ele se apresentou excepcionalmente bem."
+  },
+  {
+    "informal": "You’ve got this!",
+    "formal": "You are capable of accomplishing this.",
+    "translation_pt": "Você é capaz de realizar isso."
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am listening attentively.",
+    "translation_pt": "Estou ouvindo atentamente."
+  },
+  {
+    "informal": "Let's bounce!",
+    "formal": "Let's leave!",
+    "translation_pt": "Vamos embora!"
+  },
+  {
+    "informal": "That’s totally lit!",
+    "formal": "That is exceptionally exciting!",
+    "translation_pt": "Isso é excepcionalmente empolgante!"
+  },
+  {
+    "informal": "Sounds like a plan!",
+    "formal": "That appears to be a good plan.",
+    "translation_pt": "Isso parece ser um bom plano."
+  },
+  {
+    "informal": "Gimme a sec",
+    "formal": "Please give me a moment",
+    "translation_pt": "Por favor, me dê um momento"
+  },
+  {
+    "informal": "She’s totally my bestie.",
+    "formal": "She is my closest friend.",
+    "translation_pt": "Ela é minha melhor amiga."
+  },
+  {
+    "informal": "I really dig your style.",
+    "formal": "I greatly admire your style.",
+    "translation_pt": "Eu admiro muito seu estilo."
+  },
+  {
+    "informal": "I can't even deal right now.",
+    "formal": "I am unable to manage this situation at the moment.",
+    "translation_pt": "Não consigo lidar com esta situação no momento."
+  },
+  {
+    "informal": "You’re acting sus.",
+    "formal": "Your behavior appears questionable.",
+    "translation_pt": "Seu comportamento parece duvidoso."
+  },
+  {
+    "informal": "Chill out, it’s all good!",
+    "formal": "Please relax, everything is fine.",
+    "translation_pt": "Por favor, relaxe, está tudo bem."
+  },
+  {
+    "informal": "I’m just messing around.",
+    "formal": "I am merely joking.",
+    "translation_pt": "Estou apenas brincando."
+  },
+  {
+    "informal": "That’s so cool!",
+    "formal": "That is very impressive.",
+    "translation_pt": "Isso é muito impressionante."
+  },
+  {
+    "informal": "I'm so here for this!",
+    "formal": "I am very enthusiastic about this!",
+    "translation_pt": "Estou muito entusiasmado com isso!"
+  },
+  {
+    "informal": "I’m fed up with this nonsense!",
+    "formal": "I am very frustrated with this irrational behavior!",
+    "translation_pt": "Estou muito frustrado com esse comportamento irracional!"
+  },
+  {
+    "informal": "I’m not about that life",
+    "formal": "I do not support that lifestyle",
+    "translation_pt": "Eu não apoio esse estilo de vida"
+  },
+  {
+    "informal": "Hit me up if you need anything!",
+    "formal": "Please contact me if you require assistance!",
+    "translation_pt": "Por favor, entre em contato comigo se precisar de assistência!"
+  },
+  {
+    "informal": "This place is a vibe!",
+    "formal": "This location has a pleasant atmosphere.",
+    "translation_pt": "Este lugar tem uma atmosfera agradável."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are amazing!",
+    "translation_pt": "Você é incrível!"
+  },
+  {
+    "informal": "I’m feeling kinda hungry.",
+    "formal": "I am feeling somewhat hungry.",
+    "translation_pt": "Eu estou me sentindo um pouco faminto."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are outstanding!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "That's lit!",
+    "formal": "That is exciting!",
+    "translation_pt": "Isso é empolgante!"
+  },
+  {
+    "informal": "That’s lit!",
+    "formal": "That is exciting!",
+    "translation_pt": "Isso é emocionante!"
+  },
+  {
+    "informal": "You’re the GOAT!",
+    "formal": "You are the greatest of all time.",
+    "translation_pt": "Você é o maior de todos os tempos."
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are excelling in your endeavors.",
+    "translation_pt": "Você está se destacando em seus esforços."
+  },
+  {
+    "informal": "I gotta bounce, catch you later!",
+    "formal": "I must leave now; I will see you later.",
+    "translation_pt": "Eu preciso sair agora; vou te ver mais tarde."
+  },
+  {
+    "informal": "He's kinda a big deal.",
+    "formal": "He is quite influential.",
+    "translation_pt": "Ele é bastante influente."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed that task exceptionally well.",
+    "translation_pt": "Você fez essa tarefa excepcionalmente bem."
+  },
+  {
+    "informal": "I’m not feeling it today.",
+    "formal": "I am not in the mood today.",
+    "translation_pt": "Não estou no clima hoje."
+  },
+  {
+    "informal": "I’ve got your back!",
+    "formal": "I will support you.",
+    "translation_pt": "Eu vou te apoiar."
+  },
+  {
+    "informal": "He’s a real gem.",
+    "formal": "He is truly an exceptional person.",
+    "translation_pt": "Ele é realmente uma pessoa excepcional."
+  },
+  {
+    "informal": "I’m all about that life.",
+    "formal": "I fully embrace that lifestyle.",
+    "translation_pt": "Eu realmente abraço esse estilo de vida."
+  },
+  {
+    "informal": "I’m totally here for this!",
+    "formal": "I fully support this initiative!",
+    "translation_pt": "Eu apoio totalmente esta iniciativa!"
+  },
+  {
+    "informal": "He’s a total nerd.",
+    "formal": "He is highly intellectual.",
+    "translation_pt": "Ele é altamente intelectual."
+  },
+  {
+    "informal": "I’m head over heels!",
+    "formal": "I am completely infatuated.",
+    "translation_pt": "Estou completamente apaixonado."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "You’re killing it!",
+    "formal": "You are excelling!",
+    "translation_pt": "Você está se destacando!"
+  },
+  {
+    "informal": "That was a close call.",
+    "formal": "That was a narrow escape.",
+    "translation_pt": "Foi uma escapada apertada."
+  },
+  {
+    "informal": "It's a no-brainer.",
+    "formal": "It is an obvious decision.",
+    "translation_pt": "É uma decisão óbvia."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Oi, como você está?"
+  },
+  {
+    "informal": "I’m running late, sorry!",
+    "formal": "I apologize, but I am running behind schedule.",
+    "translation_pt": "Peço desculpas, mas estou atrasado."
+  },
+  {
+    "informal": "That’s super cool!",
+    "formal": "That is extremely impressive!",
+    "translation_pt": "Isso é incrivelmente impressionante!"
+  },
+  {
+    "informal": "I can’t believe it’s already Monday!",
+    "formal": "I cannot believe that it is already Monday!",
+    "translation_pt": "Não consigo acreditar que já é segunda-feira!"
+  },
+  {
+    "informal": "That outfit is fire!",
+    "formal": "That attire is exceptional.",
+    "translation_pt": "Aquela roupa é excepcional."
+  },
+  {
+    "informal": "I’m on it!",
+    "formal": "I will take care of it!",
+    "translation_pt": "Eu vou cuidar disso!"
+  },
+  {
+    "informal": "What’s the scoop?",
+    "formal": "What is the latest information?",
+    "translation_pt": "Qual é a última informação?"
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am fully attentive.",
+    "translation_pt": "Estou totalmente atento."
+  },
+  {
+    "informal": "That’s just my two cents.",
+    "formal": "That is merely my opinion.",
+    "translation_pt": "Essa é apenas a minha opinião."
+  },
+  {
+    "informal": "She’s got a sick sense of style.",
+    "formal": "She possesses a remarkable sense of style.",
+    "translation_pt": "Ela possui um senso de estilo notável."
+  },
+  {
+    "informal": "I’m just winging it.",
+    "formal": "I am improvising.",
+    "translation_pt": "Estou improvisando."
+  },
+  {
+    "informal": "I’m totally down!",
+    "formal": "I am completely willing!",
+    "translation_pt": "Estou totalmente disposto!"
+  },
+  {
+    "informal": "No cap, it was amazing!",
+    "formal": "Without exaggeration, it was remarkable.",
+    "translation_pt": "Sem exagero, foi notável."
+  },
+  {
+    "informal": "Hey, what’s up?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "Olá, como você está?"
+  },
+  {
+    "informal": "I’m shook!",
+    "formal": "I am profoundly surprised.",
+    "translation_pt": "Estou profundamente surpreso."
+  },
+  {
+    "informal": "I’m sick of this!",
+    "formal": "I am fed up with this situation!",
+    "translation_pt": "Estou farto dessa situação!"
+  },
+  {
+    "informal": "I'm totally down for that.",
+    "formal": "I am completely agreeable to that.",
+    "translation_pt": "Estou totalmente de acordo com isso."
+  },
+  {
+    "informal": "She’s super nice.",
+    "formal": "She is extremely kind.",
+    "translation_pt": "Ela é extremamente gentil."
+  },
+  {
+    "informal": "Let’s call it a day.",
+    "formal": "Let us conclude our work for today.",
+    "translation_pt": "Vamos concluir nosso trabalho por hoje."
+  },
+  {
+    "informal": "I'm just vibing today.",
+    "formal": "I am simply enjoying the moment today.",
+    "translation_pt": "Estou apenas aproveitando o momento hoje."
+  },
+  {
+    "informal": "He’s so salty about it.",
+    "formal": "He is quite resentful about it.",
+    "translation_pt": "Ele está bastante ressentido com isso."
+  },
+  {
+    "informal": "Let’s hit the road.",
+    "formal": "Let us commence our journey.",
+    "translation_pt": "Vamos começar nossa jornada."
+  },
+  {
+    "informal": "Everything's gonna be alright.",
+    "formal": "Everything will eventually be fine.",
+    "translation_pt": "Tudo vai ficar bem."
+  },
+  {
+    "informal": "I’m down for some pizza.",
+    "formal": "I am willing to have some pizza.",
+    "translation_pt": "Estou disposto a comer um pouco de pizza."
+  },
+  {
+    "informal": "She’s got a point",
+    "formal": "She makes a valid argument.",
+    "translation_pt": "Ela apresenta um argumento válido."
+  },
+  {
+    "informal": "I’m so done with this.",
+    "formal": "I have reached my limit with this situation.",
+    "translation_pt": "Eu atingi meu limite com esta situação."
+  },
+  {
+    "informal": "You rock!",
+    "formal": "You are exceptional!",
+    "translation_pt": "Você é excepcional!"
+  },
+  {
+    "informal": "It’s raining cats and dogs.",
+    "formal": "It is raining heavily.",
+    "translation_pt": "Está chovendo muito."
+  },
+  {
+    "informal": "That was epic!",
+    "formal": "That experience was remarkable!",
+    "translation_pt": "Essa experiência foi notável!"
+  },
+  {
+    "informal": "You’re pulling my leg!",
+    "formal": "You are joking with me!",
+    "translation_pt": "Você está brincando comigo!"
+  },
+  {
+    "informal": "I’m swamped with work.",
+    "formal": "I am overwhelmed with work responsibilities.",
+    "translation_pt": "Estou sobrecarregado com responsabilidades de trabalho."
+  },
+  {
+    "informal": "Don't sweat it.",
+    "formal": "Do not worry about it.",
+    "translation_pt": "Não se preocupe com isso."
+  },
+  {
+    "informal": "Keep it real!",
+    "formal": "Please remain truthful.",
+    "translation_pt": "Por favor, permaneça verdadeiro."
+  },
+  {
+    "informal": "Let’s keep it real.",
+    "formal": "Let us be honest.",
+    "translation_pt": "Sejamos honestos."
+  },
+  {
+    "informal": "I’m down for that!",
+    "formal": "I am willing to participate in that.",
+    "translation_pt": "Estou disposto a participar disso."
+  },
+  {
+    "informal": "I’m all ears.",
+    "formal": "I am listening attentively.",
+    "translation_pt": "Estou ouvindo atentamente."
+  },
+  {
+    "informal": "I’m feeling blue today.",
+    "formal": "I am experiencing feelings of sadness today.",
+    "translation_pt": "Estou sentindo tristeza hoje."
+  },
+  {
+    "informal": "Can we grab some grub?",
+    "formal": "Can we obtain a meal?",
+    "translation_pt": "Podemos obter uma refeição?"
+  },
+  {
+    "informal": "I’m over the moon!",
+    "formal": "I am extremely happy!",
+    "translation_pt": "Estou extremamente feliz!"
+  },
+  {
+    "informal": "I’m not feeling it today.",
+    "formal": "I am not in the best mood today.",
+    "translation_pt": "Não estou no melhor humor hoje."
+  },
+  {
+    "informal": "That’s my jam!",
+    "formal": "That is my favorite song!",
+    "translation_pt": "Essa é a minha música favorita!"
+  },
+  {
+    "informal": "I’m not feeling it today.",
+    "formal": "I am not in the mood today.",
+    "translation_pt": "Não estou no clima hoje."
+  },
+  {
+    "informal": "That was a total bummer.",
+    "formal": "That was quite disappointing.",
+    "translation_pt": "Isso foi bastante decepcionante."
+  },
+  {
+    "informal": "That joke was hilarious!",
+    "formal": "That joke was extremely funny.",
+    "translation_pt": "Aquela piada foi extremamente engraçada."
+  },
+  {
+    "informal": "I can't even with this traffic.",
+    "formal": "I find this traffic intolerable.",
+    "translation_pt": "Eu não consigo lidar com este trânsito."
+  },
+  {
+    "informal": "I’m just vibing right now.",
+    "formal": "I am currently enjoying the atmosphere.",
+    "translation_pt": "Estou atualmente desfrutando da atmosfera."
+  },
+  {
+    "informal": "He’s a real MVP.",
+    "formal": "He is truly the most valuable player.",
+    "translation_pt": "Ele é realmente o jogador mais valioso."
+  },
+  {
+    "informal": "That was a sick play!",
+    "formal": "That was a remarkable performance!",
+    "translation_pt": "Aquela foi uma performance notável!"
+  },
+  {
+    "informal": "You’re such a lifesaver!",
+    "formal": "You are extremely helpful!",
+    "translation_pt": "Você é extremamente útil!"
+  },
+  {
+    "informal": "I don’t have the bandwidth",
+    "formal": "I lack the capacity",
+    "translation_pt": "Falto capacidade"
+  },
+  {
+    "informal": "This project is a piece of cake.",
+    "formal": "This project is very easy.",
+    "translation_pt": "Este projeto é muito fácil."
+  },
+  {
+    "informal": "I feel you, dude.",
+    "formal": "I understand your perspective, my friend.",
+    "translation_pt": "Eu entendo sua perspectiva, meu amigo."
+  },
+  {
+    "informal": "I’m outta here!",
+    "formal": "I am leaving now.",
+    "translation_pt": "Estou indo embora agora."
+  },
+  {
+    "informal": "She’s a total gem.",
+    "formal": "She is a remarkable person.",
+    "translation_pt": "Ela é uma pessoa notável."
+  },
+  {
+    "informal": "You nailed it!",
+    "formal": "You performed exceptionally well!",
+    "translation_pt": "Você se saiu excepcionalmente bem!"
+  },
+  {
+    "informal": "I’m totally on board with that.",
+    "formal": "I completely agree with that.",
+    "translation_pt": "Eu concordo plenamente com isso."
+  },
+  {
+    "informal": "Let's bounce!",
+    "formal": "Let us leave.",
+    "translation_pt": "Vamos embora."
+  },
+  {
+    "informal": "This food is bomb!",
+    "formal": "This food is outstanding!",
+    "translation_pt": "Esta comida é excepcional!"
+  },
+  {
+    "informal": "You're killing it!",
+    "formal": "You are performing exceptionally well!",
+    "translation_pt": "Você está se saindo excepcionalmente bem!"
+  },
+  {
+    "informal": "That’s a vibe.",
+    "formal": "That creates a pleasant atmosphere.",
+    "translation_pt": "Isso cria uma atmosfera agradável."
+  },
+  {
+    "informal": "I’m just gonna wing it.",
+    "formal": "I will proceed without a plan.",
+    "translation_pt": "Vou agir sem um plano."
+  },
+  {
+    "informal": "She’s the best!",
+    "formal": "She is exceptional!",
+    "translation_pt": "Ela é excepcional!"
+  },
+  {
+    "informal": "Let’s hit the road!",
+    "formal": "Let us begin our journey.",
+    "translation_pt": "Vamos começar nossa jornada."
+  },
+  {
+    "informal": "She’s a real sweetheart.",
+    "formal": "She is genuinely kind and considerate.",
+    "translation_pt": "Ela é genuinamente gentil e atenciosa."
+  },
+  {
+    "informal": "You’re the best!",
+    "formal": "You are the best!",
+    "translation_pt": "Você é o melhor!"
+  },
+  {
+    "informal": "I'm kinda tired, TBH.",
+    "formal": "I am somewhat fatigued, to be honest.",
+    "translation_pt": "Estou um pouco cansado, para ser honesto."
+  },
+  {
+    "informal": "I’m feeling kinda hungry.",
+    "formal": "I am somewhat hungry.",
+    "translation_pt": "Estou um pouco faminto."
+  },
+  {
+    "informal": "This is my jam!",
+    "formal": "This is my favorite song.",
+    "translation_pt": "Esta é a minha música favorita."
+  },
+  {
+    "informal": "He's a total legend.",
+    "formal": "He is an extraordinarily admirable individual.",
+    "translation_pt": "Ele é um indivíduo extraordinariamente admirável."
+  },
+  {
+    "informal": "I’m outta here!",
+    "formal": "I am leaving now!",
+    "translation_pt": "Estou saindo agora!"
+  },
+  {
+    "informal": "You’re a lifesaver!",
+    "formal": "You are incredibly helpful!",
+    "translation_pt": "Você é incrivelmente útil!"
+  },
+  {
+    "informal": "This pizza is lit!",
+    "formal": "This pizza is outstanding!",
+    "translation_pt": "Essa pizza é incrível!"
+  },
+  {
+    "informal": "That car is dope!",
+    "formal": "That vehicle is impressive.",
+    "translation_pt": "Aquele veículo é impressionante."
+  },
+  {
+    "informal": "That’s just whack!",
+    "formal": "That is quite absurd!",
+    "translation_pt": "Isso é bastante absurdo!"
+  },
+  {
+    "informal": "That test was a total breeze.",
+    "formal": "That examination was relatively easy.",
+    "translation_pt": "Aquela prova foi relativamente fácil."
+  },
+  {
+    "informal": "What's up, dude?",
+    "formal": "Hello, how are you?",
+    "translation_pt": "E aí, cara?"
+  },
+  {
+    "informal": "What a trip!",
+    "formal": "That was quite an experience!",
+    "translation_pt": "Foi uma experiência e tanto!"
+  },
+  {
+    "informal": "You’ve got to be kidding me",
+    "formal": "You must be joking.",
+    "translation_pt": "Você deve estar brincando."
+  },
+  {
+    "informal": "This party is dope!",
+    "formal": "This party is excellent.",
+    "translation_pt": "Esta festa é excelente."
+  },
+  {
+    "informal": "I’m just messing around.",
+    "formal": "I am only joking.",
+    "translation_pt": "Estou apenas brincando."
+  },
+  {
+    "informal": "I gotta bounce.",
+    "formal": "I need to leave.",
+    "translation_pt": "Eu preciso ir."
+  },
+  {
+    "informal": "I’m all about that.",
+    "formal": "I am very enthusiastic about that.",
+    "translation_pt": "Estou muito entusiasmado com isso."
+  }
+]

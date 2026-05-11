@@ -139,6 +139,8 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
+!.env.example
 .envrc
 .venv
 env/
@@ -208,3 +210,32 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local ML artifacts
+models/
+reports/
+scratch/
+data/experiments/
+results*/
+checkpoints/
+checkpoint-*/
+wandb/
+mlruns/
+lightning_logs/
+*.zip
+*.safetensors
+*.onnx
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.joblib
+training_args.bin
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Local notes/docs
+*.md
+!README.md

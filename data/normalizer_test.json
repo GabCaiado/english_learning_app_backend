@@ -1,0 +1,4622 @@
+[
+  {
+    "slang": "savage",
+    "formal": "ruthless",
+    "context": "That comeback was savage; she really put him in his place."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking great or well put together",
+    "context": "Your outfit is snatched!"
+  },
+  {
+    "slang": "plug",
+    "formal": "source for information or connection",
+    "context": "I have a plug for getting concert tickets."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "He was acting thirsty just to get her attention."
+  },
+  {
+    "slang": "salty",
+    "formal": "upset or bitter",
+    "context": "He’s still salty about losing the game."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the meeting starts."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "criticize subtly",
+    "context": "He was throwing shade at his rival during the interview."
+  },
+  {
+    "slang": "stan",
+    "formal": "be an ardent fan",
+    "context": "I stan that artist so hard."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have got to",
+    "context": "I gotta finish this assignment by tomorrow."
+  },
+  {
+    "slang": "slay",
+    "formal": "to excel or succeed exceptionally",
+    "context": "She is going to slay at the talent show."
+  },
+  {
+    "slang": "fit check",
+    "formal": "outfit evaluation",
+    "context": "Let's do a fit check before we leave."
+  },
+  {
+    "slang": "yeet",
+    "formal": "to throw or express excitement",
+    "context": "I just yeeted that ball across the field."
+  },
+  {
+    "slang": "cop",
+    "formal": "to obtain",
+    "context": "I'm gonna cop that new game when it releases."
+  },
+  {
+    "slang": "stan",
+    "formal": "to strongly support or be a fan of",
+    "context": "I stan that singer; she’s amazing!"
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I'll be brb, I need to grab something."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "to criticize subtly",
+    "context": "He threw shade at his competitor during the interview."
+  },
+  {
+    "slang": "adulting",
+    "formal": "taking on adult responsibilities",
+    "context": "Adulting is harder than I expected."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or fame",
+    "context": "He's just doing it for the clout."
+  },
+  {
+    "slang": "litty",
+    "formal": "extremely exciting",
+    "context": "That party was litty from start to finish."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "I’ll see you at the game, bet!"
+  },
+  {
+    "slang": "baddie",
+    "formal": "attractive person",
+    "context": "She looks like a baddie in that dress."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie or honestly",
+    "context": "No cap, this is the best coffee I’ve ever had."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The festival was lit AF this year!"
+  },
+  {
+    "slang": "ghost",
+    "formal": "suddenly cut off communication",
+    "context": "He ghosted me after our date."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She slayed her performance at the talent show."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I lmao at the meme my friend sent me."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "She is very woke about current social issues."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She really slayed in her presentation today."
+  },
+  {
+    "slang": "bussin",
+    "formal": "really delicious",
+    "context": "This food is bussin, I must have the recipe."
+  },
+  {
+    "slang": "salty",
+    "formal": "angry or upset",
+    "context": "She was salty about losing the game last night."
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I love hanging out with my fam on weekends."
+  },
+  {
+    "slang": "ghosting",
+    "formal": "cutting off communication",
+    "context": "I can't believe she's ghosting me."
+  },
+  {
+    "slang": "mood",
+    "formal": "a feeling or state of mind",
+    "context": "That song is a whole mood right now."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The concert was lit AF, I loved every minute."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat",
+    "context": "I lowkey enjoyed that movie."
+  },
+  {
+    "slang": "hmu",
+    "formal": "hit me up",
+    "context": "If you want to hang out, hmu later."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the party?"
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, I can't stop saying lol."
+  },
+  {
+    "slang": "skrrt",
+    "formal": "to leave quickly",
+    "context": "And then he skrrt out of the party."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, I literally lol."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking great or well put together",
+    "context": "Her outfit is snatched!"
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "What’s up, fam? How’s everyone doing?"
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "She can be a bit extra sometimes."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to take this call, brb."
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless",
+    "context": "That was a savage comment."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Did you hear the tea about what happened at the party?"
+  },
+  {
+    "slang": "noob",
+    "formal": "newbie or inexperienced person",
+    "context": "I felt like a noob when I started playing that game."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "He was acting kinda thirsty after she left."
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "This track is such a bop."
+  },
+  {
+    "slang": "adulting",
+    "formal": "behaving like an adult",
+    "context": "I’m still figuring out this whole adulting thing."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna go to the concert this weekend."
+  },
+  {
+    "slang": "ghost",
+    "formal": "cut off communication suddenly",
+    "context": "He ghosted me after our first date."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to step away for a moment, brb."
+  },
+  {
+    "slang": "squad",
+    "formal": "group of friends",
+    "context": "I’m going to the movies with my squad."
+  },
+  {
+    "slang": "iconic",
+    "formal": "widely recognized",
+    "context": "That performance was truly iconic."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie",
+    "context": "Don't cap about your achievements."
+  },
+  {
+    "slang": "goat",
+    "formal": "greatest of all time",
+    "context": "Many consider him the goat of basketball."
+  },
+  {
+    "slang": "cancelled",
+    "formal": "disregarded or rejected",
+    "context": "That event got cancelled due to bad weather."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "She told me a hilarious story, and I was lmao."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That seems a bit sus to me."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should join us for dinner."
+  },
+  {
+    "slang": "fit",
+    "formal": "outfit",
+    "context": "She is wearing a really cute fit today."
+  },
+  {
+    "slang": "flex",
+    "formal": "to show off",
+    "context": "He's just trying to flex with his new car."
+  },
+  {
+    "slang": "slay",
+    "formal": "do exceptionally well",
+    "context": "She really slayed her performance."
+  },
+  {
+    "slang": "litty",
+    "formal": "extremely enjoyable",
+    "context": "The party was litty, everyone had a blast."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw shade at him during the meeting."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking very attractive",
+    "context": "She looks snatched in that dress."
+  },
+  {
+    "slang": "ghost",
+    "formal": "stop communicating suddenly",
+    "context": "He ghosted me after our last date."
+  },
+  {
+    "slang": "ghosting",
+    "formal": "ignoring someone without explanation",
+    "context": "She is ghosting me after our last date."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna grab dinner with me tonight?"
+  },
+  {
+    "slang": "noob",
+    "formal": "inexperienced person",
+    "context": "Don't be a noob, learn the rules first."
+  },
+  {
+    "slang": "flex",
+    "formal": "to show off",
+    "context": "He likes to flex his new car on social media."
+  },
+  {
+    "slang": "lit fam",
+    "formal": "exciting group",
+    "context": "The gathering was lit fam."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno if we’ll make it on time."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna head to the store now."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The party last night was lit AF."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very obvious",
+    "context": "I highkey love this song."
+  },
+  {
+    "slang": "lit fam",
+    "formal": "exciting group of friends",
+    "context": "We are a lit fam, always having a good time together."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta call my mom before she worries."
+  },
+  {
+    "slang": "noob",
+    "formal": "newbie or inexperienced person",
+    "context": "He's just a noob at playing that game."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie or disinformation",
+    "context": "You are capping if you think that’s true."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He is very woke about social issues."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my gosh",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "bussin",
+    "formal": "extremely delicious",
+    "context": "This food is bussin, I need the recipe!"
+  },
+  {
+    "slang": "ahh",
+    "formal": "expression of realization or relief",
+    "context": "Ahh, now I understand the situation."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna head out to the store later."
+  },
+  {
+    "slang": "shook",
+    "formal": "shocked or surprised",
+    "context": "I was shook when I heard the news."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat or discreetly",
+    "context": "I'm lowkey excited about the vacation next week."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That behavior is kinda sus, don't you think?"
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You think we can win the game? Bet."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "If you want to go, bet I’m in."
+  },
+  {
+    "slang": "periodt",
+    "formal": "used to emphasize a point",
+    "context": "She is the best, periodt."
+  },
+  {
+    "slang": "jelly",
+    "formal": "jealous",
+    "context": "I’m jelly of your new car."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the meeting starts."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "The party was litty, everyone had a great time."
+  },
+  {
+    "slang": "yeet",
+    "formal": "to throw something with force",
+    "context": "He yeeted the ball across the field."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You think so? Bet!"
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where she went."
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "That song is such a bop; I can't get it out of my head."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I think we should reconsider our plans."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "She has a lot of clout in the fashion industry."
+  },
+  {
+    "slang": "chill",
+    "formal": "relax or calm",
+    "context": "Let’s just chill at home and watch a movie."
+  },
+  {
+    "slang": "bail",
+    "formal": "leave abruptly",
+    "context": "I had to bail on the meeting because I felt sick."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "She was salty after losing the game."
+  },
+  {
+    "slang": "banger",
+    "formal": "a hit song or excellent",
+    "context": "That new track is a banger!"
+  },
+  {
+    "slang": "cancelled",
+    "formal": "disregarded",
+    "context": "That show is cancelled after one season."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "That post was so thirsty."
+  },
+  {
+    "slang": "simp",
+    "formal": "someone who shows excessive attention",
+    "context": "He’s such a simp for her."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Ur opinion matters to me."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He is very woke about social issues."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, I just had to say lol."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He’s still salty about losing that game."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "The party last night was so lit!"
+  },
+  {
+    "slang": "fit",
+    "formal": "outfit",
+    "context": "I love your fit today!"
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat",
+    "context": "I'm lowkey excited about the trip."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very obvious or intense",
+    "context": "I’m highkey nervous about the exam."
+  },
+  {
+    "slang": "highkey",
+    "formal": "obviously or openly",
+    "context": "I'm highkey excited for the weekend."
+  },
+  {
+    "slang": "savage",
+    "formal": "bold",
+    "context": "That was a savage roast!"
+  },
+  {
+    "slang": "drip",
+    "formal": "stylish clothing",
+    "context": "His outfit has so much drip; I love it."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking great",
+    "context": "Your outfit looks snatched today!"
+  },
+  {
+    "slang": "it’s a whole mood",
+    "formal": "it embodies a particular feeling",
+    "context": "That sunset is a whole mood."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna come to the party with me?"
+  },
+  {
+    "slang": "ship",
+    "formal": "support the romantic pairing",
+    "context": "I totally ship those two characters."
+  },
+  {
+    "slang": "on fleek",
+    "formal": "perfectly executed",
+    "context": "Her makeup is on fleek today."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Come on, spill the tea about what happened."
+  },
+  {
+    "slang": "yasss",
+    "formal": "an expression of excitement or agreement",
+    "context": "Yasss, you look amazing in that dress!"
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You’re going to the concert? Bet!"
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Ur opinion really matters to me."
+  },
+  {
+    "slang": "cringe",
+    "formal": "awkward",
+    "context": "That moment was so cringe."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "Watching that old video was so cringe."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the game with us."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looked great",
+    "context": "Her outfit is snatched."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "That event was lit AF!"
+  },
+  {
+    "slang": "bae",
+    "formal": "term of endearment for a partner",
+    "context": "Bae and I are going out for dinner."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I lmao at that meme you sent me."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "subtly",
+    "context": "I lowkey want to go to that concert."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta leave early for my appointment."
+  },
+  {
+    "slang": "btw",
+    "formal": "by the way",
+    "context": "Btw, I saw your brother at the mall."
+  },
+  {
+    "slang": "no chill",
+    "formal": "not able to remain calm",
+    "context": "He had no chill during the debate."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "The video was hilarious; I lmao the entire time."
+  },
+  {
+    "slang": "ghosted",
+    "formal": "stopped communicating abruptly",
+    "context": "I thought we had a great time, but then she ghosted me."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "Okay, bet! Let’s meet at noon."
+  },
+  {
+    "slang": "bussin",
+    "formal": "delicious",
+    "context": "This pizza is bussin, I could eat it every day."
+  },
+  {
+    "slang": "thx",
+    "formal": "thank you",
+    "context": "Thx for helping me with my homework."
+  },
+  {
+    "slang": "yolo",
+    "formal": "you only live once",
+    "context": "I decided to go skydiving because yolo."
+  },
+  {
+    "slang": "ootd",
+    "formal": "outfit of the day",
+    "context": "I'm posting my ootd on Instagram."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna watch a movie later."
+  },
+  {
+    "slang": "whip",
+    "formal": "car",
+    "context": "Check out my new whip."
+  },
+  {
+    "slang": "ghosting",
+    "formal": "disappearing without communication",
+    "context": "I can't believe he is ghosting me."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to take this call. Brb."
+  },
+  {
+    "slang": "ghost",
+    "formal": "disappear without communication",
+    "context": "She ghosted me after our last date."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "How r you feeling about the exam?"
+  },
+  {
+    "slang": "simp",
+    "formal": "someone who shows excessive devotion",
+    "context": "He's such a simp for her."
+  },
+  {
+    "slang": "ghost",
+    "formal": "cease communication",
+    "context": "He ghosted me after our last date."
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I'm hanging out with my fam this weekend."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "dope",
+    "formal": "very good or impressive",
+    "context": "That new phone is dope."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna go to the concert this weekend."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "That outfit is a bit extra for a casual dinner."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "Are u coming to the party later?"
+  },
+  {
+    "slang": "yolo",
+    "formal": "you only live once",
+    "context": "I decided to take the trip because yolo!"
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I wasn't really looking forward to the meeting."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That old video is so cringe, I can't watch it."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that long meeting."
+  },
+  {
+    "slang": "suss",
+    "formal": "to suspect or investigate",
+    "context": "I’m starting to suss out what’s happening."
+  },
+  {
+    "slang": "stan",
+    "formal": "an overly enthusiastic fan",
+    "context": "I truly stan that artist."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or excellent",
+    "context": "Last night’s party was lit!"
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "I miss u, let’s catch up soon!"
+  },
+  {
+    "slang": "spill the tea",
+    "formal": "share gossip",
+    "context": "Come on, spill the tea about what happened last night."
+  },
+  {
+    "slang": "dope",
+    "formal": "cool or impressive",
+    "context": "That new game is dope."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "very exciting",
+    "context": "The festival was lit AF this year."
+  },
+  {
+    "slang": "litty",
+    "formal": "extremely exciting",
+    "context": "Tonight’s party is gonna be litty!"
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come over after school."
+  },
+  {
+    "slang": "shook",
+    "formal": "shocked or surprised",
+    "context": "I was shook by the unexpected results of the game."
+  },
+  {
+    "slang": "banger",
+    "formal": "a great song or event",
+    "context": "That new track is a total banger."
+  },
+  {
+    "slang": "bet",
+    "formal": "agreement",
+    "context": "You think you can win? Bet!"
+  },
+  {
+    "slang": "ghost",
+    "formal": "suddenly cut off all contact",
+    "context": "He ghosted me after our first date."
+  },
+  {
+    "slang": "finesse",
+    "formal": "to skillfully handle",
+    "context": "He managed to finesse his way into the VIP area."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the party tonight."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that long day."
+  },
+  {
+    "slang": "noob",
+    "formal": "beginner",
+    "context": "I'm still a noob at this game."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna join me for dinner?"
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna watch that new movie tonight."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That video was really cringe."
+  },
+  {
+    "slang": "savage",
+    "formal": "bold",
+    "context": "That response was so savage."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "Are u coming to the event tonight?"
+  },
+  {
+    "slang": "banger",
+    "formal": "great song",
+    "context": "That song is a total banger."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "Tonight’s party is going to be litty!"
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "This cafe has a chill vibe that I love."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "Her outfit was a bit extra for the occasion."
+  },
+  {
+    "slang": "finna",
+    "formal": "fixing to",
+    "context": "I'm finna head out soon."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree or I confirm",
+    "context": "If you think that's a good idea, bet."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish this report by tomorrow."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I didn't really enjoy that movie."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That meme made me lmao."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "give a subtle insult",
+    "context": "I think he was throwing shade at her during the meeting."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car."
+  },
+  {
+    "slang": "smh",
+    "formal": "shaking my head",
+    "context": "Smh, I can't believe they did that again."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "This coffee shop has a great vibe."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting or fun",
+    "context": "The party last night was litty!"
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You really slay in that dress!"
+  },
+  {
+    "slang": "ghost",
+    "formal": "suddenly cut off communication",
+    "context": "He ghosted me after our first date."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to grab a snack, brb."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "very exciting",
+    "context": "The party was lit AF!"
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or fame",
+    "context": "He’s just doing it for the clout."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "I just read that joke and I lol'd."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "The party last night was lit, everyone had a great time."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence",
+    "context": "She’s trying to gain clout on social media."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat",
+    "context": "I'm lowkey excited for the new season of that show."
+  },
+  {
+    "slang": "ghosting",
+    "formal": "suddenly cutting off communication",
+    "context": "He started ghosting me after our last date."
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless or bold",
+    "context": "That comeback was so savage, I couldn't believe it."
+  },
+  {
+    "slang": "noob",
+    "formal": "newbie or inexperienced person",
+    "context": "He’s such a noob at this game."
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "This song is a bop. I can't stop playing it."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking fabulous",
+    "context": "Her makeup is snatched!"
+  },
+  {
+    "slang": "slaps",
+    "formal": "is very good",
+    "context": "This song really slaps!"
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless or bold",
+    "context": "That response was so savage!"
+  },
+  {
+    "slang": "cringe",
+    "formal": "awkward",
+    "context": "That moment was so cringe, I had to look away."
+  },
+  {
+    "slang": "bueno",
+    "formal": "good",
+    "context": "The food at that restaurant is bueno."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I was lmao at the meme you sent me."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking good or well put together",
+    "context": "Her outfit was snatched, she looked amazing."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "When I saw that meme, I was lmao."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking great",
+    "context": "Your outfit is snatched, you look amazing!"
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I'm hanging out with my fam this weekend."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip or news",
+    "context": "Let me spill the tea about what happened last night."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework before dinner."
+  },
+  {
+    "slang": "wild",
+    "formal": "unusual or crazy",
+    "context": "That party got wild last night."
+  },
+  {
+    "slang": "slumped",
+    "formal": "very tired",
+    "context": "I am completely slumped after that workout."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I was lmao at the memes you sent me."
+  },
+  {
+    "slang": "high-key",
+    "formal": "very",
+    "context": "I high-key want to go on vacation."
+  },
+  {
+    "slang": "bussin",
+    "formal": "extremely delicious",
+    "context": "This pizza is bussin; I need to get it again."
+  },
+  {
+    "slang": "snatched",
+    "formal": "very attractive",
+    "context": "Your outfit is snatched; it looks amazing."
+  },
+  {
+    "slang": "cheap",
+    "formal": "inexpensive",
+    "context": "That restaurant is cheap, but the food is good."
+  },
+  {
+    "slang": "bussin",
+    "formal": "delicious",
+    "context": "This pizza is bussin!"
+  },
+  {
+    "slang": "spill the tea",
+    "formal": "share gossip",
+    "context": "Come on, spill the tea about what happened at the party."
+  },
+  {
+    "slang": "lit af",
+    "formal": "extremely exciting",
+    "context": "The concert was lit af!"
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to step away for a moment, brb."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the party with us."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna join me for dinner?"
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework by tonight."
+  },
+  {
+    "slang": "yolo",
+    "formal": "you only live once",
+    "context": "I’m going to try skydiving because yolo!"
+  },
+  {
+    "slang": "slaps",
+    "formal": "very good",
+    "context": "That new album really slaps."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that workout."
+  },
+  {
+    "slang": "snatched",
+    "formal": "appearing very attractive",
+    "context": "Her outfit looks snatched today."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She really slayed that performance!"
+  },
+  {
+    "slang": "bussin",
+    "formal": "delicious",
+    "context": "This pizza is bussin, I love it!"
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to step away for a minute, brb."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to answer the phone, brb."
+  },
+  {
+    "slang": "dope",
+    "formal": "excellent or impressive",
+    "context": "That new game is dope."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the store later."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "You're being extra right now."
+  },
+  {
+    "slang": "slaps",
+    "formal": "is very good",
+    "context": "This soundtrack really slaps."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "ship",
+    "formal": "support a romantic pairing",
+    "context": "I really ship those two characters from the series."
+  },
+  {
+    "slang": "baddie",
+    "formal": "attractive person",
+    "context": "She’s a total baddie; everyone admires her."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "Last night’s event was so litty!"
+  },
+  {
+    "slang": "savage",
+    "formal": "bold and unapologetic",
+    "context": "Her response was so savage!"
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent",
+    "context": "This new song is fire, I can't stop playing it."
+  },
+  {
+    "slang": "bff",
+    "formal": "best friend forever",
+    "context": "She's my bff since childhood."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip or information",
+    "context": "Spill the tea about what happened at the party."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She slayed her presentation today."
+  },
+  {
+    "slang": "L",
+    "formal": "loss",
+    "context": "After losing the game, it felt like such an L."
+  },
+  {
+    "slang": "canceled",
+    "formal": "no longer supported",
+    "context": "That show is officially canceled."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Spill the tea about what happened at the party."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "This place has a really cool vibe."
+  },
+  {
+    "slang": "extra",
+    "formal": "excessive or over the top",
+    "context": "Her outfit was a bit extra for the occasion."
+  },
+  {
+    "slang": "send it",
+    "formal": "go for it",
+    "context": "Just send it and take that risk!"
+  },
+  {
+    "slang": "lowkey",
+    "formal": "subtly or not very openly",
+    "context": "I lowkey want to go see that movie."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "His story sounded a bit sus to me."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You really slay at that presentation."
+  },
+  {
+    "slang": "periodt",
+    "formal": "emphasizing a statement",
+    "context": "I told him that’s how it is, periodt."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He’s very woke about social issues."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw some shade at him during the meeting."
+  },
+  {
+    "slang": "hype",
+    "formal": "excitement or anticipation",
+    "context": "There was a lot of hype about the new release."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip or information",
+    "context": "Spill the tea! I want to know what happened."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I’m kinda tired after the workout."
+  },
+  {
+    "slang": "snatched",
+    "formal": "very attractive",
+    "context": "Your outfit is snatched!"
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter",
+    "context": "She's still salty about losing the game."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "The meme you sent had me lmao."
+  },
+  {
+    "slang": "mood",
+    "formal": "a state of feeling",
+    "context": "That meme is such a mood right now."
+  },
+  {
+    "slang": "fire",
+    "formal": "very good or impressive",
+    "context": "The new song is fire, I can’t stop listening to it."
+  },
+  {
+    "slang": "periodt",
+    "formal": "emphasizing a point",
+    "context": "That’s how it is, periodt."
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespect",
+    "context": "She threw shade at him during the meeting."
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespect",
+    "context": "She threw some shade at her ex."
+  },
+  {
+    "slang": "salty",
+    "formal": "angry or bitter",
+    "context": "He’s salty because he lost the game."
+  },
+  {
+    "slang": "salty",
+    "formal": "angry or upset",
+    "context": "He was salty after losing the game."
+  },
+  {
+    "slang": "shade",
+    "formal": "insult or criticism",
+    "context": "He was throwing shade at her during the meeting."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You think that will work? Bet."
+  },
+  {
+    "slang": "bussin",
+    "formal": "incredibly delicious",
+    "context": "This pizza is bussin!"
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "Are u coming to the party tonight?"
+  },
+  {
+    "slang": "highkey",
+    "formal": "openly",
+    "context": "I highkey loved that movie."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter",
+    "context": "She's still salty about losing the game."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "The vibe at the café was so chill."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework before I can go out."
+  },
+  {
+    "slang": "litty",
+    "formal": "extremely fun",
+    "context": "That event was so litty; I'm glad I went."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that long walk."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where I left my keys."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You really slay in that outfit!"
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "The vibe at the café was so relaxing."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The festival was lit AF this year."
+  },
+  {
+    "slang": "gamer",
+    "formal": "video game enthusiast",
+    "context": "My brother is a gamer who streams online."
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespectful remark",
+    "context": "She threw some serious shade at him."
+  },
+  {
+    "slang": "no chill",
+    "formal": "without restraint",
+    "context": "She has no chill when it comes to shopping."
+  },
+  {
+    "slang": "FOMO",
+    "formal": "fear of missing out",
+    "context": "I have such bad FOMO when my friends go out without me."
+  },
+  {
+    "slang": "shook",
+    "formal": "shocked",
+    "context": "I was shook when I heard the news."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That behavior seems really sus."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna grab dinner tonight?"
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "Posting so many selfies is a little thirsty."
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "This song is a bop; I can't get it out of my head."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where my keys are."
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I'm hanging out with the fam this weekend."
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "That song is a bop; I can't stop listening!"
+  },
+  {
+    "slang": "ayo",
+    "formal": "hey",
+    "context": "Ayo, have you seen my keys?"
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "This track is such a bop, I can't stop playing it."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I just saw a hilarious meme, lmao."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That old video is so cringe."
+  },
+  {
+    "slang": "litty",
+    "formal": "exciting",
+    "context": "Tonight's party is going to be litty."
+  },
+  {
+    "slang": "ride or die",
+    "formal": "loyal companion",
+    "context": "She’s my ride or die, always there for me."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That behavior was really sus, don't you think?"
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna grab some coffee after work?"
+  },
+  {
+    "slang": "basic",
+    "formal": "unoriginal",
+    "context": "That outfit is so basic; everyone wears it."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip or news",
+    "context": "Let's spill the tea about what happened."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the store later."
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless",
+    "context": "Her response to the insult was savage."
+  },
+  {
+    "slang": "fomo",
+    "formal": "fear of missing out",
+    "context": "I have such bad fomo when my friends go out without me."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "The vibe at the beach was amazing."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie",
+    "context": "Don't cap; I know you ate my fries."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework before dinner."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "That party was lit last night."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where my keys are."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That meme was so funny, I was lmao for minutes."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "She was being so extra about the dress code."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very",
+    "context": "I highkey love this song."
+  },
+  {
+    "slang": "catch these hands",
+    "formal": "to engage in a fight",
+    "context": "If you keep talking like that, you’re gonna catch these hands."
+  },
+  {
+    "slang": "catch these hands",
+    "formal": "be ready for a fight",
+    "context": "If you keep talking, you’re gonna catch these hands."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after the long day."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the meeting?"
+  },
+  {
+    "slang": "highkey",
+    "formal": "openly or obviously",
+    "context": "I'm highkey excited for the new season of that show."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was so funny, lol."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She really slays in that dress."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I’m telling you, no cap, that was the best meal I’ve ever had."
+  },
+  {
+    "slang": "fire",
+    "formal": "amazing",
+    "context": "That new song is fire; I can't stop listening to it."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "The party was so lit, everyone had a great time."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to step away for a minute, brb."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that long day."
+  },
+  {
+    "slang": "banger",
+    "formal": "very good song",
+    "context": "This song is a banger."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You slay every time you perform on stage."
+  },
+  {
+    "slang": "gotta",
+    "formal": "got to",
+    "context": "I gotta finish this project by tomorrow."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That video was so cringe, I couldn’t watch it."
+  },
+  {
+    "slang": "spilling tea",
+    "formal": "sharing gossip",
+    "context": "We were just spilling tea about the latest events."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I really don't like that movie."
+  },
+  {
+    "slang": "ghost",
+    "formal": "to suddenly cut off communication",
+    "context": "She ghosted me after our first date."
+  },
+  {
+    "slang": "on fleek",
+    "formal": "perfectly styled",
+    "context": "Her eyebrows are on fleek today."
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespect or criticism",
+    "context": "Did you hear the shade she threw at him?"
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "Did he just throw shade at me?"
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna join us for dinner?"
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You absolutely slayed that presentation."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you going to the concert tonight?"
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking good",
+    "context": "Her outfit is snatched, she looks incredible."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He was salty about losing the game."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the game with us tonight."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The concert was lit AF."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was so funny, I just lol’d."
+  },
+  {
+    "slang": "flex",
+    "formal": "to show off",
+    "context": "He likes to flex his new car."
+  },
+  {
+    "slang": "banger",
+    "formal": "great song",
+    "context": "This new track is a total banger."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "The vibe at the cafe was really chill."
+  },
+  {
+    "slang": "gr8",
+    "formal": "great",
+    "context": "That was a gr8 performance at the concert."
+  },
+  {
+    "slang": "hit different",
+    "formal": "impact uniquely",
+    "context": "That song hits different when you’re feeling down."
+  },
+  {
+    "slang": "slaps",
+    "formal": "is really good",
+    "context": "This song slaps!"
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "This event is going to be litty!"
+  },
+  {
+    "slang": "slut",
+    "formal": "promiscuous person",
+    "context": "She was unfairly called a slut."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip or interesting news",
+    "context": "Spill the tea; I want to know what happened."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Spill the tea about what happened last night."
+  },
+  {
+    "slang": "cringe",
+    "formal": "awkward or uncomfortable",
+    "context": "That was so cringe to watch."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna grab some food before the movie."
+  },
+  {
+    "slang": "bae",
+    "formal": "significant other",
+    "context": "I'm going out with my bae tonight."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "I love ur new haircut!"
+  },
+  {
+    "slang": "slay",
+    "formal": "to excel or succeed",
+    "context": "You really slay your presentations every time."
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent",
+    "context": "That new song is fire, I can't stop listening to it."
+  },
+  {
+    "slang": "catch these hands",
+    "formal": "prepare for a fight",
+    "context": "If you disrespect me, you might catch these hands."
+  },
+  {
+    "slang": "thx",
+    "formal": "thank you",
+    "context": "Thx for helping me with my project."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should join us for dinner."
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent",
+    "context": "That track was fire, I loved it!"
+  },
+  {
+    "slang": "basic",
+    "formal": "mainstream or unoriginal",
+    "context": "I find pumpkin spice lattes so basic."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I’m serious, no cap, it was that good."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter",
+    "context": "He's still salty about losing the game."
+  },
+  {
+    "slang": "snatched",
+    "formal": "well put together",
+    "context": "Her outfit was snatched, and she looked incredible."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He loves to flex his new car on social media."
+  },
+  {
+    "slang": "lit",
+    "formal": "amazing",
+    "context": "The food festival was lit this year!"
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or angry",
+    "context": "He was salty after losing the game."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I’m telling you, no cap, that movie is the best I've seen."
+  },
+  {
+    "slang": "fire",
+    "formal": "amazing or excellent",
+    "context": "That song is fire; I can't stop listening to it."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I think we should change our approach."
+  },
+  {
+    "slang": "bet",
+    "formal": "agreement or confirmation",
+    "context": "If you think you can win, bet!"
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I'm telling you, no cap, that was the best game ever."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "Where are u going?"
+  },
+  {
+    "slang": "clout",
+    "formal": "influence",
+    "context": "She’s just in it for the clout."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "He's just chasing clout on social media."
+  },
+  {
+    "slang": "chill",
+    "formal": "relaxed or easygoing",
+    "context": "Let’s just chill and watch a movie."
+  },
+  {
+    "slang": "woke",
+    "formal": "being aware of social issues",
+    "context": "He is very woke about current events."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was so funny, lol!"
+  },
+  {
+    "slang": "bussin",
+    "formal": "very delicious",
+    "context": "This pizza is bussin!"
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top or excessive",
+    "context": "That decoration is a bit extra for a birthday party."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the meeting starts."
+  },
+  {
+    "slang": "Hundo P",
+    "formal": "100 percent certain",
+    "context": "I’m hundo P sure about my decision."
+  },
+  {
+    "slang": "snatched",
+    "formal": "well put together or attractive",
+    "context": "Her outfit is snatched; she looks amazing."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "He was acting thirsty by constantly texting her."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or popularity",
+    "context": "She does it for the clout."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I’m telling you, no cap, that was the best experience."
+  },
+  {
+    "slang": "noob",
+    "formal": "beginner or inexperienced person",
+    "context": "He’s a noob at this game."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "She can be so extra sometimes."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She slayed her performance tonight."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework later."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He was salty after losing the game."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie or truthfully",
+    "context": "I am no cap serious about getting that promotion."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very",
+    "context": "I'm highkey excited for the holiday."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car on social media."
+  },
+  {
+    "slang": "goat",
+    "formal": "greatest of all time",
+    "context": "Many consider him the goat of basketball."
+  },
+  {
+    "slang": "fomo",
+    "formal": "fear of missing out",
+    "context": "I have serious fomo about missing the concert."
+  },
+  {
+    "slang": "dabs",
+    "formal": "celebrating or showing excitement",
+    "context": "He just dabs after scoring a goal."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "The concert last night was lit; everyone had a great time."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat or secretly",
+    "context": "I'm lowkey excited about the concert."
+  },
+  {
+    "slang": "mood",
+    "formal": "feeling or state of mind",
+    "context": "That cute dog is such a mood right now."
+  },
+  {
+    "slang": "big mood",
+    "formal": "strong feeling or sentiment",
+    "context": "That quote is a big mood."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, lol."
+  },
+  {
+    "slang": "sick",
+    "formal": "awesome",
+    "context": "That concert was sick!"
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "The vibe at the party was so chill and relaxed."
+  },
+  {
+    "slang": "no cap",
+    "formal": "honestly",
+    "context": "I'm telling you, no cap, this is the best dessert I've ever had."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking good",
+    "context": "Her outfit is snatched!"
+  },
+  {
+    "slang": "cap",
+    "formal": "lie",
+    "context": "He said he finished the project, but I think that's cap."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "She sent me a meme that made me lmao."
+  },
+  {
+    "slang": "slay",
+    "formal": "to do exceptionally well",
+    "context": "You really slay at presentations!"
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "She's only doing it for the clout."
+  },
+  {
+    "slang": "ride or die",
+    "formal": "loyal friend",
+    "context": "She's my ride or die; I can always count on her."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That behavior seems sus to me."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "This party is litty!"
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You think the game will be good? Bet."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "The vibe at the cafe was really chill."
+  },
+  {
+    "slang": "savage",
+    "formal": "bold and ruthless",
+    "context": "His response was so savage, it left everyone speechless."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to take a quick call, brb."
+  },
+  {
+    "slang": "lit",
+    "formal": "fantastic or excellent",
+    "context": "The party was so lit that everyone had an amazing time."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He's still salty about losing the game."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Is this ur book on the table?"
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The concert was lit AF!"
+  },
+  {
+    "slang": "lit AF",
+    "formal": "really exciting",
+    "context": "The party was lit AF last night."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting or excellent",
+    "context": "The festival was lit AF."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I didn't think it would work."
+  },
+  {
+    "slang": "smh",
+    "formal": "shaking my head",
+    "context": "She forgot her keys again, smh."
+  },
+  {
+    "slang": "drip",
+    "formal": "stylish or fashionable",
+    "context": "Her outfit has some serious drip!"
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless or bold",
+    "context": "That comeback was savage!"
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He is very woke about social issues."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "No cap, that was the best meal I’ve ever had."
+  },
+  {
+    "slang": "slay",
+    "formal": "to perform exceptionally well",
+    "context": "You absolutely slay in that outfit!"
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or amazing",
+    "context": "The concert last night was lit!"
+  },
+  {
+    "slang": "baddie",
+    "formal": "attractive and confident person",
+    "context": "She is such a baddie; everyone admires her."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or energy",
+    "context": "The vibe at the party was amazing."
+  },
+  {
+    "slang": "ship",
+    "formal": "support the romantic pairing",
+    "context": "I totally ship those two characters."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R we meeting at 5 PM?"
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "No cap, this is the best burger I have ever had."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, you will not believe what happened today."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Ur outfit is on point today."
+  },
+  {
+    "slang": "shade",
+    "formal": "indirect criticism",
+    "context": "He threw shade at her during the meeting."
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I love spending time with my fam."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "secretly or discreetly",
+    "context": "I lowkey love that song."
+  },
+  {
+    "slang": "bff",
+    "formal": "best friend forever",
+    "context": "She's my bff and we do everything together."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "Watching that video had me lmao."
+  },
+  {
+    "slang": "cringe",
+    "formal": "awkward or embarrassing",
+    "context": "That moment was so cringe."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Spill the tea, I want to know what happened."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the party tonight."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie",
+    "context": "Don't cap, I know you took my book."
+  },
+  {
+    "slang": "fit",
+    "formal": "outfit",
+    "context": "I love your fit today; where did you buy it?"
+  },
+  {
+    "slang": "bussin",
+    "formal": "tastes amazing",
+    "context": "This food is bussin; you have to try it."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "The vibe at the café is really nice."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Ur shoes are really nice; where did you get them?"
+  },
+  {
+    "slang": "stan",
+    "formal": "overzealous fan",
+    "context": "I totally stan that band!"
+  },
+  {
+    "slang": "squad",
+    "formal": "group of friends",
+    "context": "I'm hanging out with my squad at the mall later."
+  },
+  {
+    "slang": "stan",
+    "formal": "an extremely devoted fan",
+    "context": "I totally stan that artist."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The concert was lit AF; I had the best time."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the game later?"
+  },
+  {
+    "slang": "highkey",
+    "formal": "very or clearly",
+    "context": "I highkey enjoyed that movie."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I think this is the best pizza I've ever had."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "When I saw that meme, I was lmao."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna grab dinner tonight?"
+  },
+  {
+    "slang": "ship",
+    "formal": "supporting a romantic relationship",
+    "context": "I totally ship those two characters."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "Are u coming to the meeting later?"
+  },
+  {
+    "slang": "lit af",
+    "formal": "extremely exciting",
+    "context": "That concert was lit af!"
+  },
+  {
+    "slang": "finesse",
+    "formal": "accomplish something with skill",
+    "context": "He managed to finesse that deal smoothly."
+  },
+  {
+    "slang": "stan",
+    "formal": "an obsessive fan",
+    "context": "I stan that band; they're amazing!"
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework before dinner."
+  },
+  {
+    "slang": "highkey",
+    "formal": "openly",
+    "context": "I’m highkey tired of this weather."
+  },
+  {
+    "slang": "crush",
+    "formal": "infatuation",
+    "context": "I think I have a crush on someone in my class."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat or secretly",
+    "context": "I lowkey want to go to the concert this weekend."
+  },
+  {
+    "slang": "dead",
+    "formal": "extremely funny",
+    "context": "That joke was dead!"
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That video was so cringe."
+  },
+  {
+    "slang": "ship",
+    "formal": "supporting a romantic relationship",
+    "context": "I totally ship those two characters!"
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "She posted that just to get some likes; it seems a bit thirsty."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my God",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "He is chasing clout on social media."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie or exaggeration",
+    "context": "Don't cap, just tell me the truth."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "Are u coming to the game on Friday?"
+  },
+  {
+    "slang": "savage",
+    "formal": "bold or fierce",
+    "context": "That was a savage comment!"
+  },
+  {
+    "slang": "highkey",
+    "formal": "very or definitely",
+    "context": "I highkey want to travel this summer."
+  },
+  {
+    "slang": "bff",
+    "formal": "best friend forever",
+    "context": "She will always be my bff."
+  },
+  {
+    "slang": "ghost",
+    "formal": "to cut off communication",
+    "context": "She decided to ghost him after the date."
+  },
+  {
+    "slang": "banger",
+    "formal": "a very good song",
+    "context": "This track is a banger!"
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "How r you doing today?"
+  },
+  {
+    "slang": "banger",
+    "formal": "great song or something enjoyable",
+    "context": "This new track is a banger; it’ll be a hit."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "I’ll see you at the gym; bet!"
+  },
+  {
+    "slang": "cheugy",
+    "formal": "out of date",
+    "context": "That trend feels so cheugy now."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That joke made me lmao."
+  },
+  {
+    "slang": "ghost",
+    "formal": "disappear or stop communicating",
+    "context": "I thought we were friends, but he ghosted me."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what movie we should watch tonight."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna go to the movies this weekend."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework before I can go out."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "The video you sent me was so hilarious, I was lmao."
+  },
+  {
+    "slang": "shade",
+    "formal": "criticism",
+    "context": "She threw some shade at me yesterday."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to grab my phone, brb."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "subtly",
+    "context": "I lowkey want to try skydiving."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That post was so cringe."
+  },
+  {
+    "slang": "dope",
+    "formal": "excellent",
+    "context": "That new game is dope!"
+  },
+  {
+    "slang": "banger",
+    "formal": "great song or track",
+    "context": "This new song is a banger!"
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car."
+  },
+  {
+    "slang": "hype",
+    "formal": "excitement",
+    "context": "There’s a lot of hype around that new movie."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "to criticize indirectly",
+    "context": "She was throwing shade at her ex through her posts."
+  },
+  {
+    "slang": "mood",
+    "formal": "current feeling",
+    "context": "That meme is such a mood."
+  },
+  {
+    "slang": "fire",
+    "formal": "very good",
+    "context": "That cake was fire."
+  },
+  {
+    "slang": "goat",
+    "formal": "greatest of all time",
+    "context": "Many consider him the goat of basketball."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "When I saw that meme, I was lmao."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing or awkward",
+    "context": "That moment was so cringe."
+  },
+  {
+    "slang": "lit fam",
+    "formal": "exciting family or close friends",
+    "context": "Going out with the lit fam this weekend!"
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He's very woke when it comes to social issues."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The festival was lit AF; everyone loved it."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I am, no cap, the best at this game."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Did you hear the tea about their breakup?"
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I don’t really like that movie."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "The party last night was lit!"
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or fame",
+    "context": "She’s just in it for the clout."
+  },
+  {
+    "slang": "fit",
+    "formal": "outfit",
+    "context": "Your fit is on point today!"
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where my keys are."
+  },
+  {
+    "slang": "finna",
+    "formal": "fixing to or going to",
+    "context": "I'm finna go to the gym after work."
+  },
+  {
+    "slang": "fire",
+    "formal": "exceptionally good",
+    "context": "The new album is fire; I can't stop listening to it."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate",
+    "context": "She is being so thirsty for attention on social media."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You think we’ll win? Bet."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "His behavior seems a bit sus lately."
+  },
+  {
+    "slang": "whip",
+    "formal": "car",
+    "context": "Check out my new whip."
+  },
+  {
+    "slang": "dope",
+    "formal": "cool",
+    "context": "That new game is dope!"
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Did you hear the tea about their breakup?"
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "No cap, that was the best game I've ever played."
+  },
+  {
+    "slang": "catching hands",
+    "formal": "receiving physical retaliation",
+    "context": "He was asking for trouble and catching hands."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "Tonight’s going to be litty!"
+  },
+  {
+    "slang": "throw shade",
+    "formal": "insinuate criticism",
+    "context": "He was throwing shade at his ex."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I was not expecting that outcome."
+  },
+  {
+    "slang": "bussin",
+    "formal": "delicious",
+    "context": "This pizza is bussin, you have to try it."
+  },
+  {
+    "slang": "no cap",
+    "formal": "without exaggeration",
+    "context": "No cap, that was the best meal I've ever had."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "make a disparaging remark",
+    "context": "He threw shade at me during the meeting."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "That event was a bit extra for my taste."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "very exciting",
+    "context": "The festival was lit AF this year!"
+  },
+  {
+    "slang": "fire",
+    "formal": "very good or excellent",
+    "context": "That new song is fire; I can’t stop listening."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "His story sounded sus."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, I lol'd."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after the workout."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "subtly criticize",
+    "context": "She threw shade at him during the discussion."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You slay every time you sing!"
+  },
+  {
+    "slang": "fomo",
+    "formal": "fear of missing out",
+    "context": "I decided to go to the concert because of my fomo."
+  },
+  {
+    "slang": "ghost",
+    "formal": "disappear without notice",
+    "context": "He ghosted me after our last date."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree or okay",
+    "context": "You wanna go out later? Bet."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "She was being really extra at the party."
+  },
+  {
+    "slang": "ghost",
+    "formal": "disappear or stop communicating",
+    "context": "She ghosted me after our last date."
+  },
+  {
+    "slang": "cap",
+    "formal": "to lie",
+    "context": "I think he's capping; that story doesn't make sense."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lies",
+    "context": "I’m telling you, no cap, that was the best movie I've seen."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the game tonight?"
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That meme was so funny, I was lmao for five minutes."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You want to go hiking? Bet!"
+  },
+  {
+    "slang": "simp",
+    "formal": "someone foolishly attentive",
+    "context": "He’s such a simp for her."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, I literally lol."
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "It was a litty night out with friends."
+  },
+  {
+    "slang": "finesse",
+    "formal": "to handle or maneuver cleverly",
+    "context": "He managed to finesse his way through the tricky situation."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw shade at him during the meeting."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree or okay",
+    "context": "You want to meet at 6? Bet."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex about his new car."
+  },
+  {
+    "slang": "cancelled",
+    "formal": "rejected or called out",
+    "context": "That show was cancelled after one season."
+  },
+  {
+    "slang": "deadass",
+    "formal": "seriously",
+    "context": "I’m deadass considering a career change."
+  },
+  {
+    "slang": "cringe",
+    "formal": "embarrassing",
+    "context": "That video was so cringe."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the concert with me."
+  },
+  {
+    "slang": "noob",
+    "formal": "newbie",
+    "context": "Don’t be such a noob when playing the game."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat",
+    "context": "I'm lowkey excited about the trip."
+  },
+  {
+    "slang": "ship",
+    "formal": "supporting a romantic relationship",
+    "context": "I really ship those two."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe we won the game!"
+  },
+  {
+    "slang": "zoned out",
+    "formal": "lost focus",
+    "context": "I completely zoned out during that lecture."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "That post was so thirsty."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "The vibe at the café is so relaxing."
+  },
+  {
+    "slang": "bet",
+    "formal": "agreement or confirmation",
+    "context": "You think you can beat me? Bet."
+  },
+  {
+    "slang": "simp",
+    "formal": "someone who shows excessive sympathy",
+    "context": "He’s such a simp for her."
+  },
+  {
+    "slang": "twerk",
+    "formal": "dance in a sexually provocative manner",
+    "context": "She loves to twerk at parties for fun."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "litty",
+    "formal": "very exciting",
+    "context": "Tonight's going to be litty!"
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting",
+    "context": "The party last night was lit."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie or truthfully",
+    "context": "No cap, I think you did a great job."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw shade at him during the conversation."
+  },
+  {
+    "slang": "shade",
+    "formal": "criticism",
+    "context": "Did you hear the shade she threw at him?"
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my God",
+    "context": "Omg, I can't believe you made it to the party!"
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "This café has such a relaxing vibe."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna go to the movies this weekend."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "She is really woke about social issues."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that long meeting."
+  },
+  {
+    "slang": "chill",
+    "formal": "relax",
+    "context": "Let’s just chill this weekend."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Is this ur book on the table?"
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the concert with us."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna watch a movie tonight."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, you won't believe what just happened!"
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "bussin",
+    "formal": "delicious",
+    "context": "This pizza is bussin; I could eat it every day!"
+  },
+  {
+    "slang": "bop",
+    "formal": "catchy song",
+    "context": "This song is such a bop!"
+  },
+  {
+    "slang": "throw shade",
+    "formal": "insult subtly",
+    "context": "She always throws shade at her ex."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very much",
+    "context": "I highkey want to go to that concert!"
+  },
+  {
+    "slang": "take the L",
+    "formal": "accept a loss",
+    "context": "Sometimes, you just have to take the L."
+  },
+  {
+    "slang": "spill the tea",
+    "formal": "share the gossip",
+    "context": "Come on, spill the tea about what happened!"
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I think we should change our plan."
+  },
+  {
+    "slang": "bop",
+    "formal": "a good song or catchy tune",
+    "context": "This song is such a bop, I can't stop humming it."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the meeting starts."
+  },
+  {
+    "slang": "fire",
+    "formal": "fantastic or great",
+    "context": "That new song is fire, I can't stop listening to it."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after our workout session."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna grab some coffee before class."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I was lmao at the funny meme my friend sent me."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He's really woke about social issues."
+  },
+  {
+    "slang": "noob",
+    "formal": "beginner",
+    "context": "He's a noob at playing video games."
+  },
+  {
+    "slang": "drip",
+    "formal": "stylishness",
+    "context": "He has a great drip with his outfit."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "His outfit was extra, but he pulled it off."
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "We're all going to hang out, just my fam."
+  },
+  {
+    "slang": "sksksk",
+    "formal": "expression of excitement",
+    "context": "Sksksk, I can't wait for the concert!"
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent",
+    "context": "That new song is fire."
+  },
+  {
+    "slang": "shook",
+    "formal": "shocked",
+    "context": "I was so shook by the news I heard."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "That concert was lit AF!"
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you ready to leave?"
+  },
+  {
+    "slang": "snatched",
+    "formal": "perfectly styled or impressive",
+    "context": "Her outfit is snatched!"
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She really slay at that talent show."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He's still salty about losing the game."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the meeting starts."
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent",
+    "context": "That new track is fire!"
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That sounds sus, I don’t trust it."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The party was lit AF!"
+  },
+  {
+    "slang": "mood",
+    "formal": "current emotional state",
+    "context": "That meme is such a mood."
+  },
+  {
+    "slang": "bop",
+    "formal": "a good song",
+    "context": "This new track is a bop!"
+  },
+  {
+    "slang": "bangin'",
+    "formal": "very good or impressive",
+    "context": "This food is bangin'."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after the long meeting."
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless or bold",
+    "context": "That was a savage comeback in the argument."
+  },
+  {
+    "slang": "squad",
+    "formal": "group of friends",
+    "context": "I’m going out with my squad tonight."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally or impress",
+    "context": "She slayed that performance; everyone loved it."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I’m telling you, no cap, he’s the best player on the team."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the store later."
+  },
+  {
+    "slang": "lit af",
+    "formal": "extremely exciting",
+    "context": "That concert was lit af!"
+  },
+  {
+    "slang": "stan",
+    "formal": "an ardent fan",
+    "context": "I totally stan that celebrity."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I'm serious, no cap, that was the best meal ever."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework before dinner."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework before I can go out."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "The vibe at the café was really chill."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw shade at him during the dinner."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I’m gonna go to the store later."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You slay in that outfit; you look amazing."
+  },
+  {
+    "slang": "squad",
+    "formal": "group of friends",
+    "context": "I'm hanging out with my squad this weekend."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "I think she was throwing shade with that comment."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle insults",
+    "context": "She threw shade at him during the discussion."
+  },
+  {
+    "slang": "gotta",
+    "formal": "got to",
+    "context": "I gotta finish my homework before I go out."
+  },
+  {
+    "slang": "bussin",
+    "formal": "delicious",
+    "context": "This pizza is bussin!"
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter",
+    "context": "He’s a bit salty about losing the game."
+  },
+  {
+    "slang": "mood",
+    "formal": "a feeling or state of mind",
+    "context": "That picture is such a mood."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I didn't really enjoy the event."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "I saw u at the mall yesterday."
+  },
+  {
+    "slang": "joke",
+    "formal": "humorous remark",
+    "context": "He told a joke that had everyone laughing."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking good or well put together",
+    "context": "Her outfit is snatched; she looks amazing!"
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "I saw u at the event last night."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree or that is true",
+    "context": "You think we can finish this by tonight? Bet."
+  },
+  {
+    "slang": "squaded",
+    "formal": "grouped together with friends",
+    "context": "We squaded up for the concert."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "She is chasing clout on social media."
+  },
+  {
+    "slang": "shook",
+    "formal": "shocked or surprised",
+    "context": "I was shook when I heard the news."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, I literally lol."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I'm serious about this, no cap."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the party tonight."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the meeting later?"
+  },
+  {
+    "slang": "fam",
+    "formal": "family",
+    "context": "My fam and I are going on vacation."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The concert was lit AF!"
+  },
+  {
+    "slang": "litty",
+    "formal": "extremely fun",
+    "context": "Friday's party is going to be litty!"
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespect",
+    "context": "She threw some shade at him during the meeting."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the meeting later?"
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That behavior seems sus to me."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was hilarious, lol!"
+  },
+  {
+    "slang": "flex",
+    "formal": "to show off",
+    "context": "He loves to flex his new car on social media."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I wasn't expecting that outcome."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "I need some tea on what happened at the party."
+  },
+  {
+    "slang": "yolo",
+    "formal": "you only live once",
+    "context": "I might just go skydiving; yolo!"
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the event starts."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You really slay in that dress!"
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I'm hanging out with my fam this weekend."
+  },
+  {
+    "slang": "ghost",
+    "formal": "disappear without communication",
+    "context": "He just ghosted me after our second date."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "I bet that movie will be great."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I lmao'd when I saw that meme."
+  },
+  {
+    "slang": "dope",
+    "formal": "cool or impressive",
+    "context": "That new game is dope."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Ur car is parked outside."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very",
+    "context": "I highkey want to go to that concert."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or fame",
+    "context": "He's just doing it for the clout, not because he cares."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "I heard some juicy tea about their breakup."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework after dinner."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was so funny, lol!"
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I didn't enjoy that movie as much."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "quietly or subtly",
+    "context": "I lowkey want to go to that concert."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after the long day."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I didn’t really like that movie."
+  },
+  {
+    "slang": "dank",
+    "formal": "high quality",
+    "context": "That meme is so dank; I love it."
+  },
+  {
+    "slang": "dope",
+    "formal": "cool or impressive",
+    "context": "That was a dope skateboard trick."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie",
+    "context": "Don't cap, I know you didn't really do that."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that workout."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna head to the store later."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He loves to flex his new car."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework before dinner."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She really knows how to slay on the runway."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "That deal sounds sus to me."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "She is so woke about social issues."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He was salty after losing the match."
+  },
+  {
+    "slang": "salty",
+    "formal": "upset or annoyed",
+    "context": "He was salty after losing the game."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking great",
+    "context": "Your outfit is snatched; you look incredible!"
+  },
+  {
+    "slang": "bruh",
+    "formal": "brother or friend",
+    "context": "Bruh, did you see that game last night?"
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna join us for dinner tonight?"
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent",
+    "context": "That new song is fire!"
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "She is really woke about social issues."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe we won the game!"
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "simp",
+    "formal": "someone who is overly attentive to someone they like",
+    "context": "Stop simping over her; she’s not into you."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I watched that video and I was lmao."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or excellent",
+    "context": "The party last night was so lit!"
+  },
+  {
+    "slang": "stan",
+    "formal": "an extremely devoted fan",
+    "context": "I totally stan that band, they are amazing."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He's just trying to flex his new car."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "When he fell, I was lmao."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "He was acting thirsty by constantly posting."
+  },
+  {
+    "slang": "shook",
+    "formal": "surprised",
+    "context": "I was shook when I heard the news."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "She told the funniest story, I was lmao!"
+  },
+  {
+    "slang": "cancelled",
+    "formal": "rejected",
+    "context": "That show was cancelled due to low ratings."
+  },
+  {
+    "slang": "fam",
+    "formal": "family or close friends",
+    "context": "I'm hanging out with my fam this weekend."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "slightly",
+    "context": "I'm lowkey excited for the trip."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna see that new movie this weekend."
+  },
+  {
+    "slang": "throw shade",
+    "formal": "to criticize subtly",
+    "context": "She was throwing shade at her ex during the conversation."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex with his new car."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "When I saw that meme, I was lmao."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "You think we can win? Bet!"
+  },
+  {
+    "slang": "savage",
+    "formal": "bold or ruthless",
+    "context": "That response was so savage."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I'm telling you, no cap, that restaurant has the best pizza."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, did you see that amazing performance?"
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "Her reaction was so extra."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "secretly or subtly",
+    "context": "I lowkey want to go to that concert."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You really slay in that outfit."
+  },
+  {
+    "slang": "simp",
+    "formal": "overly attentive or submissive person",
+    "context": "He’s such a simp for her."
+  },
+  {
+    "slang": "stan",
+    "formal": "an ardent fan",
+    "context": "I stan that musician so hard."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna go hiking this weekend?"
+  },
+  {
+    "slang": "woke",
+    "formal": "aware and informed about social issues",
+    "context": "She is so woke; she knows everything about social justice."
+  },
+  {
+    "slang": "lit af",
+    "formal": "extremely exciting",
+    "context": "The party was lit af; everyone had a blast."
+  },
+  {
+    "slang": "slaps",
+    "formal": "is very good",
+    "context": "This song slaps!"
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my god",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "big yikes",
+    "formal": "a significant mistake or embarrassment",
+    "context": "That outfit choice was a big yikes."
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "He was salty after losing the game."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle insult",
+    "context": "Did you hear the shade she threw at him during the meeting?"
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat",
+    "context": "I lowkey want to see that movie again."
+  },
+  {
+    "slang": "finna",
+    "formal": "fixing to",
+    "context": "I'm finna get some food."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "The vibe at the cafe was really chill."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework before I can play."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "I felt like she was throwing shade at me during the meeting."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I'm serious, no cap, that was the best game ever."
+  },
+  {
+    "slang": "send it",
+    "formal": "go for it",
+    "context": "I’m just gonna send it and ask her out."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the party with us."
+  },
+  {
+    "slang": "GOAT",
+    "formal": "greatest of all time",
+    "context": "He is the GOAT in basketball."
+  },
+  {
+    "slang": "on fleek",
+    "formal": "perfectly executed",
+    "context": "Her makeup is on fleek today."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "extremely exciting",
+    "context": "The party was lit AF last night."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or popularity",
+    "context": "He is only doing it for the clout."
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "You really slay in that outfit!"
+  },
+  {
+    "slang": "shade",
+    "formal": "insult indirectly",
+    "context": "She threw some shade at him during the meeting."
+  },
+  {
+    "slang": "ghosting",
+    "formal": "cutting off all communication",
+    "context": "He ghosted her without any explanation."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to step away for a moment, brb."
+  },
+  {
+    "slang": "lowkey",
+    "formal": "somewhat",
+    "context": "I'm lowkey excited about the trip."
+  },
+  {
+    "slang": "lit AF",
+    "formal": "very exciting",
+    "context": "That party was lit AF."
+  },
+  {
+    "slang": "tea",
+    "formal": "gossip",
+    "context": "Spill the tea; I want to hear all about it."
+  },
+  {
+    "slang": "dead",
+    "formal": "extremely funny",
+    "context": "That meme just killed me, I'm dead."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or excellent",
+    "context": "The party last night was lit!"
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Is ur phone charged?"
+  },
+  {
+    "slang": "snatched",
+    "formal": "well put together",
+    "context": "Her outfit is snatched today!"
+  },
+  {
+    "slang": "canceled",
+    "formal": "no longer supported",
+    "context": "His behavior got him canceled by the community."
+  },
+  {
+    "slang": "slay",
+    "formal": "to do something exceptionally well",
+    "context": "You really slay in that dress!"
+  },
+  {
+    "slang": "w",
+    "formal": "win",
+    "context": "That was a total W for our team!"
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter or upset",
+    "context": "She was salty after losing the game."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I wasn't a fan of that movie."
+  },
+  {
+    "slang": "hit different",
+    "formal": "feels uniquely impactful",
+    "context": "This song hits different after a breakup."
+  },
+  {
+    "slang": "omg",
+    "formal": "oh my God",
+    "context": "Omg, I can't believe you did that!"
+  },
+  {
+    "slang": "slaps",
+    "formal": "very good or excellent",
+    "context": "This song really slaps."
+  },
+  {
+    "slang": "bop",
+    "formal": "a catchy song",
+    "context": "This song is such a bop!"
+  },
+  {
+    "slang": "slay",
+    "formal": "perform exceptionally well",
+    "context": "She really slayed that performance."
+  },
+  {
+    "slang": "woke",
+    "formal": "aware of social issues",
+    "context": "He’s really woke about current events."
+  },
+  {
+    "slang": "drip",
+    "formal": "stylish or fashionable",
+    "context": "She always has the best drip in the group."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking very attractive",
+    "context": "Her outfit was snatched at the event."
+  },
+  {
+    "slang": "stan",
+    "formal": "an obsessive fan",
+    "context": "I stan that artist; their music is incredible."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "I like ur outfit today."
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "He’s acting a bit sus lately."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I’m telling you, no cap, that movie was amazing."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the store later."
+  },
+  {
+    "slang": "receipts",
+    "formal": "proof",
+    "context": "Do you have receipts for what you just said?"
+  },
+  {
+    "slang": "fomo",
+    "formal": "fear of missing out",
+    "context": "I felt a strong fomo when I saw everyone at the event."
+  },
+  {
+    "slang": "ship",
+    "formal": "support a relationship",
+    "context": "I really ship those two; they are perfect together."
+  },
+  {
+    "slang": "wavy",
+    "formal": "very cool or stylish",
+    "context": "His new haircut is so wavy."
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking great",
+    "context": "Her outfit is snatched."
+  },
+  {
+    "slang": "cancelled",
+    "formal": "rejected",
+    "context": "That show was cancelled after only one season."
+  },
+  {
+    "slang": "ghosting",
+    "formal": "suddenly cutting off communication",
+    "context": "He has been ghosting me for weeks now."
+  },
+  {
+    "slang": "ghost",
+    "formal": "to suddenly cut off communication",
+    "context": "He ghosted me after our last date."
+  },
+  {
+    "slang": "extra",
+    "formal": "over the top",
+    "context": "Her reaction was a bit extra."
+  },
+  {
+    "slang": "sips tea",
+    "formal": "observing a situation quietly",
+    "context": "I'm just here sips tea while you both argue."
+  },
+  {
+    "slang": "it’s the vibe",
+    "formal": "the overall feeling is good",
+    "context": "When I entered the room, it’s the vibe that caught me."
+  },
+  {
+    "slang": "highkey",
+    "formal": "obviously or openly",
+    "context": "I highkey want to go to that concert."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That meme had me lmao for hours."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "I lmao at that meme you sent me."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "He's just in it for the clout."
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespect",
+    "context": "She threw some shade at her coworker during the meeting."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very much",
+    "context": "I highkey enjoyed that movie."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "Do you wanna grab lunch together?"
+  },
+  {
+    "slang": "salty",
+    "formal": "bitter",
+    "context": "She was salty about losing the game."
+  },
+  {
+    "slang": "cheugy",
+    "formal": "out of date",
+    "context": "That style is so cheugy now."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I'm kinda tired after that long meeting."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere or feeling",
+    "context": "The vibe at the festival was amazing."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should join us for the game tonight."
+  },
+  {
+    "slang": "hit me up",
+    "formal": "contact me",
+    "context": "Hit me up when you get into town."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "This place has such a chill vibe."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna grab some food after school."
+  },
+  {
+    "slang": "fomo",
+    "formal": "fear of missing out",
+    "context": "I have serious fomo about not going to the party."
+  },
+  {
+    "slang": "periodt",
+    "formal": "to emphasize finality",
+    "context": "That’s the best pizza in town, periodt!"
+  },
+  {
+    "slang": "FOMO",
+    "formal": "fear of missing out",
+    "context": "I have such bad FOMO when my friends hang out without me."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw shade at her ex during the conversation."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "No cap, that was the best meal I’ve ever had."
+  },
+  {
+    "slang": "finesse",
+    "formal": "to handle or maneuver skillfully",
+    "context": "He knows how to finesse his way through the crowd."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna finish my homework later."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "If you think that will work, bet!"
+  },
+  {
+    "slang": "noob",
+    "formal": "beginner",
+    "context": "I’m a noob at this game."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta finish my homework before I go out."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U need to check this out."
+  },
+  {
+    "slang": "catch these hands",
+    "formal": "to fight",
+    "context": "If you keep talking like that, you are going to catch these hands."
+  },
+  {
+    "slang": "hit different",
+    "formal": "felt uniquely impactful",
+    "context": "This song hits different when you’re sad."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna go to the movies this weekend."
+  },
+  {
+    "slang": "clout",
+    "formal": "influence or power",
+    "context": "She has a lot of clout on social media."
+  },
+  {
+    "slang": "r",
+    "formal": "are",
+    "context": "R you coming to the party this weekend?"
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where she went."
+  },
+  {
+    "slang": "kinda",
+    "formal": "kind of",
+    "context": "I’m kinda tired after that long hike."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was so funny, I literally lol."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to take a quick call, brb."
+  },
+  {
+    "slang": "dank",
+    "formal": "high quality",
+    "context": "This meme is dank!"
+  },
+  {
+    "slang": "snatched",
+    "formal": "looking very good",
+    "context": "Your makeup is snatched today."
+  },
+  {
+    "slang": "bet",
+    "formal": "I agree",
+    "context": "If you think that's a good idea, bet."
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "She is very woke about social issues."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I need to grab a snack, brb."
+  },
+  {
+    "slang": "high-key",
+    "formal": "openly or obviously",
+    "context": "I high-key love this series."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have got to",
+    "context": "I gotta get up early tomorrow for my meeting."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw shade at me during the meeting."
+  },
+  {
+    "slang": "gotta",
+    "formal": "have to",
+    "context": "I gotta study for my exam."
+  },
+  {
+    "slang": "lit fam",
+    "formal": "exciting group of friends",
+    "context": "We're going to have a lit fam gathering tonight."
+  },
+  {
+    "slang": "stan",
+    "formal": "an enthusiastic fan",
+    "context": "I totally stan that musician!"
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "The video was hilarious, I was lmao."
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "Ur backpack is on the floor."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna try that new restaurant this weekend."
+  },
+  {
+    "slang": "shade",
+    "formal": "subtle criticism",
+    "context": "She threw some shade at his outfit."
+  },
+  {
+    "slang": "extra",
+    "formal": "over-the-top",
+    "context": "She is so extra with her elaborate outfits."
+  },
+  {
+    "slang": "lol",
+    "formal": "laugh out loud",
+    "context": "That joke was so funny, lol!"
+  },
+  {
+    "slang": "idk",
+    "formal": "I do not know",
+    "context": "Idk where I put my keys."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno what time the meeting starts."
+  },
+  {
+    "slang": "oops",
+    "formal": "an expression of a mistake",
+    "context": "Oops, I forgot to send that email!"
+  },
+  {
+    "slang": "fomo",
+    "formal": "fear of missing out",
+    "context": "I experienced serious fomo when I saw everyone at the concert."
+  },
+  {
+    "slang": "savage",
+    "formal": "ruthless",
+    "context": "Her response was so savage, it left everyone in shock."
+  },
+  {
+    "slang": "spill the tea",
+    "formal": "share gossip or details",
+    "context": "Please spill the tea about what happened at the event."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the game with us."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very",
+    "context": "Highkey, I’m excited for the weekend."
+  },
+  {
+    "slang": "lol",
+    "formal": "laughing out loud",
+    "context": "That joke was so funny, I just had to say lol."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That meme was so funny I was lmao."
+  },
+  {
+    "slang": "no cap",
+    "formal": "no lie",
+    "context": "I'm serious, no cap, that was the best game ever."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna watch a movie tonight."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car on social media."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the store later."
+  },
+  {
+    "slang": "dunno",
+    "formal": "do not know",
+    "context": "I dunno where my keys are right now."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "He likes to flex his new car."
+  },
+  {
+    "slang": "thirsty",
+    "formal": "desperate for attention",
+    "context": "He's acting really thirsty for compliments."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "When I saw that meme, I was lmao."
+  },
+  {
+    "slang": "dope",
+    "formal": "awesome",
+    "context": "That movie was dope!"
+  },
+  {
+    "slang": "cancelled",
+    "formal": "rejected or disapproved",
+    "context": "That show is cancelled after the last season."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I’m not really into that show."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna grab some food."
+  },
+  {
+    "slang": "highkey",
+    "formal": "very obvious",
+    "context": "I highkey loved that movie."
+  },
+  {
+    "slang": "fire",
+    "formal": "excellent or impressive",
+    "context": "That new song is fire."
+  },
+  {
+    "slang": "shade",
+    "formal": "disrespect or criticism",
+    "context": "Did you catch the shade she threw at him?"
+  },
+  {
+    "slang": "sus",
+    "formal": "suspicious",
+    "context": "His explanation was a bit sus."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or exceptional",
+    "context": "That concert was lit; I had so much fun."
+  },
+  {
+    "slang": "suss",
+    "formal": "suspicious",
+    "context": "That deal sounds a bit suss to me."
+  },
+  {
+    "slang": "flex",
+    "formal": "show off",
+    "context": "You don't need to flex; we all appreciate your achievements."
+  },
+  {
+    "slang": "gonna",
+    "formal": "going to",
+    "context": "I'm gonna go to the store later."
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the concert with us."
+  },
+  {
+    "slang": "snatched",
+    "formal": "well put together or impressive",
+    "context": "Her outfit is snatched; she looks amazing."
+  },
+  {
+    "slang": "vibe",
+    "formal": "atmosphere",
+    "context": "This café has such a chill vibe."
+  },
+  {
+    "slang": "highkey",
+    "formal": "openly",
+    "context": "I highkey love this new TV show."
+  },
+  {
+    "slang": "tbh",
+    "formal": "to be honest",
+    "context": "Tbh, I didn't really enjoy that movie."
+  },
+  {
+    "slang": "wya",
+    "formal": "where are you",
+    "context": "Wya? The event is starting soon."
+  },
+  {
+    "slang": "on fleek",
+    "formal": "perfectly done",
+    "context": "Your eyebrows are on fleek!"
+  },
+  {
+    "slang": "on fleek",
+    "formal": "perfectly executed or styled",
+    "context": "Her makeup was on fleek for the party."
+  },
+  {
+    "slang": "stan",
+    "formal": "an obsessive fan",
+    "context": "I stan that artist so much!"
+  },
+  {
+    "slang": "u",
+    "formal": "you",
+    "context": "U should come to the party with us."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to step away for a moment, brb."
+  },
+  {
+    "slang": "vibe",
+    "formal": "a feeling or atmosphere",
+    "context": "This place has a chill vibe; I love it."
+  },
+  {
+    "slang": "throwing hands",
+    "formal": "fighting",
+    "context": "They were throwing hands over that argument."
+  },
+  {
+    "slang": "wanna",
+    "formal": "want to",
+    "context": "I wanna go to the movies this weekend."
+  },
+  {
+    "slang": "cap",
+    "formal": "lie or falsehood",
+    "context": "I don't believe him; that's cap!"
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or excellent",
+    "context": "That party last night was lit!"
+  },
+  {
+    "slang": "woke",
+    "formal": "socially aware",
+    "context": "He is very woke about social issues."
+  },
+  {
+    "slang": "lit",
+    "formal": "exciting or excellent",
+    "context": "The party last night was lit!"
+  },
+  {
+    "slang": "litty",
+    "formal": "extremely exciting",
+    "context": "The party was litty with all the friends around!"
+  },
+  {
+    "slang": "ur",
+    "formal": "your",
+    "context": "I love ur style; it’s so unique."
+  },
+  {
+    "slang": "bop",
+    "formal": "a catchy song",
+    "context": "This song is such a bop, I have it on repeat."
+  },
+  {
+    "slang": "yolo",
+    "formal": "you only live once",
+    "context": "I’m going skydiving this weekend; yolo!"
+  },
+  {
+    "slang": "suss",
+    "formal": "to suspect or investigate",
+    "context": "I’m sussing out the situation."
+  },
+  {
+    "slang": "bussin",
+    "formal": "really good or delicious",
+    "context": "This cake is bussin, you have to try it."
+  },
+  {
+    "slang": "brb",
+    "formal": "be right back",
+    "context": "I have to take this call, brb."
+  },
+  {
+    "slang": "lmao",
+    "formal": "laughing my ass off",
+    "context": "That comedy show had me lmao."
+  }
+]

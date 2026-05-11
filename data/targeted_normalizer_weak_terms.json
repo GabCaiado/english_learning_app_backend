@@ -1,0 +1,802 @@
+[
+  {
+    "term": "chill",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "it is chill outside this morning.",
+        "target": "it is chill outside this morning.",
+        "sense": "literal"
+      },
+      {
+        "input": "he is a chill guy.",
+        "target": "he is a relaxed guy.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "busted",
+    "notes": "literal 'broken/damaged' vs slang 'caught/arrested/exposed'",
+    "examples": [
+      {
+        "input": "The zipper is busted.",
+        "target": "The zipper is busted.",
+        "sense": "literal"
+      },
+      {
+        "input": "The thief got busted last night.",
+        "target": "The thief was arrested last night.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "sharp",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "the blade is sharp.",
+        "target": "the blade is sharp.",
+        "sense": "literal"
+      },
+      {
+        "input": "that suit makes you look sharp.",
+        "target": "that suit makes you look stylish.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "tight",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "these shoes are tight.",
+        "target": "these shoes are tight.",
+        "sense": "literal"
+      },
+      {
+        "input": "we're tight.",
+        "target": "we are close friends.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cracked",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "the glass is cracked.",
+        "target": "the glass is cracked.",
+        "sense": "literal"
+      },
+      {
+        "input": "he is cracked at Fortnite.",
+        "target": "he is very good at Fortnite.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hooked",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "the fish was hooked on the line.",
+        "target": "the fish was hooked on the line.",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm hooked on this podcast.",
+        "target": "i am very interested in this podcast.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stoked",
+    "notes": "literal 'to stir up a fire' vs slang 'very excited'",
+    "examples": [
+      {
+        "input": "He stoked the fire with more wood.",
+        "target": "He stoked the fire with more wood.",
+        "sense": "literal"
+      },
+      {
+        "input": "I'm stoked about the trip.",
+        "target": "I am very excited about the trip.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "press",
+    "notes": "literal apply pressure or a machine for pressing vs idiomatic meaning to urge or push for action",
+    "examples": [
+      {
+        "input": "Press the dough flat before baking.",
+        "target": "Press the dough flat before baking.",
+        "sense": "literal"
+      },
+      {
+        "input": "They will press the committee for a decision.",
+        "target": "They will urge the committee for a decision.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "heat",
+    "notes": "literal: high temperature vs slang: strong performance or intense pressure",
+    "examples": [
+      {
+        "input": "Turn on the heat, it's cold in here.",
+        "target": "Turn on the heat, it's cold in here.",
+        "sense": "literal"
+      },
+      {
+        "input": "The team really brought the heat in the second half.",
+        "target": "The team performed very intensely in the second half.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stomp",
+    "notes": "literal: step heavily on something vs slang: defeat thoroughly or dominate",
+    "examples": [
+      {
+        "input": "Don't stomp on the flowers in the garden.",
+        "target": "Don't stomp on the flowers in the garden.",
+        "sense": "literal"
+      },
+      {
+        "input": "They stomped the other team in the finals.",
+        "target": "They defeated the other team decisively in the finals.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "savage",
+    "notes": "literal: fierce or untamed vs slang: brutally harsh or impressively ruthless",
+    "examples": [
+      {
+        "input": "The wolf is savage when cornered.",
+        "target": "The wolf is savage when cornered.",
+        "sense": "literal"
+      },
+      {
+        "input": "That was a savage insult.",
+        "target": "That was a brutally harsh insult.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "nasty",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "the bathroom smells nasty.",
+        "target": "the bathroom smells nasty.",
+        "sense": "literal"
+      },
+      {
+        "input": "that guitar solo was nasty.",
+        "target": "that guitar solo was amazing.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "washed",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "the shirt was washed.",
+        "target": "the shirt was washed.",
+        "sense": "literal"
+      },
+      {
+        "input": "that player is washed.",
+        "target": "that player is no longer good.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cold",
+    "notes": "literal: low temperature vs slang: emotionally distant or unemotional",
+    "examples": [
+      {
+        "input": "The water is cold.",
+        "target": "The water is cold.",
+        "sense": "literal"
+      },
+      {
+        "input": "He gave a cold performance.",
+        "target": "He gave an unemotional performance.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hit",
+    "notes": "literal: to strike vs slang: a big success or popular item",
+    "examples": [
+      {
+        "input": "He will hit the ball.",
+        "target": "He will hit the ball.",
+        "sense": "literal"
+      },
+      {
+        "input": "The new single is a hit.",
+        "target": "The new single is very popular.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "props",
+    "notes": "literal: stage objects used in performances vs slang: respect or credit given to someone",
+    "examples": [
+      {
+        "input": "The play required many props.",
+        "target": "The play required many props.",
+        "sense": "literal"
+      },
+      {
+        "input": "Give her props for finishing early.",
+        "target": "Give her credit for finishing early.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "wreck",
+    "notes": "literal: a crash or heavy damage vs slang: to overwhelm, ruin, or emotionally drain someone",
+    "examples": [
+      {
+        "input": "The car wreck blocked the road.",
+        "target": "The car wreck blocked the road.",
+        "sense": "literal"
+      },
+      {
+        "input": "The exam wrecked me.",
+        "target": "The exam overwhelmed me.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hot",
+    "notes": "literal temperature vs slang 'popular/attractive/trending'",
+    "examples": [
+      {
+        "input": "The soup is hot.",
+        "target": "The soup is hot.",
+        "sense": "literal"
+      },
+      {
+        "input": "That movie is hot.",
+        "target": "That movie is very popular right now.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stunt",
+    "notes": "literal choreographed dangerous action vs slang 'show off'",
+    "examples": [
+      {
+        "input": "The actor did a dangerous stunt.",
+        "target": "The actor did a dangerous stunt.",
+        "sense": "literal"
+      },
+      {
+        "input": "He likes to stunt on his friends.",
+        "target": "He likes to show off in front of his friends.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "paper",
+    "notes": "literal sheet or document vs slang 'money'",
+    "examples": [
+      {
+        "input": "Write your name on the paper.",
+        "target": "Write your name on the paper.",
+        "sense": "literal"
+      },
+      {
+        "input": "He is chasing paper.",
+        "target": "He is trying to make money.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "rip",
+    "notes": "literal 'tear' vs slang 'criticize harshly / make fun of / copy from media'",
+    "examples": [
+      {
+        "input": "Don't rip the paper.",
+        "target": "Don't rip the paper.",
+        "sense": "literal"
+      },
+      {
+        "input": "They ripped the coach in the review.",
+        "target": "They harshly criticized the coach in the review.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "ride",
+    "notes": "literal vehicle or journey vs slang 'criticize someone or give them a hard time'",
+    "examples": [
+      {
+        "input": "We went for a ride in the car.",
+        "target": "We went for a ride in the car.",
+        "sense": "literal"
+      },
+      {
+        "input": "She will ride him for missing practice.",
+        "target": "She will criticize him for missing practice.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "dip",
+    "notes": "literal 'submerge briefly' or a sauce vs slang 'leave/exit'",
+    "examples": [
+      {
+        "input": "Dip the chip into the salsa.",
+        "target": "Dip the chip into the salsa.",
+        "sense": "literal"
+      },
+      {
+        "input": "I have to dip now.",
+        "target": "I have to leave now.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "spot",
+    "notes": "literal small stain or place vs slang 'lend money or notice/identify'",
+    "examples": [
+      {
+        "input": "I saw a spot on the shirt.",
+        "target": "I saw a spot on the shirt.",
+        "sense": "literal"
+      },
+      {
+        "input": "Can you spot me five dollars?",
+        "target": "Can you lend me five dollars?",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "splash",
+    "notes": "literal scatter liquid vs slang 'spend money freely to impress'",
+    "examples": [
+      {
+        "input": "Don't splash water on the floor.",
+        "target": "Don't splash water on the floor.",
+        "sense": "literal"
+      },
+      {
+        "input": "They splashed out on a new car.",
+        "target": "They spent a lot of money on a new car.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "trip",
+    "notes": "literal: stumble or fall vs slang: worry or overreact",
+    "examples": [
+      {
+        "input": "Be careful or you might trip on the step.",
+        "target": "Be careful or you might trip on the step.",
+        "sense": "literal"
+      },
+      {
+        "input": "Don't trip about the homework, it's fine.",
+        "target": "Don't worry about the homework, it's fine.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "drop",
+    "notes": "literal: let something fall vs slang: release publicly (e.g., music)",
+    "examples": [
+      {
+        "input": "Don't drop the vase.",
+        "target": "Don't drop the vase.",
+        "sense": "literal"
+      },
+      {
+        "input": "They dropped a new single last week.",
+        "target": "They released a new single last week.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "shoot",
+    "notes": "literal: fire a gun or take a photograph vs slang: send a quick message or ask to contact",
+    "examples": [
+      {
+        "input": "Don't shoot the gun in the house.",
+        "target": "Don't shoot the gun in the house.",
+        "sense": "literal"
+      },
+      {
+        "input": "Shoot me a message when you arrive.",
+        "target": "Send me a message when you arrive.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "pop",
+    "notes": "literal: make a small popping sound or burst vs slang: become suddenly popular or energetic",
+    "examples": [
+      {
+        "input": "The balloon will pop if you overinflate it.",
+        "target": "The balloon will pop if you overinflate it.",
+        "sense": "literal"
+      },
+      {
+        "input": "That song popped last summer.",
+        "target": "That song became very popular last summer.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "vibe",
+    "notes": "literal: vibration or physical sensation vs slang: atmosphere or general feeling",
+    "examples": [
+      {
+        "input": "I felt the vibe from the old speaker.",
+        "target": "I felt the vibe from the old speaker.",
+        "sense": "literal"
+      },
+      {
+        "input": "I like the vibe of this cafe.",
+        "target": "I like the atmosphere of this cafe.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "kill",
+    "notes": "literal: cause death vs slang: do extremely well or defeat thoroughly",
+    "examples": [
+      {
+        "input": "They will kill the weeds in the garden.",
+        "target": "They will kill the weeds in the garden.",
+        "sense": "literal"
+      },
+      {
+        "input": "She killed the exam.",
+        "target": "She did extremely well on the exam.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "bump",
+    "notes": "literal: a small hit or raised area vs slang: play music loudly or promote something",
+    "examples": [
+      {
+        "input": "I hit a bump on the road.",
+        "target": "I hit a bump on the road.",
+        "sense": "literal"
+      },
+      {
+        "input": "They bumped the new song all night.",
+        "target": "They played the new song loudly all night.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hammered",
+    "notes": "literal: hit repeatedly with a hammer vs slang: very drunk",
+    "examples": [
+      {
+        "input": "He hammered the nail into the wood.",
+        "target": "He hammered the nail into the wood.",
+        "sense": "literal"
+      },
+      {
+        "input": "After the party he was hammered.",
+        "target": "After the party he was very drunk.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "floor",
+    "notes": "literal: ground or surface vs slang: overwhelm or greatly surprise",
+    "examples": [
+      {
+        "input": "She dropped the plate on the floor.",
+        "target": "She dropped the plate on the floor.",
+        "sense": "literal"
+      },
+      {
+        "input": "The news floored him.",
+        "target": "The news surprised him greatly.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "zone",
+    "notes": "literal: an area or region vs slang: a focused mental state ('in the zone')",
+    "examples": [
+      {
+        "input": "This is a no-parking zone.",
+        "target": "This is a no-parking zone.",
+        "sense": "literal"
+      },
+      {
+        "input": "He is in the zone during games.",
+        "target": "He is highly focused during games.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cover",
+    "notes": "literal: an object that covers vs slang: take someone else's responsibility (e.g., a work shift)",
+    "examples": [
+      {
+        "input": "Please put a cover on the pot.",
+        "target": "Please put a cover on the pot.",
+        "sense": "literal"
+      },
+      {
+        "input": "Can you cover my shift tomorrow?",
+        "target": "Can you take my work shift tomorrow?",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cooked",
+    "notes": "ambiguous literal vs slang or idiomatic use; generate fresh variants, not copies of the seed examples",
+    "examples": [
+      {
+        "input": "the chicken is cooked.",
+        "target": "the chicken is cooked.",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm cooked for the exam.",
+        "target": "i am in trouble for the exam.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "bad",
+    "notes": "literal: poor or undesirable vs slang: very good/cool (ironic reversal)",
+    "examples": [
+      {
+        "input": "The weather is bad.",
+        "target": "The weather is bad.",
+        "sense": "literal"
+      },
+      {
+        "input": "His new song is bad.",
+        "target": "His new song is very good.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "lit",
+    "notes": "literal: past tense of light or illuminated vs slang: lively/exciting (or intensely fun)",
+    "examples": [
+      {
+        "input": "The room was lit by candles.",
+        "target": "The room was lit by candles.",
+        "sense": "literal"
+      },
+      {
+        "input": "The party was lit.",
+        "target": "The party was lively and exciting.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "fresh",
+    "notes": "literal: recently made or new vs slang: impudent/rude or stylish depending on context",
+    "examples": [
+      {
+        "input": "The bread is fresh.",
+        "target": "The bread is fresh.",
+        "sense": "literal"
+      },
+      {
+        "input": "Don't be fresh with me.",
+        "target": "Don't be rude to me.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "beat",
+    "notes": "literal: rhythm or to strike vs slang: very tired/exhausted",
+    "examples": [
+      {
+        "input": "The drummer kept the beat.",
+        "target": "The drummer kept the beat.",
+        "sense": "literal"
+      },
+      {
+        "input": "I'm beat after work.",
+        "target": "I am exhausted after work.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "salty",
+    "notes": "literal: tasting of salt vs slang: bitter or resentful",
+    "examples": [
+      {
+        "input": "The soup is salty.",
+        "target": "The soup is salty.",
+        "sense": "literal"
+      },
+      {
+        "input": "She's salty about losing.",
+        "target": "She is bitter about losing.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "slide",
+    "notes": "literal: to move smoothly, go down a surface vs slang: to approach someone discreetly (often by message)",
+    "examples": [
+      {
+        "input": "Children love to slide at the playground.",
+        "target": "Children love to slide at the playground.",
+        "sense": "literal"
+      },
+      {
+        "input": "He tried to slide into her DMs.",
+        "target": "He tried to send her a private direct message.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "roast",
+    "notes": "literal: to cook with dry heat vs slang: to mock or tease someone humorously",
+    "examples": [
+      {
+        "input": "Please roast the chicken for an hour.",
+        "target": "Please roast the chicken for an hour.",
+        "sense": "literal"
+      },
+      {
+        "input": "They roasted him at the party.",
+        "target": "They made fun of him at the party.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "smoke",
+    "notes": "literal: airborne particles from combustion vs slang: to defeat decisively",
+    "examples": [
+      {
+        "input": "Smoke rose from the chimney.",
+        "target": "Smoke rose from the chimney.",
+        "sense": "literal"
+      },
+      {
+        "input": "She smoked her opponent in the match.",
+        "target": "She defeated her opponent decisively in the match.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "crush",
+    "notes": "literal: to compress or squish vs slang: a strong romantic attraction",
+    "examples": [
+      {
+        "input": "Don't crush the box.",
+        "target": "Don't crush the box.",
+        "sense": "literal"
+      },
+      {
+        "input": "She has a crush on her classmate.",
+        "target": "She is romantically attracted to her classmate.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "burn",
+    "notes": "literal: injury from heat or flame vs slang: an insulting remark that stings",
+    "examples": [
+      {
+        "input": "He got a burn on his arm.",
+        "target": "He got a burn on his arm.",
+        "sense": "literal"
+      },
+      {
+        "input": "That comment was a burn.",
+        "target": "That comment was an insulting remark that hurt.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hang",
+    "notes": "literal: to suspend vs slang: to spend time socially ('hang out')",
+    "examples": [
+      {
+        "input": "Please hang the picture on the wall.",
+        "target": "Please hang the picture on the wall.",
+        "sense": "literal"
+      },
+      {
+        "input": "Do you want to hang this weekend?",
+        "target": "Do you want to spend time together this weekend?",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "down",
+    "notes": "literal: toward a lower place vs slang: willing or agreeable ('I'm down')",
+    "examples": [
+      {
+        "input": "The cat jumped down from the table.",
+        "target": "The cat jumped down from the table.",
+        "sense": "literal"
+      },
+      {
+        "input": "I'm down to help.",
+        "target": "I am willing to help.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cop",
+    "notes": "literal: noun meaning police officer vs slang verb meaning to obtain or buy something",
+    "examples": [
+      {
+        "input": "The cop arrived at the scene.",
+        "target": "The cop arrived at the scene.",
+        "sense": "literal"
+      },
+      {
+        "input": "I need to cop tickets for the show.",
+        "target": "I need to buy tickets for the show.",
+        "sense": "slang"
+      }
+    ]
+  }
+]

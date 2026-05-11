@@ -1,0 +1,5626 @@
+[
+  {
+    "term": "cap",
+    "sentence": "put the cap on the pen",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "legit",
+    "sentence": "A reviewer confirmed the website was legit. We checked it again later.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The new roommate is super chill. The comments agreed immediately.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "the goat is in the barn",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "chill",
+    "sentence": "The new person is super chill. Everyone reacted at once.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "The tea in the timeline was wild. My friends brought it up later.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "i wanna drink some tea",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "shady",
+    "sentence": "The link looked shady. My friends brought it up later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "That reaction was extra. People kept replaying it.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "we sat under a shady tree",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "fire",
+    "sentence": "The fire department checked the house. We checked it again later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That design came out sick. The comments agreed immediately.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "That sneakers adds drip. Everyone reacted at once.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The legend says she slayed the monster. The sentence describes a real object.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Spill the tea from the group chat. People kept replaying it.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Smoke came from the fire by the pan. We checked it again later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "They told a ghost haunted house. No slang meaning was intended.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "this beat goes hard",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "lit",
+    "sentence": "The chat was lit. Everyone reacted at once.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The partner stopped replying and ghosted. Everyone reacted at once.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "The doctor asked him to flex his shoulder. Someone wrote it in the report.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "She snatched the camera before leaving. No slang meaning was intended.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "paint will drip if it is too thin",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The friend stopped replying and ghosted. My friends brought it up later.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "Everyone said the timeline was lit. It stood out from everything else.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "The drip near the faucet got worse. The detail mattered in context.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "I drank tea from the cup. The sentence is meant literally.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The map marked a shady tree. No slang meaning was intended.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "Everyone called the goal sick. People kept replaying it.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "she ghosted me",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "goat",
+    "sentence": "A goat walked through the petting zoo. The sentence is meant literally.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "During the lesson, the word lit refers to the stage. The sentence is meant literally.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The dinner was cooked well. The sentence is meant literally.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "Without any figurative meaning, the word beef refers to the stew. Someone wrote it in the report.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The morning was chill in the morning. The sentence describes a real object.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "I have extra blanket today. Someone wrote it in the report.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "That room got lit. The comments agreed immediately.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "His beef with the team got worse. People kept replaying it.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "This ring will fit in the car. The sentence describes a real object.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Without any figurative meaning, the word hard refers to the exam. We checked it again later.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "His look is serving confidence. It got shared all morning.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "This rock feels hard. No slang meaning was intended.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "flex your arm slowly",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "beef",
+    "sentence": "We cooked sandwich with beef. The sentence describes a real object.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The sign was poorly lit. The detail mattered in context.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "Someone said the restaurant was serving soup. We checked it again later.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "They slayed the scene. My friends brought it up later.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "That comment sounded salty. People kept replaying it.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The restaurant is serving dinner. The sentence is meant literally.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "A small light lit the street. The sentence is meant literally.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The warrior slayed the enemy. The sentence describes a real object.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "The bottle came with a blue cap. We checked it again later.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The forest caught fire. No slang meaning was intended.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "Everyone said the party was lit. It stood out from everything else.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Water started to drip from the paint can. Someone wrote it in the report.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "the barn has a goat",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "chill",
+    "sentence": "The breeze was chill in the morning. We checked it again later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The breeze felt chill. The teacher used it as a literal example.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The whole style is snatched. It became the highlight of the day.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Smoke came from the fire by the forest. Someone wrote it in the report.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "The new schedule fit perfectly. Someone wrote it in the report.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "She is goated as a chef. It got shared all morning.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "We verified the website is legit. Someone wrote it in the report.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Everyone noticed the drip in his jacket. The comments agreed immediately.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "She flexed her toe during the stretch. We checked it again later.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "Their beef became public after the rival. My friends brought it up later.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "Everyone thought the comment felt shady. My friends brought it up later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "You are cooked for that exam. It got shared all morning.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "Her mirror selfie made the fit clean. It stood out from everything else.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "The doctor asked him to flex his arm. The sentence is meant literally.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "She slayed that presentation. The comments agreed immediately.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "A goat walked through the mountain. Someone wrote it in the report.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "The bag has an extra money. We checked it again later.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "That fit goes hard. Everyone reacted at once.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "My person is really chill. My friends brought it up later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "Her look made the fit clean. The comments agreed immediately.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "the legend says she slayed the serpent",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "tea",
+    "sentence": "Spill the tea from the timeline. The comments agreed immediately.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "The whole decor was too extra. The comments agreed immediately.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "In this sentence, the word hard refers to the surface. The teacher used it as a literal example.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The server started serving lunch. The teacher used it as a literal example.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Her latest performance is straight fire. It got shared all morning.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The seller looks legit after inspection. The teacher used it as a literal example.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "The cap for the jar was missing. The detail mattered in context.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "A chill room came through. No slang meaning was intended.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "Everyone agreed the win was legit. People kept replaying it.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "In this sentence, the word extra refers to the ticket. The detail mattered in context.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The new performance sounds fire. People kept replaying it.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "He slayed the audition. It stood out from everything else.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The pasta was cooked well. We checked it again later.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "Even though people online use slang, the word salty refers to the broth. The teacher used it as a literal example.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The reply got salty fast. It got shared all morning.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The recruiter stopped replying and ghosted. It stood out from everything else.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The surface was hard. No slang meaning was intended.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The sandwich included beef. The teacher used it as a literal example.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "They are cooked without help on the meeting. It became the highlight of the day.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "the shoes fit well",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "chill",
+    "sentence": "the room was chill in the morning",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "serving",
+    "sentence": "That pose is serving looks. It got shared all morning.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The rice was cooked well. The detail mattered in context.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "Plants grew in the shady garden. The teacher used it as a literal example.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "they have beef now",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "goat",
+    "sentence": "The goat stayed near the petting zoo. The sentence describes a real object.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "His beef with the rapper got worse. It got shared all morning.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The salty pretzel needed more water. The teacher used it as a literal example.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The pan caught fire. Someone wrote it in the report.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "Without any figurative meaning, the word shady refers to the porch. No slang meaning was intended.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "I have extra money today. The teacher used it as a literal example.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Paint will drip from the tap. The sentence is meant literally.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "That edit hit hard. It became the highlight of the day.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "This meal is legit. It got shared all morning.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The server is serving customers. Someone wrote it in the report.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "That chain adds drip. It became the highlight of the day.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "That jacket looked snatched. It got shared all morning.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The screen was poorly lit. The sentence is meant literally.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The museum displayed a ghost haunted house. Someone wrote it in the report.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "I drank tea from the thermos. Someone wrote it in the report.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The side was shady and cool. We checked it again later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "In this sentence, the word sick refers to the child. The detail mattered in context.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "Someone said the server was serving soup. The sentence describes a real object.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "the waiter is serving dinner",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "goat",
+    "sentence": "That player is the goat. The comments agreed immediately.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The restaurant started serving lunch. The detail mattered in context.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That solo was sick. The comments agreed immediately.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The license is a legit source. The sentence describes a real object.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "Everyone calls the coach the goat. It got shared all morning.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The candle caught fire. The sentence describes a real object.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "The cap for the tube was missing. Someone wrote it in the report.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "That verse was fire. It stood out from everything else.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The seller looked shady. The comments agreed immediately.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "She has beef with her classmate. It got shared all morning.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That solo came out sick. It became the highlight of the day.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "Someone said the morning was chill. The sentence is meant literally.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "That whole excuse was shady. People kept replaying it.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The new meal looks legit. People kept replaying it.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Everyone called the verse fire. It became the highlight of the day.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The ghost story was scary. The sentence describes a real object.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "You are cooked for that interview. It stood out from everything else.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The water tasted salty. We checked it again later.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The skewers included beef. The detail mattered in context.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "Someone cooked the pasta. The detail mattered in context.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "No cap, the post was true. It stood out from everything else.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The meat was cooked well. The teacher used it as a literal example.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "People said the coach is the goat. People kept replaying it.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "Everyone called the goal sick. Everyone reacted at once.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "For the dictionary example, the word cooked refers to the pasta. No slang meaning was intended.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The wind felt chill. We checked it again later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "That whole behavior was shady. It got shared all morning.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "Everyone agreed the win was legit. My friends brought it up later.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "she is the goat",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "slayed",
+    "sentence": "She slayed that routine. It got shared all morning.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That routine was sick. It got shared all morning.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Without any figurative meaning, the word cap refers to the camera lens. The sentence is meant literally.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "Without any figurative meaning, the word ghost refers to the story. Someone wrote it in the report.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The manager called in sick. We checked it again later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "You are cooked for that deadline. People kept replaying it.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "she ordered beef tacos",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "fit",
+    "sentence": "Her sneakers made the fit clean. It got shared all morning.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "In this sentence, the word drip refers to the faucet. The detail mattered in context.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "The jacket gave the whole look drip. People kept replaying it.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "A chill morning came through. Someone wrote it in the report.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "The schedule does not fit. The detail mattered in context.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "During the lesson, the word serving refers to the waiter. No slang meaning was intended.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "They rested on the shady trail. The teacher used it as a literal example.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "She has beef with her team. It became the highlight of the day.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "She keeps flexing her award. People kept replaying it.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The app is a legit source. We checked it again later.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "Don't ghost your seller. It got shared all morning.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "You don't have to be so extra about the plan. It got shared all morning.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The goat ate grass by the fence. The sentence is meant literally.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "The gas tank came with a blue cap. The sentence describes a real object.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "we're cooked if we miss the deadline",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "serving",
+    "sentence": "This photo is serving confidence. Everyone reacted at once.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The building is on fire. Someone wrote it in the report.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "We are cooked if we miss the interview. It stood out from everything else.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "They checked whether the schedule would fit. We checked it again later.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Stop capping about the claim. People kept replaying it.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "This style is serving confidence. People kept replaying it.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The website looks legit after inspection. Someone wrote it in the report.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "The doctor asked him to flex his knee. No slang meaning was intended.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "Everyone agreed the setup was legit. My friends brought it up later.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "This entrance is serving confidence. My friends brought it up later.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "Even though people online use slang, the word shady refers to the tree. The sentence is meant literally.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "That meal was legit. Everyone reacted at once.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The writer is goated at this. My friends brought it up later.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The goat ate grass by the petting zoo. Someone wrote it in the report.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "She was being extra about the entrance. My friends brought it up later.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "For the dictionary example, the word fire refers to the car. The sentence describes a real object.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The ghost museum was scary. The teacher used it as a literal example.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Her latest track is straight fire. People kept replaying it.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "Even though people online use slang, the word ghost refers to the museum. The teacher used it as a literal example.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "the party was lit",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "sick",
+    "sentence": "The traveler felt sick today. The teacher used it as a literal example.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The lamp was well lit. The sentence is meant literally.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "The tea in the meeting was wild. People kept replaying it.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That transition came out sick. Everyone reacted at once.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "She was still salty about the comment. The comments agreed immediately.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "everyone called the artist the goat",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "serving",
+    "sentence": "Even though people online use slang, the word serving refers to the waiter. We checked it again later.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "she slayed that presentation",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "hard",
+    "sentence": "During the lesson, the word hard refers to the surface. The sentence is meant literally.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "A goat walked through the barn. The teacher used it as a literal example.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "The bag has an extra time. No slang meaning was intended.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The new edit goes hard. It got shared all morning.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Coffee began to drip from the coffee maker. We checked it again later.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Flex your ankle slowly. The sentence is meant literally.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "the pasta was cooked well",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "extra",
+    "sentence": "She was being extra about the outfit. It became the highlight of the day.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "the setup is a flex",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "legit",
+    "sentence": "The company is a legit source. No slang meaning was intended.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "He snatched the ticket from the table. The teacher used it as a literal example.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "During the lesson, the word fire refers to the house. No slang meaning was intended.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The new design sounds fire. The comments agreed immediately.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The child called in sick. Someone wrote it in the report.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "the soup is salty",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "beef",
+    "sentence": "The rival started beef online. The comments agreed immediately.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "During the lesson, the word flex refers to the arm. Someone wrote it in the report.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Everyone said the fit went hard. It stood out from everything else.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "They checked whether the ring would fit. The detail mattered in context.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "The schedule should fit. The sentence describes a real object.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "He slayed the presentation. People kept replaying it.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "That line hit hard. It got shared all morning.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "smoke came from the fire",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "legit",
+    "sentence": "that feature looks legit",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The ghost museum was scary. No slang meaning was intended.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "they have beef",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "legit",
+    "sentence": "Even though people online use slang, the word legit refers to the source. No slang meaning was intended.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The thief snatched the wallet. The sentence describes a real object.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The fan got salty fast. It became the highlight of the day.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "We verified the app is legit. The sentence is meant literally.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "That watch was a big flex. The comments agreed immediately.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "A doctor checked the sick teacher. The sentence is meant literally.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Flex your toe slowly. The sentence is meant literally.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The map marked a shady porch. The sentence is meant literally.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The seller ghosted me. It got shared all morning.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The company looks legit after inspection. The detail mattered in context.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The classmate ghosted me. It stood out from everything else.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "His makeup is serving confidence. It stood out from everything else.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The rice is cooked. The teacher used it as a literal example.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Everyone noticed the drip in his chain. The comments agreed immediately.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "The cap for the bottle was missing. No slang meaning was intended.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The group ghosted me. It got shared all morning.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The broth became salty after seasoning. The detail mattered in context.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "A goat walked through the fence. The detail mattered in context.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "We sat by a shady porch. No slang meaning was intended.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "Their beef became public after the rapper. Everyone reacted at once.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "He replaced the tube cap. Someone wrote it in the report.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "the exam was hard",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "extra",
+    "sentence": "The bag has an extra copy. The sentence is meant literally.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The salty broth needed more water. We checked it again later.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "This beef soup was fresh. The detail mattered in context.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "Make an extra time. No slang meaning was intended.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Someone snatched my bag. The sentence is meant literally.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The legend says she slayed the enemy. The sentence describes a real object.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "the kitchen caught fire",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "goat",
+    "sentence": "The veterinarian checked the goat at the farm. Someone wrote it in the report.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The new coach is super chill. It stood out from everything else.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "Everyone thought the excuse felt shady. Everyone reacted at once.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Stop capping about the message. People kept replaying it.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The candle was poorly lit. No slang meaning was intended.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "That teacher is the goat. The comments agreed immediately.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "That idea was legit. My friends brought it up later.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The knight slayed the enemy. The teacher used it as a literal example.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "That player is the goat. People kept replaying it.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "This seat will fit in the car. Someone wrote it in the report.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "She put the cap on the marker. We checked it again later.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Someone said the problem was hard. We checked it again later.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The new intro goes hard. The comments agreed immediately.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "she felt sick after lunch",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "tea",
+    "sentence": "What's the tea about the meeting? It got shared all morning.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The water became chill overnight. The sentence is meant literally.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "This fit looks snatched. My friends brought it up later.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Even though people online use slang, the word hard refers to the exam. The sentence describes a real object.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "she keeps flexing her promotion",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "salty",
+    "sentence": "The salty water needed more water. The sentence describes a real object.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Everyone called the edit fire. My friends brought it up later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "Without any figurative meaning, the word salty refers to the broth. The detail mattered in context.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "spill the tea",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "salty",
+    "sentence": "His friend was salty. It became the highlight of the day.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That trick came out sick. It got shared all morning.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "Make an extra chair. The detail mattered in context.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "A doctor checked the sick manager. The teacher used it as a literal example.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "Their beef became public after the neighbor. It became the highlight of the day.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "She was still salty about the player. It became the highlight of the day.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "that trick was sick",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "tea",
+    "sentence": "she shared the tea after class",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "flex",
+    "sentence": "Flex your arm slowly. The sentence describes a real object.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "They rested on the shady porch. The detail mattered in context.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Smoke came from the fire by the kitchen. No slang meaning was intended.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "During the lesson, the word shady refers to the tree. No slang meaning was intended.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "He slayed the speech. It stood out from everything else.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The recipe uses beef for the skewers. Someone wrote it in the report.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Her fit looks snatched. It stood out from everything else.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "You don't have to be so extra about the reaction. It got shared all morning.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "the goat lives on the farm",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "tea",
+    "sentence": "She shared the tea about her office. It got shared all morning.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The partner ghosted me. People kept replaying it.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "That jacket is serving looks. It got shared all morning.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "Without any figurative meaning, the word chill refers to the morning. No slang meaning was intended.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "That fit goes hard. It stood out from everything else.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "the patient is sick",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "serving",
+    "sentence": "The bar is serving dinner. Someone wrote it in the report.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The recipe uses beef for the burger. The sentence is meant literally.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "this beat is fire",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "beef",
+    "sentence": "We cooked soup with beef. Someone wrote it in the report.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "This key will fit in the car. The detail mattered in context.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Her outfit looks snatched. The comments agreed immediately.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The meal was cooked well. The sentence is meant literally.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "He might ghost the client. The comments agreed immediately.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "That whole comment was shady. My friends brought it up later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "the hallway was well lit",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "cap",
+    "sentence": "Stop capping about the claim. My friends brought it up later.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "His comment felt extra. The comments agreed immediately.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "the beef stew is ready",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The legend says she slayed the serpent. We checked it again later.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The neighbor called in sick. The sentence is meant literally.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "During the lesson, the word fit refers to the shoe. The teacher used it as a literal example.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "her outfit slayed",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "shady",
+    "sentence": "Plants grew in the shady side. The sentence describes a real object.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "that's legit",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "ghost",
+    "sentence": "They told a ghost story. Someone wrote it in the report.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The teacher is chill. My friends brought it up later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The license is legit. The sentence describes a real object.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "the thief snatched her bag",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "tea",
+    "sentence": "The tea in the teapot was hot. Someone wrote it in the report.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "That edit was fire. The comments agreed immediately.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The whole dress is snatched. My friends brought it up later.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "Her pose is serving attitude. Everyone reacted at once.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Her latest verse is straight fire. Everyone reacted at once.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "The tea in the cup was hot. The teacher used it as a literal example.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "I drank tea from the kettle. No slang meaning was intended.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "Bring an extra ticket. The detail mattered in context.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Green tea was placed near the mug. The sentence describes a real object.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "She flexed her toe during the stretch. Someone wrote it in the report.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "The drip near the paint can got worse. The sentence describes a real object.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "For the dictionary example, the word slayed refers to the dragon. No slang meaning was intended.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "During the lesson, the word serving refers to the host. The sentence describes a real object.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "That review sounded salty. My friends brought it up later.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Everyone knew the message was cap. It stood out from everything else.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The seller looks legit after inspection. Someone wrote it in the report.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "The tea in the cup was hot. Someone wrote it in the report.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "They are cooked without help on the interview. Everyone reacted at once.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The kitchen is serving dinner. The detail mattered in context.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Everyone said the fit went hard. My friends brought it up later.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "His story was shady. It got shared all morning.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "water started to drip from the pipe",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "slayed",
+    "sentence": "You slayed that interview. My friends brought it up later.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Even though people online use slang, the word tea refers to the cup. We checked it again later.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "She is goated as a coach. The comments agreed immediately.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "His seller was shady. My friends brought it up later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "Someone cooked the vegetables. The sentence describes a real object.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Green tea was placed near the teapot. The teacher used it as a literal example.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "He snatched the bag from the table. The detail mattered in context.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The friend got salty fast. It stood out from everything else.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "the fans were salty online",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "extra",
+    "sentence": "I have extra credit today. The sentence describes a real object.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "the bottle has a blue cap",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "cooked",
+    "sentence": "We are cooked if we miss the exam. It stood out from everything else.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The student felt sick today. The sentence describes a real object.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Her latest outfit is straight fire. It became the highlight of the day.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The garden was shady and cool. The detail mattered in context.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The new goal looks sick. The comments agreed immediately.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "she snatched the keys quickly",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "tea",
+    "sentence": "Spill the tea from the friend. It stood out from everything else.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The veterinarian had a goat inside. The teacher used it as a literal example.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "This verse goes hard. The comments agreed immediately.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "Without any figurative meaning, the word cooked refers to the pasta. Someone wrote it in the report.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "During the lesson, the word shady refers to the porch. The sentence is meant literally.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "For the dictionary example, the word hard refers to the exam. No slang meaning was intended.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The whole timeline felt lit. My friends brought it up later.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "That post sounded salty. It became the highlight of the day.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "A chill air came through. Someone wrote it in the report.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "i feel sick today",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "tea",
+    "sentence": "During the lesson, the word tea refers to the cup. No slang meaning was intended.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Her latest poster hits hard. The comments agreed immediately.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "Without any figurative meaning, the word chill refers to the morning. The sentence is meant literally.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The warrior slayed the villain. The detail mattered in context.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "She shared the tea about her thread. It got shared all morning.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "We need an extra time. Someone wrote it in the report.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Flex your shoulder slowly. No slang meaning was intended.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The museum displayed a ghost movie. The detail mattered in context.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "She ordered a beef chili. Someone wrote it in the report.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "Everyone said the night was lit. People kept replaying it.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "The faucet has a drip. We checked it again later.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The costume had a ghost in it. The detail mattered in context.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "She lit the hallway. The teacher used it as a literal example.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "That makeup is serving looks. Everyone reacted at once.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The meal tasted salty. Someone wrote it in the report.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "That outfit is serving looks. It became the highlight of the day.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "This beef chili was fresh. The sentence is meant literally.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Do not flex the arm yet. The detail mattered in context.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The cafe started serving lunch. We checked it again later.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "The doctor asked him to flex his knee. Someone wrote it in the report.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The sick manager stayed home. The teacher used it as a literal example.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "That vacation was a big flex. It became the highlight of the day.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "That player is the goat. Everyone reacted at once.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The student became sick after lunch. The teacher used it as a literal example.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The map marked a shady spot. We checked it again later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "this look is serving confidence",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Her style looks snatched. People kept replaying it.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "She was still salty about the player. It got shared all morning.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "That timeline got lit. Everyone reacted at once.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Water started to drip from the pipe. The teacher used it as a literal example.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "we need an extra chair",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "slayed",
+    "sentence": "Everyone said her audition slayed. It got shared all morning.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "that jacket adds drip",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "legit",
+    "sentence": "The document is a legit source. The teacher used it as a literal example.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "This exam feels hard. The detail mattered in context.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "They checked whether the box would fit. The detail mattered in context.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "he got salty after losing",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "goat",
+    "sentence": "Without any figurative meaning, the word goat refers to the mountain. The sentence is meant literally.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Everyone said the verse went hard. It stood out from everything else.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "In this sentence, the word tea refers to the cafe. The teacher used it as a literal example.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The ghost costume was scary. Someone wrote it in the report.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The breeze was chill in the morning. The sentence describes a real object.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "For the dictionary example, the word lit refers to the stage. We checked it again later.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "That transition was sick. People kept replaying it.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "that deal seems shady",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "flex",
+    "sentence": "She flexed her shoulder during the stretch. The sentence is meant literally.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "This transition is sick. It stood out from everything else.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "He tried to flex his promotion. The comments agreed immediately.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "this app is legit",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "salty",
+    "sentence": "The meal tasted salty. The teacher used it as a literal example.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The recipe uses beef for the soup. The detail mattered in context.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "Plants grew in the shady side. The sentence is meant literally.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Someone said the chair was hard. The detail mattered in context.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "They checked whether the key would fit. The teacher used it as a literal example.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The goat ate grass by the mountain. No slang meaning was intended.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "He snatched the phone from the table. We checked it again later.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "That entrance is serving looks. It stood out from everything else.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "That outfit looked snatched. People kept replaying it.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "She put the cap on the pen. Someone wrote it in the report.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "In this sentence, the word fire refers to the car. The teacher used it as a literal example.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "In this sentence, the word legit refers to the app. The detail mattered in context.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "This water is too salty. We checked it again later.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "They rested on the shady trail. Someone wrote it in the report.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Everyone knew the answer was cap. My friends brought it up later.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "This decision feels hard. The sentence describes a real object.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "That makeup looked snatched. It got shared all morning.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Stop capping about the answer. The comments agreed immediately.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "the weather is chill today",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "drip",
+    "sentence": "The drip near the paint can got worse. We checked it again later.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "Last night's festival was lit. Everyone reacted at once.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "People said the chef is the goat. Everyone reacted at once.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "I drank tea from the shelf. The sentence is meant literally.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "the ghost story was scary",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The warrior slayed the giant. The sentence is meant literally.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "He might ghost the partner. It got shared all morning.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "In this sentence, the word cooked refers to the lunch. The teacher used it as a literal example.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "For the dictionary example, the word drip refers to the faucet. The detail mattered in context.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "During the lesson, the word sick refers to the child. No slang meaning was intended.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "That's legit. It got shared all morning.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "That reaction was extra. The comments agreed immediately.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "the painting showed a ghost",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "chill",
+    "sentence": "The manager is chill. People kept replaying it.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "I drank tea from the cafe. No slang meaning was intended.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "the link looked shady",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "extra",
+    "sentence": "Make an extra ticket. We checked it again later.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Coffee began to drip from the tap. We checked it again later.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "This helmet will fit in the car. The detail mattered in context.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The screen was well lit. Someone wrote it in the report.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The building caught fire. The sentence is meant literally.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The ticket was snatched quickly. Someone wrote it in the report.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "what's the tea",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "goat",
+    "sentence": "The goat stayed near the barn. No slang meaning was intended.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "no cap, this is true",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The camera was snatched quickly. The detail mattered in context.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "This look looks snatched. It stood out from everything else.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "The bag has an extra chair. We checked it again later.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The sauce became salty after seasoning. The teacher used it as a literal example.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "We sat by a shady area. We checked it again later.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The street was poorly lit. The sentence describes a real object.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "They slayed the routine. Everyone reacted at once.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "He tried to flex his score. The comments agreed immediately.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "He snatched the keys from the table. The sentence describes a real object.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "That fit was a big flex. My friends brought it up later.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Someone snatched my keys. The teacher used it as a literal example.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Her dress looks snatched. Everyone reacted at once.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "The porch was shady and cool. The teacher used it as a literal example.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "In this sentence, the word slayed refers to the enemy. The teacher used it as a literal example.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "You are cooked for that presentation. People kept replaying it.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "This rock feels hard. Someone wrote it in the report.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The wallet was snatched quickly. We checked it again later.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The patient called in sick. The sentence describes a real object.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The teacher called in sick. The detail mattered in context.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "She made tea for breakfast. We checked it again later.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The host started serving lunch. Someone wrote it in the report.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "This beef burger was fresh. The sentence describes a real object.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "Someone said the pretzel was salty. Someone wrote it in the report.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "His beef with the creator got worse. People kept replaying it.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "His link was shady. It became the highlight of the day.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "My teacher is really chill. Everyone reacted at once.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "The bag has an extra credit. The sentence is meant literally.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The legend says she slayed the beast. The detail mattered in context.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The whole night felt lit. The comments agreed immediately.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "Someone said the cafe was serving soup. No slang meaning was intended.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "They are cooked without help on the exam. It stood out from everything else.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "He snatched the ticket from the table. Someone wrote it in the report.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "green tea is healthy",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "tea",
+    "sentence": "What's the tea about the meeting? It became the highlight of the day.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "He slayed the performance. It became the highlight of the day.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "She ordered a beef chili. The teacher used it as a literal example.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The pasta is cooked. The sentence is meant literally.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "The whole fit matched the look. It became the highlight of the day.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Water started to drip from the tap. The detail mattered in context.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "that car was a big flex",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "hard",
+    "sentence": "This line goes hard. My friends brought it up later.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "The shoe does not fit. The sentence is meant literally.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The post got salty fast. It got shared all morning.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Flex your toe slowly. The detail mattered in context.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "The box does not fit. The teacher used it as a literal example.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "Nice fit today. Everyone reacted at once.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "The cap for the camera lens was missing. The sentence describes a real object.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "That plan was legit. Everyone reacted at once.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "That chat got lit. Everyone reacted at once.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The sick traveler stayed home. Someone wrote it in the report.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "Without any figurative meaning, the word chill refers to the morning. The detail mattered in context.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Posting the award felt like a flex. It got shared all morning.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "That score was a big flex. It became the highlight of the day.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The porch was well lit. The detail mattered in context.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "Someone said the cafeteria was serving soup. No slang meaning was intended.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Do not flex the toe yet. Someone wrote it in the report.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "That watch was a big flex. Everyone reacted at once.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Her waist looks snatched. Everyone reacted at once.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The business is a legit source. No slang meaning was intended.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "Without any figurative meaning, the word cooked refers to the lunch. No slang meaning was intended.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "My neighbor is really chill. The comments agreed immediately.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "A chill weather came through. We checked it again later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "Their beef became public after the classmate. Everyone reacted at once.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The hero slayed a serpent. The teacher used it as a literal example.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The jacket is serving main character energy. My friends brought it up later.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "the bottle cap is blue",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The meal is cooked. The teacher used it as a literal example.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "She is goated as a writer. People kept replaying it.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The cooked rice cooled on the counter. We checked it again later.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "She flexed her leg during the stretch. The detail mattered in context.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "Even though people online use slang, the word cooked refers to the pasta. We checked it again later.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The field had a goat inside. The sentence describes a real object.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "She has beef with her rapper. Everyone reacted at once.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Give me the tea on that story. It became the highlight of the day.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "his entrance felt extra",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "cap",
+    "sentence": "She put the cap on the tube. No slang meaning was intended.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "They checked whether the box would fit. The sentence is meant literally.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Someone snatched my phone. No slang meaning was intended.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "that player is the goat",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "extra",
+    "sentence": "His makeup felt extra. The comments agreed immediately.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "They slayed the outfit. The comments agreed immediately.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "they are cooked for the interview",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "sick",
+    "sentence": "This move is sick. It became the highlight of the day.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "During the lesson, the word snatched refers to the bag. No slang meaning was intended.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The hard exam was difficult to move. No slang meaning was intended.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "Someone said the meal was salty. The detail mattered in context.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "A reviewer confirmed the source was legit. The sentence describes a real object.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The hunter slayed a dangerous creature. We checked it again later.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The rock was hard. The detail mattered in context.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "The tea in the group chat was wild. It became the highlight of the day.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "That makeup looked snatched. It became the highlight of the day.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The friend became sick after lunch. We checked it again later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "Their beef became public after the creator. It became the highlight of the day.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "His look has drip. People kept replaying it.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "The app looks legit after inspection. No slang meaning was intended.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "Without any figurative meaning, the word goat refers to the mountain. No slang meaning was intended.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "You are cooked for that project. It became the highlight of the day.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "She put the cap on the gas tank. The detail mattered in context.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The style is serving main character energy. It became the highlight of the day.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "For the dictionary example, the word chill refers to the morning. We checked it again later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The party was lit. People kept replaying it.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "her outfit looks snatched",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "fit",
+    "sentence": "Her party outfit made the fit clean. It became the highlight of the day.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Her latest outfit is straight fire. It stood out from everything else.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "They told a ghost painting. Someone wrote it in the report.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "The exercise helps you flex the shoulder. The detail mattered in context.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "That room got lit. It got shared all morning.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Everyone knew the rumor was cap. The comments agreed immediately.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "She snatched the bag before leaving. We checked it again later.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Stop capping about the post. It got shared all morning.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "He might ghost the group. It stood out from everything else.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "the decorations were extra",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "chill",
+    "sentence": "the breeze was chill near the water",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "fire",
+    "sentence": "the house is on fire",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "lit",
+    "sentence": "The porch was poorly lit. The teacher used it as a literal example.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "He might ghost the client. It got shared all morning.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "During the lesson, the word drip refers to the paint can. The sentence is meant literally.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "That show got lit. It stood out from everything else.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "She was being extra about the entrance. It stood out from everything else.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "The goat ate grass by the veterinarian. The sentence describes a real object.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "she is being extra",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "fire",
+    "sentence": "A fire started near the candle. We checked it again later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Even though people online use slang, the word cap refers to the camera lens. The teacher used it as a literal example.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "Everyone said the friend was chill. My friends brought it up later.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The street was well lit. Someone wrote it in the report.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The new manager is super chill. It became the highlight of the day.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Everyone noticed the drip in his fit. Everyone reacted at once.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The knight slayed the beast. Someone wrote it in the report.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "Someone said the waiter was serving soup. No slang meaning was intended.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The museum displayed a ghost museum. No slang meaning was intended.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The breakfast was cooked well. The sentence describes a real object.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "she's super chill",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "cooked",
+    "sentence": "You are cooked for that meeting. The comments agreed immediately.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "Everyone agreed the setup was legit. Everyone reacted at once.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Even though people online use slang, the word hard refers to the exam. We checked it again later.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The burger included beef. We checked it again later.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The restaurant is serving customers. No slang meaning was intended.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Do not flex the arm yet. No slang meaning was intended.",
+    "slang_meaning": "show off",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The forest is on fire. The sentence describes a real object.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "They are cooked without help on the meeting. It stood out from everything else.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "She put the cap on the pen. The teacher used it as a literal example.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "the knight slayed the dragon",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "fire",
+    "sentence": "her outfit was fire",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "shady",
+    "sentence": "That behavior seems shady. The comments agreed immediately.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "She lit the porch. The teacher used it as a literal example.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "She lit the candle. No slang meaning was intended.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Everyone said the intro went hard. Everyone reacted at once.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Someone said the question was hard. Someone wrote it in the report.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "This snack is too salty. The detail mattered in context.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "My host is really chill. It stood out from everything else.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The street lit up after dark. The detail mattered in context.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The new fit goes hard. People kept replaying it.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Paint will drip from the coffee maker. The sentence describes a real object.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "This water is too salty. The sentence describes a real object.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The warrior slayed the villain. The sentence is meant literally.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "The ticket was snatched quickly. We checked it again later.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Give me the tea on that story. It got shared all morning.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "Everyone said her outfit slayed. People kept replaying it.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "we cooked beef stew",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "fit",
+    "sentence": "The schedule should fit. The sentence is meant literally.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "His seller was shady. Everyone reacted at once.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "His fan was salty. Everyone reacted at once.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The new photo goes hard. Everyone reacted at once.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "She put the cap on the bottle. The detail mattered in context.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "snatched",
+    "sentence": "Without any figurative meaning, the word snatched refers to the keys. The detail mattered in context.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "They are cooked without help on the presentation. It got shared all morning.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "she wore a red cap",
+    "slang_meaning": "lie or exaggeration",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "slayed",
+    "sentence": "She slayed that presentation. People kept replaying it.",
+    "slang_meaning": "did very well",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "The look gave the whole look drip. The comments agreed immediately.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "The hallway was chill in the morning. The sentence is meant literally.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "bring an extra ticket",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "serving",
+    "sentence": "His pose is serving confidence. It stood out from everything else.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "For the dictionary example, the word slayed refers to the enemy. The sentence describes a real object.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The classmate ghosted me. It became the highlight of the day.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "Without any figurative meaning, the word ghost refers to the story. We checked it again later.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "cooked",
+    "sentence": "The dinner is cooked. No slang meaning was intended.",
+    "slang_meaning": "in serious trouble or likely to fail",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "A goat walked through the pasture. Someone wrote it in the report.",
+    "slang_meaning": "greatest of all time",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The movie had a ghost in it. Someone wrote it in the report.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "We need an extra chair. No slang meaning was intended.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "shady",
+    "sentence": "That whole excuse was shady. It stood out from everything else.",
+    "slang_meaning": "suspicious or dishonest",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "the faucet has a drip",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "fixed_test"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The hunter slayed a dangerous creature. The sentence describes a real object.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The hard chair was difficult to move. The sentence describes a real object.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "Everyone knew the caption was cap. It got shared all morning.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "nice fit today",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "drip",
+    "sentence": "That style adds drip. The comments agreed immediately.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "She keeps flexing her setup. It stood out from everything else.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "he wore a ghost costume",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "fit",
+    "sentence": "Her jacket made the fit clean. My friends brought it up later.",
+    "slang_meaning": "outfit",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "A fire started near the candle. Someone wrote it in the report.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "My teacher is really chill. People kept replaying it.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "He tried to flex his score. It got shared all morning.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "cap",
+    "sentence": "No cap, the post was true. My friends brought it up later.",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "his drip is clean",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "fixed_test"
+  },
+  {
+    "term": "snatched",
+    "sentence": "This makeup looks snatched. It stood out from everything else.",
+    "slang_meaning": "very stylish, flattering, or well put together",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "During the lesson, the word extra refers to the copy. The sentence is meant literally.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "That feature was legit. It stood out from everything else.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "For the dictionary example, the word lit refers to the lamp. No slang meaning was intended.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "This door will fit in the car. The sentence is meant literally.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "Last night's concert was lit. People kept replaying it.",
+    "slang_meaning": "exciting or excellent",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "This performance is fire. Everyone reacted at once.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "During the lesson, the word salty refers to the soup. Someone wrote it in the report.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "lit",
+    "sentence": "The stage lit up after dark. The sentence is meant literally.",
+    "slang_meaning": "exciting or excellent",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "Her latest verse is straight fire. The comments agreed immediately.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "The new trick looks sick. It stood out from everything else.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "Someone said the meal was salty. The sentence is meant literally.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "Her latest intro hits hard. My friends brought it up later.",
+    "slang_meaning": "impressive or intense",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "goat",
+    "sentence": "That singer is the goat. My friends brought it up later.",
+    "slang_meaning": "greatest of all time",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "This transition is sick. It became the highlight of the day.",
+    "slang_meaning": "excellent or impressive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "sick",
+    "sentence": "For the dictionary example, the word sick refers to the traveler. We checked it again later.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "The drip near the ceiling got worse. The detail mattered in context.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "hard",
+    "sentence": "The wood was hard. Someone wrote it in the report.",
+    "slang_meaning": "impressive or intense",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Green tea was placed near the teapot. No slang meaning was intended.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The recipe uses beef for the skewers. The teacher used it as a literal example.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "serving",
+    "sentence": "The waiter started serving lunch. The detail mattered in context.",
+    "slang_meaning": "projecting or giving off a strong vibe",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "she showed up with serious drip",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "cap",
+    "sentence": "that's cap",
+    "slang_meaning": "lie or exaggeration",
+    "label": 1,
+    "example_type": "slang",
+    "source": "seed_phrase"
+  },
+  {
+    "term": "chill",
+    "sentence": "The friend is chill. It got shared all morning.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "chill",
+    "sentence": "Everyone said the roommate was chill. It became the highlight of the day.",
+    "slang_meaning": "relaxed or easygoing",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "Paint will drip from the pipe. The sentence describes a real object.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "fire",
+    "sentence": "The fire department checked the kitchen. The teacher used it as a literal example.",
+    "slang_meaning": "excellent or impressive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "We need an extra ticket. The sentence describes a real object.",
+    "slang_meaning": "over the top or excessive",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "That decor was extra. Everyone reacted at once.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "fit",
+    "sentence": "During the lesson, the word fit refers to the shoe. No slang meaning was intended.",
+    "slang_meaning": "outfit",
+    "label": 0,
+    "example_type": "near_miss",
+    "source": "template"
+  },
+  {
+    "term": "drip",
+    "sentence": "That wardrobe adds drip. My friends brought it up later.",
+    "slang_meaning": "stylish clothing or appearance",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "The movie had a ghost in it. We checked it again later.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "We cooked burger with beef. The detail mattered in context.",
+    "slang_meaning": "conflict or argument",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "I drank tea from the kettle. The detail mattered in context.",
+    "slang_meaning": "gossip",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "tea",
+    "sentence": "Spill the tea from the thread. It became the highlight of the day.",
+    "slang_meaning": "gossip",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "Someone said the sauce was salty. The teacher used it as a literal example.",
+    "slang_meaning": "bitter or upset",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "flex",
+    "sentence": "Posting the promotion felt like a flex. It stood out from everything else.",
+    "slang_meaning": "show off",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "slayed",
+    "sentence": "The legend says she slayed the monster. We checked it again later.",
+    "slang_meaning": "did very well",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  },
+  {
+    "term": "extra",
+    "sentence": "His comment felt extra. Everyone reacted at once.",
+    "slang_meaning": "over the top or excessive",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "salty",
+    "sentence": "The player got salty fast. Everyone reacted at once.",
+    "slang_meaning": "bitter or upset",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "beef",
+    "sentence": "The creator started beef online. People kept replaying it.",
+    "slang_meaning": "conflict or argument",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "ghost",
+    "sentence": "She got ghosted by the date. It stood out from everything else.",
+    "slang_meaning": "suddenly ignore someone",
+    "label": 1,
+    "example_type": "slang",
+    "source": "template"
+  },
+  {
+    "term": "legit",
+    "sentence": "We verified the document is legit. The sentence describes a real object.",
+    "slang_meaning": "excellent, real, or credible depending on context",
+    "label": 0,
+    "example_type": "literal",
+    "source": "template"
+  }
+]

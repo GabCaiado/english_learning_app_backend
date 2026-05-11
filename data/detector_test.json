@@ -1,0 +1,4812 @@
+[
+  {
+    "text": "It’s important to stay hydrated throughout the day.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "We should totally link up this weekend.",
+    "is_slang": true,
+    "confidence": 0.71
+  },
+  {
+    "text": "Let’s meet at the cafe for coffee later.",
+    "is_slang": false,
+    "confidence": 0.2
+  },
+  {
+    "text": "The children played nicely in the playground.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "The cake was delicious and beautifully decorated.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I feel like this will blow up soon.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "The lecture was informative and engaging.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "My favorite color is blue, it's so calming.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "This movie is a whole vibe!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I totally vibe with that song.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "She is an excellent artist with a unique style.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "He decided to pursue a career in music after college.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "He is looking forward to his birthday party this weekend.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Can you believe they're going to build a new bridge here?",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "Please pass me the salt and pepper.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "He plans to go to college next year.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "Can you believe how bright the stars are tonight?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "Stop being so extra about it.",
+    "is_slang": true,
+    "confidence": 0.81
+  },
+  {
+    "text": "I need to buy more coffee for the office.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I believe this word is not slang at all.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "This show is giving me all the feels.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "We should plan a trip to the mountains soon.",
+    "is_slang": false,
+    "confidence": 0.01
+  },
+  {
+    "text": "My new phone is bussin, I love it!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "This movie is straight fire, you have to watch it!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "No cap, that was the best concert I've ever been to.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "My favorite color is blue, it’s so calming.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I can't wait to vibe with you this weekend.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I think she was trying to throw shade at me.",
+    "is_slang": true,
+    "confidence": 0.78
+  },
+  {
+    "text": "They are planning a surprise party.",
+    "is_slang": false,
+    "confidence": 0.02
+  },
+  {
+    "text": "He's the GOAT; there’s no one better than him.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I want to try that new cafe downtown.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "The project deadline is next week.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "She called her friend to discuss the plan.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "He is my brother and best friend.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "The fire in the fireplace was quite comforting.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "It’s a whole mood walking through that city.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Please pass me the salt and pepper.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I’m just going to focus on my studies this semester.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "This meme is so relatable, I'm dying over here!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "This playlist is giving me all the feels right now.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "That painting is truly a work of art.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The weather today is quite pleasant.",
+    "is_slang": false,
+    "confidence": 0.69
+  },
+  {
+    "text": "I enjoy listening to various genres of music.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "He said he is going to watch a movie later.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "My brother is coming over later to watch a movie.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Wanna grab some ice cream later?",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "He always dresses very well for the occasion.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "This concert is going to be lit, can't wait!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "It is indeed a lovely day outside.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "The cake looks delicious and smells great.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I enjoy reading books in my free time.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I'm going to the gym after work; need to stay fit.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "She is having a glow-up after summer break.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "You know I keep it 100 with my friends.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "Let’s make sure we arrive on time for the meeting.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "She’s going to spill the tea on everything that happened.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "The team worked hard to achieve their goals.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "That was such a vibe during the dinner.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Bro, did you see that game last night?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "We're gonna hit the beach later.",
+    "is_slang": true,
+    "confidence": 0.96
+  },
+  {
+    "text": "I really enjoy reading books during my free time.",
+    "is_slang": false,
+    "confidence": 0.89
+  },
+  {
+    "text": "This party is lit and everyone is having a great time!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Don't worry, I’m just messing with you.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "Dinner was delicious and well-prepared.",
+    "is_slang": false,
+    "confidence": 0.11
+  },
+  {
+    "text": "The food at that restaurant is bussin!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "He believes that learning is a lifelong process.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I really wanna go to that concert this weekend.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "That outfit is giving me major drip vibes.",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "I'm gonna grab some food later.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "She slayed that performance, no doubt!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "It was a surprisingly warm day in October.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "The movie was great, I highly recommend it.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I need to organize my desk this weekend.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The weather is nice today for a picnic.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "That's such a good idea, I really want to try it.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "This coffee is better than I expected.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I'm definitely gonna head to the store later.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "The fire alarm went off unexpectedly.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "That test was a piece of cake, I finished early.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Can you help me with my homework later?",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I'm here for you, no matter what happens.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "Coffee helps me start my day on the right note.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I hope to travel more next year.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "The food was good, but I've had better.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Stop playing; you know that was a terrible idea!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "It seems like a waste of time to complain about that issue.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I'm looking forward to the concert next week.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "That food was bussin, I’m definitely coming back!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Lowkey, I'm a little nervous about the interview tomorrow.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "Woke up feeling blessed today.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "The view from the top of the mountain was breathtaking.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Taking a walk helps clear my mind.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Just keep it 100 with me, man.",
+    "is_slang": true,
+    "confidence": 0.81
+  },
+  {
+    "text": "Her performance was remarkable; she should get an award.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "We should plan a family gathering for the holidays.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "That movie had me shook the entire time.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The presentation was quite impressive, and it covered all the key points.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Honestly, I'm just trying to chill and enjoy my weekend.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "Her style is so on point!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "That outfit is giving me major slay vibes.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "Please make sure you finish your homework before playing games.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I enjoy reading classic literature in my free time.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "That outfit is a whole vibe!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "That party last night was so lit, I had the best time!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "My favorite color is blue.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "My brother is cooking dinner tonight.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "She is going to the concert with us.",
+    "is_slang": false,
+    "confidence": 0.15
+  },
+  {
+    "text": "I was shook when I heard the news.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "She's really in her bag with that new project.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I'll be going to the store in a bit.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "He is going to visit his grandparents this summer.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I'm gonna grab some food after work.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "Reading is a great way to relax after a long day.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I’m gonna grab some food later.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "My brother is coming over for dinner tonight.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "It's important to stay hydrated.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "He is my bro from college, we hang out often.",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "This math problem seems a bit tricky to solve.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "He's my bro, we hang out all the time.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I will take the opportunity to enhance my skills.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "After class, I'm going to grab lunch with some friends.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "You gotta check out this new café, it's super chill.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I like to play soccer on weekends.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I will call you back in a few minutes.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "He offered his assistance with the calculations.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I feel like we should vibe more with each other.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I can't believe how fire that song was!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "Reading books can provide great knowledge and insight.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "This exercise is really beneficial for health.",
+    "is_slang": false,
+    "confidence": 0.71
+  },
+  {
+    "text": "The flowers are starting to bloom beautifully this spring.",
+    "is_slang": false,
+    "confidence": 0.03
+  },
+  {
+    "text": "It's nice to want things, but sometimes patience is key.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Bro, did you see the game last night?",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "The light in this room is very bright.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That meme was too funny, I can't even!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "The weather is perfect for a day outside.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "Sheena slayed that performance last night!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I'm gonna hit the gym later.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm totally gonna ace this exam!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I just got my nails done, they look so cute!",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "I prefer to plan things ahead of time.",
+    "is_slang": false,
+    "confidence": 0.76
+  },
+  {
+    "text": "The sun is setting beautifully over the horizon.",
+    "is_slang": false,
+    "confidence": 0.02
+  },
+  {
+    "text": "Bro, I'm gonna be late for the meeting.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "She loves to paint during her leisure time.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "Please pass the salt after dinner.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "The fire alarm went off, but it was a false alarm.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "They're just sending it on this road trip, it’s gonna be epic!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I appreciate your help with this project.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I love to cook and try new recipes.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "She did a great job on her presentation yesterday.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "The weather is really nice today.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "She gave me a heads up about the meeting.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "This book really captures the essence of friendship.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "She ghosted me after our last date.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "He thinks he's all that and a bag of chips.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "We need to go grocery shopping this weekend.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "They are considering a new design for the website.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I need to catch some Z's before class.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I usually drink coffee in the morning to wake up.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "We should totally hang out and catch the vibe.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "I wanna grab some food after this.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I can't even with this drama; it's too much.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I am going to the store to buy some groceries.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "We should organize a picnic in the park.",
+    "is_slang": false,
+    "confidence": 0.86
+  },
+  {
+    "text": "The weather is really nice today.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I enjoy going for jogs in the mornings.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I appreciate your help with this task.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Her smile brightens up the room.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I heard that track is lit, can’t wait to listen!",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "Bro, did you see that game last night?",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Shakespeare's plays are still studied today.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "They are very kind and welcoming to newcomers.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "No cap, I think this is one of the best books I've read.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "No cap, I think this is the best pizza in town.",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "I'm going to the market later for groceries.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Going for a jog is good for your health.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I need to check my email for any updates.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "We will meet at the conference tomorrow.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "She just slayed that performance on stage.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "He is a thoughtful person.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "He plans to travel abroad next summer.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The weather is really nice today, isn't it?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I appreciate your support and collaboration.",
+    "is_slang": false,
+    "confidence": 0.05
+  },
+  {
+    "text": "The weather has been quite nice lately.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I appreciate your honesty and willingness to help.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "Yesterday was a real rollercoaster, but I survived.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I lowkey want to go on a road trip this weekend.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "He is my brother and I love him.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I am going to the gym later.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I'm truly grateful for your support.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "This painting definitely has a calming effect.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "That was a whole mood!",
+    "is_slang": true,
+    "confidence": 0.79
+  },
+  {
+    "text": "Her outfit was straight fire, I need fashion tips from her.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He's always been supportive of my goals, just like a brother should be.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "No cap, that was the best pizza I've ever had.",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "That song is an absolute bop, I can't stop listening.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "Can you believe how quickly she's been progressing in her studies?",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I'm looking forward to the holiday season.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That outfit really gives off some good vibes.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I enjoy spending time with family on weekends.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "My father works at a local bakery.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "The presentation went very well yesterday.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "Can you help me with this math problem?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "They’re out here making moves in the industry.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "The movie was fire; I can't recommend it enough!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "It's essential to maintain a healthy work-life balance.",
+    "is_slang": false,
+    "confidence": 0.87
+  },
+  {
+    "text": "That movie was fire, you have to see it!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "Honestly, I couldn’t care less about that.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "Going out for dinner tonight with some friends.",
+    "is_slang": false,
+    "confidence": 0.86
+  },
+  {
+    "text": "I appreciate your help with this project.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "On God, this food is amazing!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "The sunset was absolutely beautiful, like fire in the sky.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "The weather report predicts rain for tomorrow.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "Bro, you have to check out this new game!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I plan on going to the store later today.",
+    "is_slang": false,
+    "confidence": 0.05
+  },
+  {
+    "text": "I can't believe how fire that song is!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "It was such a vibe to hang out together.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Just trying to find my tribe, you know?",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I got a promotion at work, and I'm thrilled!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I really want to see that new movie soon.",
+    "is_slang": false,
+    "confidence": 0.83
+  },
+  {
+    "text": "She totally slayed her performance on stage.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I’m feeling a bit sus about his intentions.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I felt that on a spiritual level.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "She has a unique sense of style that I admire.",
+    "is_slang": false,
+    "confidence": 0.12
+  },
+  {
+    "text": "I'm going to start my workout routine this week.",
+    "is_slang": false,
+    "confidence": 0.2
+  },
+  {
+    "text": "That party was so lit last night!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I'm gonna grab some food later.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I can’t even with all this drama, it’s wild.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He told me to be careful on the road.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "It’s a beautiful day outside.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "We are just gonna chill at home tonight.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "Honestly, that was a savage move.",
+    "is_slang": true,
+    "confidence": 0.76
+  },
+  {
+    "text": "Could you please pass the salt?",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I really enjoy learning new languages.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "That song is fire, I couldn't stop dancing!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "I will get back to you on that matter tomorrow.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "The meeting went really well and we covered a lot.",
+    "is_slang": false,
+    "confidence": 0.06
+  },
+  {
+    "text": "The research paper needs to be revised and edited.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "My friend is baked; he made some cookies.",
+    "is_slang": false,
+    "confidence": 0.7
+  },
+  {
+    "text": "Could you help me with my homework?",
+    "is_slang": false,
+    "confidence": 0.2
+  },
+  {
+    "text": "I think we should discuss this at the meeting.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "This light is too bright for my eyes.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "The weather is dope today!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "That new restaurant is bussin, you have to try it!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "She said she was going to call me later.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "We should totally hang out sometime soon!",
+    "is_slang": false,
+    "confidence": 0.2
+  },
+  {
+    "text": "She offered her assistance to everyone in class.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "He was excited to attend the concert next week.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "They are planning to renovate the house soon.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I'm really vibing with this new song.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I like to cook new recipes on the weekends.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "She really slayed that performance!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "The fire in the fireplace is very cozy.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I'm just trying to vibe with my friends at the beach.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "Her outfit was just slaying the fashion game.",
+    "is_slang": true,
+    "confidence": 1.0
+  },
+  {
+    "text": "We need to leave for the airport soon.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I'm going to start reading more books this month.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "This book is quite interesting and informative.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "She enjoys painting and drawing in her free time.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "We're going to discuss important topics in today’s session.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "You wanna grab some food later?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I need to make a phone call to my brother.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "The book was fascinating, well worth the read.",
+    "is_slang": false,
+    "confidence": 0.12
+  },
+  {
+    "text": "He always helps his neighbors during emergencies.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Reading is a great way to relax.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "It's going to rain tomorrow, so take an umbrella.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "We were just chilling at the crib all day.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The weather is really nice today, isn't it?",
+    "is_slang": false,
+    "confidence": 0.89
+  },
+  {
+    "text": "I am going to the store to buy groceries.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Reading helps improve my vocabulary significantly.",
+    "is_slang": false,
+    "confidence": 0.89
+  },
+  {
+    "text": "We are going to the movies this weekend.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "No doubt, that new café serves the best pastries in town.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "You know he's always flexing his new car, right?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The movie was quite captivating and intense.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I’m looking forward to the upcoming holiday.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Stop being so salty about the game last night.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I hope to see you at the event next week.",
+    "is_slang": false,
+    "confidence": 0.02
+  },
+  {
+    "text": "Can you believe the weather has been so unpredictable lately?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I find it fascinating how technology evolves.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The museum has an amazing collection of art.",
+    "is_slang": false,
+    "confidence": 0.02
+  },
+  {
+    "text": "It was a warm day at the beach.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "She enjoys classical music.",
+    "is_slang": false,
+    "confidence": 0.01
+  },
+  {
+    "text": "Let's discuss the plan during our next meeting.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "The fire in the fireplace is so warm.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "The book details the history of the city.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I need to go to the grocery store later today.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I can't believe he said that, he must be joking, right? Lowkey didn't expect that.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I always feel hyped when I see my friends.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I’m just here to catch some rays.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "Our meeting was very productive today.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I was just chillin' when she called.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "The movie was quite entertaining and well-made.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "That outfit is straight fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I enjoy reading a good novel during my free time.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "Let's go to the movies this weekend.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "She is my bro and I trust him completely.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "We need to focus on our goals for this project.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "She has a lovely smile that lights up the room.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "She is studying to become a doctor one day.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I'm feeling lowkey tired after that long day.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "I have to clean my room this weekend.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I am going to the store later today.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Her outfit is so fire; she looks amazing!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "This meeting is going to be a drag, fr.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I'm vibing with these tunes right now.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The presentation went very well today.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I'm lowkey excited for the weekend.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "That dress is totally slay material.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Reading is a valuable way to gain knowledge.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Let’s bounce, this place is boring.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "This party is lit and everyone is having a great time!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "That movie was straight fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I appreciate the effort you put into this presentation.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "My brother is coming to visit this weekend.",
+    "is_slang": false,
+    "confidence": 0.01
+  },
+  {
+    "text": "I’m excited to learn more about that topic in our next lecture.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I'm in my feels about this song.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "This pizza is bussin, you have to try it!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "We were vibing all night at the concert.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "It’s important to stay hydrated throughout the day.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I’m feeling lowkey excited about the concert.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "This party is so lit, everyone is having a great time!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I’m dead from laughing so hard!",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "Wanna hang out later?",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "It was a lovely day spent with family at the beach.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "This book provides insights into human behavior.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "She practices piano for an hour every day.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I enjoy reading books in my free time.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "Lowkey, I think I'm falling in love with this song.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I want to improve my grades this semester.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I look forward to seeing you soon.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "This trend is so over, I can't even.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "I hope to travel to new places soon.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I'm not feeling too great about my exam results; they could be better.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "The party last night was so lit, everyone had a blast!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "It was an enlightening discussion about philosophy.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "My brother is visiting from out of town this weekend.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "Honestly, no cap, I think we should leave now.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I want to explore new places and cultures.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "That meal was bussin, I can't even describe how good it was!",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I will be going to the store after class.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I want to grab some coffee after class if you’re free.",
+    "is_slang": false,
+    "confidence": 0.87
+  },
+  {
+    "text": "He prefers tea over coffee every morning.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Her outfit was straight fire!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "It's nice to see everyone getting along so well.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Can you believe how fast the trees are growing?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "It's great to see you after such a long time.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "My brother is coming over later to hang out.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "We’re just gonna hang out for a bit.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "That joke was so sus, I can't even!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "He likes to read books in his spare time.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "That new song is fire!",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "What are your plans for the rest of the week?",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I will go to the store to pick up some groceries.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "She always stays on fleek with her makeup.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "He really hit different with that performance.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "This documentary provided a lot of insight into the issue.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I was planning to watch a documentary tonight.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "The weather looks nice today.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "That outfit looks so snatched on her.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "This dish is bussin, I want the recipe!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "He's always flexing his new car.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "She is very talented at painting and drawing.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "That party last night was so lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "That’s a whole mood right there.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Let’s go for a drive to enjoy the scenery.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Finding a balance between work and life is essential.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "She really slayed her performance last night.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "The cake I baked turned out really well; everyone loved it.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "It's great to see you again after so long!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "He's my brother; we do everything together.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "I always enjoy a good cup of tea in the evening.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "Your feedback is valuable to the success of this project.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I enjoyed the light breeze while sitting outside.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "That meme is so relatable, it’s insane!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I need to finish my assignment by tomorrow.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "This light is too bright for my eyes.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "This party is so lit right now!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Stop acting like a bro and just help me out!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "He seems really chill about the whole thing.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "They keep it real, always speaking no cap.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "We should totally hang out later and catch a vibe.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "It’s important to stay hydrated throughout the day.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "No cap, I think he's the best player on the team.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I need to finish my homework before dinner.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm feeling the vibe tonight, it's gonna be epic!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Please light the fireplace for warmth.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I will be attending the meeting at noon tomorrow.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I appreciate your help with this project.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I love going to the beach during the summer.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I am going to finish my homework tonight.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Do you have any plans for the holidays?",
+    "is_slang": false,
+    "confidence": 0.82
+  },
+  {
+    "text": "I wanna go to that new cafe.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "I really feel you on that, it's true.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I feel that the report is due on Friday.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I like to finish my homework before dinner.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I can't wait to slay this presentation.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "That movie was a whole vibe, I loved it!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "She enjoys painting landscapes in her free time.",
+    "is_slang": false,
+    "confidence": 0.01
+  },
+  {
+    "text": "I see you out here doing big things.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "The coffee shop is busy on the weekends.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "I think we should vibe at the beach this weekend.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "She totally slayed at the concert last night.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "I would like to join the book club.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "You're gonna love this new game; it's so much fun!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I would like a cup of coffee, please.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "That cat seems to be really playful today.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "Have you finished your homework yet?",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "Today is a perfect day for a walk in the park.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "The team worked hard to finish the project.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "Can you help me carry these boxes, brother?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "That light was too bright for my eyes.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "Bro, did you see that epic goal in the match?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He’s always down to clown at the parties.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I'm gonna grab a bite to eat before the movie.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "No cap, that was the best concert ever!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I appreciate your help with the presentation.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "It is always good to be polite to others.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Going to the store is not a big deal.",
+    "is_slang": false,
+    "confidence": 0.05
+  },
+  {
+    "text": "I enjoy reading historical novels in my free time.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "We should definitely discuss this in detail.",
+    "is_slang": false,
+    "confidence": 0.04
+  },
+  {
+    "text": "They went off on that dance floor!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "I need to prepare for my meeting tomorrow morning.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Can you believe how fire that movie was?",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Let’s catch up over coffee sometime.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "This project is going to take a while; I'm feeling a bit overwhelmed.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "She enjoys painting during her free time.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "She’s so extra sometimes, but it’s all in good fun.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "Cooking tonight sounds like a good idea.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "That new album is straight fire.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "The lecture provided valuable information to the students.",
+    "is_slang": false,
+    "confidence": 0.79
+  },
+  {
+    "text": "That movie was totally cringe-worthy.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "My favorite time of year is when the leaves change color.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "This furniture piece was handmade and quite exquisite.",
+    "is_slang": false,
+    "confidence": 0.05
+  },
+  {
+    "text": "It was a pleasant day, and we enjoyed a picnic.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "She just spills the tea on everything.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "This cake is delicious and very sweet.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I enjoy reading books by the lake.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "I really want to read that new book.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "It’s important to stay hydrated, especially in the heat.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That party last night was lit, everyone had a great time.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He is my brother, and I trust him completely.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I should probably start studying for exams.",
+    "is_slang": false,
+    "confidence": 0.84
+  },
+  {
+    "text": "I am planning to bake a cake for my friend's birthday.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "We need to respect everyone's opinion in the discussion.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I feel so comfortable in this environment.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "The bag is on the table.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "She has a nice personality and is very friendly.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "That outfit is giving me major slay vibes!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I plan to visit my grandmother this weekend.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I’m gonna grab some food, wanna come?",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "He's my brother from another mother.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "My brother is coming over later to help with the project.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Let's bounce; this place is getting boring.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "She enjoys gardening in her free time.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "My brother is very talented in music.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I found my keys under the sofa.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I can't even right now; this is too good!",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "No lie, that was one of the best concerts ever.",
+    "is_slang": true,
+    "confidence": 0.76
+  },
+  {
+    "text": "She’s flexing on everyone with her new car.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "That outfit is so on point, queen!",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "I wanna go out for ice cream later.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I feel lowkey tired after that workout.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I am going to visit my brother this weekend.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I lowkey want to go see that movie again.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "We can definitely make this a fun experience!",
+    "is_slang": false,
+    "confidence": 0.03
+  },
+  {
+    "text": "I am going to take a nap after lunch.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Can you pass me the light?",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "We should have a picnic in the park this Saturday.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "You really slayed that performance!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "He’s flexing his new car way too hard.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "He was happy to receive the good news.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "Last night was so lit, we had the best time ever!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I'm really tired; I stayed up too late last night.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm really going to miss you when you leave.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "The landscape is incredibly beautiful.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "Please pass the salt, it's right there on the table.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "I need to want to finish this project by tomorrow.",
+    "is_slang": false,
+    "confidence": 0.05
+  },
+  {
+    "text": "Her outfit was totally slaying tonight, she looked amazing!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "She enjoys listening to classical music on quiet evenings.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "She enjoys painting landscapes during the weekends.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The team really worked hard to complete the project.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "She often volunteers at the community center.",
+    "is_slang": false,
+    "confidence": 0.02
+  },
+  {
+    "text": "She has a great sense of style and fashion.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I think I will take a break this weekend.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "This painting is very interesting indeed.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I don't have time for any drama right now.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "That song hits different when you're with friends.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "He always knows how to slay the presentation.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "Why you always trippin'?",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "Can you please turn down the volume on the TV?",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "My brother is coming over for dinner tonight.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I enjoy reading books in my spare time.",
+    "is_slang": false,
+    "confidence": 0.07
+  },
+  {
+    "text": "Bro, did you see that game last night?",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "It was a savage move to call him out like that.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "No cap, I really think this is the best movie of the year!",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "This pasta dish is very light and tasty.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I really like the way this painting looks.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "He said the movie was trash, lowkey I agree.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "I appreciate your support and guidance.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "This book has been on my reading list for ages.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I can’t believe the game ended with a 3-pointer at the buzzer!",
+    "is_slang": true,
+    "confidence": 0.76
+  },
+  {
+    "text": "There is a lot of traffic on the way home.",
+    "is_slang": false,
+    "confidence": 0.11
+  },
+  {
+    "text": "He is studying for his exams next month.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The kids were playing outside in the sun.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I'm feeling a bit off today, but I'm lowkey okay.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I just got back from a fire workout session.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I vibe with the new music from that artist.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "He is such a mood!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "My brother is coming to visit this weekend.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Dude, that movie was fire!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "I'm gonna grab some food before the game.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I just want to vibe with my friends today.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I would like to know if you're interested in collaborating on this project.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I need to finish my assignments before the deadline.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "Lowkey, I think this is the best song ever.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I need to check my email for important updates.",
+    "is_slang": false,
+    "confidence": 0.89
+  },
+  {
+    "text": "I need to go grocery shopping later today.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "Just take it easy and chill, okay?",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "He’s such a bro, always having my back.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I can't believe they are going to cancel the event.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I really enjoy reading historical novels in my free time.",
+    "is_slang": false,
+    "confidence": 0.06
+  },
+  {
+    "text": "Can we not be extra for once?",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "She is learning how to play the piano.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I want to go hiking this weekend if the weather is nice.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I appreciate your help with the project.",
+    "is_slang": false,
+    "confidence": 0.02
+  },
+  {
+    "text": "We should organize a charity event for the community.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "That was a whole vibe, I could feel it.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "Honestly, that was a total vibe kill.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "The meeting has been scheduled for next Friday.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "It's important to stay hydrated throughout the day.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "He's just a chill bro; you’ll love hanging out with him.",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "The weather is nice today; it's perfect for a walk.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "We were just chillin' at the park.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "I am going to the store to buy some groceries.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I’m feeling kinda salty about missing the concert.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Going to the movies sounds fun next weekend.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "He flexed his new car on social media.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "He likes to play basketball during the evenings.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "She is always slaying her performances.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "She wants to watch a movie this evening.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I’m just gonna stay in and chill.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I think that solution is quite effective.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "He was happy to receive the good news.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "The club was hella packed last night.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I'm really gonna ace this exam, no cap.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "We will finish the project together.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I think I'll go for a run later.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "Can't wait for the weekend to be here; it's gonna be awesome!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "He’s going to give a presentation next week.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I'm feeling a bit sus about his intentions.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "We will have a meeting to discuss the project.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "Can you help me with my project this evening?",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "Can you believe he ghosted me?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "The presentation went smoothly and everyone was impressed.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "The cat is climbing the tree outside.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That party last night was so lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Could you please close the window? It's cold.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "He went to the store to buy some groceries.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I’m gonna hit the gym after work.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I went for a long walk in the park yesterday.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "The sky is blue and the sun is shining today.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "This song is bussin, I'm obsessed!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I'm just vibing with my friends today.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The concert was fire, I couldn't believe it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I’m just vibing after a long week at work.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "She said she’s tired of all the drama, just keeping it 100.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "This song hits different, it’s straight fire!",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I’m thinking about going to the beach tomorrow.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "The new law aims to reduce pollution in the city.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "This party is going to be lit tonight!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I will be attending the meeting on Thursday.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "I want to finish this book by the end of the week.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The cake had a wonderful flavor and texture.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "He keeps saying he wants to travel, but he never plans it out.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "The dinner party was very enjoyable and classy.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "He has a unique way of expressing his ideas.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "He thinks that his ideas are the best.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I need to write a report for work tomorrow.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "That dress looks absolutely stunning on you!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "My sister is learning to play the guitar.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "There’s no need to worry about the exam.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I am excited about the upcoming holiday.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Honestly, I just want to vibe and not think about anything.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I am going to the gym after work.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "He's so extra with his outfit today.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "This new game is straight fire; you need to play it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "My brother is coming over for dinner.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "He always vibes well with everyone at the club.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "He’s being such a drama queen about it.",
+    "is_slang": true,
+    "confidence": 0.81
+  },
+  {
+    "text": "I would like to visit Europe next year.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I like to cook healthy meals for my family.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The weather is so nice today, I’m feeling great!",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "He totally slayed that performance!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I feel like we made significant progress on this task.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That fire was intense, we need to be careful around it.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "I like to cook dinner for my family on the weekends.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I plan to finish my project before the deadline next week.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "This chair is very comfortable and sturdy.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "She’s really into some lowkey hobbies.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "She always helps me when I need it the most.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "That food truck is on fire right now.",
+    "is_slang": true,
+    "confidence": 0.78
+  },
+  {
+    "text": "Her dress was stunning at the event.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I was just playing around, I don’t actually think it’s that bad.",
+    "is_slang": false,
+    "confidence": 0.7
+  },
+  {
+    "text": "I finished my homework before dinner today.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "The dessert was delicious and beautifully presented.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Can you help me with my homework?",
+    "is_slang": false,
+    "confidence": 0.01
+  },
+  {
+    "text": "The view from the top of the hill was breathtaking.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Let’s meet at the coffee shop around noon.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I'm gonna grab some food later.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I'm feeling lowkey tired after that workout.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "She enjoys painting in her spare time.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I have an interview tomorrow, wish me luck.",
+    "is_slang": false,
+    "confidence": 0.21
+  },
+  {
+    "text": "I hope the weather stays nice for the event.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I enjoy reading books in my spare time.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Bro, did you hear the new album? It's amazing!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "He prefers to listen to classical music when studying.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I am preparing for my presentation tomorrow.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "My brother is coming to visit this weekend.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I’m just tryna vibe with my friends.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "She is studying for her final exams diligently.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "She is going to visit her family this weekend.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "The lecture was informative, and I learned a lot.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That song is a whole vibe, I can't stop playing it.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "It was great to see everyone at the family gathering.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I am feeling very optimistic about the future after this meeting.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That was a major fail, but I'm not stressed about it.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm planning to clean my room this weekend.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "The view from the mountain was breathtaking.",
+    "is_slang": false,
+    "confidence": 0.09
+  },
+  {
+    "text": "Your brother always knows how to make us laugh.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "My friends and I are going hiking this weekend.",
+    "is_slang": false,
+    "confidence": 0.73
+  },
+  {
+    "text": "This weekend is going to be dope!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "The cake was delicious and beautifully made.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "Are you interested in joining the club?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I'm just gonna chill at home tonight.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "He loves to play video games on the weekends.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "Her artwork is admirable, and I truly appreciate her talent.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "She has a chill vibe that makes everyone comfortable.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "That was a sick trick you just pulled off!",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "This dish requires a few more ingredients than expected.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "I am going to the store later.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I am going to finish my homework tonight.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "This game is so dope, I can't stop playing!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "She's always slaying at her dance competitions!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "The concert last night was totally lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "The soccer match was thrilling to watch.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I would like to go to the beach this weekend.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "He is a very talented musician, indeed.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I hope you have a fantastic day ahead.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "That party was lit last night!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "It's essential to stay hydrated during summer.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "The kids are playing outside in the yard.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "He can run very fast, almost like a cheetah.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "He's got that drip; his style is on point.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I enjoy reading books in my free time.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "She works hard to achieve her goals.",
+    "is_slang": false,
+    "confidence": 0.73
+  },
+  {
+    "text": "I was just playing, no need to get salty.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "She was acting sus last night.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "Please take a seat and relax.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I called my friend to catch up on life.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "My favorite color is blue because it's calming.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I plan to finish my homework before dinner.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I am going to read a book before bed.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I think this song is a bop.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He is going to take that trip next month.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Everything is gonna be okay, trust me.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I simply want to enjoy this moment.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "That new song is straight fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "This party is so lit right now!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I found the math problem challenging.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "Girl, that dress is so cute, you slay!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "Time flies when you're having fun!",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "She's looking fine tonight!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "This place is always a vibe on weekends.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "They always enjoy exploring new places together.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "That dish was bussin, I could eat it every day!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "She always brings the good vibes to the group.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I hope you have a great day at work!",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "Bro, did you see the game last night? It was intense!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "After dinner, we’ll watch a movie together.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That was super cool, I'm not gonna lie.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "She's slaying that outfit; it looks amazing on her!",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "Bro, did you see that game last night?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I can't believe how savage he was in the meeting.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "It's important to stay hydrated.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I will go to the store and pick up some groceries.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "We decided to take a scenic route home.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "He stopped by the store on his way home.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "We need to catch some good vibes today.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "The fire in the fireplace is warm and cozy.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "She really slayed that performance!",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "He's acting way too extra at the party.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "That was a great performance by the team.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I would like to have a cup of coffee, please.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I really want to go to the concert this weekend.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "She slayed that performance last night!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "Chilling at home with my family is my favorite way to spend the weekend.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "He apologized for being late to the meeting.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "Can you tell me the time of the event?",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "The dog is playing in the backyard right now.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Time flies when you're having fun with friends.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I’m going to finish my homework later.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "They always come through with the best snacks at movie night.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I'm planning a family trip to the mountains next month.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "This chair is quite comfortable for reading.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "It’s crucial to have reliable information.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "Let's discuss our plans for the project tomorrow.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "You're such a queen for putting this together.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "Please let me know if you have any questions.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "They are having a great time at the concert.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "It's not easy being a sibling sometimes.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "He was acting mad weird at the party.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "I would like to know your opinion on this.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "Bro, you won't believe what happened!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "You really think you're the GOAT?",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "What time do you want to go to the museum?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That sauce has a fire flavor, I love it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I was vibing with my friends all day long.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "A peaceful environment is essential for good work.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "After that workout, I'm feeling lowkey dead.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I’m just here for the vibes.",
+    "is_slang": true,
+    "confidence": 0.79
+  },
+  {
+    "text": "He's not even my bro, just a dude from school.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I'm reading a captivating novel right now.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I can't believe he ghosted me!",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "I want to take a vacation next month.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I am going to the mall to shop.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "That party was so lit last night!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "That deal is straight-up fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He's flexing with that new car he bought.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "Fire can be dangerous if not handled properly.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "The weather is nice today; I think I'll go for a walk.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "The sunset tonight is beautiful.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "Lowkey, I think they should get back together.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "It's a warm fire to sit by on a chilly night.",
+    "is_slang": false,
+    "confidence": 0.05
+  },
+  {
+    "text": "That joke was totally dead, no one laughed.",
+    "is_slang": true,
+    "confidence": 0.74
+  },
+  {
+    "text": "Going to the park sounds like a good idea.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I’m just trying to vibe and enjoy the day.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "That joke was too much for me, I can’t breathe!",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "I'm planning a trip to the mountains next month.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "The movie was honestly a vibe.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Dude, that was savage!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "It's lit how everyone showed up to support the cause.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "I’m so done with this, it’s giving me bad vibes.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "The exhibit at the museum was very interesting.",
+    "is_slang": false,
+    "confidence": 0.2
+  },
+  {
+    "text": "They were flexing their new cars all night.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "He was acting like a total clown last night.",
+    "is_slang": true,
+    "confidence": 0.77
+  },
+  {
+    "text": "You should definitely check this place out, it's fire.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "We should definitely chill this weekend, no cap.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "We were just chillin' at my place last night.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I have a meeting scheduled for tomorrow morning.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "I love spending time with my family.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I lowkey think he likes her.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "The movie was very entertaining and well made.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "We should totally hit that new café; it’s a vibe!",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "No cap, I'm really excited for the weekend.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "The flowers in the garden are blooming beautifully.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "The fire in the fireplace is very cozy.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I’m planning to organize my closet this weekend.",
+    "is_slang": false,
+    "confidence": 0.84
+  },
+  {
+    "text": "Dude, that was so clutch!",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "This new song is fire!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "There's no need to worry, you got this!",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "That new song is totally bussin!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "He's just chillin' at home today.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "We are going to the mall later to hang out.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "Even though it was cold, we had a great time.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "You’re such a clown for that joke!",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "My friends are going for coffee after work.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "He is going to start a new job next week.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I'm feeling lowkey anxious about the exam tomorrow.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "Their new album is straight-up fire!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "Going to bed early is a good idea.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "She flexed her new shoes at school.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I enjoy reading books in my spare time.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Please turn in your assignments by Friday.",
+    "is_slang": false,
+    "confidence": 0.14
+  },
+  {
+    "text": "You’re really gonna like this new album.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "That’s a little sus; are you sure it’s safe?",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I think it’s important to stay healthy.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "This task requires our immediate attention.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "Can you recommend a good restaurant nearby?",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "They are planning a trip to the mountains next month.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "I really enjoyed that concert last night, it was amazing!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "This new restaurant is lit, you should check it out!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The weather is nice today, isn't it?",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "She always slays her performances.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "It’s a beautiful day outside for a hike.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Going for a walk is good for mental health.",
+    "is_slang": false,
+    "confidence": 0.72
+  },
+  {
+    "text": "That song is a whole vibe, I can't stop listening!",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "Everyone appreciates a good cup of coffee in the morning.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "She said she was gonna call me later.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "She is going to be an amazing artist in the future.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "This new game is totally bussin!",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "Let’s meet at the café on Main Street.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Do you want to join me for a run tomorrow?",
+    "is_slang": false,
+    "confidence": 0.82
+  },
+  {
+    "text": "I just wanna chill and hang out today.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I lit a candle to create a cozy atmosphere.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I was just tryna catch some vibes at the beach.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "I can't even with these memes, they're so funny!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "Let’s get this bread, folks!",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "This game is totally whack, no cap.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "She expressed her thoughts clearly during the meeting.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "After work, I usually relax at home with a book.",
+    "is_slang": false,
+    "confidence": 0.76
+  },
+  {
+    "text": "It's essential to stay hydrated during the summer.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "She’s always got the tea on everyone.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "We should organize a community event next month.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I’m feelin' kinda down, just need a good catch-up.",
+    "is_slang": true,
+    "confidence": 0.78
+  },
+  {
+    "text": "I'm feeling kinda lowkey about the whole situation.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "He is a very good friend and always supports me.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "She has a talent for painting beautiful landscapes.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "Please make sure to turn off the light before you leave.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I really want to improve my cooking skills.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "I'm not even kidding, this deal is fire!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "She wants to travel abroad next summer.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "It's a vibe when we're all together.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "She is really good at playing the piano.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "That party last night was so lit!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "She's just vibing at the park right now.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I like to enjoy a good book in my spare time.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I just wanna chill and relax this weekend.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "He is known for his exceptional cooking skills.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "The fire in the fireplace is so cozy.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I just found out my favorite show is getting renewed, no lie!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "It's important to stay healthy and active.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "You won't believe the tea I just heard!",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "This restaurant offers a variety of delicious dishes.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "You gotta try this food, it's bussin!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I will finish my homework before dinner.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I plan on going to the gym later.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "That movie was fire, I loved it!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "The fire in the fireplace is so cozy and warm.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "It's always nice to see you at the events.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "I can't wait to see what the future holds.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "The meeting was quite productive and informative.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "Could you pass me the salt, please?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I’m gonna chill at home this weekend.",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "This fabric feels really soft to the touch.",
+    "is_slang": false,
+    "confidence": 0.76
+  },
+  {
+    "text": "I’m feeling lowkey stressed about the exam.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "Man, I'm so hungry I could eat a horse right now.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "They say honesty is the best policy in any relationship.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "That movie was totally cringe, no one liked it.",
+    "is_slang": true,
+    "confidence": 0.86
+  },
+  {
+    "text": "I can't believe how much fun we had, it was fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "She’s always on fleek when it comes to fashion.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I look forward to our conversation next week.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "Can you please send me the report by Friday?",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "The weather is perfect for a picnic.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 1.0
+  },
+  {
+    "text": "I love listening to classical music.",
+    "is_slang": false,
+    "confidence": 0.94
+  },
+  {
+    "text": "I can't believe how quickly time has passed this year.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "He’s always flexing on his social media.",
+    "is_slang": true,
+    "confidence": 1.0
+  },
+  {
+    "text": "The weather forecast predicts sunshine tomorrow.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "The cake is baking in the oven right now.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "She really flexed on everyone with that outfit.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "They might join us for the movie tonight.",
+    "is_slang": false,
+    "confidence": 0.78
+  },
+  {
+    "text": "This weather is giving me fall vibes.",
+    "is_slang": true,
+    "confidence": 0.84
+  },
+  {
+    "text": "It was a lowkey gathering, just a few friends.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "That was a vibe, we should do it again next week.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "He thinks he's all that, but he's not.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "He really flexed his skills in that game.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I went for a long walk this morning.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I enjoy reading books, especially mysteries.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "This is a great opportunity for our growth.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "They offered great service at the restaurant.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "After school, I will study for my exams.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "It’s important to maintain a good work-life balance for overall well-being.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "That party last night was lit!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He is a reliable friend and always lends a hand.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "Her dress was stunning at the gala.",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "No cap, I'm serious about this deal.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "My brother is coming over for dinner tonight.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I have some errands to run before dinner.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "Her dress is beautiful, but it's just not my style.",
+    "is_slang": false,
+    "confidence": 0.72
+  },
+  {
+    "text": "The fire alarm went off because of someone's cooking.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I can't even with this drama right now.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "He totally ghosted me after the date.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I prefer tea over coffee in the morning.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "No cap, I think this is the best movie ever made.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "I can't believe we got all the tea on that drama!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "You're wild for thinking you can beat me!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "My favorite season is autumn because of the colors.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "That movie was a total vibe!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "She was looking fire in that outfit!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "You should definitely check out that new exhibit.",
+    "is_slang": false,
+    "confidence": 0.81
+  },
+  {
+    "text": "I’m feeling kinda down today.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "It's a whole vibe hanging out with you guys.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "The dog is barking at something outside.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I'm grateful for all the support I've received.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "We are going to the park for a picnic.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "I enjoy the light breeze on a sunny day.",
+    "is_slang": false,
+    "confidence": 1.0
+  },
+  {
+    "text": "She has a real knack for slaying her goals.",
+    "is_slang": true,
+    "confidence": 0.83
+  },
+  {
+    "text": "She really slayed that performance; it was amazing!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I want to learn how to play the guitar.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "He really slayed that performance!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "Don't worry, I got your back, bro!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "She really slayed that performance.",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "Are you going to finish that book soon?",
+    "is_slang": false,
+    "confidence": 0.76
+  },
+  {
+    "text": "The presentation was informative and well-structured.",
+    "is_slang": false,
+    "confidence": 0.89
+  },
+  {
+    "text": "Can you please pass me the salt?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "He's being extra with all that drama.",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "That’s a whole mood right there.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "Reading enhances knowledge and perspective.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "He's been acting kinda sus lately.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "You can't be serious with that outfit, bro.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "This party is lit, everyone is having a blast!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I just pulled an all-nighter, I feel dead.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "He’s totally a vibe at parties.",
+    "is_slang": true,
+    "confidence": 0.82
+  },
+  {
+    "text": "Can you please pass the salt?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "They had a great time at the amusement park.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "He enjoys painting landscapes in his free time.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "They are planning a family reunion later this summer.",
+    "is_slang": false,
+    "confidence": 0.1
+  },
+  {
+    "text": "Reading is a good way to relax after work.",
+    "is_slang": false,
+    "confidence": 0.19
+  },
+  {
+    "text": "This movie is a classic and worth watching.",
+    "is_slang": false,
+    "confidence": 0.93
+  },
+  {
+    "text": "I think I will go to the gym later.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "She always dresses very elegantly for events.",
+    "is_slang": false,
+    "confidence": 0.82
+  },
+  {
+    "text": "This cake is fire, I need the recipe!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I need to clean my room before guests arrive.",
+    "is_slang": false,
+    "confidence": 0.84
+  },
+  {
+    "text": "That joke was so funny, I can't stop laughing!",
+    "is_slang": false,
+    "confidence": 0.2
+  },
+  {
+    "text": "The new phone is bussin; it's got all the features you need.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "I need to talk to my friend about something important.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "You're acting kinda sus right now.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "We will have a meeting to discuss the project.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "This project is so fire, I'm really proud of it.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "My friend is a real one; she's always got my back.",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "This pizza is bussin; I can't get enough!",
+    "is_slang": true,
+    "confidence": 0.94
+  },
+  {
+    "text": "My favorite season is autumn when the leaves change color.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I enjoy spending time with my family on weekends.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I can't believe you ghosted her!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Yo, that outfit is straight fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "We should plan a trip for the summer.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "What’s your favorite color?",
+    "is_slang": false,
+    "confidence": 0.97
+  },
+  {
+    "text": "Can you please turn on the light?",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "You should totally slay that presentation tomorrow.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "It is essential to drink enough water daily.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I enjoy taking long walks in the park.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "Everything about that concert was lit!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "Let’s get this bread, fam!",
+    "is_slang": true,
+    "confidence": 0.79
+  },
+  {
+    "text": "They are totally bussin with those new shoes!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "She said she would call me later.",
+    "is_slang": false,
+    "confidence": 0.03
+  },
+  {
+    "text": "This meal is bussin, I can't get enough!",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "The book I read last week was very informative.",
+    "is_slang": false,
+    "confidence": 0.96
+  },
+  {
+    "text": "I'm just trying to catch some vibes at the beach.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "We should plan a trip to the mountains for some hiking.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "I prefer tea over coffee; it's my favorite drink.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "What time does the event start tonight?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "We will go to the store after lunch.",
+    "is_slang": false,
+    "confidence": 0.74
+  },
+  {
+    "text": "Going to the gym is part of my routine.",
+    "is_slang": false,
+    "confidence": 0.91
+  },
+  {
+    "text": "Going for a walk is a good way to relax.",
+    "is_slang": false,
+    "confidence": 0.0
+  },
+  {
+    "text": "I'm really vibing with this new song.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Let’s chill at the park this weekend.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "This music is giving me major feels.",
+    "is_slang": true,
+    "confidence": 0.87
+  },
+  {
+    "text": "She enjoys reading books during her free time.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "That was a major flex at the gym!",
+    "is_slang": true,
+    "confidence": 0.89
+  },
+  {
+    "text": "Art can be a powerful medium for expression and connection.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "The dog is sleeping peacefully in its bed right now.",
+    "is_slang": false,
+    "confidence": 0.99
+  },
+  {
+    "text": "I’m feeling super blessed today, fam.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "That was an incredible performance; I was amazed.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I appreciate your help with the project.",
+    "is_slang": false,
+    "confidence": 0.98
+  },
+  {
+    "text": "I’ve got this project on lock.",
+    "is_slang": true,
+    "confidence": 0.82
+  }
+]
