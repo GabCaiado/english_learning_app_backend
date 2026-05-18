@@ -5,6 +5,7 @@ from datetime import datetime, date
 class UserProfile(BaseModel):
     """Dados do perfil completo do usuario"""
     id: str
+    role: str = "user"
     username: Optional[str] = None
     full_name: Optional[str] = None
     avatar_url: Optional[str] = None

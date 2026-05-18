@@ -195,7 +195,7 @@ class TranslationPipeline:
         if " " in word_lower:
             tr_info = self.translate_sentence(word_lower)
             # Se a IA ou o dicionário confirmarem que é gíria, marcamos como tal
-            is_really_slang = is_really_slang or (len(tr_info["slangs_detected"]) > 0)
+            is_really_slang = is_really_slang or tr_info["is_slang_detected"]
             normalized = tr_info["normalized_english"]
             translation_pt = tr_info["translation_pt"]
             formality = "slang (detected)" if is_really_slang else "neutral"
@@ -278,7 +278,7 @@ class TranslationPipeline:
         
         # Embedding
         embedding = self.embeddings.generate(word_lower)
-        similar_words = [] # TODO: Busca vetorial
+        similar_words = []
         
         return WordAnalysis(
             original=word,
@@ -302,7 +302,9 @@ class TranslationPipeline:
         import re
         slangs_found = []
         blocked_ambiguous = []
-        is_slang_prob = self.slang_detector.predict_score(sentence)
+        pre_rewritten_sentence = self.slang_normalizer.apply_safety_rewrites(sentence)
+        sentence_for_detection = pre_rewritten_sentence if pre_rewritten_sentence != sentence else sentence
+        is_slang_prob = self.slang_detector.predict_score(sentence_for_detection)
         
         # 1. Extracao de Metadados com detecção flexível (capping, flexing, etc)
         all_slangs = sorted(self.dictionary.get_all_slangs(), key=len, reverse=True)
@@ -310,7 +312,7 @@ class TranslationPipeline:
         
         for slang in all_slangs:
             pattern = r'\b' + re.escape(slang) + r'(?:ing|ed|es|s|er)?\b'
-            matches = re.finditer(pattern, sentence, flags=re.IGNORECASE)
+            matches = re.finditer(pattern, sentence_for_detection, flags=re.IGNORECASE)
             
             for match in matches:
                 matched_text = match.group()
@@ -323,7 +325,7 @@ class TranslationPipeline:
                 if slang in AMBIGUOUS_SLANG:
                     context_decision = self.context_resolver.resolve(
                         term=slang,
-                        sentence=sentence,
+                        sentence=sentence_for_detection,
                         detector_score=is_slang_prob,
                         dictionary_has_entry=True,
                         slang_meaning=slang_info.meaning_en or slang_info.normalized,
@@ -350,31 +352,40 @@ class TranslationPipeline:
                             "end": match.end()
                         })
         
-        # 2. Normalizacao deterministica.
-        # FLAN no longer decides whether an ambiguous word is slang. Candidate
-        # slang spans must be confirmed by the sense resolver before replacement.
-        if len(slangs_found) > 0:
-            temp_sentence = sentence
+        normalization_source = "safety_rewrites"
+
+        use_sentence_model_first = os.getenv("USE_SENTENCE_NORMALIZER_FIRST", "").lower() in {"1", "true", "yes"}
+
+        # 2. Normalizacao. The sentence-model path is available as a promotion
+        # candidate, but remains behind a flag until the dynamic regression set
+        # proves it generalizes better than deterministic normalization.
+        if len(slangs_found) > 0 and use_sentence_model_first:
+            normalized_sentence, normalization_source = self.slang_normalizer.normalize_with_detected_spans(
+                sentence_for_detection,
+                slangs_found,
+            )
+        elif len(slangs_found) > 0:
+            temp_sentence = sentence_for_detection
             for s in sorted(slangs_found, key=lambda x: x["start"], reverse=True):
                 temp_sentence = temp_sentence[:s["start"]] + s["normalized"] + temp_sentence[s["end"]:]
-
-            # Known slang should be normalized deterministically. Sending this
-            # back through FLAN causes creative rewrites such as literal "tea"
-            # or "sick" being changed in neutral contexts.
             normalized_sentence = self.slang_normalizer.apply_safety_rewrites(temp_sentence)
+            normalization_source = "dictionary_fallback"
         else:
-            normalized_sentence = self.slang_normalizer.apply_safety_rewrites(sentence)
+            normalized_sentence = sentence_for_detection
+            normalization_source = "safety_rewrites" if normalized_sentence != sentence else "direct"
         
         # 3. Traducao
         translation = self.translator.translate(normalized_sentence)
+        normalized_changed = self._normalize_for_compare(normalized_sentence) != self._normalize_for_compare(sentence)
+        is_slang_detected = len(slangs_found) > 0 or normalized_changed
         
         contextual_translations = [{
-            "context": "Tradução Adaptada" if len(slangs_found) > 0 else "Tradução Direta",
+            "context": "Tradução Adaptada" if is_slang_detected else "Tradução Direta",
             "meaning": translation,
-            "example": normalized_sentence if len(slangs_found) > 0 else sentence
+            "example": normalized_sentence if is_slang_detected else sentence
         }]
         
-        if len(slangs_found) > 0:
+        if is_slang_detected:
             literal_translation = self.translator.translate(sentence)
             if literal_translation.lower() != translation.lower():
                 contextual_translations.append({
@@ -386,11 +397,17 @@ class TranslationPipeline:
         return {
             "original": sentence,
             "slangs_detected": slangs_found,
+            "is_slang_detected": is_slang_detected,
             "blocked_ambiguous": [decision.__dict__ for decision in blocked_ambiguous],
+            "normalization_source": normalization_source,
             "normalized_english": normalized_sentence,
             "translation_pt": translation,
             "contextual_translations": contextual_translations
         }
+
+    @staticmethod
+    def _normalize_for_compare(text: str) -> str:
+        return " ".join((text or "").lower().strip(" .!?").split())
 
     def _sanitize_translation(self, text: str) -> str:
         """Remove trash and excessive politeness (Please) from the translator"""

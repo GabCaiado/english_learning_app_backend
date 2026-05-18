@@ -1,0 +1,415 @@
+[
+  {
+    "input": "she's so woke, always talking about equality.",
+    "target": "she's so aware of social and political issues, always talking about equality.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called him woke after he questioned the company's hiring practices.",
+    "target": "they called him politically aware after he questioned the company's hiring practices.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that movie is pretty woke and focuses on systemic racism.",
+    "target": "that movie is pretty politically aware and focuses on systemic racism.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "being woke means recognizing privilege and oppression.",
+    "target": "being politically aware means recognizing privilege and oppression.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't pretend to be woke just to get followers.",
+    "target": "don't pretend to be politically aware just to get followers.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "some influencers use woke language without understanding it.",
+    "target": "some influencers use politically aware language without understanding it.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a woke perspective helped shape the protest's demands.",
+    "target": "a politically aware perspective helped shape the protest's demands.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's described as woke, but he never shows up for meetings about diversity.",
+    "target": "he's described as politically aware, but he never shows up for meetings about diversity.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the company adopted a woke policy on gender pronouns.",
+    "target": "the company adopted a politically aware policy on gender pronouns.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she woke early to catch the sunrise.",
+    "target": "she woke early to catch the sunrise.",
+    "term": "woke",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i woke him up before five this morning.",
+    "target": "i woke him up before five this morning.",
+    "term": "woke",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she ate her solo at the concert.",
+    "target": "she performed her solo extremely well at the concert.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he ate that roast and left everyone speechless.",
+    "target": "he delivered that roast extremely well and left everyone speechless.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they ate the choreography in the latest video.",
+    "target": "they executed the choreography extremely well in the latest video.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Rihanna ate the red carpet in that gown.",
+    "target": "Rihanna looked incredible on the red carpet in that gown.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you ate that presentation and closed the deal.",
+    "target": "you delivered that presentation extremely well and closed the deal.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the band ate the encore last night.",
+    "target": "the band performed the encore extremely well last night.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she absolutely ate her makeup look for the shoot.",
+    "target": "she absolutely executed her makeup look extremely well for the shoot.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Mike ate his set at the open mic.",
+    "target": "Mike performed his set extremely well at the open mic.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that outfit? she ate.",
+    "target": "that outfit? she looked amazing.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i ate lunch at noon.",
+    "target": "i ate lunch at noon.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he ate the sandwich before class.",
+    "target": "he ate the sandwich before class.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we ate apples from the orchard.",
+    "target": "we ate apples from the orchard.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new track is bop",
+    "target": "this new track is an excellent song",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that single is bop",
+    "target": "that single is an excellent song",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i played that bop on repeat",
+    "target": "i played that excellent song on repeat",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that album is bop",
+    "target": "that album is excellent",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "put on that bop",
+    "target": "put on that excellent song",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that bop has been stuck in my head",
+    "target": "that great song has been stuck in my head",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this is the bop of the summer",
+    "target": "this is the song of the summer",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she wrote a bop last year",
+    "target": "she wrote a hit song last year",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those are bops",
+    "target": "those are excellent songs",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the baby gave the toy a gentle bop",
+    "target": "the baby gave the toy a gentle bop",
+    "term": "bop",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bop is a style of jazz that influenced many musicians",
+    "target": "bop is a style of jazz that influenced many musicians",
+    "term": "bop",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i gave the ball a light bop to move it",
+    "target": "i gave the ball a light bop to move it",
+    "term": "bop",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's good, fam? long time no see!",
+    "target": "what's good, friends? long time no see!",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's up, fam? let's hang out this weekend.",
+    "target": "what's up, friends? let's hang out this weekend.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i got you, fam, i'll cover the rent this month.",
+    "target": "i got you, friends, i'll cover the rent this month.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "shoutout to my fam for helping me move last night.",
+    "target": "shoutout to my family for helping me move last night.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bring the snacks and invite the fam to the barbecue.",
+    "target": "bring the snacks and invite the family to the barbecue.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "fam, can you pick me up from the station?",
+    "target": "friends, can you pick me up from the station?",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my fam always watches my streams and supports me.",
+    "target": "my family always watches my streams and supports me.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't leave your fam hanging when they need you.",
+    "target": "don't leave your friends hanging when they need you.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she treated me like fam after we met once.",
+    "target": "she treated me like a friend after we met once.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're heading out, fam, see you later.",
+    "target": "we're heading out, friends, see you later.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you need anything, hit up the fam group chat.",
+    "target": "if you need anything, hit up the family group chat.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm close with my fam from college.",
+    "target": "i'm close with my friends from college.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party was lit!",
+    "target": "that party was amazing!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the concert last night was lit",
+    "target": "the concert last night was incredible",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her new single is so lit",
+    "target": "her new single is so amazing",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that joke was lit",
+    "target": "that joke was hilarious",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new coffee shop is lit",
+    "target": "this new coffee shop is fantastic",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those new sneakers are lit",
+    "target": "those new sneakers are awesome",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the festival was lit all weekend",
+    "target": "the festival was great all weekend",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the speaker was lit",
+    "target": "the speaker was excellent",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we were so lit after that party.",
+    "target": "we were very drunk after that party.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the room was lit by candlelight.",
+    "target": "the room was lit by candlelight.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he lit the fire before we arrived.",
+    "target": "he lit the fire before we arrived.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she lit the lamp and sat down.",
+    "target": "she lit the lamp and sat down.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

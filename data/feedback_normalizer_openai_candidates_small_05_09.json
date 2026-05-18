@@ -1,0 +1,422 @@
+[
+  {
+    "input": "the lens cap fell off.",
+    "target": "the lens cap fell off.",
+    "term": "cap",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he put the cap back on the bottle.",
+    "target": "he put the cap back on the bottle.",
+    "term": "cap",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the baseball cap has a team logo.",
+    "target": "the baseball cap has a team logo.",
+    "term": "cap",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "check the gas cap before we drive.",
+    "target": "check the gas cap before we drive.",
+    "term": "cap",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the vial needs a cap to stay sealed.",
+    "target": "the vial needs a cap to stay sealed.",
+    "term": "cap",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she tightened the cap on the pen.",
+    "target": "she tightened the cap on the pen.",
+    "term": "cap",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop capping about your rank.",
+    "target": "stop lying about your rank.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no cap, i finished the project early.",
+    "target": "no lie, i finished the project early.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that story is cap.",
+    "target": "that story is a lie.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't cap to impress the teacher.",
+    "target": "don't lie to impress the teacher.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he said he had a million dollars, cap.",
+    "target": "he said he had a million dollars, that's a lie.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they claimed they were undefeated, no cap.",
+    "target": "they claimed they were undefeated, no lie.",
+    "term": "cap",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a chill wind came through the trees.",
+    "target": "a chill wind came through the trees.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're just chilling at home tonight.",
+    "target": "we're just relaxing at home tonight.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the pool water is chill.",
+    "target": "the pool water is chill.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you can chill on the couch while i cook.",
+    "target": "you can relax on the couch while i cook.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a sudden chill swept the room.",
+    "target": "a sudden chill swept the room.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's chill about the deadline.",
+    "target": "he's calm about the deadline.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she felt a chill run down her spine.",
+    "target": "she felt a chill run down her spine.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that new bar is pretty chill on weekends.",
+    "target": "that new bar is pretty relaxed on weekends.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cellar had a persistent chill.",
+    "target": "the cellar had a persistent chill.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "chill, i'll handle it.",
+    "target": "calm down, i'll handle it.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the morning air was chill and damp.",
+    "target": "the morning air was chill and damp.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they told me to chill and stop worrying.",
+    "target": "they told me to relax and stop worrying.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "please clean the table.",
+    "target": "please clean the table.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need to clean my shoes.",
+    "target": "i need to clean my shoes.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "make sure the windows are clean.",
+    "target": "make sure the windows are clean.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she used soap to clean her hands.",
+    "target": "she used soap to clean her hands.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we should clean the kitchen after dinner.",
+    "target": "we should clean the kitchen after dinner.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the wound must be kept clean.",
+    "target": "the wound must be kept clean.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that goal was clean.",
+    "target": "that goal was impressive.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his timing on the jump was clean.",
+    "target": "his timing on the jump was perfect.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she gave a clean performance.",
+    "target": "she gave a strong performance.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "your edits were clean.",
+    "target": "your edits were flawless.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that pun was clean.",
+    "target": "that pun was clever.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he closed the deal clean.",
+    "target": "he closed the deal smoothly.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the soup is cold.",
+    "target": "the soup is cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they remained cold after the argument.",
+    "target": "they remained emotionally distant after the argument.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a cold wind blew.",
+    "target": "a cold wind blew.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her response was cold and brief.",
+    "target": "her response was unfriendly and brief.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the room felt cold.",
+    "target": "the room felt cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he stayed cold toward his coworkers.",
+    "target": "he stayed emotionally distant toward his coworkers.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the water in the lake is cold.",
+    "target": "the water in the lake is cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the coach was cold about the idea.",
+    "target": "the coach was unenthusiastic about the idea.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the beer from the fridge was cold.",
+    "target": "the beer from the fridge was cold.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i felt cold after she criticized my work.",
+    "target": "i felt emotionally hurt after she criticized my work.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my hands were cold after shoveling snow.",
+    "target": "my hands were cold after shoveling snow.",
+    "term": "cold",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that comeback was cold.",
+    "target": "that comeback was harsh.",
+    "term": "cold",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "breakfast was cooked early",
+    "target": "breakfast was cooked early",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the vegetables are cooked",
+    "target": "the vegetables are cooked",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the pasta was cooked well",
+    "target": "the pasta was cooked well",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she cooked the chicken yesterday",
+    "target": "she cooked the chicken yesterday",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the turkey cooked for hours",
+    "target": "the turkey cooked for hours",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "eggs are cooked until firm",
+    "target": "eggs are cooked until firm",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they are cooked for the interview",
+    "target": "they are in trouble for the interview",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you lie to the boss you're cooked",
+    "target": "if you lie to the boss you're in trouble",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after that mistake you're cooked",
+    "target": "after that mistake you're done for",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the team is cooked after losing two key players",
+    "target": "the team is finished after losing two key players",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're cooked if the flight is delayed",
+    "target": "we're in trouble if the flight is delayed",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're cooked once the manager sees the report",
+    "target": "they're in trouble once the manager sees the report",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  }
+]

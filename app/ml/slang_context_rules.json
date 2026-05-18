@@ -74,6 +74,8 @@
       "ghost story",
       "ghost movie",
       "ghost costume",
+      "ghosts for halloween",
+      "dressed up as ghosts",
       "haunted",
       "spirit",
       "apparition"
@@ -98,6 +100,7 @@
     "hard": [
       "hard exam",
       "hard question",
+      "homework is hard",
       "hard rock",
       "hard surface",
       "hard wood",
@@ -164,7 +167,8 @@
       "extra copy",
       "extra copies",
       "extra battery",
-      "extra batteries"
+      "extra batteries",
+      "extra fries"
     ],
     "chill": [
       "chill wind",
@@ -173,7 +177,8 @@
       "weather is chill",
       "room was chill",
       "felt chilly",
-      "chilly"
+      "chilly",
+      "chill in the air"
     ],
     "jam": [
       "jam on",
@@ -197,7 +202,8 @@
       "computer crashed",
       "system crashed",
       "market crash",
-      "blocked traffic"
+      "blocked traffic",
+      "during the update"
     ],
     "crash at": [
       "car crash",
@@ -228,7 +234,9 @@
       "ate food",
       "ate bread",
       "ate soup",
-      "ate tacos"
+      "ate tacos",
+      "ate the last slice",
+      "ate the last slice of pizza"
     ],
     "dip": [
       "dip the",
@@ -283,6 +291,159 @@
       "hero slayed",
       "warrior slayed",
       "monster"
+    ],
+    "cracked at": [
+      "mirror cracked",
+      "glass cracked",
+      "wall cracked"
+    ],
+    "cracked": [
+      "mirror cracked",
+      "glass cracked",
+      "wall cracked",
+      "phone cracked",
+      "screen cracked"
+    ],
+    "plug for": [
+      "plug your",
+      "plug the",
+      "charger",
+      "wall outlet"
+    ],
+    "loaded": [
+      "loaded with",
+      "truck was loaded",
+      "file loaded",
+      "page loaded"
+    ],
+    "broke": [
+      "glass broke",
+      "mirror broke",
+      "phone broke",
+      "broke when"
+    ],
+    "owned": [
+      "owned three",
+      "owned a",
+      "owned the apartment",
+      "owned property"
+    ],
+    "juice": [
+      "orange juice",
+      "apple juice",
+      "glass of juice",
+      "drink juice"
+    ],
+    "sauce": [
+      "pasta sauce",
+      "tomato sauce",
+      "hot sauce",
+      "homemade sauce"
+    ],
+    "grind": [
+      "grind the coffee",
+      "grind coffee",
+      "grind the beans",
+      "coffee beans"
+    ],
+    "blue": [
+      "blue shirt",
+      "blue sky",
+      "blue car",
+      "blue paint"
+    ],
+    "cheddar": [
+      "cheddar cheese",
+      "slice of cheddar"
+    ],
+    "bucks": [
+      "deer",
+      "male deer",
+      "large bucks nearby"
+    ],
+    "whip": [
+      "whip the cream",
+      "whipped cream",
+      "whisk to whip",
+      "horse whip"
+    ],
+    "bounce": [
+      "ball bounced",
+      "bounced off",
+      "bounce the ball"
+    ],
+    "roll": [
+      "ball rolled",
+      "rolled under",
+      "roll the ball",
+      "bread roll"
+    ],
+    "clutch": [
+      "clutch pedal",
+      "clutch bag",
+      "clutch the"
+    ],
+    "ship": [
+      "the ship",
+      "ship crossed",
+      "cargo ship",
+      "cruise ship"
+    ],
+    "shade": [
+      "tree shade",
+      "in the shade",
+      "under the shade",
+      "lampshade"
+    ],
+    "beat": [
+      "song has a beat",
+      "slow beat",
+      "drum beat",
+      "heartbeat",
+      "that beat",
+      "the beat",
+      "this beat",
+      "great beat",
+      "listening to this beat",
+      "drop the beat",
+      "start the beat"
+    ],
+    "mid": [
+      "mid january",
+      "mid february",
+      "mid march",
+      "mid april",
+      "mid may",
+      "mid june",
+      "mid july",
+      "mid august",
+      "mid september",
+      "mid october",
+      "mid november",
+      "mid december"
+    ],
+    "fresh": [
+      "fresh fruit",
+      "fresh food",
+      "fresh air",
+      "fresh water"
+    ],
+    "sharp": [
+      "sharp knife",
+      "sharp edge",
+      "sharp turn",
+      "looked sharply"
+    ],
+    "tight": [
+      "tight shoes",
+      "tight pants",
+      "tight budget",
+      "very tight"
+    ],
+    "the bomb": [
+      "bomb shelter",
+      "a bomb",
+      "the bomb exploded"
     ]
   },
   "slang_contexts": {
@@ -521,12 +682,128 @@
       "slayed her outfit",
       "slayed his outfit",
       "slayed the performance"
+    ],
+    "cracked at": [
+      "cracked at"
+    ],
+    "cracked": [
+      "he's cracked",
+      "shes cracked",
+      "she's cracked",
+      "they're cracked",
+      "im cracked",
+      "i'm cracked"
+    ],
+    "plug for": [
+      "plug for",
+      "the plug"
+    ],
+    "loaded": [
+      "family is loaded",
+      "is loaded",
+      "was loaded"
+    ],
+    "broke": [
+      "i'm broke",
+      "im broke",
+      "until payday",
+      "so broke"
+    ],
+    "owned": [
+      "got owned",
+      "owned in",
+      "owned during"
+    ],
+    "juice": [
+      "has juice",
+      "a lot of juice",
+      "juice online"
+    ],
+    "sauce": [
+      "has sauce",
+      "too much sauce",
+      "serious sauce"
+    ],
+    "grind": [
+      "respect her grind",
+      "respect his grind",
+      "the grind"
+    ],
+    "blue": [
+      "felt blue",
+      "feeling blue",
+      "feel blue"
+    ],
+    "cheddar": [
+      "making cheddar",
+      "serious cheddar"
+    ],
+    "bucks": [
+      "twenty bucks",
+      "paid",
+      "costs"
+    ],
+    "whip": [
+      "new whip",
+      "in a whip",
+      "pulled up in"
+    ],
+    "bounce": [
+      "gonna bounce",
+      "going to bounce",
+      "bounce after"
+    ],
+    "roll": [
+      "let's roll",
+      "lets roll",
+      "ready to roll"
+    ],
+    "clutch": [
+      "was clutch",
+      "so clutch",
+      "clutch during"
+    ],
+    "ship": [
+      "i ship",
+      "ship the two",
+      "ship them"
+    ],
+    "shade": [
+      "pure shade",
+      "throw shade",
+      "threw shade"
+    ],
+    "beat": [
+      "i'm beat",
+      "im beat",
+      "after that workout"
+    ],
+    "fresh": [
+      "looks fresh",
+      "fresh haircut",
+      "fresh fit"
+    ],
+    "sharp": [
+      "looked sharp",
+      "looks sharp",
+      "sharp at the conference"
+    ],
+    "tight": [
+      "been tight",
+      "we're tight",
+      "were tight"
+    ],
+    "the bomb": [
+      "is the bomb",
+      "was the bomb"
     ]
   },
   "literal_regexes": {
     "tea": [
       "\\bdrink(?:ing)?\\s+(?:some|a|the)?\\s*tea\\b",
       "\\b(?:made|make|brewed|brew|sip|sipping)\\s+(?:some|a|the)?\\s*tea\\b",
+      "\\bspill(?:ed|ing)?\\s+tea\\s+on\\b",
+      "\\b(?:his|her|my|your|their)\\s+tea\\b",
       "\\btea\\s+(?:cup|bag|kettle|pot|shop)\\b"
     ],
     "sick": [
@@ -536,10 +813,13 @@
     ],
     "fire": [
       "\\b(?:on|catch|caught|set)\\s+fire\\b",
-      "\\bfire\\s+(?:alarm|department|extinguisher|truck|fighter)\\b"
+      "\\bfire\\s+(?:alarm|department|extinguisher|truck|fighter|fighters?)\\b",
+      "\\bfirefighters?\\s+(?:controlled|put\\s+out|fought)\\s+(?:the\\s+)?fire\\b",
+      "\\bcontrolled\\s+(?:the\\s+)?fire\\b"
     ],
     "hard": [
-      "\\bhard\\s+(?:exam|question|test|surface|wood|rock|time|decision|work)\\b"
+      "\\bhard\\s+(?:exam|question|test|surface|wood|rock|time|decision|work|homework)\\b",
+      "\\bhomework\\s+(?:is|was|seems|seemed)\\s+hard\\b"
     ],
     "soft": [
       "\\bsoft\\s+(?:fabric|pillow|voice|light|skin|soil|texture|drink|cheese|bread)\\b",
@@ -558,17 +838,18 @@
       "\\b(?:water|coffee|paint)\\s+(?:started\\s+to\\s+)?drip\\b"
     ],
     "fit": [
-      "\\b(?:shoes?|helmet|ring|seat|key)\\s+(?:does\\s+not\\s+|did\\s+not\\s+|should\\s+)?fit\\b",
+      "\\b(?:shoes?|helmet|ring|seat|key)\\s+(?:(?:does|do|did)\\s+not\\s+|don'?t\\s+|should\\s+)?fit\\b",
       "\\bfit\\s+(?:in|my|your|the)\\b"
     ],
     "extra": [
-      "\\bextra\\s+(?:chair|chairs|ticket|tickets|time|money|copy|copies|battery|batteries|blanket|blankets|credit)\\b",
+      "\\bextra\\s+(?:chair|chairs|ticket|tickets|time|money|copy|copies|battery|batteries|blanket|blankets|credit|fries)\\b",
       "\\b(?:need|bring|pack|packed|make|made|have|has)\\s+(?:an?\\s+)?extra\\b",
       "\\bthere\\s+(?:is|are|was|were)\\s+extra\\b"
     ],
     "chill": [
       "\\b(?:weather|room|air|wind|morning)\\s+(?:is|was|felt|feels)\\s+chill\\b",
       "\\bchill\\s+(?:wind|air|weather|morning)\\b",
+      "\\bchill\\s+in\\s+the\\s+air\\b",
       "\\bchilly\\b"
     ],
     "jam": [
@@ -581,14 +862,15 @@
     ],
     "crash": [
       "\\b(?:car|plane|bike|bus|train|computer|system|market)\\s+crash(?:ed|es)?\\b",
-      "\\bcrash(?:ed|es)?\\s+(?:the\\s+)?(?:car|plane|bike|bus|train|computer|system)\\b"
+      "\\bcrash(?:ed|es)?\\s+(?:the\\s+)?(?:car|plane|bike|bus|train|computer|system)\\b",
+      "\\bcomputer\\s+crashed\\s+during\\s+the\\s+update\\b"
     ],
     "nasty": [
       "\\b(?:bathroom|trash|garbage|smell|odor|food|soup|meat)\\s+(?:smells?|tastes?|is|was)\\s+nasty\\b",
       "\\bnasty\\s+(?:smell|odor|food|trash|garbage)\\b"
     ],
     "ate": [
-      "\\bate\\s+(?:dinner|lunch|breakfast|food|bread|soup|tacos|pizza|rice|a\\s+meal)\\b"
+      "\\bate\\s+(?:dinner|lunch|breakfast|food|bread|soup|tacos|pizza|rice|a\\s+meal|the\\s+last\\s+slice|the\\s+last\\s+slice\\s+of\\s+pizza)\\b"
     ],
     "dip": [
       "\\bdip\\s+(?:the\\s+)?(?:bread|chip|chips|fries|vegetables?)\\b",
@@ -620,6 +902,104 @@
     "slayed": [
       "\\b(?:knight|hero|warrior|hunter)\\s+slayed\\s+(?:the\\s+|a\\s+)?(?:dragon|monster|beast)\\b",
       "\\bslayed\\s+(?:the\\s+|a\\s+)?(?:dragon|monster|beast)\\b"
+    ],
+    "cracked at": [
+      "\\b(?:mirror|glass|wall)\\s+cracked\\b"
+    ],
+    "cracked": [
+      "\\b(?:mirror|glass|wall|phone|screen)\\s+cracked\\b",
+      "\\bcracked\\s+(?:mirror|glass|wall|phone|screen)\\b"
+    ],
+    "plug for": [
+      "\\bplug\\s+(?:your|the|my)\\s+(?:charger|phone|cable)\\b",
+      "\\bplug\\s+.+\\s+into\\s+(?:the\\s+)?(?:wall|outlet)\\b"
+    ],
+    "loaded": [
+      "\\b(?:truck|van|car|box|file|page)\\s+(?:was|is|were|are)\\s+loaded\\b",
+      "\\bloaded\\s+with\\b"
+    ],
+    "broke": [
+      "\\b(?:glass|mirror|phone|plate|cup)\\s+broke\\b",
+      "\\bbroke\\s+when\\b"
+    ],
+    "owned": [
+      "\\bowned\\s+(?:a|an|the|one|two|three|four|five)\\b",
+      "\\b(?:she|he|they|we|i)\\s+owned\\s+\\w+\\b"
+    ],
+    "juice": [
+      "\\b(?:orange|apple|grape|fresh)\\s+juice\\b",
+      "\\b(?:glass|cup|bottle)\\s+of\\s+juice\\b"
+    ],
+    "sauce": [
+      "\\b(?:pasta|tomato|hot|soy|homemade)\\s+sauce\\b",
+      "\\bsauce\\s+(?:is|was)\\s+homemade\\b"
+    ],
+    "grind": [
+      "\\bgrind\\s+(?:the\\s+)?(?:coffee|beans)\\b",
+      "\\bcoffee\\s+beans\\b"
+    ],
+    "blue": [
+      "\\bblue\\s+(?:shirt|sky|car|paint|wall|eyes?)\\b"
+    ],
+    "cheddar": [
+      "\\bcheddar\\s+cheese\\b"
+    ],
+    "bucks": [
+      "\\b(?:deer|buck|bucks)\\b.+\\bbucks?\\b"
+    ],
+    "whip": [
+      "\\bwhip\\s+(?:the\\s+)?cream\\b",
+      "\\bwhisk\\s+to\\s+whip\\b"
+    ],
+    "bounce": [
+      "\\bball\\s+bounced?\\b",
+      "\\bbounced?\\s+off\\b"
+    ],
+    "roll": [
+      "\\bball\\s+rolled?\\b",
+      "\\brolled?\\s+under\\b",
+      "\\bbread\\s+roll\\b"
+    ],
+    "clutch": [
+      "\\bclutch\\s+(?:pedal|bag|purse)\\b"
+    ],
+    "ship": [
+      "\\b(?:the|a|cargo|cruise)\\s+ship\\b",
+      "\\bship\\s+crossed\\b",
+      "\\bship\\s+(?:the\\s+)?(?:package|order|parcel|parts|goods|items)\\b",
+      "\\bships?\\s+(?:internationally|domestically|overnight)\\b",
+      "\\b(?:company|store|seller|warehouse|factory)\\s+ships?\\b"
+    ],
+    "shade": [
+      "\\b(?:tree|lamp|window)\\s+shade\\b",
+      "\\b(?:in|under)\\s+the\\s+shade\\b"
+    ],
+    "beat": [
+      "\\b(?:song|track|music)\\s+has\\s+(?:a\\s+)?(?:slow\\s+)?beat\\b",
+      "\\bbeat\\s+(?:goes|went|hits|hit|slaps)\\s+hard\\b",
+      "\\bbeat\\s+(?:me|you|him|her|us|them)\\s+badly\\b",
+      "\\b(?:slow|fast|drum|great)\\s+beat\\b",
+      "\\b(?:i\\s+love|love|listening\\s+to)\\s+(?:that|this|the)\\s+beat\\b",
+      "\\b(?:drop|start)\\s+the\\s+beat\\b",
+      "\\bthat\\s+is\\s+a\\s+great\\s+beat\\b"
+    ],
+    "mid": [
+      "\\bmid\\s+(?:january|february|march|april|may|june|july|august|september|october|november|december)\\b"
+    ],
+    "fresh": [
+      "\\bfresh\\s+(?:fruit|food|air|water|bread|coffee)\\b"
+    ],
+    "sharp": [
+      "\\bsharp\\s+(?:knife|edge|turn|pain|object)\\b",
+      "\\blooked\\s+sharply\\b"
+    ],
+    "tight": [
+      "\\btight\\s+(?:shoes|pants|budget|deadline|space)\\b",
+      "\\b(?:shoes|pants|budget|deadline|space)\\s+(?:is|are|was|were)\\s+tight\\b"
+    ],
+    "the bomb": [
+      "\\bbomb\\s+shelter\\b",
+      "\\b(?:a|the)\\s+bomb\\s+(?:exploded|shelter)\\b"
     ]
   },
   "slang_regexes": {
@@ -678,7 +1058,7 @@
     ],
     "crash": [
       "\\bcrash(?:ed)?\\s+at\\b",
-      "\\bcrash\\s+on\\s+(?:the\\s+)?(?:couch|sofa|floor)\\b"
+      "\\bcrash\\s+on\\s+(?:(?:the|my|your|his|her|their)\\s+)?(?:couch|sofa|floor)\\b"
     ],
     "crash at": [
       "\\bcrash\\s+at\\b"
@@ -716,6 +1096,88 @@
     "slayed": [
       "\\bslayed\\s+(?:that|the)\\s+(?:look|fit|outfit|performance|presentation|routine|speech)\\b",
       "\\b(?:she|he|they)\\s+slayed\\b"
+    ],
+    "cracked at": [
+      "\\bcracked\\s+at\\b"
+    ],
+    "cracked": [
+      "\\b(?:he|she|they|i)(?:'s|'re|'m|\\s+is|\\s+are|\\s+am)\\s+cracked\\b"
+    ],
+    "plug for": [
+      "\\b(?:the\\s+)?plug\\s+for\\b"
+    ],
+    "loaded": [
+      "\\b(?:family|parents?|friend|person)\\s+(?:is|are|was|were)\\s+loaded\\b"
+    ],
+    "broke": [
+      "\\b(?:i'?m|im|he'?s|she'?s|we'?re|they'?re)\\s+broke\\b",
+      "\\bbroke\\s+until\\s+payday\\b"
+    ],
+    "owned": [
+      "\\bgot\\s+owned\\b",
+      "\\bowned\\s+(?:in|during)\\s+(?:the\\s+)?(?:debate|game|match|argument)\\b"
+    ],
+    "juice": [
+      "\\bhas\\s+(?:a\\s+lot\\s+of\\s+|serious\\s+)?juice\\b"
+    ],
+    "sauce": [
+      "\\bhas\\s+(?:too\\s+much\\s+|serious\\s+)?sauce\\b"
+    ],
+    "grind": [
+      "\\brespect\\s+(?:his|her|their|my)\\s+grind\\b"
+    ],
+    "blue": [
+      "\\b(?:feel|feeling|felt)\\s+blue\\b"
+    ],
+    "cheddar": [
+      "\\bmaking\\s+(?:serious\\s+)?cheddar\\b"
+    ],
+    "bucks": [
+      "\\b(?:paid|costs?|spent)\\s+\\w+\\s+bucks\\b",
+      "\\b\\d+\\s+bucks\\b"
+    ],
+    "whip": [
+      "\\b(?:new|old|nice)\\s+whip\\b",
+      "\\bpulled\\s+up\\s+in\\s+(?:a\\s+)?\\w*\\s*whip\\b"
+    ],
+    "bounce": [
+      "\\b(?:gonna|going\\s+to|bout\\s+to)\\s+bounce\\b",
+      "\\bbounce\\s+after\\b"
+    ],
+    "roll": [
+      "\\blet'?s\\s+roll\\b",
+      "\\bready\\s+to\\s+roll\\b"
+    ],
+    "clutch": [
+      "\\b(?:was|is|came\\s+in)\\s+clutch\\b",
+      "\\bclutch\\s+during\\b"
+    ],
+    "ship": [
+      "\\bi\\s+ship\\b",
+      "\\bship\\s+(?:the\\s+)?(?:two|couple|characters|them)\\b"
+    ],
+    "shade": [
+      "\\bpure\\s+shade\\b",
+      "\\bthrow(?:ing)?\\s+shade\\b",
+      "\\bthrew\\s+shade\\b"
+    ],
+    "beat": [
+      "\\b(?:i'?m|im|we'?re|they'?re)\\s+beat\\b"
+    ],
+    "fresh": [
+      "\\b(?:looks?|looked)\\s+fresh\\b",
+      "\\bfresh\\s+(?:haircut|fit|outfit)\\b"
+    ],
+    "sharp": [
+      "\\b(?:looks?|looked)\\s+sharp\\b"
+    ],
+    "tight": [
+      "\\b(?:we'?ve|we\\s+have|they'?ve|they\\s+have)\\s+been\\s+tight\\b",
+      "\\b(?:we'?re|they'?re)\\s+tight\\b"
+    ],
+    "the bomb": [
+      "\\bis\\s+the\\s+bomb\\b",
+      "\\bwas\\s+the\\s+bomb\\b"
     ]
   }
 }

@@ -1,0 +1,380 @@
+[
+  {
+    "input": "vibe check: are you good?",
+    "target": "check how you're doing: are you good?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "quick vibe check, you okay?",
+    "target": "quick check to see how you're doing, you okay?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "time for a vibe check.",
+    "target": "time for a check to see how everyone is doing.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we need a vibe check.",
+    "target": "we need a check on how everyone is feeling.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she failed the vibe check.",
+    "target": "she failed the assessment of her attitude.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that was a harsh vibe check.",
+    "target": "that was a harsh test of someone's attitude.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check — thoughts?",
+    "target": "check how you're feeling — thoughts?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check before we go.",
+    "target": "check how everyone is doing before we go.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "doing a vibe check right now",
+    "target": "doing a check on someone's mood right now",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check: is everyone okay?",
+    "target": "check how everyone is doing: is everyone okay?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "perform a vibe check on the machinery.",
+    "target": "perform a vibe check on the machinery.",
+    "term": "vibe check",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we should do a vibe check on the pump tonight.",
+    "target": "we should do a vibe check on the pump tonight.",
+    "term": "vibe check",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight, i'll meet you at six.",
+    "target": "alright, i'll meet you at six.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that plan sounds aight to me.",
+    "target": "that plan sounds alright to me.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight, send me the files when you can.",
+    "target": "alright, send me the files when you can.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're leaving at noon, aight?",
+    "target": "we're leaving at noon, alright?",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "alright bro, i'll handle it.",
+    "target": "alright bro, i'll handle it.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm aight, thanks.",
+    "target": "i'm alright, thanks.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you good with the changes? aight.",
+    "target": "you good with the changes? alright.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight, let's get back to work.",
+    "target": "alright, let's get back to work.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is it aight if i bring a plus one?",
+    "target": "is it alright if i bring a plus one?",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight cool, see you then.",
+    "target": "alright cool, see you then.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that movie was aight, not the best.",
+    "target": "that movie was alright, not the best.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'll pick up lunch, aight?",
+    "target": "i'll pick up lunch, alright?",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's based.",
+    "target": "he's genuine and doesn't care what others think.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's so based.",
+    "target": "that's so principled and admirable.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her views are based.",
+    "target": "her views are genuine and uncompromising.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that take is based.",
+    "target": "that take is valid and principled.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme is based.",
+    "target": "that meme is an opinion i agree with.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the recipe is based on tomatoes.",
+    "target": "the recipe is based on tomatoes.",
+    "term": "based",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're going to a boujee restaurant tonight.",
+    "target": "we're going to a high-class restaurant tonight.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she acts so boujee with her designer bags.",
+    "target": "she acts so materialistic with her designer bags.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party was boujee and exclusive.",
+    "target": "that party was luxurious and exclusive.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he thinks he's boujee because of his new car.",
+    "target": "he thinks he's high-class because of his new car.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i bought a boujee lamp for the living room.",
+    "target": "i bought a luxurious lamp for the living room.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they prefer boujee brunch spots on sundays.",
+    "target": "they prefer high-end brunch spots on sundays.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her boujee aesthetic is all marble and gold.",
+    "target": "her luxurious aesthetic is all marble and gold.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you so boujee about the champagne?",
+    "target": "why are you so materialistic about the champagne?",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the neighborhood is getting boujee with all the new condos.",
+    "target": "the neighborhood is getting upscale with all the new condos.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she gave a boujee gift at the baby shower.",
+    "target": "she gave a lavish gift at the baby shower.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his boujee roommate never cooks and only orders sushi.",
+    "target": "his high-class roommate never cooks and only orders sushi.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they booked a boujee suite for the honeymoon.",
+    "target": "they booked a luxurious suite for the honeymoon.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this pizza is bussin!",
+    "target": "this pizza is delicious!",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those wings are bussin",
+    "target": "those wings are delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my grandma's apple pie is bussin",
+    "target": "my grandma's apple pie is excellent",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that burger is bussin'",
+    "target": "that burger is delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the fries are bussin right now",
+    "target": "the fries are really good right now",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "these tacos are bussin",
+    "target": "these tacos are delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this smoothie is bussin, you should try it",
+    "target": "this smoothie is delicious, you should try it",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her presentation was bussin",
+    "target": "her presentation was impressive",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the concert last night was bussin",
+    "target": "the concert last night was outstanding",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that new phone is bussin for the price",
+    "target": "that new phone is great for the price",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were bussin under the porch.",
+    "target": "they were bussin under the porch.",
+    "term": "bussin",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the poet wrote about lovers bussin in the garden.",
+    "target": "the poet wrote about lovers bussin in the garden.",
+    "term": "bussin",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

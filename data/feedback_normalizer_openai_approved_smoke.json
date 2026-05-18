@@ -1,0 +1,142 @@
+[
+  {
+    "input": "the tire has a bad leak.",
+    "target": "the tire has a bad leak.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this food looks bad.",
+    "target": "this food looks bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that guitarist is bad.",
+    "target": "that guitarist is very talented.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "their performance was bad.",
+    "target": "their performance was excellent.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the conductor set the beat.",
+    "target": "the conductor set the beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the shift i'm beat.",
+    "target": "after the shift i'm exhausted.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my heart beat faster when i ran.",
+    "target": "my heart beat faster when i ran.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he was beat following the race.",
+    "target": "he was exhausted following the race.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the road has a bump near the school.",
+    "target": "the road has a bump near the school.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i heard a bump in the night.",
+    "target": "i heard a bump in the night.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i bumped the thread to get more replies.",
+    "target": "i brought the thread back to the top to get more replies.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we bumped that track at the party.",
+    "target": "we played that track loudly at the party.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i got a burn on my wrist from the kettle.",
+    "target": "i got a burn on my wrist from the kettle.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the sun gave me a bad burn after the hike.",
+    "target": "the sun gave me a bad burn after the hike.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that roast landed a brutal burn.",
+    "target": "that roast landed a very harsh insult.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he burned me with that comeback.",
+    "target": "he insulted me with that comeback.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the old lamp is busted and won't turn on.",
+    "target": "the old lamp is busted and won't turn on.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my zipper is busted and the jacket won't close.",
+    "target": "my zipper is busted and the jacket won't close.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the teacher busted the student cheating on the test.",
+    "target": "the teacher caught the student cheating on the test.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they busted the gang leader after the raid.",
+    "target": "they arrested the gang leader after the raid.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  }
+]

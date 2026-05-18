@@ -1,0 +1,58 @@
+[
+  {
+    "input": "the fruit has a bad taste.",
+    "target": "the fruit has a bad taste.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the soup looks bad.",
+    "target": "the soup looks bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that guitar solo was bad.",
+    "target": "that guitar solo was excellent.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that skateboard trick was bad.",
+    "target": "that skateboard trick was outstanding.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the drummer kept the beat.",
+    "target": "the drummer kept the beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the police officer walked his beat.",
+    "target": "the police officer walked his beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm beat after the hike.",
+    "target": "i'm exhausted after the hike.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she was beat by the end of the concert",
+    "target": "she was exhausted by the end of the concert",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  }
+]

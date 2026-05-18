@@ -1,0 +1,415 @@
+[
+  {
+    "input": "i'm finna head out.",
+    "target": "i'm going to head out.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna grab some food, you want anything?",
+    "target": "i'm going to grab some food, you want anything?",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we finna catch the bus.",
+    "target": "we are going to catch the bus.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they finna drop the album tonight.",
+    "target": "they are going to drop the album tonight.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she finna start the meeting in five minutes.",
+    "target": "she is going to start the meeting in five minutes.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he finna be late to class.",
+    "target": "he is going to be late to class.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna go to sleep.",
+    "target": "i'm going to go to sleep.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they finna play Fortnite tonight.",
+    "target": "they are going to play Fortnite tonight.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we finna finish the project by monday.",
+    "target": "we are going to finish the project by monday.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she finna have the report ready by noon.",
+    "target": "she is going to have the report ready by noon.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he finna try again tomorrow.",
+    "target": "he is going to try again tomorrow.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna meet Jamal at the cafe.",
+    "target": "i'm going to meet Jamal at the cafe.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's flexing his new car all over social media.",
+    "target": "he's showing off his new car all over social media.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop flexing like you won the lottery.",
+    "target": "stop showing off like you won the lottery.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they keep flexing that designer jacket at school.",
+    "target": "they keep showing off that designer jacket at school.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her constant flex about travel plans is tiring.",
+    "target": "her constant bragging about travel plans is tiring.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't flex your grades in class.",
+    "target": "don't brag about your grades in class.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we can tell he's flexing for the camera.",
+    "target": "we can tell he's showing off for the camera.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's a flex, but it doesn't impress me.",
+    "target": "that's showing off, but it doesn't impress me.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "flex your muscles before the match.",
+    "target": "flex your muscles before the match.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the electrician replaced the old flex behind the stove.",
+    "target": "the electrician replaced the old flex behind the stove.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she flexed her promotion all week.",
+    "target": "she bragged about her promotion all week.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they flex hard about their startup's valuation.",
+    "target": "they brag a lot about their startup's valuation.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no need to flex about the trophy, you earned it.",
+    "target": "no need to boast about the trophy, you earned it.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we were talking for weeks, and then she just ghosted me.",
+    "target": "we were talking for weeks, and then she just stopped replying to me.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after our third date he started ghosting me.",
+    "target": "after our third date he started ignoring me and not replying.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i hate being ghosted after we text all night.",
+    "target": "i hate being ignored and not replied to after we text all night.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he ghosted me after i sent the last text.",
+    "target": "he stopped responding to me after i sent the last text.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her ghosting left me confused and hurt.",
+    "target": "her suddenly ignoring me left me confused and hurt.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they ghosted the group chat and never came back.",
+    "target": "they stopped participating in the group chat and never came back.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop ghosting me, just say you’re not interested.",
+    "target": "stop ignoring me, just say you’re not interested.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i thought we had a connection but then he ghosted.",
+    "target": "i thought we had a connection but then he stopped replying.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the old television showed ghosting around bright objects.",
+    "target": "the old television showed ghosting around bright objects.",
+    "term": "ghosting",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "ghosting in printing creates faint duplicate images.",
+    "target": "ghosting in printing creates faint duplicate images.",
+    "term": "ghosting",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she is ghosting him even though they matched last week.",
+    "target": "she is ignoring him and not replying to his messages even though they matched last week.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that player is the goat in basketball!",
+    "target": "that player is the greatest of all time in basketball!",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Messi is the goat.",
+    "target": "Messi is the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's the goat at tennis.",
+    "target": "she's the greatest of all time at tennis.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "nobody plays like him, he's the goat.",
+    "target": "nobody plays like him, he's the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "who is the goat in football?",
+    "target": "who is the greatest of all time in football?",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they named her the goat on the team.",
+    "target": "they named her the greatest of all time on the team.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he might be the goat.",
+    "target": "he might be the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this performance is goat status.",
+    "target": "this performance is greatest of all time status.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the goat grazed in the field.",
+    "target": "the goat grazed in the field.",
+    "term": "goat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she bought a goat from the farm.",
+    "target": "she bought a goat from the farm.",
+    "term": "goat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my coach says he is the goat.",
+    "target": "my coach says he is the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watch her, she's the goat in gymnastics.",
+    "target": "watch her, she's the greatest of all time in gymnastics.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that hidden message in the movie was iconic. iykyk.",
+    "target": "that hidden message in the movie was iconic. if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we left a note under the bench, iykyk.",
+    "target": "we left a note under the bench, if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the meetup is at the florist shop at nine tonight iykyk",
+    "target": "the meetup is at the florist shop at nine tonight if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "check the fifth episode for the hint, iykyk.",
+    "target": "check the fifth episode for the hint, if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they added a secret level in the game iykyk",
+    "target": "they added a secret level in the game if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "only the old students will recognize that slogan iykyk.",
+    "target": "only the old students will recognize that slogan if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the mural has a tiny symbol that points the way iykyk",
+    "target": "the mural has a tiny symbol that points the way if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we use a special knock at the door, iykyk",
+    "target": "we use a special knock at the door, if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this playlist is full of camp songs from 2008 iykyk.",
+    "target": "this playlist is full of camp songs from 2008 if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "meet me by the third lamppost to get the package iykyk",
+    "target": "meet me by the third lamppost to get the package if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cafe serves a secret coffee that only locals order iykyk.",
+    "target": "the cafe serves a secret coffee that only locals order if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she winked when she mentioned the code word iykyk",
+    "target": "she winked when she mentioned the code word if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  }
+]

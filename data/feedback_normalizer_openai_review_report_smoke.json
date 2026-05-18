@@ -1,0 +1,37 @@
+{
+  "input_files": [
+    "data\\feedback_normalizer_openai_candidates_smoke.json"
+  ],
+  "approved_rows": 20,
+  "rejected_rows": 0,
+  "approved_by_sense": {
+    "literal": 10,
+    "slang": 10
+  },
+  "unique_terms": 5,
+  "top_terms": [
+    [
+      "bad",
+      4
+    ],
+    [
+      "beat",
+      4
+    ],
+    [
+      "bump",
+      4
+    ],
+    [
+      "burn",
+      4
+    ],
+    [
+      "busted",
+      4
+    ]
+  ],
+  "thin_terms": [],
+  "rejected_reasons": {},
+  "rejected_preview": []
+}

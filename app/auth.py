@@ -1,5 +1,5 @@
 import jwt
-from fastapi import HTTPException, Security
+from fastapi import Depends, HTTPException, Security
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 
 from app.config import get_settings
@@ -78,3 +78,28 @@ def get_current_user(res: HTTPAuthorizationCredentials = Security(security)) -> 
     except Exception as e:
         print(f"[Auth] Erro inesperado: {str(e)}")
         raise HTTPException(status_code=401, detail="Erro ao validar autenticacao")
+
+
+def get_current_admin(user_id: str = Depends(get_current_user)) -> str:
+    """
+    Requires the authenticated user to have role='admin' in profiles.
+    Normal learners remain role='user' and cannot access review endpoints.
+    """
+    try:
+        supabase = get_supabase()
+        result = (
+            supabase.table("profiles")
+            .select("role")
+            .eq("id", user_id)
+            .single()
+            .execute()
+        )
+        role = (result.data or {}).get("role", "user")
+    except Exception as exc:
+        print(f"[Auth] Erro ao buscar role do usuario: {str(exc)}")
+        role = "user"
+
+    if role != "admin":
+        raise HTTPException(status_code=403, detail="Admin access required")
+
+    return user_id

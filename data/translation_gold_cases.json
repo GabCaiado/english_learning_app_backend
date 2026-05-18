@@ -1,0 +1,77 @@
+[
+  {
+    "input": "the mirror cracked",
+    "expected_pt": "O espelho rachou",
+    "kind": "literal"
+  },
+  {
+    "input": "the chef used a whisk to whip the cream",
+    "expected_pt": "O chef usou um batedor para bater o creme",
+    "kind": "literal"
+  },
+  {
+    "input": "the deer had large bucks nearby",
+    "expected_pt": "Havia grandes cervos machos por perto",
+    "kind": "literal"
+  },
+  {
+    "input": "his style at the party was unreal",
+    "expected_pt": "O estilo dele na festa era incrivel",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "let her keep going; she might be onto something",
+    "expected_pt": "Deixe ela continuar; ela pode estar no caminho certo",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "my professor is actually pretty relaxed",
+    "expected_pt": "Na verdade, meu professor e bem tranquilo",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "i want the two main characters to be a couple",
+    "expected_pt": "Eu torço para os dois personagens principais ficarem juntos",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "her eyebrows look stylish and flattering",
+    "expected_pt": "As sobrancelhas dela estao impecaveis",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "i want andrew and claire to be a couple",
+    "expected_pt": "Eu torço para Andrew e Claire ficarem juntos",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "i want gabriella and deryck to be a couple",
+    "expected_pt": "Eu torço para gabriella e deryck ficarem juntos",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "i want maya and leo to be a couple",
+    "expected_pt": "Eu torço para maya e leo ficarem juntos",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "he's very skilled",
+    "expected_pt": "Ele e muito habilidoso",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "i am playing valorant intensely",
+    "expected_pt": "Estou jogando muito Valorant",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "she harshly criticized him in the comments",
+    "expected_pt": "Ela detonou ele nos comentarios",
+    "kind": "normalized_slang"
+  },
+  {
+    "input": "our team does not want conflict with them",
+    "expected_pt": "Nossa equipe nao quer conflito com eles",
+    "kind": "normalized_slang"
+  }
+]

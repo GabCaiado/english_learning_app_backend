@@ -1,0 +1,228 @@
+{
+  "input_files": [
+    "data\\genz_slang_openai_candidates_000_004.json",
+    "data\\genz_slang_openai_candidates_005_009.json",
+    "data\\genz_slang_openai_candidates_010_014.json",
+    "data\\genz_slang_openai_candidates_015_019.json",
+    "data\\genz_slang_openai_candidates_020_024.json",
+    "data\\genz_slang_openai_candidates_025_029.json",
+    "data\\genz_slang_openai_candidates_030_034.json",
+    "data\\genz_slang_openai_candidates_035_039.json",
+    "data\\genz_slang_openai_candidates_040_044.json",
+    "data\\genz_slang_openai_candidates_045_049.json"
+  ],
+  "approved_rows": 555,
+  "rejected_rows": 2,
+  "approved_by_sense": {
+    "literal": 80,
+    "slang": 475
+  },
+  "unique_terms": 48,
+  "top_terms": [
+    [
+      "catch these hands",
+      12
+    ],
+    [
+      "glow up",
+      12
+    ],
+    [
+      "hits different",
+      12
+    ],
+    [
+      "rent free",
+      12
+    ],
+    [
+      "vibe check",
+      12
+    ],
+    [
+      "boujee",
+      12
+    ],
+    [
+      "bussin",
+      12
+    ],
+    [
+      "cringe",
+      12
+    ],
+    [
+      "dank",
+      12
+    ],
+    [
+      "drip",
+      12
+    ],
+    [
+      "extra",
+      12
+    ],
+    [
+      "finna",
+      12
+    ],
+    [
+      "flex",
+      12
+    ],
+    [
+      "goat",
+      12
+    ],
+    [
+      "iykyk",
+      12
+    ],
+    [
+      "periodt",
+      12
+    ],
+    [
+      "rizz",
+      12
+    ],
+    [
+      "salty",
+      12
+    ],
+    [
+      "shade",
+      12
+    ],
+    [
+      "slaps",
+      12
+    ],
+    [
+      "slay",
+      12
+    ],
+    [
+      "snatched",
+      12
+    ],
+    [
+      "stan",
+      12
+    ],
+    [
+      "ate",
+      12
+    ],
+    [
+      "bop",
+      12
+    ]
+  ],
+  "thin_terms": [
+    {
+      "term": "aight",
+      "literal": 0,
+      "slang": 11
+    },
+    {
+      "term": "big yikes",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "boujee",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "catch these hands",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "cra cra",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "deez nutz",
+      "literal": 0,
+      "slang": 11
+    },
+    {
+      "term": "fam",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "finna",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "glow up",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "i oop",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "iykyk",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "periodt",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "rizz",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "simp",
+      "literal": 0,
+      "slang": 9
+    },
+    {
+      "term": "sus",
+      "literal": 0,
+      "slang": 11
+    }
+  ],
+  "rejected_reasons": {
+    "slang row is identity": 1,
+    "wrapper artifact in input": 1,
+    "wrapper artifact in target": 1
+  },
+  "rejected_preview": [
+    {
+      "input": "alright bro, i'll handle it.",
+      "target": "alright bro, i'll handle it.",
+      "term": "aight",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "slang row is identity"
+      ]
+    },
+    {
+      "input": "i think the timing of that message is sus.",
+      "target": "i think the timing of that message is suspicious.",
+      "term": "sus",
+      "sense": "slang",
+      "source": "openai_targeted_eval",
+      "reasons": [
+        "wrapper artifact in input",
+        "wrapper artifact in target"
+      ]
+    }
+  ]
+}

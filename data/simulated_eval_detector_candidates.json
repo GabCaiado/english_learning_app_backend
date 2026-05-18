@@ -1,0 +1,3477 @@
+[
+  {
+    "text": "that party last night was awesome!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party last night was fantastic!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party last night was incredible!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party last night was boring!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he's the best player in basketball!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's an outstanding player in basketball!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's a superstar in basketball!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the goat is a type of animal!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the drummer had a difficult beat to follow.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the drummer had a tough time with the beat.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the drummer had an easy beat to follow.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the beat was too hard to follow.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that new movie was awesome!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that new movie was fantastic!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that new movie was terrible!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that new release was sick!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she was ill for a week last month.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she was feeling great for a week last month.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "she was sick for a long time.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "it's excessively hot in summer.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "it's extra hot during the summer.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "it's more than hot in summer.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "it's extremely hot in summer.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "it's hot in summer, isn't it?",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "this tea is such good gossip!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this gossip is so good!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "this tea is excellent!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this tea is average.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "this tea is decent, I guess.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he threw shade at her outfit.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "he was throwing shade at her outfit.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he dissed her outfit.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "he complimented her outfit.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he gave her outfit a subtle insult.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "this outfit is snatched!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "this outfit looks amazing!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this outfit is stylish!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "this outfit is ugly!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this outfit is snazzy!",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "the snatched beach is so beautiful.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the gorgeous beach is so beautiful.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the stunning beach is so beautiful.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the snatched beach is ugly.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the snatched beach vibe is incredible!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "let's chill this weekend!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "let's hang out this weekend!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's relax this weekend!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let's work this weekend!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this weekend is going to be chill.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "i'm feeling salty about that loss.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "i'm feeling bitter about that loss.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i'm feeling good about that loss.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i'm feeling annoyed about that loss.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i'm feeling salty and upset about that loss.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "his style is very tight!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "his style is super tight!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "his style is tight as a drum!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "his style is not loose!",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "his style is perfectly fitted!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the lid was firmly closed on the jar.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the lid was really tight on the jar.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the lid was secured well on the jar.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the lid was tight and secure.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "let's get out of here.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's leave this joint.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's exit this place.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let's bounce from here.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "let's stay put.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i'm really good at video games!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i'm amazing at video games!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i play video games well.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i'm not very good at video games.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "gaming is fun.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that knife looks stylish!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that knife is cool!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that knife is awesome!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that knife is dull.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the knife is functional.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that party was amazing!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party was awesome!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party was wonderful!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party was cool!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that party was fun!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's pretending to be sick lately.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's feeling unwell lately.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's acting poorly lately.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's not well lately.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's acting fine lately.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's really ill with the flu.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's not feeling well with the flu.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's under the weather with the flu.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's actually not well with the flu.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's great with the flu.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is challenging!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is tough!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is difficult!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is a real challenge!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is easy!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's the greatest of all time.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's the best player ever.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "he's amazing in sports.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's just good at sports.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he's the greatest player, no cap.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "this gossip is way too hot!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "this tea is too much!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this drink is extremely hot!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "this tea is on fire!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this tea is too cold!",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "i love gossip anytime!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i dislike tea in the afternoon.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i enjoy lemonade in the afternoon.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i love tea at night.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i love tea early in the morning.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "stop being rude to him!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "stop being nice to him!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "stop being friendly to him!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "stop throwing shade!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "stop making fun of him!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the car gives us shade in summer.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the tree gives us lovely shade in summer.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the tree offers nice shelter in summer.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the tree gives us good shade in summer.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the tree provides us with shade in summer.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he's so in trouble after that run!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's really in a bad spot after that run!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he's done for after that run!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's fine after that run!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he's just tired after that run!",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the chicken is prepared all the way through.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the chicken is done all the way through.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "that chicken is cooked perfectly.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "that chicken is prepared all the way through.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that chicken is in trouble all the way through.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "she's acting upset after the game.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's being overly emotional after the game.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "she's acting fine after the game.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "she's acting normal after the game.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "she's just irritated after the game.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "no lie, that was an amazing performance.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "for real, that was a great performance.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that was an awesome performance!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "actually, that performance was alright.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that performance was no joke.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "that ice cream is not great at all.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this ice cream is just average.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "this ice cream is fantastic!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the ice cream is the best I've had!",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the ice cream is okay, I guess.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "the movie was not great, nothing special.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the film was average, nothing to write home about.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the movie was amazing, nothing special.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the movie was the worst ever.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the movie was alright, nothing special.",
+    "is_slang": true,
+    "confidence": 0.7
+  },
+  {
+    "text": "the sky is cracked with lightning!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the sky is filled with lightning!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the sky is buzzing with lightning!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the sky is clear with lightning!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the sky is bright with lightning!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that idea was sharp!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "that idea was clever!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that idea was bright!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that idea was dull!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "that idea was outstanding!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's trying to flex his new car.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "he's trying to show off his new car.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's trying to display his new car.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's trying to hide his new car.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he's trying to demonstrate his new car.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "chill",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "hang out",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "relax",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "have a good time",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "chill out",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "to rest",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "cool",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "fine",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "relaxed",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "bounce",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "leave",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "head out",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "go",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "fire",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "great",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "fantastic",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "excellent",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "awesome",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "amazing",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "incredible",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that's a great edit of the video!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "that's an amazing edit of the video!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that's a wicked edit of the video!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this edit of the video is fantastic!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this song is impossible to forget.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this song is very memorable.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this song is tough to forget.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "this song is hard to remember.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the rock was really tough to break.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the rock was really hard to smash.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the rock was very difficult to break.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the rock was challenging to break.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "she's amazing at playing guitar.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's the best at playing guitar.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she's fantastic at playing guitar.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "she's incredible at guitar playing.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i believe i just saw a spirit!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i might have just seen a phantom!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i feel like i just spotted a ghost!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i think i just saw something unusual!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the ghost town appeared haunting at night.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the abandoned town seemed spooky at night.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the deserted area felt creepy at night.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the ghost place looked eerie at night.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the ghost town looked normal at night.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the party was exciting last night!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the event was awesome last night!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the gathering was lively last night!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the party was pretty dull last night.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the party was lit yesterday!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he shared the gossip about their breakup.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he revealed the news about their breakup.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he told the story of their breakup.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he spilled water on their breakup.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "he spilled the tea about their breakup.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the gossip is too hot to communicate right now.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the discussion is too sensitive right now.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the news is too intense to share right now.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the tea is too cold to drink right now.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the tea is hot right now.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "her remark was full of criticism.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "her statement was steeped in sarcasm.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "her response had hidden jabs.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "her comment was clear and concise.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "her comment had shade in it.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "i really devoured that dish!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i truly liked that dish!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i really savored that dish!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i did not enjoy that dish at all!",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "i really ate that dish slowly!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the rubber band can stretch easily.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the rubber band is very flexible.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "the rubber band can bend easily.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "the rubber band can flex easily during use.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the rubber band's ability to stretch is impressive.",
+    "is_slang": false,
+    "confidence": 0.92
+  },
+  {
+    "text": "the meal was awesome!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the meal was great!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "the meal was incredible!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that meal was a banger!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the meal was fantastic!",
+    "is_slang": true,
+    "confidence": 0.88
+  },
+  {
+    "text": "it's really hot outside today.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "it's super hot today.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the temperature is extremely high today.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "it feels like a furnace outside today.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the weather is very hot outside.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "the pizza is overly cheesy as requested.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the pizza has too much cheese as requested.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the pizza is really cheesy as requested.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the pizza has a lot of cheese as requested.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "i'll keep it discreet this weekend.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i'm going to keep it subtle this weekend.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i'll keep my plans to myself this weekend.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i will keep some things private this weekend.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the affordable price of the ticket is nice.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "the secret price of the ticket is nice.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the covert price of the ticket is nice.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the price of the ticket is really nice.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "her hairstyle is very stylish.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "her hairstyle is on point.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "her look is amazing.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "her hair looks great.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "i like to relax on the weekends.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i enjoy hanging out on the weekends.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i like to take it easy on the weekends.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i like to have fun on the weekends.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "it's chill enough to sit outside.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "it's relaxed enough to sit outside.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "it's fine to sit outside.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "it's cool enough to be outside.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "it feels good to sit outside.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he wants to bounce after the meeting.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he wants to stay after the meeting.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he is about to leave after the meeting.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he's planning to bounce after the meeting.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he needs to go after the meeting.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "Isn't that a bit harsh to say?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "Please be quiet, that's not true.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "Shut the fuck up, that's not true!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "stfu regarding this matter.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I got the message.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I comprehend.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "Gotcha, I understand now!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I understand now.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I will go to the store.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I plan to visit the store.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "I'm going to go to the store later.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm gonna go to the shop.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "Not gonna lie, I'm a bit tired today.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I admit I'm tired.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I feel tired today.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "I'm exhausted, for real.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "In my opinion, that movie was overrated.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "That movie was not as great.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "Many think that movie is overrated.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I believe that movie was overrated.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "That joke was will absolutely make you laugh.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "laughing my ass off, that was funny.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I laughed a lot at that joke.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "That joke was funny.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I can't believe this is true.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "shaking my head, I dislike what happened.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "This isn't believable.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "I'm shocked at this.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I will be right back.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I need a quick break.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "be right back, just a second.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I need to eat something.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I don't care about that kind of music.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I really dislike that kind of music.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I don't really like that stuff.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I totally love that kind of music.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "ion actually enjoys this genre of music.",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "Ppl should always be polite.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "People should be treated with respect.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "Some people could be more respectful.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "The crowd should act more respectfully.",
+    "is_slang": false,
+    "confidence": 0.88
+  },
+  {
+    "text": "ppl should understand manners better.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I don't get why you wouldn't skip coffee",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "You should go for coffee instead!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm going to grab some coffee!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm gonna grab a coffee!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "grab some coffee? Are you serious?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "I'm currently studying now.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "At this moment, I am focused on my studies.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "Right now, my studies are my priority.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "Currently, I'm concentrating on my studies.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm in a study mode right now.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm studying rn as well.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "What do you mean?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I couldn't care less.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm not interested in their opinions.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "It doesn't matter to me what they think.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I don't mind people's thoughts.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I really care about their opinions.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I have no time right now.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I am free to chat now.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "I lack time to talk.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "Can we chat later?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I don't have time for this.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "ppl are happy about the event!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "people are thrilled for the event!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "ppl are looking forward to the event!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "people are excited for the event!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "ppl are not that interested in the event.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "k, I’ll join you soon!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "okay, I’ll meet you shortly!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "k, I’ll arrive shortly!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "sure, I’ll be there soon!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "bff, don't remember our plans!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "my best friend forever, don't forget our plans!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "bff, please remember our plans!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "my best friend doesn't forget our plans.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "tmi, that was unnecessary!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "too much information, I really didn't want to know!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "tmi, I didn't really want to hear that!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that was too much info for me.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "srsly, how did you find that?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "seriously, where is that from?",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "srsly, where can I get that?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I can't believe where you got that from.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "ofc, I will assist you with that project!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "of course I will help you with that project.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "ofc, I can help you with that project.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I will definitely help you with that project.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "thx for the suggestion!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "thanks for the recommendation!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "thx for this suggestion!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "thank you for the recommendation!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "tks for asking me to the party!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "thank you for inviting me to the party!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "tks for the invitation!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I appreciate the invite to the party.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "stfu, that’s really not funny!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "shut up, that is not funny!",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "stfu, that joke is not funny!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that’s not funny at all.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "isn't going out tonight something you want?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "do you want to go out tonight?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I don't feel like going out tonight.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "you're not interested in going out tonight?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "you wanna go out tonight?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I just revealed the gossip about the party last weekend.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "I disclosed the tea about the party last weekend.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm just sharing the gossip about the party from last weekend.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I just spilled the tea about the party last weekend.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "He canceled on our plans last minute, which is so frustrating.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He ditched our plans at the last second, so irritating!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "He dropped out of our plans at the last minute, which is bothersome!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "He bailed on our plans last minute, so annoying!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "Let's just spend time together this weekend, relax.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Let's just have a good time this weekend, chill.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Let's just chill out this weekend, hang out.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "Let's just hang out this weekend, chill.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "That guy is really rude for ghosting her.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "That dude is such a jerk for cutting her off.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "That guy is a real loser for ghosting her.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "That guy is such a jerk for ghosting her.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I messaged him and he just ignored me, no reply.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I reached out to him but he ghosted me, no reply.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I texted him but was left hanging, no reply.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I texted him but got ghosted, no reply.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "no cap, that song is a banger!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "that song is a banger, no cap!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that song is just great!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this song is definitely a hit!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i totally understood the assignment in that class.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i grasped what I had to do in that class.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i really nailed the assignment in that class.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i got the assignment perfectly in that class.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is mid",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this game is kind of weak",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "this game is mediocre",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "this game needs more effort",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "this game is very good",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that outfit looks suspicious",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that outfit is a bit sketchy",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that outfit looks odd",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "that outfit is nice",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "let him proceed",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "let him continue",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "let him work",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "let him do his thing",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she performed well",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "she gave a great performance",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "she crushed it in that performance",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she failed to perform",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that party was epic!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "that party was fantastic!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the party was great, we had so much fun!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i really like her music; it inspires me so much.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i adore her music; it inspires me so much.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i stan her music, it's so good!",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "i don't really care for her music; it inspires me so much.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that movie was awesome, can we see it again?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that movie was great, can we watch it again?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that movie was good, can we watch it again?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that movie was terrible, can we watch it again?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that comment was clearly shade; why be rude?",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "that comment was an insult; why be rude?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that comment was rude; why be rude?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "that comment was totally polite; why be rude?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i need some information about what happened last night.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i need to know what happened last night.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i need some tea on what happened last night; did anything happen?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i don't want any gossip about what happened last night.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i need you to share the news about the drama.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i require you to spill the tea on the drama.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i need you to tell me about the drama.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i need you to keep quiet about the drama.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he's been showing affection for her all week.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's been simping over her all week.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "he's been ignoring her all week; what's wrong?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he's been dating her for a week now; is it serious?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he canceled on our plans last minute; what's going on?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he ditched our plans; what a jerk!",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "he showed up to the plans; what's the deal?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he's kept our plans and is excited; let's go!",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "she showed up again; can you believe it?",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "she didn't show up again, can you believe it?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "she followed through on plans again; can you believe it?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "she kept her word; can you believe it?",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "she really stopped talking to me after our date.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she vanished after our date.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "she ignored me after our date.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "she didn't reply to me after our date.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "she totally ghosted me after our date.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she showed up for our date and left without saying a word.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "no lie, that was the best concert ever.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "for real, that was the best concert ever.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "I'm serious, that was the best concert ever.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that was the best concert ever with no exaggeration.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "no cap, that was the best concert ever.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that was a great concert, no doubt.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that task was easy after helping with it.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "I nailed what was required in this project.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I got the project requirements down perfectly.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I understood the project fully and delivered.",
+    "is_slang": false,
+    "confidence": 0.95
+  },
+  {
+    "text": "I did well on the assignment, just like expected.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "This project was a breeze for me.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "this food is pretty average for me, honestly.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this food is just okay for me, honestly.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this food is somewhat lacking for me, honestly.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this food is mid-tier for me, honestly.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this food is great for me, honestly.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "your argument was well received on social media.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "your argument was outperformed on social media.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "your argument got more likes than responses on social media.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "your argument engaged a lot of users on social media.",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "your argument did not go viral on social media.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "let him proceed; he knows what's best.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let him continue; he knows what to do.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let him handle it; he knows what he's doing.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let him work; he knows how to get it done.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let him rest; he knows how to manage it.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he left no competition behind, right?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he succeeded fully, right?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he did excellent work, right?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he didn't really share with anyone, right?",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he did poorly, right?",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i think it's important to assess the mood here.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i think it's time for a mood evaluation here.",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i think we need to feel the atmosphere here.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i think it's time to check the energy here.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i think we should observe the environment here.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i'm sure we can complete this task fast!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "we might be able to finish this project soon!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "we can definitely complete this project quickly!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i bet we can finish this project on time!",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "i believe we will finish this project promptly!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "last night was amazing, i can't forget it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "last night was incredible, i can't forget it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "last night was outstanding, i can't forget it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "last night was average, i can't forget it!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "last night was dull, i can't forget it!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "this new game is awesome; you should try it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this new game is fantastic; you have to play it!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this new game is excellent; you should check it out!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this new game is boring; you should avoid it!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "this new game is average; you might like it!",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "he loves to show off his skills at video games.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "he enjoys demonstrating his skills at video games.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he really likes to brag about his gaming skills.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he shows off his video gaming abilities.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he's just trying to impress everyone with his gaming skills.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that was somewhat of a subtle insult.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that seemed like a bit of a dig.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i thought that was a slight as well.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "it felt like a backhanded comment to me.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that was just a little jab at him.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "tell me the gossip about the party.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "reveal what happened at the event.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's hear the inside scoop from the party.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "give me the latest news from the party.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "break down what went down at the party.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let me know the details about the concert.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "give me the scoop on the concert.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "what's the tea on the concert?",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "tell me what happened at the concert.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i'd like to know the latest about the concert.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let's just chill this weekend.",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "let's hang out this weekend.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "we should relax this weekend.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "let's just relax this weekend.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "this weekend we can just hang out and relax.",
+    "is_slang": true,
+    "confidence": 0.93
+  },
+  {
+    "text": "no kidding, that last episode was so intense.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "no lie, that last episode was so intense.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "for real, that last episode was so intense.",
+    "is_slang": true,
+    "confidence": 0.91
+  },
+  {
+    "text": "seriously, that last episode was so intense.",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "i really got what I was supposed to do in that exam.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i clearly understood what was required in that exam.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "it was very clear what I needed to do for that exam.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i really understood exactly what was expected in that exam.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i did understand the assignment in that exam, no doubt.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the vibe at the party was amazing last night!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the atmosphere at the party was really exciting last night!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the energy at the party was fantastic last night!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the party was super fun last night!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the energy at the party was great last night!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i thought it was weird that he didn't reply.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i thought it was shady that he didn't reply.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i thought it was suspicious that he didn't reply.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "i thought it was odd that he didn't reply.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i thought it was totally fine that he didn't reply.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "let him try; he might surprise us.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let him do his thing; he might surprise us.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let him keep working; he might surprise us.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let him go; he might surprise us.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "let him cook; he definitely won't surprise us.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "he did exceptionally well in that performance.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he performed splendidly and did not hold back.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he smashed that performance without leaving anything behind.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he absolutely nailed that performance.",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "he did poorly in that performance, leaving crumbs.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I bet we can break our previous record for this game.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I think we can beat our last record for this game.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "I bet we will surpass our last record for this game.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "I'm sure we can win this game better than before.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "I know we can lose to our last record for this game.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i really wish to demonstrate my skills in the tournament.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i really want to exhibit my skills in the tournament.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i really want to showcase my skills in the tournament.",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "i definitely want to play at my best in the tournament.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i really want to hide my skills in the tournament.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that comment was pretty insulting.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that comment was an obvious insult.",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "that comment was totally rude.",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "that comment was very flattering.",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "that comment was straightforward compliment.",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "i will win against you in the game",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i will thrash you in the game",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i will crush you in the game",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i will take you down in the game",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i will beat you at chess",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "can i have some information, please?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "can i get the latest news, please?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "can i have the details, please?",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "can i have some news, please?",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "can i ask for your opinion, please?",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "this pizza is dope!",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "this pizza is awesome!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this pizza is fantastic!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this pizza tastes amazing!",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "this pizza is good!",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "this pizza is literally great!",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the party was lit last night",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the party was lively last night",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the party was epic last night",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the party was great last night",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the meeting was lit last night",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "let's hang out at the park later",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "we should relax at the park later",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's chill at the park",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's just relax in the park later",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let's visit the park later",
+    "is_slang": false,
+    "confidence": 0.85
+  },
+  {
+    "text": "we'll just be at the park later",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the audience was really hype during the concert",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the crowd was really pumped during the concert",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the crowd was really jacked up during the concert",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the crowd was very enthusiastic during the concert",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the audience was calm during the concert",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "he shows off his strength",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he flexes his muscles proudly",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he likes to boast about his muscles",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "he is just showing his strength",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he is working out hard",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the vase will shatter if dropped",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the vase explodes if you drop it",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the vase will break if dropped",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "the vase can crack if it falls",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the vase is fragile",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "i broke my record in the race",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i improved my record in the race",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i beat my personal best in the race",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "i exceeded my previous time in the race",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "i set a new record in the race",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "can you share the gossip, please?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "can you pass the rumor, please?",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "can you give me the lowdown, please?",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "can you tell me the news, please?",
+    "is_slang": true,
+    "confidence": 0.8
+  },
+  {
+    "text": "can you inform me about the latest, please?",
+    "is_slang": true,
+    "confidence": 0.75
+  },
+  {
+    "text": "the food was salty and hard to eat",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "the meal was seasoned and difficult to enjoy",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the dish was overly salty and hard to consume",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the food was bland and tough to chew",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "let's hang out by the pool this weekend",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's relax by the pool this weekend",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "let's enjoy some time by the pool this weekend",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's declutter and stay by the pool this weekend",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "let's chill next to the pool this weekend",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he likes to demonstrate his creativity in art",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he enjoys showcasing his creativity in art",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "he loves to express his creativity in art",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he likes to flex his muscles in competition",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "he appreciates art deeply",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "he looked unwell after eating too much junk food",
+    "is_slang": true,
+    "confidence": 0.92
+  },
+  {
+    "text": "he felt bad after eating too much junk food",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he looked tired after eating too much junk food",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he looks fine after eating too much junk food",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "he felt great after eating too much junk food",
+    "is_slang": false,
+    "confidence": 0.9
+  },
+  {
+    "text": "he can defeat anyone at chess",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "he can dominate anyone at chess",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "he is unbeatable at chess",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "he usually loses games of chess",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "he can't win anyone at chess",
+    "is_slang": false,
+    "confidence": 0.8
+  },
+  {
+    "text": "the party last night was amazing",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the party last night was awesome",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the event last night was dope",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the gathering last night was great",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the party last night was very enjoyable",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the party last night was quite fun",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the club was exciting with colorful lights",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the club was happening with colorful lights",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "the club was vibrant with colorful lights",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the club was full of energy with colorful lights",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "the club was quiet with colorful lights",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "the club was subdued with colorful lights",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "she was bitter about losing the game",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she was annoyed about losing the game",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she was frustrated about losing the game",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "she was angry about losing the game",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "she was fine about losing the game",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "she was okay about losing the game",
+    "is_slang": false,
+    "confidence": 0.75
+  },
+  {
+    "text": "let's hang out at the beach this summer",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's relax at the beach this summer",
+    "is_slang": true,
+    "confidence": 0.95
+  },
+  {
+    "text": "let's enjoy some time at the beach this summer",
+    "is_slang": true,
+    "confidence": 0.85
+  },
+  {
+    "text": "let's chillax at the beach this summer",
+    "is_slang": true,
+    "confidence": 0.9
+  },
+  {
+    "text": "let's rest at the beach this summer",
+    "is_slang": false,
+    "confidence": 0.8
+  }
+]

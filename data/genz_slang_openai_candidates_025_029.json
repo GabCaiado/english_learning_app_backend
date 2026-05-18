@@ -1,0 +1,401 @@
+[
+  {
+    "input": "he buys her gifts every day, he's such a simp.",
+    "target": "he buys her gifts every day, he's overly eager to please her to win her affection.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't be a simp just because she liked your photo.",
+    "target": "don't act overly fawning just because she liked your photo.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's such a simp for his ex, it's ridiculous.",
+    "target": "he's overly eager to please his ex, it's ridiculous.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you a simp for that influencer?",
+    "target": "why are you overly eager to please that influencer?",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called him a simp after he helped her move.",
+    "target": "they called him overly eager to please her after he helped her move.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't let him act like a simp around your friends.",
+    "target": "don't let him act overly submissive around your friends.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he gets called a simp whenever he defends her online.",
+    "target": "he gets called overly eager to please her whenever he defends her online.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you're such a simp for doing her homework.",
+    "target": "you're being overly eager to please her by doing her homework.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the squad says he's a simp because he always compliments her.",
+    "target": "the squad says he's overly eager to please her because he always compliments her.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new track slaps!",
+    "target": "this new track is excellent!",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this song slaps.",
+    "target": "this song sounds amazing.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that bassline slaps.",
+    "target": "that bassline is fantastic.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the drop slaps every time.",
+    "target": "the drop is amazing every time.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her set slaps at festivals.",
+    "target": "her set is really good at festivals.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this remix slaps, better than the original.",
+    "target": "this remix is great, better than the original.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that chorus slaps live.",
+    "target": "that chorus sounds amazing live.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this beat slaps on vinyl.",
+    "target": "this beat sounds great on vinyl.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party slaps every weekend.",
+    "target": "that party is amazing every weekend.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he slaps the mosquito.",
+    "target": "he slaps the mosquito.",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she slaps the table to get their attention.",
+    "target": "she slaps the table to get their attention.",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the teacher slaps the book down.",
+    "target": "the teacher slaps the book down.",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's slaying in that outfit tonight!",
+    "target": "she's looking amazing in that outfit tonight!",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you totally slayed that presentation!",
+    "target": "you did an excellent job on that presentation!",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they slay every time they take the stage.",
+    "target": "they perform brilliantly every time they take the stage.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her new makeup slayed the whole look.",
+    "target": "her new makeup made the whole look perfect.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you slay with those jokes.",
+    "target": "you are hilarious with those jokes.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that outfit slays.",
+    "target": "that outfit looks incredible.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the singer slayed the chorus last night.",
+    "target": "the singer delivered the chorus flawlessly last night.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she slayed the runway walk.",
+    "target": "she performed the runway walk flawlessly.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he slays in battle royale on Fortnite.",
+    "target": "he performs extremely well in battle royale on Fortnite.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you slayed that interview, congrats!",
+    "target": "you did extremely well in that interview, congratulations!",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the knight vowed to slay the dragon.",
+    "target": "the knight vowed to slay the dragon.",
+    "term": "slay",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the hunters planned to slay the rogue boar.",
+    "target": "the hunters planned to slay the rogue boar.",
+    "term": "slay",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her makeup was snatched at the event.",
+    "target": "her makeup looked flawless at the event.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she was snatched in that dress.",
+    "target": "she looked amazing in that dress.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his look was snatched for the photoshoot.",
+    "target": "his look was flawless for the photoshoot.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "your hair is snatched today.",
+    "target": "your hair looks perfect today.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they came to prom looking snatched.",
+    "target": "they came to prom looking flawless.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that contour is snatched.",
+    "target": "that contour is flawless.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she looks totally snatched in those heels.",
+    "target": "she looks totally stunning in those heels.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the whole crew was snatched for the shoot.",
+    "target": "the whole crew looked flawless for the shoot.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her outfit is snatched.",
+    "target": "her outfit looks amazing.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the thief snatched the purse.",
+    "target": "the thief snatched the purse.",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he snatched the document off my desk.",
+    "target": "he snatched the document off my desk.",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she snatched the plate before it could fall.",
+    "target": "she snatched the plate before it could fall.",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i stan BTS so hard",
+    "target": "i support BTS so much",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're total stans of Taylor Swift",
+    "target": "they're total fans of Taylor Swift",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "im a stan of that actor",
+    "target": "im a big fan of that actor",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she stans that singer nonstop",
+    "target": "she supports that singer nonstop",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we stan Fortnite daily",
+    "target": "we support Fortnite daily",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's a stan account tweeting memes",
+    "target": "that's a fan account tweeting memes",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "ive been stanning that artist since 2018",
+    "target": "ive been supporting that artist since 2018",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "dont stan bad actors",
+    "target": "dont support bad actors",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "shes practically a stan for the celebrity",
+    "target": "shes practically a devoted fan of the celebrity",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "im not a stan, im just curious",
+    "target": "im not a fan, im just curious",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Stan fixed the fence yesterday.",
+    "target": "Stan fixed the fence yesterday.",
+    "term": "stan",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stan is a suffix meaning land",
+    "target": "stan is a suffix meaning land",
+    "term": "stan",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

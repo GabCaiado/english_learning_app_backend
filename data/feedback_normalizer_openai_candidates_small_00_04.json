@@ -1,0 +1,422 @@
+[
+  {
+    "input": "the milk smells bad.",
+    "target": "the milk smells bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the weather is bad.",
+    "target": "the weather is bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the tire has a bad leak.",
+    "target": "the tire has a bad leak.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this food looks bad.",
+    "target": "this food looks bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the battery on my phone is bad.",
+    "target": "the battery on my phone is bad.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he got a bad grade on the test.",
+    "target": "he got a bad grade on the test.",
+    "term": "bad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his new song is bad.",
+    "target": "his new song is very good.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that dunk was bad.",
+    "target": "that dunk was excellent.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those sneakers are bad.",
+    "target": "those sneakers are very stylish.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that move was bad.",
+    "target": "that move was very impressive.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "their set at the festival was bad.",
+    "target": "their set at the festival was excellent.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her guitar solo was bad.",
+    "target": "her guitar solo was outstanding.",
+    "term": "bad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the drummer kept a steady beat.",
+    "target": "the drummer kept a steady beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm beat after the hike.",
+    "target": "i'm exhausted after the hike.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "beat the eggs until fluffy.",
+    "target": "beat the eggs until fluffy.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that old couch is beat.",
+    "target": "that old couch is worn out.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the officer returned to his usual beat.",
+    "target": "the officer returned to his usual beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're beat from the tournament.",
+    "target": "we're exhausted from the tournament.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they beat us by two goals.",
+    "target": "they beat us by two goals.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he was beat after running the marathon.",
+    "target": "he was exhausted after running the marathon.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the metronome marks the beat.",
+    "target": "the metronome marks the beat.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "these tires are beat, they need replacing.",
+    "target": "these tires are worn out, they need replacing.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she felt the beat of the music in her chest.",
+    "target": "she felt the beat of the music in her chest.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm beat, let's call it a night.",
+    "target": "i'm exhausted, let's call it a night.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she felt a bump as the elevator started.",
+    "target": "she felt a bump as the elevator started.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we bumped that track at the party.",
+    "target": "we played that track loudly at the party.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my car has a bump on the hood.",
+    "target": "my car has a bump on the hood.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bump this thread so people will reply.",
+    "target": "bring this thread back to the top so people will reply.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he noticed a small bump on his arm.",
+    "target": "he noticed a small bump on his arm.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he asked everyone to bump his video on the forum.",
+    "target": "he asked everyone to bring attention to his video on the forum.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the truck hit a bump in the road.",
+    "target": "the truck hit a bump in the road.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm going to bump the playlist tonight.",
+    "target": "i'm going to play the playlist loudly tonight.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "there is a bump on the wall where the nail was.",
+    "target": "there is a bump on the wall where the nail was.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they bumped the song again on the radio.",
+    "target": "they played the song again on the radio.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she rubbed the bump on her forehead.",
+    "target": "she rubbed the bump on her forehead.",
+    "term": "bump",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bump the promo post so it stays visible.",
+    "target": "bring the promo post back to the top so it stays visible.",
+    "term": "bump",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the candle left a small burn on the table.",
+    "target": "the candle left a small burn on the table.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watch out for a burn from the stove.",
+    "target": "watch out for a burn from the stove.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the sun gave me a burn at the beach.",
+    "target": "the sun gave me a burn at the beach.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i have a burn on my arm from the iron.",
+    "target": "i have a burn on my arm from the iron.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do not touch the oven; you might get a burn.",
+    "target": "do not touch the oven; you might get a burn.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the chemical caused a painful burn on his hand.",
+    "target": "the chemical caused a painful burn on his hand.",
+    "term": "burn",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that roast delivered a savage burn.",
+    "target": "that roast delivered a very harsh insult.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "wow, that comeback was a brutal burn.",
+    "target": "wow, that comeback was a brutal insult.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she burned him in front of everyone.",
+    "target": "she insulted him in front of everyone.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i got burned by that seller.",
+    "target": "i was cheated by that seller.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that comment was a total burn.",
+    "target": "that comment was a total insult.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they burned our team in the highlights.",
+    "target": "they humiliated our team in the highlights.",
+    "term": "burn",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the zipper on my jacket is busted.",
+    "target": "the zipper on my jacket is busted.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they busted him breaking into cars.",
+    "target": "they arrested him for breaking into cars.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that vase is busted after it fell off the shelf.",
+    "target": "that vase is busted after it fell off the shelf.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the teacher busted the student cheating on the exam.",
+    "target": "the teacher caught the student cheating on the exam.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my phone screen is busted from the drop.",
+    "target": "my phone screen is busted from the drop.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we got busted sneaking into the concert.",
+    "target": "we got caught sneaking into the concert.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the water pipe under the sink is busted and leaking.",
+    "target": "the water pipe under the sink is busted and leaking.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cops busted the dealer on the corner.",
+    "target": "the cops arrested the dealer on the corner.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the remote stopped working because it's busted.",
+    "target": "the remote stopped working because it's busted.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she was busted for lying to the judge.",
+    "target": "she was arrested for lying to the judge.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the car's tail light is busted after the accident.",
+    "target": "the car's tail light is busted after the accident.",
+    "term": "busted",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he busted his friend copying his homework.",
+    "target": "he caught his friend copying his homework.",
+    "term": "busted",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  }
+]

@@ -1,0 +1,194 @@
+{
+  "input_files": [
+    "data\\feedback_normalizer_openai_approved_small.json",
+    "data\\genz_slang_openai_approved_000_049.json"
+  ],
+  "approved_rows": 795,
+  "rejected_rows": 0,
+  "approved_by_sense": {
+    "literal": 200,
+    "slang": 595
+  },
+  "unique_terms": 66,
+  "top_terms": [
+    [
+      "drip",
+      24
+    ],
+    [
+      "flex",
+      24
+    ],
+    [
+      "bad",
+      12
+    ],
+    [
+      "beat",
+      12
+    ],
+    [
+      "bump",
+      12
+    ],
+    [
+      "burn",
+      12
+    ],
+    [
+      "busted",
+      12
+    ],
+    [
+      "cap",
+      12
+    ],
+    [
+      "chill",
+      12
+    ],
+    [
+      "clean",
+      12
+    ],
+    [
+      "cold",
+      12
+    ],
+    [
+      "cooked",
+      12
+    ],
+    [
+      "cover",
+      12
+    ],
+    [
+      "cracked",
+      12
+    ],
+    [
+      "crush",
+      12
+    ],
+    [
+      "dead",
+      12
+    ],
+    [
+      "dip",
+      12
+    ],
+    [
+      "drop",
+      12
+    ],
+    [
+      "fire",
+      12
+    ],
+    [
+      "floor",
+      12
+    ],
+    [
+      "catch these hands",
+      12
+    ],
+    [
+      "glow up",
+      12
+    ],
+    [
+      "hits different",
+      12
+    ],
+    [
+      "rent free",
+      12
+    ],
+    [
+      "vibe check",
+      12
+    ]
+  ],
+  "thin_terms": [
+    {
+      "term": "aight",
+      "literal": 0,
+      "slang": 11
+    },
+    {
+      "term": "big yikes",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "boujee",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "catch these hands",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "cra cra",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "deez nutz",
+      "literal": 0,
+      "slang": 11
+    },
+    {
+      "term": "fam",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "finna",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "glow up",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "i oop",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "iykyk",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "periodt",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "rizz",
+      "literal": 0,
+      "slang": 12
+    },
+    {
+      "term": "simp",
+      "literal": 0,
+      "slang": 9
+    },
+    {
+      "term": "sus",
+      "literal": 0,
+      "slang": 11
+    }
+  ],
+  "rejected_reasons": {},
+  "rejected_preview": []
+}

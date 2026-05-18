@@ -1,0 +1,3887 @@
+[
+  {
+    "input": "if you keep talking like that, you're going to catch these hands.",
+    "target": "if you keep talking like that, you're going to be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "say that again and you'll catch these hands.",
+    "target": "say that again and you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't push me or you'll catch these hands.",
+    "target": "don't push me or you'll get punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watch your mouth or you'll catch these hands.",
+    "target": "watch your mouth or you'll be hit.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "mess with my stuff and you're going to catch these hands.",
+    "target": "mess with my stuff and you're going to be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you don't apologize, you'll catch these hands.",
+    "target": "if you don't apologize, you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "keep running your mouth and you will catch these hands.",
+    "target": "keep running your mouth and you will be hit.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "one more insult and you'll catch these hands.",
+    "target": "one more insult and you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he told me i would catch these hands if i laughed.",
+    "target": "he told me i would be punched if i laughed.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they said i might catch these hands over that comment.",
+    "target": "they said i might be punched over that comment.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "joking aside, stop it or you'll catch these hands.",
+    "target": "joking aside, stop it or you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "try that again in person and you'll catch these hands.",
+    "target": "try that again in person and you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she really had a glow up since high school.",
+    "target": "she really had a dramatic makeover since high school.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his glow up after college was insane.",
+    "target": "his transformation after college was insane.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they've had a glow up this year.",
+    "target": "they've had a major transformation this year.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that singer's glow up is unbelievable.",
+    "target": "that singer's transformation is unbelievable.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the haircut and new wardrobe she got a glow up.",
+    "target": "after the haircut and new wardrobe she got a makeover.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i love her glow up in the new photos.",
+    "target": "i love her transformation in the new photos.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's had a huge glow up since his first album.",
+    "target": "he's had a huge transformation since his first album.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watching my friend have a glow up gave me inspiration.",
+    "target": "watching my friend have a makeover gave me inspiration.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that character's glow-up in the show was the best arc.",
+    "target": "that character's transformation in the show was the best arc.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we all noticed his glow up after he started working out.",
+    "target": "we all noticed his transformation after he started working out.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's glowing up and feels so confident.",
+    "target": "she's becoming more attractive and feels so confident.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after years of struggling, their glow up surprised everyone.",
+    "target": "after years of struggling, their transformation surprised everyone.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this song hits different at night.",
+    "target": "this song feels unusually better at night.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "coffee hits different on a rainy morning.",
+    "target": "coffee feels especially good on a rainy morning.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that old movie hits different when you watch it with your dad.",
+    "target": "that old movie feels more meaningful when you watch it with your dad.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "summer at the lake hits different.",
+    "target": "summer at the lake feels uniquely better.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "winning after a long losing streak hits different.",
+    "target": "winning after a long losing streak feels particularly satisfying.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her laugh hits different in person.",
+    "target": "her laugh sounds especially charming in person.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this playlist hits different after a breakup.",
+    "target": "this playlist feels especially cathartic after a breakup.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that view hits different from up here.",
+    "target": "that view feels noticeably better from up here.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "homemade soup hits different when you're sick.",
+    "target": "homemade soup tastes especially comforting when you're sick.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the new hammer hits different than the old one.",
+    "target": "the new hammer hits different than the old one.",
+    "term": "hits different",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the bat hits different with the new grip.",
+    "target": "the bat hits different with the new grip.",
+    "term": "hits different",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the ball hits different when it strikes the rim.",
+    "target": "the ball hits different when it strikes the rim.",
+    "term": "hits different",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that song is living rent-free in my head",
+    "target": "that song is constantly in my head",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that joke lives rent-free in his mind",
+    "target": "that joke is constantly in his mind",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the breakup is living rent-free in her thoughts",
+    "target": "the breakup is constantly in her thoughts",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme has been living rent-free in my brain",
+    "target": "that meme has been constantly in my brain",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his mistake is living rent-free in his head",
+    "target": "his mistake is constantly in his head",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that question is living rent-free in my mind",
+    "target": "that question is constantly in my mind",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the argument lives rent-free in their heads",
+    "target": "the argument is constantly in their heads",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that commercial is living rent-free in my head",
+    "target": "that commercial is constantly in my head",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this rumor has been living rent-free in people's minds",
+    "target": "this rumor has been constantly in people's minds",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the first month is rent free",
+    "target": "the first month is rent free",
+    "term": "rent free",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they offered a rent free office space to startups",
+    "target": "they offered a rent free office space to startups",
+    "term": "rent free",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is the storage unit rent free with the lease",
+    "target": "is the storage unit rent free with the lease",
+    "term": "rent free",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check: are you good?",
+    "target": "check how you're doing: are you good?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "quick vibe check, you okay?",
+    "target": "quick check to see how you're doing, you okay?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "time for a vibe check.",
+    "target": "time for a check to see how everyone is doing.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we need a vibe check.",
+    "target": "we need a check on how everyone is feeling.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she failed the vibe check.",
+    "target": "she failed the assessment of her attitude.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that was a harsh vibe check.",
+    "target": "that was a harsh test of someone's attitude.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check — thoughts?",
+    "target": "check how you're feeling — thoughts?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check before we go.",
+    "target": "check how everyone is doing before we go.",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "doing a vibe check right now",
+    "target": "doing a check on someone's mood right now",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "vibe check: is everyone okay?",
+    "target": "check how everyone is doing: is everyone okay?",
+    "term": "vibe check",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "perform a vibe check on the machinery.",
+    "target": "perform a vibe check on the machinery.",
+    "term": "vibe check",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we should do a vibe check on the pump tonight.",
+    "target": "we should do a vibe check on the pump tonight.",
+    "term": "vibe check",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight, i'll meet you at six.",
+    "target": "alright, i'll meet you at six.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that plan sounds aight to me.",
+    "target": "that plan sounds alright to me.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight, send me the files when you can.",
+    "target": "alright, send me the files when you can.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're leaving at noon, aight?",
+    "target": "we're leaving at noon, alright?",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm aight, thanks.",
+    "target": "i'm alright, thanks.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you good with the changes? aight.",
+    "target": "you good with the changes? alright.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight, let's get back to work.",
+    "target": "alright, let's get back to work.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is it aight if i bring a plus one?",
+    "target": "is it alright if i bring a plus one?",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "aight cool, see you then.",
+    "target": "alright cool, see you then.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that movie was aight, not the best.",
+    "target": "that movie was alright, not the best.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'll pick up lunch, aight?",
+    "target": "i'll pick up lunch, alright?",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's based.",
+    "target": "he's genuine and doesn't care what others think.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's so based.",
+    "target": "that's so principled and admirable.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her views are based.",
+    "target": "her views are genuine and uncompromising.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that take is based.",
+    "target": "that take is valid and principled.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme is based.",
+    "target": "that meme is an opinion i agree with.",
+    "term": "based",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the recipe is based on tomatoes.",
+    "target": "the recipe is based on tomatoes.",
+    "term": "based",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're going to a boujee restaurant tonight.",
+    "target": "we're going to a high-class restaurant tonight.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she acts so boujee with her designer bags.",
+    "target": "she acts so materialistic with her designer bags.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party was boujee and exclusive.",
+    "target": "that party was luxurious and exclusive.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he thinks he's boujee because of his new car.",
+    "target": "he thinks he's high-class because of his new car.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i bought a boujee lamp for the living room.",
+    "target": "i bought a luxurious lamp for the living room.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they prefer boujee brunch spots on sundays.",
+    "target": "they prefer high-end brunch spots on sundays.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her boujee aesthetic is all marble and gold.",
+    "target": "her luxurious aesthetic is all marble and gold.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you so boujee about the champagne?",
+    "target": "why are you so materialistic about the champagne?",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the neighborhood is getting boujee with all the new condos.",
+    "target": "the neighborhood is getting upscale with all the new condos.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she gave a boujee gift at the baby shower.",
+    "target": "she gave a lavish gift at the baby shower.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his boujee roommate never cooks and only orders sushi.",
+    "target": "his high-class roommate never cooks and only orders sushi.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they booked a boujee suite for the honeymoon.",
+    "target": "they booked a luxurious suite for the honeymoon.",
+    "term": "boujee",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this pizza is bussin!",
+    "target": "this pizza is delicious!",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those wings are bussin",
+    "target": "those wings are delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my grandma's apple pie is bussin",
+    "target": "my grandma's apple pie is excellent",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that burger is bussin'",
+    "target": "that burger is delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the fries are bussin right now",
+    "target": "the fries are really good right now",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "these tacos are bussin",
+    "target": "these tacos are delicious",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this smoothie is bussin, you should try it",
+    "target": "this smoothie is delicious, you should try it",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her presentation was bussin",
+    "target": "her presentation was impressive",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the concert last night was bussin",
+    "target": "the concert last night was outstanding",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that new phone is bussin for the price",
+    "target": "that new phone is great for the price",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were bussin under the porch.",
+    "target": "they were bussin under the porch.",
+    "term": "bussin",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the poet wrote about lovers bussin in the garden.",
+    "target": "the poet wrote about lovers bussin in the garden.",
+    "term": "bussin",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that performance was so cringe.",
+    "target": "that performance was so embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i couldn't finish the video because it was cringe.",
+    "target": "i couldn't finish the video because it was embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his attempt at flirting was cringe.",
+    "target": "his attempt at flirting was embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the whole interview felt cringe to watch.",
+    "target": "the whole interview felt embarrassing to watch.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme is cringe.",
+    "target": "that meme is embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this party vibe is cringe.",
+    "target": "this party vibe is embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being cringe around your boss.",
+    "target": "stop being embarrassing around your boss.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that reply made the thread cringe.",
+    "target": "that reply made the thread embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i felt cringe during the awkward silence.",
+    "target": "i felt embarrassed during the awkward silence.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that celebrity roast was actually cringe.",
+    "target": "that celebrity roast was actually embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he would cringe at the sight of blood.",
+    "target": "he would cringe at the sight of blood.",
+    "term": "cringe",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cat made me cringe when it hissed.",
+    "target": "the cat made me cringe when it hissed.",
+    "term": "cringe",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme is so dank!",
+    "target": "that meme is so excellent!",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "your playlist is dank.",
+    "target": "your playlist is excellent.",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new skin in Fortnite is dank",
+    "target": "this new skin in Fortnite is excellent",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that stand-up set was dank",
+    "target": "that stand-up set was outstanding",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "their tweets are always dank",
+    "target": "their tweets are always especially funny",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we had some dank snacks at the party",
+    "target": "we had some excellent snacks at the party",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the chef's new dish is dank",
+    "target": "the chef's new dish is excellent",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i saved a dank meme to my phone",
+    "target": "i saved a great meme to my phone",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his edits on the video are dank",
+    "target": "his edits on the video are impressive",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the basement smelled dank and moldy",
+    "target": "the basement smelled dank and moldy",
+    "term": "dank",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cave was dank after the rain",
+    "target": "the cave was dank after the rain",
+    "term": "dank",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the book describes a dank cellar behind the pub",
+    "target": "the book describes a dank cellar behind the pub",
+    "term": "dank",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his drip is amazing today.",
+    "target": "his style is amazing today.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "check out her drip at the party.",
+    "target": "check out her outfit at the party.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that artist always has great drip.",
+    "target": "that artist always has great style.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i love his drip in that jacket.",
+    "target": "i love his look in that jacket.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she showed her drip at the fashion show.",
+    "target": "she showed her style at the fashion show.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his drip always catches people's attention.",
+    "target": "his style always catches people's attention.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the whole crew has great drip.",
+    "target": "the whole crew has great style.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that sneaker drip looks sharp.",
+    "target": "that sneaker style looks sharp.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you see her drip in the new photos?",
+    "target": "do you see her style in the new photos?",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's got drip for days.",
+    "target": "he's got style for days.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "water will drip from the leaky pipe.",
+    "target": "water will drip from the leaky pipe.",
+    "term": "drip",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the nurse adjusted the drip on the iv.",
+    "target": "the nurse adjusted the drip on the iv.",
+    "term": "drip",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she brought a whole suitcase for a weekend trip, she's so extra.",
+    "target": "she brought a whole suitcase for a weekend trip, she's so over the top.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her outfit was so extra, but i loved it!",
+    "target": "her outfit was so over the top, but i loved it!",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he made an entrance that was extra.",
+    "target": "he made an entrance that was unnecessarily flamboyant.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they decorated the whole house for a small birthday, that was extra.",
+    "target": "they decorated the whole house for a small birthday, that was excessive.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being extra about the seating arrangements.",
+    "target": "stop being overly dramatic about the seating arrangements.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's extra with her voice and gestures on stage.",
+    "target": "she's overly showy with her voice and gestures on stage.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's so extra when he talks about his dog.",
+    "target": "he's so overly dramatic when he talks about his dog.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that apology was a little extra, you could have been brief.",
+    "target": "that apology was a little over the top, you could have been brief.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they went extra with the car decorations for prom.",
+    "target": "they went over the top with the car decorations for prom.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need an extra pen.",
+    "target": "i need an extra pen.",
+    "term": "extra",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "there is an extra slice of pizza in the fridge.",
+    "target": "there is an extra slice of pizza in the fridge.",
+    "term": "extra",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the extra battery is stored in the drawer.",
+    "target": "the extra battery is stored in the drawer.",
+    "term": "extra",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna head out.",
+    "target": "i'm going to head out.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna grab some food, you want anything?",
+    "target": "i'm going to grab some food, you want anything?",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we finna catch the bus.",
+    "target": "we are going to catch the bus.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they finna drop the album tonight.",
+    "target": "they are going to drop the album tonight.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she finna start the meeting in five minutes.",
+    "target": "she is going to start the meeting in five minutes.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he finna be late to class.",
+    "target": "he is going to be late to class.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna go to sleep.",
+    "target": "i'm going to go to sleep.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they finna play Fortnite tonight.",
+    "target": "they are going to play Fortnite tonight.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we finna finish the project by monday.",
+    "target": "we are going to finish the project by monday.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she finna have the report ready by noon.",
+    "target": "she is going to have the report ready by noon.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he finna try again tomorrow.",
+    "target": "he is going to try again tomorrow.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm finna meet Jamal at the cafe.",
+    "target": "i'm going to meet Jamal at the cafe.",
+    "term": "finna",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's flexing his new car all over social media.",
+    "target": "he's showing off his new car all over social media.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop flexing like you won the lottery.",
+    "target": "stop showing off like you won the lottery.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they keep flexing that designer jacket at school.",
+    "target": "they keep showing off that designer jacket at school.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her constant flex about travel plans is tiring.",
+    "target": "her constant bragging about travel plans is tiring.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't flex your grades in class.",
+    "target": "don't brag about your grades in class.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we can tell he's flexing for the camera.",
+    "target": "we can tell he's showing off for the camera.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's a flex, but it doesn't impress me.",
+    "target": "that's showing off, but it doesn't impress me.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "flex your muscles before the match.",
+    "target": "flex your muscles before the match.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the electrician replaced the old flex behind the stove.",
+    "target": "the electrician replaced the old flex behind the stove.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she flexed her promotion all week.",
+    "target": "she bragged about her promotion all week.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they flex hard about their startup's valuation.",
+    "target": "they brag a lot about their startup's valuation.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no need to flex about the trophy, you earned it.",
+    "target": "no need to boast about the trophy, you earned it.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we were talking for weeks, and then she just ghosted me.",
+    "target": "we were talking for weeks, and then she just stopped replying to me.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after our third date he started ghosting me.",
+    "target": "after our third date he started ignoring me and not replying.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i hate being ghosted after we text all night.",
+    "target": "i hate being ignored and not replied to after we text all night.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he ghosted me after i sent the last text.",
+    "target": "he stopped responding to me after i sent the last text.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her ghosting left me confused and hurt.",
+    "target": "her suddenly ignoring me left me confused and hurt.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they ghosted the group chat and never came back.",
+    "target": "they stopped participating in the group chat and never came back.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop ghosting me, just say you’re not interested.",
+    "target": "stop ignoring me, just say you’re not interested.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i thought we had a connection but then he ghosted.",
+    "target": "i thought we had a connection but then he stopped replying.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the old television showed ghosting around bright objects.",
+    "target": "the old television showed ghosting around bright objects.",
+    "term": "ghosting",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "ghosting in printing creates faint duplicate images.",
+    "target": "ghosting in printing creates faint duplicate images.",
+    "term": "ghosting",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she is ghosting him even though they matched last week.",
+    "target": "she is ignoring him and not replying to his messages even though they matched last week.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that player is the goat in basketball!",
+    "target": "that player is the greatest of all time in basketball!",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Messi is the goat.",
+    "target": "Messi is the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's the goat at tennis.",
+    "target": "she's the greatest of all time at tennis.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "nobody plays like him, he's the goat.",
+    "target": "nobody plays like him, he's the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "who is the goat in football?",
+    "target": "who is the greatest of all time in football?",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they named her the goat on the team.",
+    "target": "they named her the greatest of all time on the team.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he might be the goat.",
+    "target": "he might be the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this performance is goat status.",
+    "target": "this performance is greatest of all time status.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the goat grazed in the field.",
+    "target": "the goat grazed in the field.",
+    "term": "goat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she bought a goat from the farm.",
+    "target": "she bought a goat from the farm.",
+    "term": "goat",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my coach says he is the goat.",
+    "target": "my coach says he is the greatest of all time.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watch her, she's the goat in gymnastics.",
+    "target": "watch her, she's the greatest of all time in gymnastics.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that hidden message in the movie was iconic. iykyk.",
+    "target": "that hidden message in the movie was iconic. if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we left a note under the bench, iykyk.",
+    "target": "we left a note under the bench, if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the meetup is at the florist shop at nine tonight iykyk",
+    "target": "the meetup is at the florist shop at nine tonight if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "check the fifth episode for the hint, iykyk.",
+    "target": "check the fifth episode for the hint, if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they added a secret level in the game iykyk",
+    "target": "they added a secret level in the game if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "only the old students will recognize that slogan iykyk.",
+    "target": "only the old students will recognize that slogan if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the mural has a tiny symbol that points the way iykyk",
+    "target": "the mural has a tiny symbol that points the way if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we use a special knock at the door, iykyk",
+    "target": "we use a special knock at the door, if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this playlist is full of camp songs from 2008 iykyk.",
+    "target": "this playlist is full of camp songs from 2008 if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "meet me by the third lamppost to get the package iykyk",
+    "target": "meet me by the third lamppost to get the package if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cafe serves a secret coffee that only locals order iykyk.",
+    "target": "the cafe serves a secret coffee that only locals order if you know, you know.",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she winked when she mentioned the code word iykyk",
+    "target": "she winked when she mentioned the code word if you know, you know",
+    "term": "iykyk",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's the best movie of all time, periodt.",
+    "target": "that's the best movie of all time, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no one can change my mind, periodt.",
+    "target": "no one can change my mind, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's the boss, periodt.",
+    "target": "she's the boss, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're closed for the holidays, periodt.",
+    "target": "we're closed for the holidays, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this plan is nonnegotiable, periodt!",
+    "target": "this plan is nonnegotiable, end of discussion!",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i will not be attending the meeting, periodt.",
+    "target": "i will not be attending the meeting, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you broke the rule, periodt.",
+    "target": "you broke the rule, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's final, periodt",
+    "target": "that's final, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i love her, periodt.",
+    "target": "i love her, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this is unacceptable, periodt.",
+    "target": "this is unacceptable, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm not going to apologize, periodt.",
+    "target": "i'm not going to apologize, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no refunds will be given, periodt.",
+    "target": "no refunds will be given, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's got so much rizz, everyone likes him.",
+    "target": "he's got so much skill at flirting, everyone likes him.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's working on her rizz for the party.",
+    "target": "she's working on her ability to flirt for the party.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i have zero rizz and i always freeze when talking to someone i like.",
+    "target": "i have no ability to flirt and i always freeze when talking to someone i like.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his rizz always gets him dates.",
+    "target": "his ability to attract people always gets him dates.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they tested my rizz at the bar last night.",
+    "target": "they tested my flirting skills at the bar last night.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need to up my rizz before the date.",
+    "target": "i need to improve my ability to flirt before the date.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no rizz, no chance.",
+    "target": "no ability to flirt, no chance.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he rizzed her up at the concert.",
+    "target": "he successfully flirted with her at the concert.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's peak rizz behavior.",
+    "target": "that's excellent flirting behavior.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you have any rizz tips?",
+    "target": "do you have any tips for flirting?",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his natural rizz came out when he talked to her.",
+    "target": "his natural ability to flirt came out when he talked to her.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bringing good rizz to a date matters.",
+    "target": "bringing strong flirting skills to a date matters.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's just salty because he lost the game",
+    "target": "he's just jealous because he lost the game",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being salty about her promotion",
+    "target": "stop being jealous about her promotion",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they got salty when i beat them at Fortnite",
+    "target": "they got jealous when i beat them at Fortnite",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't get salty over a small mistake",
+    "target": "don't get jealous over a small mistake",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you so salty about her dating someone else",
+    "target": "why are you so jealous about her dating someone else",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "quit acting salty just because i got a promotion",
+    "target": "quit acting jealous just because i got a promotion",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he seemed salty after she praised Lisa's project",
+    "target": "he seemed jealous after she praised Lisa's project",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she gets salty whenever her friends get new phones",
+    "target": "she gets jealous whenever her friends get new phones",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you're salty that i won the tournament",
+    "target": "you're jealous that i won the tournament",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the soup is too salty",
+    "target": "the soup is too salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the soil near the coast is salty",
+    "target": "the soil near the coast is salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a salty taste lingered on his lips",
+    "target": "a salty taste lingered on his lips",
+    "term": "salty",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she was throwing shade at my outfit.",
+    "target": "she was insulting my outfit.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "did you hear him throw shade about her new song?",
+    "target": "did you hear him make a disparaging remark about her new song?",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop shading me in front of everyone.",
+    "target": "stop insulting me in front of everyone.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were being shady about the contract.",
+    "target": "they were acting suspiciously about the contract.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i felt like she was throwing shade with that comment.",
+    "target": "i felt like she was making a disparaging remark with that comment.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you throwing shade at my friend?",
+    "target": "why are you insulting my friend?",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he always throws shade on social media.",
+    "target": "he always posts indirect insults on social media.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that reply was low-key shade.",
+    "target": "that reply was a subtle insult.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she shaded him during the meeting.",
+    "target": "she insulted him during the meeting.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don’t throw shade in the group chat.",
+    "target": "don’t make indirect insults in the group chat.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we sat in the shade to escape the heat.",
+    "target": "we sat in the shade to escape the heat.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the map shows the shaded area in blue.",
+    "target": "the map shows the shaded area in blue.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i totally ship those two characters!",
+    "target": "i totally wish those two characters were in a relationship!",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you ship Alice and Bob?",
+    "target": "do you want Alice and Bob to be in a relationship?",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i ship them so hard",
+    "target": "i want them to be in a relationship so hard",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop shipping celebrities i like with other people",
+    "target": "stop wishing celebrities i like were in relationships with other people",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is it wrong that i ship my two best friends?",
+    "target": "is it wrong that i want my two best friends to be in a relationship?",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that ship is my favorite",
+    "target": "that romantic pairing is my favorite",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they ship her and him",
+    "target": "they want her and him to be in a relationship",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i can't stop shipping Draco and Hermione",
+    "target": "i can't stop wishing Draco and Hermione were in a relationship",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm not sure if i ship them or not",
+    "target": "i'm not sure if i want them to be in a relationship or not",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the ship arrived at the harbor.",
+    "target": "the ship arrived at the harbor.",
+    "term": "ship",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we will ship the order tomorrow.",
+    "target": "we will ship the order tomorrow.",
+    "term": "ship",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he buys her gifts every day, he's such a simp.",
+    "target": "he buys her gifts every day, he's overly eager to please her to win her affection.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't be a simp just because she liked your photo.",
+    "target": "don't act overly fawning just because she liked your photo.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's such a simp for his ex, it's ridiculous.",
+    "target": "he's overly eager to please his ex, it's ridiculous.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you a simp for that influencer?",
+    "target": "why are you overly eager to please that influencer?",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called him a simp after he helped her move.",
+    "target": "they called him overly eager to please her after he helped her move.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't let him act like a simp around your friends.",
+    "target": "don't let him act overly submissive around your friends.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he gets called a simp whenever he defends her online.",
+    "target": "he gets called overly eager to please her whenever he defends her online.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you're such a simp for doing her homework.",
+    "target": "you're being overly eager to please her by doing her homework.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the squad says he's a simp because he always compliments her.",
+    "target": "the squad says he's overly eager to please her because he always compliments her.",
+    "term": "simp",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new track slaps!",
+    "target": "this new track is excellent!",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this song slaps.",
+    "target": "this song sounds amazing.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that bassline slaps.",
+    "target": "that bassline is fantastic.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the drop slaps every time.",
+    "target": "the drop is amazing every time.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her set slaps at festivals.",
+    "target": "her set is really good at festivals.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this remix slaps, better than the original.",
+    "target": "this remix is great, better than the original.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that chorus slaps live.",
+    "target": "that chorus sounds amazing live.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this beat slaps on vinyl.",
+    "target": "this beat sounds great on vinyl.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party slaps every weekend.",
+    "target": "that party is amazing every weekend.",
+    "term": "slaps",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he slaps the mosquito.",
+    "target": "he slaps the mosquito.",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she slaps the table to get their attention.",
+    "target": "she slaps the table to get their attention.",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the teacher slaps the book down.",
+    "target": "the teacher slaps the book down.",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's slaying in that outfit tonight!",
+    "target": "she's looking amazing in that outfit tonight!",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you totally slayed that presentation!",
+    "target": "you did an excellent job on that presentation!",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they slay every time they take the stage.",
+    "target": "they perform brilliantly every time they take the stage.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her new makeup slayed the whole look.",
+    "target": "her new makeup made the whole look perfect.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you slay with those jokes.",
+    "target": "you are hilarious with those jokes.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that outfit slays.",
+    "target": "that outfit looks incredible.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the singer slayed the chorus last night.",
+    "target": "the singer delivered the chorus flawlessly last night.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she slayed the runway walk.",
+    "target": "she performed the runway walk flawlessly.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he slays in battle royale on Fortnite.",
+    "target": "he performs extremely well in battle royale on Fortnite.",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you slayed that interview, congrats!",
+    "target": "you did extremely well in that interview, congratulations!",
+    "term": "slay",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the knight vowed to slay the dragon.",
+    "target": "the knight vowed to slay the dragon.",
+    "term": "slay",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the hunters planned to slay the rogue boar.",
+    "target": "the hunters planned to slay the rogue boar.",
+    "term": "slay",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her makeup was snatched at the event.",
+    "target": "her makeup looked flawless at the event.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she was snatched in that dress.",
+    "target": "she looked amazing in that dress.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his look was snatched for the photoshoot.",
+    "target": "his look was flawless for the photoshoot.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "your hair is snatched today.",
+    "target": "your hair looks perfect today.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they came to prom looking snatched.",
+    "target": "they came to prom looking flawless.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that contour is snatched.",
+    "target": "that contour is flawless.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she looks totally snatched in those heels.",
+    "target": "she looks totally stunning in those heels.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the whole crew was snatched for the shoot.",
+    "target": "the whole crew looked flawless for the shoot.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her outfit is snatched.",
+    "target": "her outfit looks amazing.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the thief snatched the purse.",
+    "target": "the thief snatched the purse.",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he snatched the document off my desk.",
+    "target": "he snatched the document off my desk.",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she snatched the plate before it could fall.",
+    "target": "she snatched the plate before it could fall.",
+    "term": "snatched",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i stan BTS so hard",
+    "target": "i support BTS so much",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're total stans of Taylor Swift",
+    "target": "they're total fans of Taylor Swift",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "im a stan of that actor",
+    "target": "im a big fan of that actor",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she stans that singer nonstop",
+    "target": "she supports that singer nonstop",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we stan Fortnite daily",
+    "target": "we support Fortnite daily",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's a stan account tweeting memes",
+    "target": "that's a fan account tweeting memes",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "ive been stanning that artist since 2018",
+    "target": "ive been supporting that artist since 2018",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "dont stan bad actors",
+    "target": "dont support bad actors",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "shes practically a stan for the celebrity",
+    "target": "shes practically a devoted fan of the celebrity",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "im not a stan, im just curious",
+    "target": "im not a fan, im just curious",
+    "term": "stan",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Stan fixed the fence yesterday.",
+    "target": "Stan fixed the fence yesterday.",
+    "term": "stan",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stan is a suffix meaning land",
+    "target": "stan is a suffix meaning land",
+    "term": "stan",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's so woke, always talking about equality.",
+    "target": "she's so aware of social and political issues, always talking about equality.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called him woke after he questioned the company's hiring practices.",
+    "target": "they called him politically aware after he questioned the company's hiring practices.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that movie is pretty woke and focuses on systemic racism.",
+    "target": "that movie is pretty politically aware and focuses on systemic racism.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "being woke means recognizing privilege and oppression.",
+    "target": "being politically aware means recognizing privilege and oppression.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't pretend to be woke just to get followers.",
+    "target": "don't pretend to be politically aware just to get followers.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "some influencers use woke language without understanding it.",
+    "target": "some influencers use politically aware language without understanding it.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a woke perspective helped shape the protest's demands.",
+    "target": "a politically aware perspective helped shape the protest's demands.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's described as woke, but he never shows up for meetings about diversity.",
+    "target": "he's described as politically aware, but he never shows up for meetings about diversity.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the company adopted a woke policy on gender pronouns.",
+    "target": "the company adopted a politically aware policy on gender pronouns.",
+    "term": "woke",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she woke early to catch the sunrise.",
+    "target": "she woke early to catch the sunrise.",
+    "term": "woke",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i woke him up before five this morning.",
+    "target": "i woke him up before five this morning.",
+    "term": "woke",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she ate her solo at the concert.",
+    "target": "she performed her solo extremely well at the concert.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he ate that roast and left everyone speechless.",
+    "target": "he delivered that roast extremely well and left everyone speechless.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they ate the choreography in the latest video.",
+    "target": "they executed the choreography extremely well in the latest video.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Rihanna ate the red carpet in that gown.",
+    "target": "Rihanna looked incredible on the red carpet in that gown.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you ate that presentation and closed the deal.",
+    "target": "you delivered that presentation extremely well and closed the deal.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the band ate the encore last night.",
+    "target": "the band performed the encore extremely well last night.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she absolutely ate her makeup look for the shoot.",
+    "target": "she absolutely executed her makeup look extremely well for the shoot.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "Mike ate his set at the open mic.",
+    "target": "Mike performed his set extremely well at the open mic.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that outfit? she ate.",
+    "target": "that outfit? she looked amazing.",
+    "term": "ate",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i ate lunch at noon.",
+    "target": "i ate lunch at noon.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he ate the sandwich before class.",
+    "target": "he ate the sandwich before class.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we ate apples from the orchard.",
+    "target": "we ate apples from the orchard.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new track is bop",
+    "target": "this new track is an excellent song",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that single is bop",
+    "target": "that single is an excellent song",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i played that bop on repeat",
+    "target": "i played that excellent song on repeat",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that album is bop",
+    "target": "that album is excellent",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "put on that bop",
+    "target": "put on that excellent song",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that bop has been stuck in my head",
+    "target": "that great song has been stuck in my head",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this is the bop of the summer",
+    "target": "this is the song of the summer",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she wrote a bop last year",
+    "target": "she wrote a hit song last year",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those are bops",
+    "target": "those are excellent songs",
+    "term": "bop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the baby gave the toy a gentle bop",
+    "target": "the baby gave the toy a gentle bop",
+    "term": "bop",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bop is a style of jazz that influenced many musicians",
+    "target": "bop is a style of jazz that influenced many musicians",
+    "term": "bop",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i gave the ball a light bop to move it",
+    "target": "i gave the ball a light bop to move it",
+    "term": "bop",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's good, fam? long time no see!",
+    "target": "what's good, friends? long time no see!",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's up, fam? let's hang out this weekend.",
+    "target": "what's up, friends? let's hang out this weekend.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i got you, fam, i'll cover the rent this month.",
+    "target": "i got you, friends, i'll cover the rent this month.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "shoutout to my fam for helping me move last night.",
+    "target": "shoutout to my family for helping me move last night.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bring the snacks and invite the fam to the barbecue.",
+    "target": "bring the snacks and invite the family to the barbecue.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "fam, can you pick me up from the station?",
+    "target": "friends, can you pick me up from the station?",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my fam always watches my streams and supports me.",
+    "target": "my family always watches my streams and supports me.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't leave your fam hanging when they need you.",
+    "target": "don't leave your friends hanging when they need you.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she treated me like fam after we met once.",
+    "target": "she treated me like a friend after we met once.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're heading out, fam, see you later.",
+    "target": "we're heading out, friends, see you later.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you need anything, hit up the fam group chat.",
+    "target": "if you need anything, hit up the family group chat.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm close with my fam from college.",
+    "target": "i'm close with my friends from college.",
+    "term": "fam",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party was lit!",
+    "target": "that party was amazing!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the concert last night was lit",
+    "target": "the concert last night was incredible",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her new single is so lit",
+    "target": "her new single is so amazing",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that joke was lit",
+    "target": "that joke was hilarious",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new coffee shop is lit",
+    "target": "this new coffee shop is fantastic",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "those new sneakers are lit",
+    "target": "those new sneakers are awesome",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the festival was lit all weekend",
+    "target": "the festival was great all weekend",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the speaker was lit",
+    "target": "the speaker was excellent",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we were so lit after that party.",
+    "target": "we were very drunk after that party.",
+    "term": "lit",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the room was lit by candlelight.",
+    "target": "the room was lit by candlelight.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he lit the fire before we arrived.",
+    "target": "he lit the fire before we arrived.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she lit the lamp and sat down.",
+    "target": "she lit the lamp and sat down.",
+    "term": "lit",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that movie was mid, nothing special.",
+    "target": "that movie was mediocre, nothing special.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the album is mid compared to their older work.",
+    "target": "the album is mediocre compared to their older work.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this season of the show feels mid.",
+    "target": "this season of the show feels mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the game is fun but the story is mid.",
+    "target": "the game is fun but the story is mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his performance was mid at best.",
+    "target": "his performance was mediocre at best.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the new single was mid, not worth replaying.",
+    "target": "the new single was mediocre, not worth replaying.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that restaurant is mid, the food is just okay.",
+    "target": "that restaurant is mediocre, the food is just okay.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "reviews said the film was mid and forgettable.",
+    "target": "reviews said the film was mediocre and forgettable.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "their set tonight was mid, no energy.",
+    "target": "their set tonight was mediocre, no energy.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "set the fan to mid for a gentle breeze.",
+    "target": "set the fan to mid for a gentle breeze.",
+    "term": "mid",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "place the book on the mid shelf between the top and bottom.",
+    "target": "place the book on the mid shelf between the top and bottom.",
+    "term": "mid",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the needle stopped at mid on the gauge.",
+    "target": "the needle stopped at mid on the gauge.",
+    "term": "mid",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why's he acting so sus all of a sudden?",
+    "target": "why's he acting so suspicious all of a sudden?",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that new player is sus, don't trust them.",
+    "target": "that new player is suspicious, don't trust them.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her alibi sounds sus to me.",
+    "target": "her alibi sounds suspicious to me.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this file name looks sus; scan it before opening.",
+    "target": "this file name looks suspicious; scan it before opening.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he stayed quiet the whole meeting, sus.",
+    "target": "he stayed quiet the whole meeting, suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's been acting sus since the announcement.",
+    "target": "she's been acting suspicious since the announcement.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't meet him alone; he's pretty sus.",
+    "target": "don't meet him alone; he's pretty suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that explanation is sus af.",
+    "target": "that explanation is extremely suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they voted out the crewmate because he looked sus.",
+    "target": "they voted out the crewmate because he looked suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the deal sounds sus, walk away.",
+    "target": "the deal sounds suspicious, walk away.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being sus and tell the truth.",
+    "target": "stop being suspicious and tell the truth.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "spill the tea, i need to know what happened!",
+    "target": "tell me the gossip, i need to know what happened!",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "spill the tea, i want to hear all the details!",
+    "target": "tell me the gossip, i want to hear all the details!",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's always serving tea about her coworkers",
+    "target": "she's always gossiping about her coworkers",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "did you get the tea about their breakup?",
+    "target": "did you get the gossip about their breakup?",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i heard some tea in the group chat last night",
+    "target": "i heard some gossip in the group chat last night",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "got any tea from the meeting?",
+    "target": "got any gossip from the meeting?",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "spill the tea on what happened at the show",
+    "target": "tell me the gossip about what happened at the show",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're spilling the tea about last night's fight",
+    "target": "they're sharing the gossip about last night's fight",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "keep the tea to yourself for now",
+    "target": "keep the gossip to yourself for now",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i drink tea every morning",
+    "target": "i drink tea every morning",
+    "term": "tea",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "would you like some tea?",
+    "target": "would you like some tea?",
+    "term": "tea",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she put the tea on the table.",
+    "target": "she put the tea on the table.",
+    "term": "tea",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm about to beat my face for this event tonight.",
+    "target": "i'm about to apply makeup to my face for this event tonight.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she beat her face for the photoshoot.",
+    "target": "she applied makeup to her face for the photoshoot.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we beat our faces before every drag show.",
+    "target": "we apply makeup to our faces before every drag show.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he always beats his face when he gets ready for dates.",
+    "target": "he always applies makeup to his face when he gets ready for dates.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they beat their faces for the competition.",
+    "target": "they apply makeup to their faces for the competition.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need to beat my face before the livestream starts.",
+    "target": "i need to apply makeup to my face before the livestream starts.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i will beat my face and then go to the party.",
+    "target": "i will apply makeup to my face and then go to the party.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after i beat my face, i'll show you the tutorial.",
+    "target": "after i apply makeup to my face, i'll show you the tutorial.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you beat your face differently for daytime looks?",
+    "target": "do you apply makeup to your face differently for daytime looks?",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the tutorial teaches how to beat your face like a pro.",
+    "target": "the tutorial teaches how to apply makeup to your face like a professional.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do not beat your face against the door.",
+    "target": "do not beat your face against the door.",
+    "term": "beat your face",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you beat your face on the pavement, you could get a concussion.",
+    "target": "if you beat your face on the pavement, you could get a concussion.",
+    "term": "beat your face",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he pulled a big brain move during the meeting.",
+    "target": "he pulled a move that made him feel foolish and regretful during the meeting.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i had a big brain moment and left my keys inside the car.",
+    "target": "i had a moment where i did something so silly i now regret it and left my keys inside the car.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she showed big brain energy and spilled coffee on her laptop.",
+    "target": "she showed behavior that was foolish and left her feeling regretful and spilled coffee on her laptop.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that was a big brain idea; now we have to redo everything.",
+    "target": "that was an idea that turned out to be foolish; now we have to redo everything.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "big brain, he locked himself out trying to be clever.",
+    "target": "what a foolish move, he locked himself out trying to be clever.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called it a big brain play but it ruined the presentation.",
+    "target": "they called it a play that was actually foolish but it ruined the presentation.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "nice big brain move leaving your wallet at home.",
+    "target": "nice stupid move leaving your wallet at home.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the big brain slip, she regretted sending the message.",
+    "target": "after the careless mistake, she regretted sending the message.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the skull model had a big brain inside.",
+    "target": "the skull model had a big brain inside.",
+    "term": "big brain",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the ape's big brain surprised the researchers.",
+    "target": "the ape's big brain surprised the researchers.",
+    "term": "big brain",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the diagram labeled the big brain and the spinal cord.",
+    "target": "the diagram labeled the big brain and the spinal cord.",
+    "term": "big brain",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's big mad because we beat his team last night.",
+    "target": "he's very angry because we beat his team last night.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she got big mad when i took her hoodie.",
+    "target": "she got very angry when i took her hoodie.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were big mad about the spoilers.",
+    "target": "they were extremely angry about the spoilers.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my boss is big mad over the missed deadline.",
+    "target": "my boss is very angry over the missed deadline.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm big mad that my flight was canceled.",
+    "target": "i'm extremely angry that my flight was canceled.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the fans were big mad after the referee's call.",
+    "target": "the fans were very angry after the referee's call.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's big mad at him for lying.",
+    "target": "she's very angry at him for lying.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't get big mad just because you lost a game.",
+    "target": "don't get extremely angry just because you lost a game.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we were big mad when the concert got canceled.",
+    "target": "we were very angry when the concert got canceled.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he came home big mad and slammed the door.",
+    "target": "he came home very angry and slammed the door.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the big mad man shouted in the street.",
+    "target": "the big mad man shouted in the street.",
+    "term": "big mad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "in the phrase 'big mad', big modifies mad.",
+    "target": "in the phrase 'big mad', big modifies mad.",
+    "term": "big mad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she wore the same dress as the bride at the wedding. big yikes.",
+    "target": "she wore the same dress as the bride at the wedding. that is really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he accidentally called his boss mom during the meeting. big yikes.",
+    "target": "he accidentally called his boss mom during the meeting. that is really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "someone ran into the glass door at the party. big yikes.",
+    "target": "someone ran into the glass door at the party. that is so embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "big yikes, i posted a private message on my public feed.",
+    "target": "that is really embarrassing, i posted a private message on my public feed.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he replied all with the joke meant for his friend. big yikes.",
+    "target": "he replied all with the joke meant for his friend. that's really awkward.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she tripped while giving her presentation. big yikes.",
+    "target": "she tripped while giving her presentation. that was really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "left my headphones in the taxi and realized at home. big yikes.",
+    "target": "left my headphones in the taxi and realized at home. that is so embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she sent a flirty text to her ex by mistake. big yikes.",
+    "target": "she sent a flirty text to her ex by mistake. that is very embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he waved back at someone who wasn't waving at him. big yikes.",
+    "target": "he waved back at someone who wasn't waving at him. that is so cringeworthy.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i forgot my lines during the school play. big yikes.",
+    "target": "i forgot my lines during the school play. that was really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they accidentally forwarded the private photo to the whole group chat. big yikes.",
+    "target": "they accidentally forwarded the private photo to the whole group chat. that is extremely embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i called my teacher mom in front of the class. big yikes.",
+    "target": "i called my teacher mom in front of the class. that is very embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's your body count?",
+    "target": "how many people have you had sex with?",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he flexes his body count on social media.",
+    "target": "he flexes how many people he has had sex with on social media.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's lowkey proud of her body count.",
+    "target": "she's lowkey proud of how many people she has had sex with.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm trying to keep my body count private.",
+    "target": "i'm trying to keep how many people i have had sex with private.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "dating apps make it easy to check someone's body count.",
+    "target": "dating apps make it easy to check how many people someone has had sex with.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is body count a dealbreaker for you?",
+    "target": "is the number of sexual partners a dealbreaker for you?",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's your ex's body count?",
+    "target": "how many people has your ex had sex with?",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he lied about his body count.",
+    "target": "he lied about how many people he had sex with.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my body count is five.",
+    "target": "my number of sexual partners is five.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the body count after the earthquake was still being tallied.",
+    "target": "the body count after the earthquake was still being tallied.",
+    "term": "body count",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they increased the body count in the report to reflect the casualties.",
+    "target": "they increased the body count in the report to reflect the casualties.",
+    "term": "body count",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party was cra cra!",
+    "target": "that party was crazy!",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "traffic today was cra cra, i was late",
+    "target": "traffic today was chaotic, i was late",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the concert got cra cra once the headliner showed up",
+    "target": "the concert got wild once the headliner showed up",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my weekend plans are cra cra, so i can't commit",
+    "target": "my weekend plans are hectic, so i can't commit",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that game went cra cra in the last five minutes",
+    "target": "that game went crazy in the last five minutes",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her reaction was totally cra cra",
+    "target": "her reaction was totally over the top",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the weather turned cra cra overnight",
+    "target": "the weather turned severe overnight",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that breakup was cra cra drama",
+    "target": "that breakup was intense drama",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i was driving and things got cra cra",
+    "target": "i was driving and things got chaotic",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the festival crowd went cra cra during the finale",
+    "target": "the festival crowd went wild during the finale",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his stories are cra cra sometimes",
+    "target": "his stories are crazy sometimes",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the plan sounds cra cra, but let's try",
+    "target": "the plan sounds wild, but let's try",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "wow, deez nutz got him good.",
+    "target": "wow, that trolling phrase got him good.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop saying deez nutz during class.",
+    "target": "stop saying that phrase meant to annoy people during class.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they included deez nutz in the meme.",
+    "target": "they included that phrase used to annoy people in the meme.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "deez nutz are annoying in chat.",
+    "target": "that trolling phrase is annoying in chat.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i got pranked with deez nutz yesterday.",
+    "target": "i got pranked with that trolling phrase yesterday.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is using deez nutz funny?",
+    "target": "is using that phrase to annoy people funny?",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he yelled deez nutz at the other player.",
+    "target": "he yelled that phrase to provoke the other player.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they shouted deez nutz during the livestream.",
+    "target": "they shouted that phrase during the livestream.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "who even says deez nutz anymore?",
+    "target": "who even says that trolling phrase anymore?",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i rolled my eyes when she said deez nutz.",
+    "target": "i rolled my eyes when she said that phrase meant to annoy people.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the joke 'deez nutz' derailed the discussion.",
+    "target": "the joke 'that phrase meant to annoy people' derailed the discussion.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's calling it her hot girl summer on insta",
+    "target": "she's calling it her summer of enjoying herself and being unapologetic on insta",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they planned a hot girl summer road trip",
+    "target": "they planned a road trip for women to have fun and be unapologetic",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she doubled down on her hot girl summer attitude",
+    "target": "she doubled down on her attitude of enjoying herself and being unapologetic",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're planning a hot girl summer party next month",
+    "target": "they're planning a party for women to have fun and be unapologetic next month",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the breakup she went full hot girl summer",
+    "target": "after the breakup she decided to enjoy herself and be unapologetic",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "booking pride events during hot girl summer was a smart move",
+    "target": "booking pride events during a season when women focus on having fun and being unapologetic was a smart move",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the dictionary defines hot girl summer as a summer when a girl is hot",
+    "target": "the dictionary defines hot girl summer as a summer when a girl is hot",
+    "term": "hot girl summer",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she described 1999 as a hot girl summer because the temperatures were unusually high",
+    "target": "she described 1999 as a hot girl summer because the temperatures were unusually high",
+    "term": "hot girl summer",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she spilled her drink on her dress and i oop!",
+    "target": "she spilled her drink on her dress and i gasped!",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i was walking down the hall and i oop when i saw him",
+    "target": "i was walking down the hall and i gasped when i saw him",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop, that was awkward",
+    "target": "oh no, that was awkward",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he tripped in front of everyone and i oop.",
+    "target": "he tripped in front of everyone and i cringed.",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my mom caught me sneaking snacks and i oop",
+    "target": "my mom caught me sneaking snacks and i was embarrassed",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop when the cake fell",
+    "target": "i gasped when the cake fell",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she texted the wrong number and i oop",
+    "target": "she texted the wrong number and i was surprised",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop! the cat knocked over the vase",
+    "target": "oh no! the cat knocked over the vase",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "during the meeting he asked a silly question and i oop quietly",
+    "target": "during the meeting he asked a silly question and i stifled a laugh quietly",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they announced free pizza and i oop",
+    "target": "they announced free pizza and i was excited",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i was scrolling through photos and i oop at the wedding picture",
+    "target": "i was scrolling through photos and i was surprised by the wedding picture",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop when my phone buzzed",
+    "target": "i was startled when my phone buzzed",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm low key excited about the new movie.",
+    "target": "i'm secretly excited about the new movie.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's low key mad that we missed dinner.",
+    "target": "she's secretly mad that we missed dinner.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he low key wants to quit his job.",
+    "target": "he secretly wants to quit his job.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were low key impressed by the performance.",
+    "target": "they were secretly impressed by the performance.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm low key rooting for your team.",
+    "target": "i'm secretly rooting for your team.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she low key loves that song.",
+    "target": "she secretly loves that song.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're low key planning a surprise party.",
+    "target": "we're secretly planning a surprise party.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i low key don't care about the spoilers.",
+    "target": "i secretly don't care about the spoilers.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he was low key relieved when the test ended.",
+    "target": "he was secretly relieved when the test ended.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the photographer prefers low key lighting for dramatic portraits.",
+    "target": "the photographer prefers low key lighting for dramatic portraits.",
+    "term": "low key",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the song has a low key melody in the verse.",
+    "target": "the song has a low key melody in the verse.",
+    "term": "low key",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the painting uses low key colors to create a somber mood.",
+    "target": "the painting uses low key colors to create a somber mood.",
+    "term": "low key",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's living like the main character at every party this summer.",
+    "target": "she's living like the center of attention at every party this summer.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they treated him like the main character that night.",
+    "target": "they treated him like the center of attention that night.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop acting like the main character when it's not your show.",
+    "target": "stop acting like the center of attention when it's not your show.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's the main character in every group photo.",
+    "target": "she's the center of attention in every group photo.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you being such a main character about the seating arrangement?",
+    "target": "why are you being such a center of attention about the seating arrangement?",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're the main character at family dinners, telling long stories.",
+    "target": "they're the center of attention at family dinners, telling long stories.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "whenever she travels she turns into a main character.",
+    "target": "whenever she travels she turns into the center of attention.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he made a scene and acted like the main character in front of everyone.",
+    "target": "he made a scene and acted like the center of attention in front of everyone.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that drama queen is totally a main character.",
+    "target": "that drama queen is totally a person who draws everyone's attention.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the main character of the novel discovers a hidden map.",
+    "target": "the main character of the novel discovers a hidden map.",
+    "term": "main character",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "in the play the main character sings in the second act.",
+    "target": "in the play the main character sings in the second act.",
+    "term": "main character",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the main character's motivations drive the entire plot.",
+    "target": "the main character's motivations drive the entire plot.",
+    "term": "main character",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you eating the last slice of pizza!",
+    "target": "of all people, it's you eating the last slice of pizza!",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you with the spoilers again",
+    "target": "it's you of all people with the spoilers again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you wearing headphones at full blast again",
+    "target": "of all people, it's you wearing headphones at full blast again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you getting tickets to the wrong date",
+    "target": "of all people, it's you getting tickets to the wrong date",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you blaming the dog for the mess",
+    "target": "of all people, it's you blaming the dog for the mess",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you leaving your dishes in the sink again",
+    "target": "of all people, it's you leaving your dishes in the sink again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you canceling plans at the last minute",
+    "target": "of all people, it's you canceling plans at the last minute",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you starting drama over nothing",
+    "target": "you're the one starting drama over nothing",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you quoting that meme again",
+    "target": "of all people, it's you quoting that meme again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you stealing my hoodie",
+    "target": "of all people, it's you stealing my hoodie",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "it is not you",
+    "target": "it is not you",
+    "term": "not you",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the pronoun in that sentence is not you",
+    "target": "the pronoun in that sentence is not you",
+    "term": "not you",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

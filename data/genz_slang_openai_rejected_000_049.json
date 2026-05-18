@@ -1,0 +1,23 @@
+[
+  {
+    "input": "alright bro, i'll handle it.",
+    "target": "alright bro, i'll handle it.",
+    "term": "aight",
+    "sense": "slang",
+    "source": "openai_targeted_eval",
+    "reasons": [
+      "slang row is identity"
+    ]
+  },
+  {
+    "input": "i think the timing of that message is sus.",
+    "target": "i think the timing of that message is suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval",
+    "reasons": [
+      "wrapper artifact in input",
+      "wrapper artifact in target"
+    ]
+  }
+]

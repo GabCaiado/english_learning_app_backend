@@ -1,0 +1,3663 @@
+[
+  {
+    "input": "i'm grindding roblox",
+    "target": "i am playing roblox intensely",
+    "term": "grindding",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm grinding in roblox",
+    "target": "i am playing roblox intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm just running around in roblox",
+    "target": "i'm just running around in roblox",
+    "term": "running",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i love playing roblox",
+    "target": "i love playing roblox",
+    "term": "playing",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i lowkey need a new phone",
+    "target": "i kind of need a new phone",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i lowkey want some pizza",
+    "target": "i kind of want some pizza",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the phone works fine",
+    "target": "the phone works fine",
+    "term": "works",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i need to charge my phone",
+    "target": "i need to charge my phone",
+    "term": "charge",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm grinding valorant ranked",
+    "target": "i am playing ranked Valorant intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i’m grinding in the game",
+    "target": "i am playing the game intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i completed a mission",
+    "target": "i completed a mission",
+    "term": "completed",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i enjoy casual games",
+    "target": "i enjoy casual games",
+    "term": "enjoy",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "stop capping about your rank",
+    "target": "stop lying about your rank",
+    "term": "capping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "quit capping about the scores",
+    "target": "quit lying about the scores",
+    "term": "capping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my rank is gold",
+    "target": "my rank is gold",
+    "term": "gold",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the rank system is fair",
+    "target": "the rank system is fair",
+    "term": "fair",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this match is free",
+    "target": "this match is easy to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is free to play",
+    "target": "this game is free to play",
+    "term": "free",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the match was intense",
+    "target": "the match was intense",
+    "term": "intense",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "do you want to play the game?",
+    "target": "do you want to play the game?",
+    "term": "play",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i sold that round",
+    "target": "i played badly and caused us to lose that round",
+    "term": "sold",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i messed up that round",
+    "target": "i messed up that round",
+    "term": "messed up",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i played well this time",
+    "target": "i played well this time",
+    "term": "well",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that round was exciting",
+    "target": "that round was exciting",
+    "term": "exciting",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she served looks at the party",
+    "target": "she looked very stylish at the party",
+    "term": "served looks",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she served looks during the show",
+    "target": "she looked very stylish during the show",
+    "term": "served looks",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "her outfit was simple",
+    "target": "her outfit was simple",
+    "term": "simple",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she chose a nice dress",
+    "target": "she chose a nice dress",
+    "term": "nice",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that comment was pure shade",
+    "target": "that comment was a subtle insult",
+    "term": "shade",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he threw shade yesterday",
+    "target": "he threw shade yesterday",
+    "term": "threw shade",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that response was warm",
+    "target": "that response was warm",
+    "term": "warm",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the compliment was genuine",
+    "target": "the compliment was genuine",
+    "term": "genuine",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he is salty after losing",
+    "target": "he is upset after losing",
+    "term": "salty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he got salty during the game",
+    "target": "he is upset during the game",
+    "term": "salty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he felt salty about the result",
+    "target": "he felt upset about the result",
+    "term": "salty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he looked salty after he lost",
+    "target": "he looked upset after he lost",
+    "term": "salty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the food was salty",
+    "target": "the food was salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the soup is salty",
+    "target": "the soup is salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she ghosted me after the date",
+    "target": "she stopped responding to me after the date",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she ghosted me last week",
+    "target": "she stopped responding to me last week",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my phone died",
+    "target": "my phone stopped working because the battery ran out",
+    "term": "died",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my phone is dead",
+    "target": "my phone stopped working because the battery ran out",
+    "term": "dead",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my phone battery died again",
+    "target": "my phone stopped working because the battery ran out",
+    "term": "died",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my computer died suddenly",
+    "target": "my computer stopped working suddenly",
+    "term": "died",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my phone is in sleep mode",
+    "target": "my phone is in sleep mode",
+    "term": "sleep mode",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm down bad for her",
+    "target": "i am extremely attracted to her",
+    "term": "down bad",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm pretty down bad these days",
+    "target": "i am extremely attracted to someone these days",
+    "term": "down bad",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that joke sent me",
+    "target": "that joke made me laugh a lot",
+    "term": "sent",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that joke had me sent",
+    "target": "that joke made me laugh a lot",
+    "term": "sent",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "send me the file",
+    "target": "send me the file",
+    "term": "send me",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he folded under pressure",
+    "target": "he gave up or failed under pressure",
+    "term": "folded",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he folded when the pressure was too much",
+    "target": "he gave up when the pressure was too much",
+    "term": "folded",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is laggy af",
+    "target": "this game is very laggy",
+    "term": "laggy af",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is so slow",
+    "target": "this game is very laggy",
+    "term": "slow",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this match is laggy as hell",
+    "target": "this game is very laggy",
+    "term": "laggy as hell",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is laggy",
+    "target": "this game is laggy",
+    "term": "laggy",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i need to clutch this round",
+    "target": "i need to succeed in this round at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i have to save this round",
+    "target": "i need to succeed in this round at a critical moment",
+    "term": "save",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i need to win this round",
+    "target": "i need to succeed in this round at a critical moment",
+    "term": "win",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i need to perform well",
+    "target": "i need to perform well",
+    "term": "perform well",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that take is wild",
+    "target": "that opinion is shocking or extreme",
+    "term": "wild",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that statement is extreme",
+    "target": "that opinion is shocking or extreme",
+    "term": "extreme",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that view is wild",
+    "target": "that opinion is shocking or extreme",
+    "term": "wild",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that take is rough",
+    "target": "that take is rough",
+    "term": "rough",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we got cooked in ranked",
+    "target": "we lost badly in ranked mode",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we were beaten in ranked",
+    "target": "we lost badly in ranked mode",
+    "term": "beaten",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we got overwhelmed in ranked",
+    "target": "we lost badly in ranked mode",
+    "term": "overwhelmed",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we held our own",
+    "target": "we held our own",
+    "term": "held our own",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that team cooked us",
+    "target": "that team beat us badly",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that team demolished us",
+    "target": "that team beat us badly",
+    "term": "demolished",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that team overwhelmed us",
+    "target": "that team beat us badly",
+    "term": "overwhelmed",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that team played fair",
+    "target": "that team played fair",
+    "term": "played fair",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i sold the match",
+    "target": "i played badly and caused the match to go poorly",
+    "term": "sold",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i threw the game",
+    "target": "i played badly and caused the match to go poorly",
+    "term": "threw",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i didn't perform in the match",
+    "target": "i played badly and caused the match to go poorly",
+    "term": "didn't perform",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i played the match",
+    "target": "i played the match",
+    "term": "played the match",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "bro carried the lobby",
+    "target": "he performed very well for the whole lobby",
+    "term": "carried",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he helped the lobby win",
+    "target": "he performed very well for the whole lobby",
+    "term": "helped win",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he was a great teammate",
+    "target": "he performed very well for the whole lobby",
+    "term": "great teammate",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he played in the lobby",
+    "target": "he played in the lobby",
+    "term": "played",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm hardstuck bronze",
+    "target": "i am unable to rank up from bronze",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i am stuck in the bronze division",
+    "target": "i am unable to rank up from bronze",
+    "term": "stuck",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i am unable to play higher",
+    "target": "i am unable to rank up from bronze",
+    "term": "unable to play higher",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i am in bronze",
+    "target": "i am in bronze",
+    "term": "in bronze",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm tilted after that game",
+    "target": "i am frustrated after that game",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I'm frustrated because I was tilted after that last game.",
+    "target": "I'm frustrated because I was frustrated after that last game.",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I get tilted easily when I lose.",
+    "target": "I get frustrated easily when I lose.",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I was tilted but managed to stay composed.",
+    "target": "I was frustrated but managed to stay composed.",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "After that game, I was feeling a bit off.",
+    "target": "After that game, I was feeling a bit off.",
+    "term": "off",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that fit ate",
+    "target": "that outfit looked excellent",
+    "term": "fit",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I loved that fit from the party last week!",
+    "target": "I loved that outfit from the party last week!",
+    "term": "fit",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "It's great to wear that fit more often.",
+    "target": "It's great to wear that outfit more often.",
+    "term": "fit",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "The outfit of the day was superb and that fit was amazing!",
+    "target": "The outfit of the day was superb and that fit was amazing!",
+    "term": "fit",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's got rizz",
+    "target": "he has charisma",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He makes up for it with his rizz.",
+    "target": "He makes up for it with his charisma.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "When he talks, his rizz is evident to all.",
+    "target": "When he talks, his charisma is evident to all.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He really does have charisma when presenting his ideas.",
+    "target": "He really does have charisma when presenting his ideas.",
+    "term": "charisma",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm not gonna lie that was clean",
+    "target": "honestly that was impressive",
+    "term": "clean",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I’m not gonna lie, it was a clean win.",
+    "target": "I’m not gonna lie, it was an impressive win.",
+    "term": "clean",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "Honestly, I’m not gonna lie, that was clean work!",
+    "target": "Honestly, I’m not gonna lie, that was impressive work!",
+    "term": "clean",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "That job was clean and well done.",
+    "target": "That job was clean and well done.",
+    "term": "clean",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she left me on read",
+    "target": "she read my message and did not respond",
+    "term": "left me on read",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I can't believe she left me on read after my message.",
+    "target": "I can't believe she read my message and did not respond after my message.",
+    "term": "left me on read",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I feel bad because she left me on read for a long time!",
+    "target": "I feel bad because she read my message and did not respond for a long time!",
+    "term": "left me on read",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "She answered my message promptly without leaving me on read.",
+    "target": "She answered my message promptly without leaving me on read.",
+    "term": "left me on read",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that test humbled me",
+    "target": "that test made me realize I was not as prepared as I thought",
+    "term": "humbled",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "That challenge humbled me; I thought I was ready.",
+    "target": "That challenge made me realize I was not as prepared as I thought.",
+    "term": "humbled",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I was humbled by my result, it taught me a lesson.",
+    "target": "I was humbled by my result, it taught me a lesson.",
+    "term": "humbled",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the lobby has three chairs",
+    "target": "the lobby has three chairs",
+    "term": "three chairs",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that clutch was insane",
+    "target": "that last moment win was incredible",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "you clutched it!",
+    "target": "you last moment won it!",
+    "term": "clutched",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my teammate made a clutch move",
+    "target": "my teammate made a last moment win move",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this win was horrible",
+    "target": "this win was horrible",
+    "term": "horrible",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the match was really close",
+    "target": "the match was really close",
+    "term": "close",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm getting tilted already by this bullshit chen",
+    "target": "i am already getting frustrated by this annoying Chen",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is driving me tilted",
+    "target": "this game is driving me frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he is making me tilted",
+    "target": "he is making me frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that situation is frustrating",
+    "target": "that situation is frustrating",
+    "term": "frustrating",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this is very annoying",
+    "target": "this is very annoying",
+    "term": "annoying",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "my teammates got me all tilted. now i'm salty af and playing like shit.",
+    "target": "my teammates made me very frustrated. now i am very upset and playing very badly.",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm feeling really tilted right now",
+    "target": "i am feeling really frustrated right now",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game got me tilted",
+    "target": "this game got me frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i feel good about this",
+    "target": "i feel good about this",
+    "term": "good",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that camper is making me so tilted",
+    "target": "that camper is making me very frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the camper is driving me tilted",
+    "target": "the camper is driving me frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is easy",
+    "target": "this game is easy",
+    "term": "easy",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i enjoy camping in games",
+    "target": "i enjoy camping in games",
+    "term": "camping",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "im tilted",
+    "target": "i am frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm feeling tilted today",
+    "target": "i am feeling frustrated today",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she feels tilted about the game",
+    "target": "she feels frustrated about the game",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is fun",
+    "target": "this game is fun",
+    "term": "fun",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i like to play",
+    "target": "i like to play",
+    "term": "play",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that beat is sick",
+    "target": "that beat is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this beat is sick",
+    "target": "this beat is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the music overall is sick",
+    "target": "the music overall is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he was sick last week",
+    "target": "he was sick last week",
+    "term": "sick",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he felt sick after lunch",
+    "target": "he felt sick after lunch",
+    "term": "sick",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "spill the tea",
+    "target": "share the gossip",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "spill the tea about her",
+    "target": "share the gossip about her",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's spill the tea on the matter",
+    "target": "let's share the gossip on the matter",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the tea was delicious",
+    "target": "the tea was delicious",
+    "term": "tea",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she spilled tea on the table",
+    "target": "she spilled tea on the table",
+    "term": "tea",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he cooked in the debate",
+    "target": "he performed extremely well in the debate",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "why are you pressed",
+    "target": "why are you upset",
+    "term": "pressed",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that reply was salty",
+    "target": "that reply sounded upset",
+    "term": "salty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he slaps the table when he laughs",
+    "target": "he slaps the table when he laughs",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we met in mid July",
+    "target": "we met in mid July",
+    "term": "mid July",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "they made a bet on the game",
+    "target": "they made a bet on the game",
+    "term": "bet",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he is washed now",
+    "target": "he is no longer good now",
+    "term": "washed",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this lobby is sweaty",
+    "target": "this lobby is very competitive",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this game is sweaty, we are all sweating it out.",
+    "target": "this game is very competitive, we are all trying hard.",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the lobby is chill tonight, no sweat.",
+    "target": "the lobby is chill tonight, no sweat.",
+    "term": "sweaty",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "this lobby feels so sweaty, everyone is tryharding.",
+    "target": "this lobby feels so very competitive, everyone is trying hard.",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "people ship them together",
+    "target": "people support them as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "they ship them so hard, it's adorable!",
+    "target": "they support them as a couple so hard, it's adorable!",
+    "term": "ship",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "they're just friends; no shipping here.",
+    "target": "they're just friends; no shipping here.",
+    "term": "ship",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "everyone is shipping them in the fandom.",
+    "target": "everyone is supporting them as a couple in the fandom.",
+    "term": "ship",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the workers ship packages daily",
+    "target": "the workers ship packages daily",
+    "term": "ship",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the workers are always shipping packages on time.",
+    "target": "the workers are always shipping packages on time.",
+    "term": "ship",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the workers ship dreams every day.",
+    "target": "the workers support dreams every day.",
+    "term": "ship",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the workers never ship their promises.",
+    "target": "the workers never support their promises.",
+    "term": "ship",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that promotion is a flex",
+    "target": "that promotion is showing off",
+    "term": "flex",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "getting that promotion is such a flex.",
+    "target": "getting that promotion is such showing off.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she doesn't flex her promotions, she stays humble.",
+    "target": "she doesn't show off her promotions, she stays humble.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the promotion sounds great, but it's just work.",
+    "target": "the promotion sounds great, but it's just work.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she threw shade at him",
+    "target": "she made a subtle insult toward him",
+    "term": "shade",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he gave her shade and she just threw it back.",
+    "target": "he gave her insult and she just threw it back.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "throwing shade is unnecessary; be kind instead.",
+    "target": "throwing shade is unnecessary; be kind instead.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that wasn't shade, just a comment.",
+    "target": "that wasn't shade, just a comment.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i love that beat!",
+    "target": "i love that beat!",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that beat brings such great vibes.",
+    "target": "that beat brings such great vibes.",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I love that exhausted!",
+    "target": "I love that tired!",
+    "term": "beat",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I really enjoy that beat!",
+    "target": "I really enjoy that beat!",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "drop the beat!",
+    "target": "start the beat",
+    "term": "drop",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's drop the beat and start dancing.",
+    "target": "let's start the beat and start dancing.",
+    "term": "drop",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's start the beat now!",
+    "target": "let's start the beat now!",
+    "term": "drop",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we need to find a way to start the beat.",
+    "target": "we need to find a way to start the beat.",
+    "term": "drop",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that is a great beat",
+    "target": "that is a great beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "what a great beat, right?",
+    "target": "what a great beat, right?",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that is a tired beat.",
+    "target": "that is a exhausted beat.",
+    "term": "beat",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I think that is an amazing beat!",
+    "target": "I think that is an amazing beat!",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i love listening to this beat",
+    "target": "i love listening to this beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "ain't no way.",
+    "target": "there's no way.",
+    "term": "ain't no way",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm not going, cuz i'm sick.",
+    "target": "I'm not going, because I'm sick.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "ima crash at his place",
+    "target": "I'm going to sleep/stay at his place.",
+    "term": "crash",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "gotcha",
+    "target": "I understand. / I got it.",
+    "term": "gotcha",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "you down?",
+    "target": "Are you interested? / Are you willing?",
+    "term": "down",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he flaked again.",
+    "target": "He canceled / failed to show up again.",
+    "term": "flaked",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "she bailed on me.",
+    "target": "She canceled on me / left me hanging.",
+    "term": "bailed",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "you nailed it.",
+    "target": "You did it perfectly.",
+    "term": "nailed it",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "you nailed it!",
+    "target": "You did it perfectly!",
+    "term": "nailed it",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "you nailed your presentation!",
+    "target": "You did your presentation perfectly!",
+    "term": "nailed",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "you did great!",
+    "target": "you did great!",
+    "term": "did great",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm dead, that joke was too funny.",
+    "target": "I'm laughing so hard; that joke was too funny.",
+    "term": "dead",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm dead, that joke killed me.",
+    "target": "I'm laughing so hard; that joke killed me.",
+    "term": "dead",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm dead!",
+    "target": "I'm laughing!",
+    "term": "dead",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i can't breathe, i'm dead!",
+    "target": "I can't breathe, I'm laughing!",
+    "term": "dead",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "i'm feeling great today.",
+    "target": "i'm feeling great today.",
+    "term": "feeling great",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's hang out later",
+    "target": "Let's spend time together later.",
+    "term": "hang out",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's chill later.",
+    "target": "Let's spend time together later.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "we should hang out soon!",
+    "target": "We should spend time together soon!",
+    "term": "hang out",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's just relax later.",
+    "target": "let's just relax later.",
+    "term": "relax",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "let's stay indoors later.",
+    "target": "let's stay indoors later.",
+    "term": "stay indoors",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the battery has no power.",
+    "target": "The battery has no power.",
+    "term": "has no power",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the battery needs charging.",
+    "target": "the battery needs charging.",
+    "term": "needs charging",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the battery is not working.",
+    "target": "the battery is not working.",
+    "term": "not working",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that battery is weak.",
+    "target": "that battery is weak.",
+    "term": "is weak",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's doing some dope",
+    "target": "He's using drugs.",
+    "term": "dope",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's high on dope.",
+    "target": "He's using drugs.",
+    "term": "dope",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's into some dope.",
+    "target": "He's using drugs.",
+    "term": "dope",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's in trouble with dope.",
+    "target": "He's using drugs.",
+    "term": "dope",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's doing well today.",
+    "target": "he's doing well today.",
+    "term": "doing well",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the essay was tough.",
+    "target": "the essay was tough.",
+    "term": "tough",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the essay was challenging.",
+    "target": "the essay was challenging.",
+    "term": "challenging",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the exam was intense.",
+    "target": "the exam was intense.",
+    "term": "intense",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the essay was a real challenge.",
+    "target": "the essay was a real challenge.",
+    "term": "real challenge",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the cake was too tough.",
+    "target": "the cake was too tough.",
+    "term": "too tough",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the cake was firm.",
+    "target": "the cake was firm.",
+    "term": "firm",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the cake was dense.",
+    "target": "the cake was dense.",
+    "term": "dense",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "the pie was hard to cut.",
+    "target": "the pie was hard to cut.",
+    "term": "hard to cut",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he was simping her",
+    "target": "He was trying too hard to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's really simping for her.",
+    "target": "He was trying too hard to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he's just simping over her.",
+    "target": "He was trying too hard to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he was totally simping her.",
+    "target": "He was trying too hard to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "he was being nice to her.",
+    "target": "he was being nice to her.",
+    "term": "being nice",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was simping over her.",
+    "target": "He was obsessively trying to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was simply nice to her.",
+    "target": "He was simply nice to her.",
+    "term": "nice",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was simping.",
+    "target": "He was obsessively trying to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was trying hard to impress her with his simping.",
+    "target": "He was obsessively trying to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was simping over her all the time.",
+    "target": "He was obsessively trying to please her.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was just a decent friend, not simping.",
+    "target": "He was just a decent friend, not simping.",
+    "term": "simply",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "stfu!",
+    "target": "shut the fuck up!",
+    "term": "stfu",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "Please just stfu.",
+    "target": "shut the fuck up.",
+    "term": "stfu",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He kept saying stfu.",
+    "target": "shut the fuck up.",
+    "term": "stfu",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "stfu is rude.",
+    "target": "stfu is rude.",
+    "term": "stfu",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "spill the tea.",
+    "target": "Tell the gossip.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "Did you spill the tea today?",
+    "target": "Tell the gossip today.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "Spill the tea on the latest drama.",
+    "target": "Tell the gossip on the latest drama.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "The children spilled the tea everywhere.",
+    "target": "The children spilled the tea everywhere.",
+    "term": "spill",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "ofc",
+    "target": "of course",
+    "term": "ofc",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "Ofc, I can do that.",
+    "target": "of course, I can do that.",
+    "term": "ofc",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "She said ofc when I asked her.",
+    "target": "She said of course when I asked her.",
+    "term": "ofc",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He was ofc not in the right mood.",
+    "target": "He was ofc not in the right mood.",
+    "term": "ofc",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "thx!",
+    "target": "thanks!",
+    "term": "thx",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "Thx for your help!",
+    "target": "thanks for your help!",
+    "term": "thx",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "He said thx unexpectedly.",
+    "target": "He said thanks unexpectedly.",
+    "term": "thx",
+    "sense": "slang",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "I will say thx for their kindness.",
+    "target": "I will say thx for their kindness.",
+    "term": "thx",
+    "sense": "literal",
+    "source": "failed_translations_gpt"
+  },
+  {
+    "input": "that party last night was lit!",
+    "target": "that party last night was great!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's such a goat in basketball!",
+    "target": "he's such a greatest of all time in basketball!",
+    "term": "goat",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the drummer had a hard beat to follow.",
+    "target": "the drummer had an impressive last beat to follow.",
+    "term": "hard",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that new movie was sick!",
+    "target": "that new movie was great!",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she was sick for a week last month.",
+    "target": "she was unwell for a week last month.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's extra hot in summer.",
+    "target": "it's excessively hot in summer.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's just too hot in summer.",
+    "target": "it's just too hot in summer.",
+    "term": "too",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this tea is so good!",
+    "target": "this tea is great gossip!",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this tea is just good.",
+    "target": "this tea is just good.",
+    "term": "just",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this tea is very good.",
+    "target": "this tea is very good.",
+    "term": "very",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he threw shade at her outfit.",
+    "target": "he threw subtle insult at her outfit.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he made a sarcastic remark about her outfit.",
+    "target": "he made a sarcastic remark about her outfit.",
+    "term": "sarcastic remark",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this outfit is snatched!",
+    "target": "this outfit is stylish and flattering!",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this outfit really looks good!",
+    "target": "this outfit really looks good!",
+    "term": "looks good",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the snatched beach is so beautiful.",
+    "target": "the stylish and flattering beach is so beautiful.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the beach in its prime is so beautiful.",
+    "target": "the beach in its prime is so beautiful.",
+    "term": "in its prime",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's chill this weekend!",
+    "target": "let's relax this weekend!",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's hang this weekend!",
+    "target": "let's hang this weekend!",
+    "term": "hang",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i'm feeling salty about that loss.",
+    "target": "i'm feeling upset about that loss.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i feel upset about the game.",
+    "target": "i feel upset about the game.",
+    "term": "upset",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "his style is so tight!",
+    "target": "his style is so close!",
+    "term": "tight",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the lid was tight on the jar.",
+    "target": "the lid was tight on the jar.",
+    "term": "tight",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's bounce from this place.",
+    "target": "let's leave from this place.",
+    "term": "bounce",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's leave this joint.",
+    "target": "let's leave this joint.",
+    "term": "leave",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i'm cracked at video games!",
+    "target": "i'm very skilled at video games!",
+    "term": "cracked",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i play video games.",
+    "target": "i play video games.",
+    "term": "play",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that knife is sharp!",
+    "target": "that knife is sharp!",
+    "term": "sharp",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "a dull knife is not useful.",
+    "target": "a dull knife is not useful.",
+    "term": "dull",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that party was lit!",
+    "target": "that party was great!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that party was cool!",
+    "target": "that party was great!",
+    "term": "cool",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that party was fun!",
+    "target": "that party was great!",
+    "term": "fun",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that party was great!",
+    "target": "that party was great!",
+    "term": "great",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's acting sick lately.",
+    "target": "he's acting great lately.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's acting poorly lately.",
+    "target": "he's acting great lately.",
+    "term": "acting poorly",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's feeling unwell lately.",
+    "target": "he's acting great lately.",
+    "term": "unwell",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's acting great lately.",
+    "target": "he's acting great lately.",
+    "term": "great",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she's actually sick with the flu.",
+    "target": "she's actually great with the flu.",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she's not feeling well with the flu.",
+    "target": "she's actually great with the flu.",
+    "term": "not feeling well",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she's ill with the flu.",
+    "target": "she's actually great with the flu.",
+    "term": "ill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she's great with the flu.",
+    "target": "she's great with the flu.",
+    "term": "great",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this game is hard!",
+    "target": "this game is impressive!",
+    "term": "hard",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this game is challenging!",
+    "target": "this game is impressive!",
+    "term": "challenging",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this game is tough!",
+    "target": "this game is impressive!",
+    "term": "tough",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this game is easy!",
+    "target": "this game is easy!",
+    "term": "easy",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's the greatest of all time in sports, no cap.",
+    "target": "he's the greatest of all time in sports, no lie.",
+    "term": "no cap",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's the greatest player ever.",
+    "target": "he's the greatest player ever.",
+    "term": "greatest",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's just good at sports.",
+    "target": "he's just good at sports.",
+    "term": "good",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's amazing in sports.",
+    "target": "he's amazing in sports.",
+    "term": "amazing",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this tea is too hot!",
+    "target": "this gossip is too hot!",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this drink is extremely hot!",
+    "target": "this drink is extremely hot!",
+    "term": "drink",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this water is really hot!",
+    "target": "this water is really hot!",
+    "term": "water",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this soup is so hot!",
+    "target": "this soup is so hot!",
+    "term": "soup",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i love tea in the afternoon.",
+    "target": "i love gossip in the afternoon.",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i am having tea.",
+    "target": "i am having gossip.",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i enjoy coffee in the morning.",
+    "target": "i enjoy coffee in the morning.",
+    "term": "coffee",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i love lemonade in the evening.",
+    "target": "i love lemonade in the evening.",
+    "term": "lemonade",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i drink water throughout the day.",
+    "target": "i drink water throughout the day.",
+    "term": "water",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "stop throwing shade at him!",
+    "target": "stop throwing subtle insults at him!",
+    "term": "throwing shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "stop being rude to him!",
+    "target": "stop being rude to him!",
+    "term": "rude",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "stop being nice to her!",
+    "target": "stop being nice to her!",
+    "term": "nice",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "stop throwing shade at them!",
+    "target": "stop throwing subtle insults at them!",
+    "term": "throwing shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the tree gives us nice shade in summer.",
+    "target": "the tree gives us nice cover in summer.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the tree provides shade during hot days.",
+    "target": "the tree provides shade during hot days.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the umbrella gives us shade from the rain.",
+    "target": "the umbrella gives us shade from the rain.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the building offers shade in summer.",
+    "target": "the building offers shade in summer.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's so cooked after that run!",
+    "target": "he's so in trouble after that run!",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the chicken is cooked all the way through.",
+    "target": "the chicken is cooked all the way through.",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she's acting salty after the game.",
+    "target": "she's acting upset after the game.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "no cap, that was an awesome performance.",
+    "target": "honestly, that was an awesome performance.",
+    "term": "no cap",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the ice cream is mid at best.",
+    "target": "the ice cream is mediocre at best.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the movie was mid, nothing special.",
+    "target": "the movie was mediocre, nothing special.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i can't wait to go chill at the beach.",
+    "target": "i can't wait to go relax at the beach.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the fridge is chill right now.",
+    "target": "the fridge is cool right now.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's bounce and grab some food.",
+    "target": "let's leave and grab some food.",
+    "term": "bounce",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's got that fire energy today!",
+    "target": "he's got that excellent energy today!",
+    "term": "fire",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the campfire is really fire tonight.",
+    "target": "the campfire is really awesome tonight.",
+    "term": "fire",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that's a sick edit of the video!",
+    "target": "that's a great edit of the video!",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this song is hard to forget.",
+    "target": "this song is unforgettable.",
+    "term": "hard to forget",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the rock was really hard to break.",
+    "target": "the rock was really difficult to break.",
+    "term": "hard",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she's a goat at playing guitar.",
+    "target": "she's the greatest of all time at playing guitar.",
+    "term": "goat",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i think i just saw a ghost!",
+    "target": "i think i just saw something!",
+    "term": "ghost",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the ghost town looked eerie at night.",
+    "target": "the ghost town looked eerie at night.",
+    "term": "the ghost town",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the ghost town looked spooky at night.",
+    "target": "the ghost town looked eerie at night.",
+    "term": "the ghost town",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the ghost place looked eerie at night.",
+    "target": "the ghost town looked eerie at night.",
+    "term": "the ghost place",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the abandoned town looked eerie at night.",
+    "target": "the ghost town looked eerie at night.",
+    "term": "the abandoned town",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the party was lit last night!",
+    "target": "the party was great last night!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the event was lit last night!",
+    "target": "the party was great last night!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he spilled the tea on their breakup.",
+    "target": "he spilled the gossip on their breakup.",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he told the tea on their breakup.",
+    "target": "he spilled the gossip on their breakup.",
+    "term": "told the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the tea is too hot to drink right now.",
+    "target": "the gossip is too hot to drink right now.",
+    "term": "the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "her comment was full of shade.",
+    "target": "her comment was full of subtle insult.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she showed shade to her friend.",
+    "target": "her comment was full of subtle insult.",
+    "term": "showed shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really ate that dish up!",
+    "target": "i really enjoyed that dish!",
+    "term": "ate up",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he ate up the dinner yesterday!",
+    "target": "he really enjoyed the dinner yesterday!",
+    "term": "ate up",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the rubber band can flex easily.",
+    "target": "the rubber band can flex easily.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the meal was bussin!",
+    "target": "the meal was delicious!",
+    "term": "bussin",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's extra hot outside today.",
+    "target": "it's very hot outside today.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's way too hot outside today.",
+    "target": "it's very hot outside today.",
+    "term": "way too",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's excessive hot outside today.",
+    "target": "it's excessive hot outside today.",
+    "term": "excessive",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the pizza was extra cheesy as requested.",
+    "target": "the pizza was very cheesy as requested.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the pizza was excessive cheesy as requested.",
+    "target": "the pizza was very cheesy as requested.",
+    "term": "excessive",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the pizza is overly cheesy as requested.",
+    "target": "the pizza is very cheesy as requested.",
+    "term": "overly",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i'll keep it lowkey this weekend.",
+    "target": "i'll keep it subtle this weekend.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i'll keep it under the radar this weekend.",
+    "target": "i'll keep it subtle this weekend.",
+    "term": "under the radar",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the lowkey price of the ticket is nice.",
+    "target": "the reasonable price of the ticket is nice.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the inexpensive price of the ticket is nice.",
+    "target": "the reasonable price of the ticket is nice.",
+    "term": "inexpensive",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the lowkey cost of the ticket is nice.",
+    "target": "the reasonable cost of the ticket is nice.",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "her new hairstyle is so snatched.",
+    "target": "her new hairstyle is so stylish.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "her new hairstyle is really fabulous.",
+    "target": "her new hairstyle is so stylish.",
+    "term": "fabulous",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "her hair is snatched today.",
+    "target": "her hair looks amazing today.",
+    "term": "snatched",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i like to chill on the weekends.",
+    "target": "i like to relax on the weekends.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i like to take it easy on the weekends.",
+    "target": "i like to relax on the weekends.",
+    "term": "take it easy",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i enjoy chilling out on the weekends.",
+    "target": "i enjoy relaxing on the weekends.",
+    "term": "chilling out",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's chill enough to sit outside.",
+    "target": "it's relaxed enough to sit outside.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "it's cool enough to sit outside.",
+    "target": "it's chill enough to sit outside.",
+    "term": "cool",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he wants to bounce after the meeting.",
+    "target": "he wants to leave after the meeting.",
+    "term": "bounce",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "stfu, that's not true!",
+    "target": "shut the fuck up, that's not true!",
+    "term": "stfu",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "Be quiet.",
+    "target": "Be quiet.",
+    "term": "stfu",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "gotcha, I understand now!",
+    "target": "I got you, I understand now!",
+    "term": "gotcha",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "I understand this now.",
+    "target": "I understand this now.",
+    "term": "gotcha",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ima go to the store later.",
+    "target": "I'm going to go to the store later.",
+    "term": "ima",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ima leave now.",
+    "target": "I'm going to leave now.",
+    "term": "ima",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "I will visit today.",
+    "target": "I will visit today.",
+    "term": "ima",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ngl, I'm a bit tired today.",
+    "target": "not gonna lie, I'm a bit tired today.",
+    "term": "ngl",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ngl, I could use a break.",
+    "target": "not gonna lie, I could use a break.",
+    "term": "ngl",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "I feel exhausted.",
+    "target": "I feel exhausted.",
+    "term": "ngl",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "imo, that movie was overrated.",
+    "target": "in my opinion, that movie was overrated.",
+    "term": "imo",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "imo, it was just bad.",
+    "target": "in my opinion, it was just bad.",
+    "term": "imo",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "The movie was fine.",
+    "target": "The movie was fine.",
+    "term": "imo",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "lmao, that joke was hilarious!",
+    "target": "laughing my ass off, that joke was hilarious!",
+    "term": "lmao",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "lmao, that was so funny.",
+    "target": "laughing my ass off, that was so funny.",
+    "term": "lmao",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "The joke got a good laugh.",
+    "target": "The joke got a good laugh.",
+    "term": "lmao",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "smh, I can't believe that happened.",
+    "target": "shaking my head, I can't believe that happened.",
+    "term": "smh",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "smh at that.",
+    "target": "shaking my head at that.",
+    "term": "smh",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "What a surprise.",
+    "target": "What a surprise.",
+    "term": "smh",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "brb, I need to grab something.",
+    "target": "be right back, I need to grab something.",
+    "term": "brb",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "brb.",
+    "target": "be right back.",
+    "term": "brb",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "I am here with you.",
+    "target": "I am here with you.",
+    "term": "brb",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ion really like that kind of music.",
+    "target": "I don't really like that kind of music.",
+    "term": "ion",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ppl should be more respectful.",
+    "target": "people should be more respectful.",
+    "term": "ppl",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ima grab some coffee.",
+    "target": "I'm gonna grab some coffee.",
+    "term": "ima",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ima",
+    "target": "ima",
+    "term": "ima",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "rn, I'm focusing on my studies.",
+    "target": "right now, I'm focusing on my studies.",
+    "term": "rn",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "rn, I've got to go.",
+    "target": "right now, I've got to go.",
+    "term": "rn",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "rn, the party starts soon.",
+    "target": "right now, the party starts soon.",
+    "term": "rn",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "rn, I need a break.",
+    "target": "right now, I need a break.",
+    "term": "rn",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "idc about their opinions.",
+    "target": "I don't care about their opinions.",
+    "term": "idc",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "I could care less about their thoughts.",
+    "target": "I could care less about their thoughts.",
+    "term": "care less",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ion have time to chat right now.",
+    "target": "I don't have time to chat right now.",
+    "term": "ion",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "I don't have time right now.",
+    "target": "I don't have time right now.",
+    "term": "have",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ppl are excited for the event!",
+    "target": "people are excited for the event!",
+    "term": "ppl",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "k, I’ll be there shortly!",
+    "target": "okay, I’ll be there shortly!",
+    "term": "k",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "bff, don't forget our plans!",
+    "target": "best friend forever, don't forget our plans!",
+    "term": "bff",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "tmi, I didn't need to hear that.",
+    "target": "too much information, I didn't need to hear that.",
+    "term": "tmi",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "srsly, where did you get that?",
+    "target": "seriously, where did you get that?",
+    "term": "srsly",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ofc I'll help you with that project.",
+    "target": "of course I'll help you with that project.",
+    "term": "ofc",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "thx for the recommendation!",
+    "target": "thanks for the recommendation!",
+    "term": "thx",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "tks for inviting me to the party!",
+    "target": "thanks for inviting me to the party!",
+    "term": "tks",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "stfu, that’s not funny!",
+    "target": "shut the f*** up, that’s not funny!",
+    "term": "stfu",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ion wanna go out tonight.",
+    "target": "I don't want to go out tonight.",
+    "term": "ion",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i just spilled the tea about the party last weekend.",
+    "target": "i just spilled the gossip about the party last weekend.",
+    "term": "spilled the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i just revealed the tea about the party last weekend.",
+    "target": "i just revealed the gossip about the party last weekend.",
+    "term": "revealed the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he bailed on our plans last minute, so annoying!",
+    "target": "he canceled on our plans last minute, so annoying!",
+    "term": "bailed",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he ditched on our plans last minute, so annoying!",
+    "target": "he canceled on our plans last minute, so annoying!",
+    "term": "ditched",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he canceled on our plans last minute, so annoying!",
+    "target": "he canceled on our plans last minute, so annoying!",
+    "term": "canceled",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's just hang out this weekend, chill.",
+    "target": "let's just relax this weekend, chill.",
+    "term": "hang out",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's just chill together this weekend.",
+    "target": "let's just relax together this weekend.",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that guy is such a jerk for ghosting her.",
+    "target": "that guy is such a jerk for ignoring her.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that guy is such a loser for ghosting her.",
+    "target": "that guy is such a loser for ignoring her.",
+    "term": "ghosting",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i texted him but got ghosted, no reply.",
+    "target": "i texted him but got ignored, no reply.",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i texted him but did not hear back, no reply.",
+    "target": "i texted him but did not hear back, no reply.",
+    "term": "no reply",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i reached out to him but got ghosted, no response.",
+    "target": "i reached out to him but got ignored, no response.",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "no cap, that song is a banger!",
+    "target": "honestly, that song is a banger!",
+    "term": "no cap",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "honestly, that song is a banger!",
+    "target": "honestly, that song is a banger!",
+    "term": "no cap",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really understood the assignment in that class.",
+    "target": "i really did exactly what was needed in that class.",
+    "term": "understood the assignment",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really did exactly what was needed in that class.",
+    "target": "i really did exactly what was needed in that class.",
+    "term": "understood the assignment",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this game is kind of mid, honestly.",
+    "target": "this game is kind of mediocre, honestly.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this game is not great.",
+    "target": "this game is not great.",
+    "term": "great",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that outfit looks a bit sus, don't you think?",
+    "target": "that outfit looks a bit suspicious, don't you think?",
+    "term": "sus",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that outfit looks nice, don't you think?",
+    "target": "that outfit looks nice, don't you think?",
+    "term": "nice",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "is that outfit strange?",
+    "target": "is that outfit strange?",
+    "term": "strange",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let him cook, i want to see where this goes.",
+    "target": "let him cook, i want to see where this goes.",
+    "term": "cook",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "hold on a minute, let him cook.",
+    "target": "hold on a minute, let him cook.",
+    "term": "cook",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i like to see him cook.",
+    "target": "i like to see him cook.",
+    "term": "cook",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she ate and left no crumbs at that performance!",
+    "target": "she did very well at that performance!",
+    "term": "ate",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she left no crumbs in the game",
+    "target": "she left no crumbs in the game",
+    "term": "game",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "there were no crumbs left on the table",
+    "target": "there were no crumbs left on the table",
+    "term": "crumbs",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that party was lit",
+    "target": "that party was great",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that party was dope",
+    "target": "that party was dope",
+    "term": "dope",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i stan her music; it inspires me so much.",
+    "target": "i support her music; it inspires me so much.",
+    "term": "stan",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really like her music; it inspires me so much.",
+    "target": "i really like her music; it inspires me so much.",
+    "term": "stan",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that movie was dope, can we watch it again?",
+    "target": "that movie was amazing, can we watch it again?",
+    "term": "dope",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that movie was bad, can we watch it again?",
+    "target": "that movie was bad, can we watch it again?",
+    "term": "bad",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that comment was totally shade; why be rude?",
+    "target": "that comment was totally a subtle insult; why be rude?",
+    "term": "shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i need some tea about what happened last night.",
+    "target": "i need some gossip about what happened last night.",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i need you to spill the tea on the drama.",
+    "target": "i need you to share the gossip on the drama.",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he's been simping for her all week.",
+    "target": "he's been really liking her all week.",
+    "term": "simping",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he bailed on our plans last minute.",
+    "target": "he canceled on our plans last minute.",
+    "term": "bailed",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she flaked again, can you believe it?",
+    "target": "she canceled again, can you believe it?",
+    "term": "flaked",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she totally ghosted me after our date.",
+    "target": "she totally stopped responding to me after our date.",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "ghosted",
+    "target": "stopped responding",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "no cap, that was the best concert ever.",
+    "target": "honestly, that was the best concert ever.",
+    "term": "no cap",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "no cap",
+    "target": "honestly",
+    "term": "no cap",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really understood the assignment on this project.",
+    "target": "i really did exactly what was needed on this project.",
+    "term": "understood the assignment",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "understood the assignment",
+    "target": "did exactly what was needed",
+    "term": "understood the assignment",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this project is confusing.",
+    "target": "this project is confusing.",
+    "term": "confusing",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this food is kind of mid for me, honestly.",
+    "target": "this food is kind of mediocre for me, honestly.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this food is mid-tier for me, honestly.",
+    "target": "this food is mediocre for me, honestly.",
+    "term": "mid-tier",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this food is somewhat lacking for me, honestly.",
+    "target": "this food is mediocre for me, honestly.",
+    "term": "lacking",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let him cook; he knows what he's doing.",
+    "target": "let him keep going; he knows what he's doing.",
+    "term": "cook",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let him do his thing; he knows what to do.",
+    "target": "let him keep going; he knows what he's doing.",
+    "term": "do his thing",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let him carry on; he knows what he's doing.",
+    "target": "let him keep going; he knows what he's doing.",
+    "term": "carry on",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i mean, he ate and left no crumbs, right?",
+    "target": "i mean, he did very well, right?",
+    "term": "left no crumbs",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he crushed it at the competition, right?",
+    "target": "he did very well, right?",
+    "term": "crushed it",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he performed exceptionally, right?",
+    "target": "he did very well, right?",
+    "term": "performed exceptionally",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "last night was so lit, i can't forget it!",
+    "target": "last night was so great, i can't forget it!",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "last night was fire, i can't forget it!",
+    "target": "last night was so great, i can't forget it!",
+    "term": "fire",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "last night was bright, i can't forget it!",
+    "target": "last night was so great, i can't forget it!",
+    "term": "bright",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this new game is dope; you gotta try it!",
+    "target": "this new game is dope; you have to try it!",
+    "term": "gotta",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this new game is sick; you gotta give it a shot!",
+    "target": "this new game is dope; you have to try it!",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this new game is cool; you gotta try it!",
+    "target": "this new game is dope; you have to try it!",
+    "term": "cool",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he loves to flex his skills at video games.",
+    "target": "he loves to show off his skills at video games.",
+    "term": "flex",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he loves to show off his skills at video games.",
+    "target": "he loves to show off his skills at video games.",
+    "term": "show off",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he enjoys showing off his skills at video games.",
+    "target": "he enjoys showing off his skills at video games.",
+    "term": "showing off",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i felt like that was just a bit of shade.",
+    "target": "i felt like that was just a bit of subtle insult.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i think he was just being polite.",
+    "target": "i think he was just being polite.",
+    "term": "polite",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i thought that was a compliment.",
+    "target": "i thought that was a compliment.",
+    "term": "compliment",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "spill the tea, what happened at the party?",
+    "target": "share the gossip, what happened at the party?",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "tell me what happened at the gathering.",
+    "target": "tell me what happened at the gathering.",
+    "term": "gathering",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i want to know what happened back there.",
+    "target": "i want to know what happened back there.",
+    "term": "know",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "can you spill the tea about the concert?",
+    "target": "can you share the gossip about the concert?",
+    "term": "spill the tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "what time does the concert start?",
+    "target": "what time does the concert start?",
+    "term": "start",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "when is the concert date?",
+    "target": "when is the concert date?",
+    "term": "date",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's just hang out this weekend and chill.",
+    "target": "let's just hang out this weekend and chill.",
+    "term": "chill",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "no cap, that last episode was so intense.",
+    "target": "honestly, that last episode was so intense.",
+    "term": "no cap",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really understood the assignment in that exam.",
+    "target": "i really understood the assignment in that exam.",
+    "term": "understood",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the energy at the party was lit last night!",
+    "target": "the energy at the party was lit last night!",
+    "term": "lit",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i thought it was like sus that he didn't reply.",
+    "target": "i thought it was like suspicious that he didn't reply.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let him cook; he might surprise us.",
+    "target": "let him cook; he might surprise us.",
+    "term": "cook",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he ate and left no crumbs with that performance.",
+    "target": "he ate and left no crumbs with that performance.",
+    "term": "ate",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "bet we can beat our last record for this game.",
+    "target": "bet we can beat our last record for this game.",
+    "term": "bet",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i really want to flex my skills in the tournament.",
+    "target": "i really want to flex my skills in the tournament.",
+    "term": "flex",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "that comment was some serious shade.",
+    "target": "that comment was some serious shade.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i will beat you in the game",
+    "target": "i will defeat you in the game",
+    "term": "beat",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i will beat you at sports",
+    "target": "i will defeat you at sports",
+    "term": "beat",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i will win the race",
+    "target": "i will win the race",
+    "term": "win",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "can i have some tea, please?",
+    "target": "can i have some gossip, please?",
+    "term": "tea",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "can i have some coffee, please?",
+    "target": "can i have some coffee, please?",
+    "term": "coffee",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "can i have some food, please?",
+    "target": "can i have some food, please?",
+    "term": "food",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "this pizza is dope!",
+    "target": "this pizza is great!",
+    "term": "dope",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the pizza is dope!",
+    "target": "the pizza is great!",
+    "term": "dope",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the party was lit last night",
+    "target": "the party was awesome last night",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the event was lit last night",
+    "target": "the event was awesome last night",
+    "term": "lit",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's chill at the park later",
+    "target": "let's hang out at the park later",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's relax at the park later",
+    "target": "let's relax at the park later",
+    "term": "relax",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the crowd was really hype during the concert",
+    "target": "the crowd was really excited during the concert",
+    "term": "hype",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the audience was really hype during the concert",
+    "target": "the audience was really hype during the concert",
+    "term": "hype",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he likes to flex his muscles",
+    "target": "he likes to show off his muscles",
+    "term": "flex",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he likes to boast about his muscles",
+    "target": "he likes to show off his muscles",
+    "term": "boast",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he is just showing his strength",
+    "target": "he is just showing his strength",
+    "term": "showing",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the vase will bust if you drop it",
+    "target": "the vase will break if you drop it",
+    "term": "bust",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the vase will shatter if dropped",
+    "target": "the vase will break if you drop it",
+    "term": "shatter",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the vase can break if you drop it",
+    "target": "the vase can break if you drop it",
+    "term": "break",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "i beat my record in the race",
+    "target": "i beat my record in the race",
+    "term": "beat",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "can you pass the tea, please?",
+    "target": "can you pass the tea, please?",
+    "term": "pass the tea",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "the food was salty and hard to eat",
+    "target": "the food was salty and hard to eat",
+    "term": "salty",
+    "sense": "literal",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let's chill by the pool this weekend",
+    "target": "let's relax by the pool this weekend",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he likes to flex his creativity in art",
+    "target": "he likes to show off his creativity in art",
+    "term": "flex",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he looked sick after eating too much junk food",
+    "target": "he looked ill after eating too much junk food",
+    "term": "sick",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "he can beat anyone at chess",
+    "target": "he can easily win at chess",
+    "term": "beat",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she was salty about losing the game",
+    "target": "she was upset about losing the game",
+    "term": "salty",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she was salty about losing the match",
+    "target": "she was upset about losing the match",
+    "term": "salty",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "she was salty when she lost",
+    "target": "she was upset when she lost",
+    "term": "salty",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "her attitude was salty",
+    "target": "her attitude was upset",
+    "term": "salty",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let’s chill at the beach this summer",
+    "target": "let’s relax at the beach this summer",
+    "term": "chill",
+    "sense": "slang",
+    "source": "simulated_eval"
+  },
+  {
+    "input": "let’s hang out at the beach this summer",
+    "target": "let’s hang out at the beach this summer",
+    "term": "hang out",
+    "sense": "literal",
+    "source": "simulated_eval"
+  }
+]

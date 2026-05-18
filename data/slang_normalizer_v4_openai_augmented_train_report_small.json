@@ -1,0 +1,225 @@
+{
+  "base_train": "data\\slang_normalizer_v4_train.json",
+  "openai_approved": "data\\feedback_normalizer_openai_approved_small.json",
+  "output": "data\\slang_normalizer_v4_openai_augmented_train_small.json",
+  "base_rows_read": 11590,
+  "openai_rows_read": 240,
+  "base_rows_added": 11582,
+  "openai_rows_added": 235,
+  "total_rows": 11817,
+  "unique_inputs": 4252,
+  "sense_counts": {
+    "literal": 5269,
+    "slang": 6548
+  },
+  "top_sources": [
+    [
+      "v4_hard_contrast",
+      3920
+    ],
+    [
+      "targeted_hard_training",
+      2794
+    ],
+    [
+      "targeted_approved",
+      2163
+    ],
+    [
+      "template",
+      1465
+    ],
+    [
+      "hard_case_repeat",
+      999
+    ],
+    [
+      "openai_feedback_variant",
+      235
+    ],
+    [
+      "feedback_augmented",
+      152
+    ],
+    [
+      "feedback_literal_guard",
+      43
+    ],
+    [
+      "feedback_approved",
+      42
+    ],
+    [
+      "manual_golden",
+      4
+    ]
+  ],
+  "top_terms": [
+    [
+      "nasty",
+      350
+    ],
+    [
+      "cooked",
+      329
+    ],
+    [
+      "legit",
+      312
+    ],
+    [
+      "chill",
+      310
+    ],
+    [
+      "salty",
+      261
+    ],
+    [
+      "lit",
+      256
+    ],
+    [
+      "beef",
+      240
+    ],
+    [
+      "flex",
+      218
+    ],
+    [
+      "jam",
+      213
+    ],
+    [
+      "fire",
+      212
+    ],
+    [
+      "tea",
+      209
+    ],
+    [
+      "sick",
+      209
+    ],
+    [
+      "cap",
+      205
+    ],
+    [
+      "shady",
+      195
+    ],
+    [
+      "ghost",
+      193
+    ],
+    [
+      "drip",
+      188
+    ],
+    [
+      "crash",
+      180
+    ],
+    [
+      "extra",
+      175
+    ],
+    [
+      "hooked",
+      173
+    ],
+    [
+      "ship",
+      151
+    ],
+    [
+      "fit",
+      149
+    ],
+    [
+      "ate",
+      149
+    ],
+    [
+      "crumbs",
+      142
+    ],
+    [
+      "tripping",
+      140
+    ],
+    [
+      "facts",
+      137
+    ],
+    [
+      "sharp",
+      136
+    ],
+    [
+      "tight",
+      136
+    ],
+    [
+      "mid",
+      129
+    ],
+    [
+      "cracked",
+      113
+    ],
+    [
+      "dip",
+      110
+    ],
+    [
+      "bus",
+      106
+    ],
+    [
+      "dipped",
+      105
+    ],
+    [
+      "washed",
+      104
+    ],
+    [
+      "ate and left no crumbs",
+      93
+    ],
+    [
+      "beat",
+      86
+    ],
+    [
+      "slaps",
+      78
+    ],
+    [
+      "bussin",
+      77
+    ],
+    [
+      "cover",
+      76
+    ],
+    [
+      "floor",
+      76
+    ],
+    [
+      "drop",
+      76
+    ]
+  ],
+  "skipped": {
+    "base:gold_input_leakage": 6,
+    "openai:conflicting_target": 5,
+    "base:literal row rewrites target": 2
+  },
+  "openai_repeat": 1
+}

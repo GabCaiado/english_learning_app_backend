@@ -1,0 +1,338 @@
+[
+  {
+    "input": "that performance was so cringe.",
+    "target": "that performance was so embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i couldn't finish the video because it was cringe.",
+    "target": "i couldn't finish the video because it was embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his attempt at flirting was cringe.",
+    "target": "his attempt at flirting was embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the whole interview felt cringe to watch.",
+    "target": "the whole interview felt embarrassing to watch.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme is cringe.",
+    "target": "that meme is embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this party vibe is cringe.",
+    "target": "this party vibe is embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being cringe around your boss.",
+    "target": "stop being embarrassing around your boss.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that reply made the thread cringe.",
+    "target": "that reply made the thread embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i felt cringe during the awkward silence.",
+    "target": "i felt embarrassed during the awkward silence.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that celebrity roast was actually cringe.",
+    "target": "that celebrity roast was actually embarrassing.",
+    "term": "cringe",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he would cringe at the sight of blood.",
+    "target": "he would cringe at the sight of blood.",
+    "term": "cringe",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cat made me cringe when it hissed.",
+    "target": "the cat made me cringe when it hissed.",
+    "term": "cringe",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme is so dank!",
+    "target": "that meme is so excellent!",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "your playlist is dank.",
+    "target": "your playlist is excellent.",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this new skin in Fortnite is dank",
+    "target": "this new skin in Fortnite is excellent",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that stand-up set was dank",
+    "target": "that stand-up set was outstanding",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "their tweets are always dank",
+    "target": "their tweets are always especially funny",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we had some dank snacks at the party",
+    "target": "we had some excellent snacks at the party",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the chef's new dish is dank",
+    "target": "the chef's new dish is excellent",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i saved a dank meme to my phone",
+    "target": "i saved a great meme to my phone",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his edits on the video are dank",
+    "target": "his edits on the video are impressive",
+    "term": "dank",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the basement smelled dank and moldy",
+    "target": "the basement smelled dank and moldy",
+    "term": "dank",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the cave was dank after the rain",
+    "target": "the cave was dank after the rain",
+    "term": "dank",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the book describes a dank cellar behind the pub",
+    "target": "the book describes a dank cellar behind the pub",
+    "term": "dank",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his drip is amazing today.",
+    "target": "his style is amazing today.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "check out her drip at the party.",
+    "target": "check out her outfit at the party.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that artist always has great drip.",
+    "target": "that artist always has great style.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i love his drip in that jacket.",
+    "target": "i love his look in that jacket.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she showed her drip at the fashion show.",
+    "target": "she showed her style at the fashion show.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his drip always catches people's attention.",
+    "target": "his style always catches people's attention.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the whole crew has great drip.",
+    "target": "the whole crew has great style.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that sneaker drip looks sharp.",
+    "target": "that sneaker style looks sharp.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you see her drip in the new photos?",
+    "target": "do you see her style in the new photos?",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's got drip for days.",
+    "target": "he's got style for days.",
+    "term": "drip",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "water will drip from the leaky pipe.",
+    "target": "water will drip from the leaky pipe.",
+    "term": "drip",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the nurse adjusted the drip on the iv.",
+    "target": "the nurse adjusted the drip on the iv.",
+    "term": "drip",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she brought a whole suitcase for a weekend trip, she's so extra.",
+    "target": "she brought a whole suitcase for a weekend trip, she's so over the top.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her outfit was so extra, but i loved it!",
+    "target": "her outfit was so over the top, but i loved it!",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he made an entrance that was extra.",
+    "target": "he made an entrance that was unnecessarily flamboyant.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they decorated the whole house for a small birthday, that was extra.",
+    "target": "they decorated the whole house for a small birthday, that was excessive.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being extra about the seating arrangements.",
+    "target": "stop being overly dramatic about the seating arrangements.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's extra with her voice and gestures on stage.",
+    "target": "she's overly showy with her voice and gestures on stage.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's so extra when he talks about his dog.",
+    "target": "he's so overly dramatic when he talks about his dog.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that apology was a little extra, you could have been brief.",
+    "target": "that apology was a little over the top, you could have been brief.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they went extra with the car decorations for prom.",
+    "target": "they went over the top with the car decorations for prom.",
+    "term": "extra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need an extra pen.",
+    "target": "i need an extra pen.",
+    "term": "extra",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "there is an extra slice of pizza in the fridge.",
+    "target": "there is an extra slice of pizza in the fridge.",
+    "term": "extra",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the extra battery is stored in the drawer.",
+    "target": "the extra battery is stored in the drawer.",
+    "term": "extra",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

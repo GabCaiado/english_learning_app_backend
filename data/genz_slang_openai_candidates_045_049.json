@@ -1,0 +1,394 @@
+[
+  {
+    "input": "she's calling it her hot girl summer on insta",
+    "target": "she's calling it her summer of enjoying herself and being unapologetic on insta",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they planned a hot girl summer road trip",
+    "target": "they planned a road trip for women to have fun and be unapologetic",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she doubled down on her hot girl summer attitude",
+    "target": "she doubled down on her attitude of enjoying herself and being unapologetic",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're planning a hot girl summer party next month",
+    "target": "they're planning a party for women to have fun and be unapologetic next month",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the breakup she went full hot girl summer",
+    "target": "after the breakup she decided to enjoy herself and be unapologetic",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "booking pride events during hot girl summer was a smart move",
+    "target": "booking pride events during a season when women focus on having fun and being unapologetic was a smart move",
+    "term": "hot girl summer",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the dictionary defines hot girl summer as a summer when a girl is hot",
+    "target": "the dictionary defines hot girl summer as a summer when a girl is hot",
+    "term": "hot girl summer",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she described 1999 as a hot girl summer because the temperatures were unusually high",
+    "target": "she described 1999 as a hot girl summer because the temperatures were unusually high",
+    "term": "hot girl summer",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she spilled her drink on her dress and i oop!",
+    "target": "she spilled her drink on her dress and i gasped!",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i was walking down the hall and i oop when i saw him",
+    "target": "i was walking down the hall and i gasped when i saw him",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop, that was awkward",
+    "target": "oh no, that was awkward",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he tripped in front of everyone and i oop.",
+    "target": "he tripped in front of everyone and i cringed.",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my mom caught me sneaking snacks and i oop",
+    "target": "my mom caught me sneaking snacks and i was embarrassed",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop when the cake fell",
+    "target": "i gasped when the cake fell",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she texted the wrong number and i oop",
+    "target": "she texted the wrong number and i was surprised",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop! the cat knocked over the vase",
+    "target": "oh no! the cat knocked over the vase",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "during the meeting he asked a silly question and i oop quietly",
+    "target": "during the meeting he asked a silly question and i stifled a laugh quietly",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they announced free pizza and i oop",
+    "target": "they announced free pizza and i was excited",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i was scrolling through photos and i oop at the wedding picture",
+    "target": "i was scrolling through photos and i was surprised by the wedding picture",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i oop when my phone buzzed",
+    "target": "i was startled when my phone buzzed",
+    "term": "i oop",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm low key excited about the new movie.",
+    "target": "i'm secretly excited about the new movie.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's low key mad that we missed dinner.",
+    "target": "she's secretly mad that we missed dinner.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he low key wants to quit his job.",
+    "target": "he secretly wants to quit his job.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were low key impressed by the performance.",
+    "target": "they were secretly impressed by the performance.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm low key rooting for your team.",
+    "target": "i'm secretly rooting for your team.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she low key loves that song.",
+    "target": "she secretly loves that song.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're low key planning a surprise party.",
+    "target": "we're secretly planning a surprise party.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i low key don't care about the spoilers.",
+    "target": "i secretly don't care about the spoilers.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he was low key relieved when the test ended.",
+    "target": "he was secretly relieved when the test ended.",
+    "term": "low key",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the photographer prefers low key lighting for dramatic portraits.",
+    "target": "the photographer prefers low key lighting for dramatic portraits.",
+    "term": "low key",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the song has a low key melody in the verse.",
+    "target": "the song has a low key melody in the verse.",
+    "term": "low key",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the painting uses low key colors to create a somber mood.",
+    "target": "the painting uses low key colors to create a somber mood.",
+    "term": "low key",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's living like the main character at every party this summer.",
+    "target": "she's living like the center of attention at every party this summer.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they treated him like the main character that night.",
+    "target": "they treated him like the center of attention that night.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop acting like the main character when it's not your show.",
+    "target": "stop acting like the center of attention when it's not your show.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's the main character in every group photo.",
+    "target": "she's the center of attention in every group photo.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you being such a main character about the seating arrangement?",
+    "target": "why are you being such a center of attention about the seating arrangement?",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're the main character at family dinners, telling long stories.",
+    "target": "they're the center of attention at family dinners, telling long stories.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "whenever she travels she turns into a main character.",
+    "target": "whenever she travels she turns into the center of attention.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he made a scene and acted like the main character in front of everyone.",
+    "target": "he made a scene and acted like the center of attention in front of everyone.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that drama queen is totally a main character.",
+    "target": "that drama queen is totally a person who draws everyone's attention.",
+    "term": "main character",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the main character of the novel discovers a hidden map.",
+    "target": "the main character of the novel discovers a hidden map.",
+    "term": "main character",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "in the play the main character sings in the second act.",
+    "target": "in the play the main character sings in the second act.",
+    "term": "main character",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the main character's motivations drive the entire plot.",
+    "target": "the main character's motivations drive the entire plot.",
+    "term": "main character",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you eating the last slice of pizza!",
+    "target": "of all people, it's you eating the last slice of pizza!",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you with the spoilers again",
+    "target": "it's you of all people with the spoilers again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you wearing headphones at full blast again",
+    "target": "of all people, it's you wearing headphones at full blast again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you getting tickets to the wrong date",
+    "target": "of all people, it's you getting tickets to the wrong date",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you blaming the dog for the mess",
+    "target": "of all people, it's you blaming the dog for the mess",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you leaving your dishes in the sink again",
+    "target": "of all people, it's you leaving your dishes in the sink again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you canceling plans at the last minute",
+    "target": "of all people, it's you canceling plans at the last minute",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you starting drama over nothing",
+    "target": "you're the one starting drama over nothing",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you quoting that meme again",
+    "target": "of all people, it's you quoting that meme again",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "not you stealing my hoodie",
+    "target": "of all people, it's you stealing my hoodie",
+    "term": "not you",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "it is not you",
+    "target": "it is not you",
+    "term": "not you",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the pronoun in that sentence is not you",
+    "target": "the pronoun in that sentence is not you",
+    "term": "not you",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

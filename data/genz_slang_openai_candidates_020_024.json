@@ -1,0 +1,415 @@
+[
+  {
+    "input": "that's the best movie of all time, periodt.",
+    "target": "that's the best movie of all time, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no one can change my mind, periodt.",
+    "target": "no one can change my mind, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's the boss, periodt.",
+    "target": "she's the boss, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we're closed for the holidays, periodt.",
+    "target": "we're closed for the holidays, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this plan is nonnegotiable, periodt!",
+    "target": "this plan is nonnegotiable, end of discussion!",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i will not be attending the meeting, periodt.",
+    "target": "i will not be attending the meeting, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you broke the rule, periodt.",
+    "target": "you broke the rule, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's final, periodt",
+    "target": "that's final, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i love her, periodt.",
+    "target": "i love her, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this is unacceptable, periodt.",
+    "target": "this is unacceptable, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm not going to apologize, periodt.",
+    "target": "i'm not going to apologize, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no refunds will be given, periodt.",
+    "target": "no refunds will be given, period.",
+    "term": "periodt",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's got so much rizz, everyone likes him.",
+    "target": "he's got so much skill at flirting, everyone likes him.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's working on her rizz for the party.",
+    "target": "she's working on her ability to flirt for the party.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i have zero rizz and i always freeze when talking to someone i like.",
+    "target": "i have no ability to flirt and i always freeze when talking to someone i like.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his rizz always gets him dates.",
+    "target": "his ability to attract people always gets him dates.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they tested my rizz at the bar last night.",
+    "target": "they tested my flirting skills at the bar last night.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need to up my rizz before the date.",
+    "target": "i need to improve my ability to flirt before the date.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "no rizz, no chance.",
+    "target": "no ability to flirt, no chance.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he rizzed her up at the concert.",
+    "target": "he successfully flirted with her at the concert.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that's peak rizz behavior.",
+    "target": "that's excellent flirting behavior.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you have any rizz tips?",
+    "target": "do you have any tips for flirting?",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his natural rizz came out when he talked to her.",
+    "target": "his natural ability to flirt came out when he talked to her.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "bringing good rizz to a date matters.",
+    "target": "bringing strong flirting skills to a date matters.",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's just salty because he lost the game",
+    "target": "he's just jealous because he lost the game",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being salty about her promotion",
+    "target": "stop being jealous about her promotion",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they got salty when i beat them at Fortnite",
+    "target": "they got jealous when i beat them at Fortnite",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't get salty over a small mistake",
+    "target": "don't get jealous over a small mistake",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you so salty about her dating someone else",
+    "target": "why are you so jealous about her dating someone else",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "quit acting salty just because i got a promotion",
+    "target": "quit acting jealous just because i got a promotion",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he seemed salty after she praised Lisa's project",
+    "target": "he seemed jealous after she praised Lisa's project",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she gets salty whenever her friends get new phones",
+    "target": "she gets jealous whenever her friends get new phones",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you're salty that i won the tournament",
+    "target": "you're jealous that i won the tournament",
+    "term": "salty",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the soup is too salty",
+    "target": "the soup is too salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the soil near the coast is salty",
+    "target": "the soil near the coast is salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "a salty taste lingered on his lips",
+    "target": "a salty taste lingered on his lips",
+    "term": "salty",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she was throwing shade at my outfit.",
+    "target": "she was insulting my outfit.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "did you hear him throw shade about her new song?",
+    "target": "did you hear him make a disparaging remark about her new song?",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop shading me in front of everyone.",
+    "target": "stop insulting me in front of everyone.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were being shady about the contract.",
+    "target": "they were acting suspiciously about the contract.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i felt like she was throwing shade with that comment.",
+    "target": "i felt like she was making a disparaging remark with that comment.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why are you throwing shade at my friend?",
+    "target": "why are you insulting my friend?",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he always throws shade on social media.",
+    "target": "he always posts indirect insults on social media.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that reply was low-key shade.",
+    "target": "that reply was a subtle insult.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she shaded him during the meeting.",
+    "target": "she insulted him during the meeting.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don’t throw shade in the group chat.",
+    "target": "don’t make indirect insults in the group chat.",
+    "term": "shade",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we sat in the shade to escape the heat.",
+    "target": "we sat in the shade to escape the heat.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the map shows the shaded area in blue.",
+    "target": "the map shows the shaded area in blue.",
+    "term": "shade",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i totally ship those two characters!",
+    "target": "i totally wish those two characters were in a relationship!",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you ship Alice and Bob?",
+    "target": "do you want Alice and Bob to be in a relationship?",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i ship them so hard",
+    "target": "i want them to be in a relationship so hard",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop shipping celebrities i like with other people",
+    "target": "stop wishing celebrities i like were in relationships with other people",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is it wrong that i ship my two best friends?",
+    "target": "is it wrong that i want my two best friends to be in a relationship?",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that ship is my favorite",
+    "target": "that romantic pairing is my favorite",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they ship her and him",
+    "target": "they want her and him to be in a relationship",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i can't stop shipping Draco and Hermione",
+    "target": "i can't stop wishing Draco and Hermione were in a relationship",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm not sure if i ship them or not",
+    "target": "i'm not sure if i want them to be in a relationship or not",
+    "term": "ship",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the ship arrived at the harbor.",
+    "target": "the ship arrived at the harbor.",
+    "term": "ship",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we will ship the order tomorrow.",
+    "target": "we will ship the order tomorrow.",
+    "term": "ship",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

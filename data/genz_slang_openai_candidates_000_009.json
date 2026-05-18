@@ -1,0 +1,674 @@
+[
+  {
+    "input": "here's my 0.02 on the schedule: move the deadline earlier.",
+    "target": "here's my two cents on the schedule: move the deadline earlier.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "0.02: split the tasks so no one is overloaded.",
+    "target": "my two cents: split the tasks so no one is overloaded.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "posting my 0.02—we should hire another developer.",
+    "target": "posting my two cents—we should hire another developer.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "sending my 0.02: update the design.",
+    "target": "sending my two cents: update the design.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you want my 0.02, hire a consultant.",
+    "target": "if you want my two cents, hire a consultant.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "dropping 0.02: prioritize user feedback.",
+    "target": "dropping my two cents: prioritize user feedback.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "0.02—consider an alternate vendor.",
+    "target": "my two cents—consider an alternate vendor.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "here's 0.02 on the menu: add a gluten free option.",
+    "target": "here's my two cents on the menu: add a gluten free option.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "just 0.02: make the interface simpler.",
+    "target": "just my two cents: make the interface simpler.",
+    "term": "0.02",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the pipette dispensed 0.02 ml of reagent.",
+    "target": "the pipette dispensed 0.02 ml of reagent.",
+    "term": "0.02",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the margin of error is 0.02 in this measurement.",
+    "target": "the margin of error is 0.02 in this measurement.",
+    "term": "0.02",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the coin is worth 0.02 dollars.",
+    "target": "the coin is worth 0.02 dollars.",
+    "term": "0.02",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we've got a 10m team working on this project.",
+    "target": "we've got a ten-man team working on this project.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the 10m presented the proposal to the board.",
+    "target": "the ten-man team presented the proposal to the board.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "can the 10m join the client call at 3pm?",
+    "target": "can the ten-person team join the client call at 3pm?",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we need a 10m for the audit next week.",
+    "target": "we need a ten-man team for the audit next week.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the 10m will handle onboarding for new hires.",
+    "target": "the ten-person team will handle onboarding for new hires.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i assigned the 10m to the beta release tasks.",
+    "target": "i assigned the ten-man team to the beta release tasks.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the 10m met in conference room b.",
+    "target": "the ten-person group met in conference room b.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "our 10m reduced turnaround time by half.",
+    "target": "our ten-man team reduced turnaround time by half.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't schedule more than one meeting with the 10m per day.",
+    "target": "don't schedule more than one meeting with the ten-person team per day.",
+    "term": "10m",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the fence is 10m high.",
+    "target": "the fence is 10m high.",
+    "term": "10m",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we budgeted 10m for the renovation.",
+    "target": "we budgeted 10m for the renovation.",
+    "term": "10m",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the rope stretched 10m across the field.",
+    "target": "the rope stretched 10m across the field.",
+    "term": "10m",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q for your feedback on the report",
+    "target": "thank you for your feedback on the report",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "hey 10q for covering my shift tonight",
+    "target": "hey thank you for covering my shift tonight",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q, that helped a lot",
+    "target": "thank you, that helped a lot",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q for the quick reply",
+    "target": "thank you for the quick reply",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q! i'll get back to you tomorrow",
+    "target": "thank you! i'll get back to you tomorrow",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q for the invite to fortnite",
+    "target": "thank you for the invite to fortnite",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q for the heads up about the meeting",
+    "target": "thank you for the heads up about the meeting",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q, much appreciated",
+    "target": "thank you, much appreciated",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you can review this, 10q",
+    "target": "if you can review this, thank you",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10q for the wired cable",
+    "target": "thank you for the wired cable",
+    "term": "10q",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "please attach the 10q to the investor folder",
+    "target": "please attach the 10q to the investor folder",
+    "term": "10q",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the auditor requested the company's latest 10q",
+    "target": "the auditor requested the company's latest 10q",
+    "term": "10q",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10x for carrying my books.",
+    "target": "thanks for carrying my books.",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "hey 10x!",
+    "target": "hey thanks!",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10x for the ride home.",
+    "target": "thanks for the ride home.",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10x so much for the gift.",
+    "target": "thanks so much for the gift.",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "much appreciated, 10x",
+    "target": "much appreciated, thanks",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10x everyone who helped.",
+    "target": "thanks everyone who helped.",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "sending 10x for all your support.",
+    "target": "sending thanks for all your support.",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "10x!!",
+    "target": "thanks!!",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "left you a note, 10x",
+    "target": "left you a note, thanks",
+    "term": "10x",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the sample was diluted 10x.",
+    "target": "the sample was diluted 10x.",
+    "term": "10x",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "increase the volume by 10x.",
+    "target": "increase the volume by 10x.",
+    "term": "10x",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the bacteria grew about 10x overnight.",
+    "target": "the bacteria grew about 10x overnight.",
+    "term": "10x",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "let's have a 121 meeting to go over the details.",
+    "target": "let's have a one-on-one meeting to go over the details.",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "can we do a quick 121 before the call?",
+    "target": "can we do a quick one-on-one before the call?",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'll book a 121 with marketing next week.",
+    "target": "i'll book a one-on-one with marketing next week.",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she asked for a 121 to discuss her promotion.",
+    "target": "she asked for a one-on-one to discuss her promotion.",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "can you give me a 121 about the project?",
+    "target": "can you give me a one-on-one about the project?",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we should have a 121 to resolve this privately.",
+    "target": "we should have a one-on-one to resolve this privately.",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the group session he arranged a 121 with each client.",
+    "target": "after the group session he arranged a one-on-one with each client.",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i had a 121 with my manager this morning.",
+    "target": "i had a one-on-one with my manager this morning.",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "could we schedule a 121 to go over your feedback?",
+    "target": "could we schedule a one-on-one to go over your feedback?",
+    "term": "121",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "room 121 is on the second floor.",
+    "target": "room 121 is on the second floor.",
+    "term": "121",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the code to open the box is 121.",
+    "target": "the code to open the box is 121.",
+    "term": "121",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she scored 121 points in the game.",
+    "target": "she scored 121 points in the game.",
+    "term": "121",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's so 1337 at coding, it's impressive!",
+    "target": "he's so elite at coding, it's impressive!",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that player is 1337 in Fortnite",
+    "target": "that player is elite in Fortnite",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she became 1337 after years of practice",
+    "target": "she became elite after years of practice",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this team is 1337 at strategy",
+    "target": "this team is elite at strategy",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my friend is 1337 with network security tools",
+    "target": "my friend is elite with network security tools",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i met a 1337 hacker at the conference",
+    "target": "i met an elite hacker at the conference",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called him 1337 for his fast reflexes",
+    "target": "they called him elite for his fast reflexes",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "being 1337 in esports takes dedication",
+    "target": "being elite in esports takes dedication",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is she really 1337 at speedruns?",
+    "target": "is she really elite at speedruns?",
+    "term": "1337",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the number 1337 appears in the log",
+    "target": "the number 1337 appears in the log",
+    "term": "1337",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "room 1337 is on the fourth floor",
+    "target": "room 1337 is on the fourth floor",
+    "term": "1337",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "please unlock the door with code 1337",
+    "target": "please unlock the door with code 1337",
+    "term": "1337",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "you're my world, 143.",
+    "target": "you're my world, i love you.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "text me back 143.",
+    "target": "text me back i love you.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "goodnight, 143.",
+    "target": "goodnight, i love you.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i came home to a note that said 143.",
+    "target": "i came home to a note that said i love you.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "143 forever",
+    "target": "i love you forever",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we used 143 as our secret code.",
+    "target": "we used i love you as our secret code.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they wrote 143 in the margin.",
+    "target": "they wrote i love you in the margin.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "mom found a sticky note with 143 inside the book.",
+    "target": "mom found a sticky note with i love you inside the book.",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i left you a message: 143 <3",
+    "target": "i left you a message: i love you <3",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you mean 143 when you write that?",
+    "target": "do you mean i love you when you write that?",
+    "term": "143",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "room 143 is on the second floor.",
+    "target": "room 143 is on the second floor.",
+    "term": "143",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the serial number ends with 143.",
+    "target": "the serial number ends with 143.",
+    "term": "143",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "1432, can't wait to see you.",
+    "target": "i love you too, can't wait to see you.",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "hey 1432",
+    "target": "hey i love you too",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "thanks, 1432",
+    "target": "thanks, i love you too",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "1432 <3",
+    "target": "i love you too <3",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "saw your message 1432",
+    "target": "saw your message i love you too",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "skype later? 1432",
+    "target": "skype later? i love you too",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "1432, ttyl",
+    "target": "i love you too, ttyl",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "goodnight 1432",
+    "target": "goodnight i love you too",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "1432, you're the best",
+    "target": "i love you too, you're the best",
+    "term": "1432",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the building number is 1432",
+    "target": "the building number is 1432",
+    "term": "1432",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "order 1432 shipped today",
+    "target": "order 1432 shipped today",
+    "term": "1432",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "room 1432 is on the fourth floor",
+    "target": "room 1432 is on the fourth floor",
+    "term": "1432",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

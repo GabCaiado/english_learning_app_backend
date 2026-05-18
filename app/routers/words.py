@@ -1,13 +1,51 @@
 from fastapi import APIRouter, Depends, HTTPException
 from postgrest.exceptions import APIError
 from typing import Optional
-from datetime import date
+from datetime import date, timedelta
 
 from app.database import get_supabase
 from app.ml.pipeline import get_pipeline
 from app.ml.slang_detector import AMBIGUOUS_SLANG
-from app.schemas.word import WordCreate, WordResponse
+from app.schemas.word import WordCreate, WordResponse, ReviewRequest, ReviewResponse
 from app.auth import get_current_user
+
+
+# ---------------------------------------------------------------------------
+# SM-2 spaced repetition algorithm
+# ---------------------------------------------------------------------------
+
+def sm2_update(ef: float, interval: int, reps: int, quality: int) -> tuple[float, int, int]:
+    """
+    Returns (new_easiness_factor, new_interval_days, new_repetitions).
+    quality: 0-2 = failed, 3 = hard, 4 = good, 5 = perfect
+    """
+    new_ef = ef + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))
+    new_ef = max(1.3, round(new_ef, 4))
+
+    if quality < 3:
+        # Failed — reset to beginning, review again tomorrow
+        new_reps = 0
+        new_interval = 1
+    else:
+        new_reps = reps + 1
+        if new_reps == 1:
+            new_interval = 1
+        elif new_reps == 2:
+            new_interval = 6
+        else:
+            new_interval = max(1, round(interval * new_ef))
+
+    return new_ef, new_interval, new_reps
+
+
+def get_mastery_level(reps: int) -> str:
+    if reps == 0:
+        return "new"
+    if reps <= 3:
+        return "learning"
+    if reps <= 7:
+        return "reviewing"
+    return "mastered"
 
 router = APIRouter(prefix="/words", tags=["words"])
 
@@ -160,24 +198,84 @@ async def get_user_words(
 
 @router.get("/review")
 async def get_words_for_review(user_id: str = Depends(get_current_user)):
-    """Returns words that need to be reviewed today"""
+    """Returns words due for review today, with their examples"""
     supabase = get_supabase()
-    
+
     today = date.today().isoformat()
-    
+
     result = supabase.table("user_words")\
-        .select("*")\
+        .select("*, word_examples(example_en)")\
         .eq("user_id", user_id)\
         .lte("next_review_date", today)\
         .eq("is_mastered", False)\
         .limit(20)\
         .execute()
-    
+
     for row in result.data:
         row["is_slang"] = display_is_slang(row)
         row["category"] = display_category(row)
 
     return result.data
+
+
+@router.post("/{word_id}/review", response_model=ReviewResponse)
+async def review_word(
+    word_id: str,
+    data: ReviewRequest,
+    user_id: str = Depends(get_current_user)
+):
+    """
+    Records the user's review result and updates SM-2 fields.
+    quality 0-2 = failed, 3 = hard, 4 = good, 5 = perfect
+    """
+    supabase = get_supabase()
+
+    result = supabase.table("user_words")\
+        .select("*")\
+        .eq("id", word_id)\
+        .eq("user_id", user_id)\
+        .single()\
+        .execute()
+
+    if not result.data:
+        raise HTTPException(404, "Word not found")
+
+    row = result.data
+    ef       = float(row.get("easiness_factor") or 2.5)
+    interval = int(row.get("interval_days")     or 0)
+    reps     = int(row.get("repetitions")       or 0)
+
+    new_ef, new_interval, new_reps = sm2_update(ef, interval, reps, data.quality)
+    new_mastery  = get_mastery_level(new_reps)
+    is_mastered  = new_reps >= 8
+    next_review  = date.today() + timedelta(days=new_interval)
+
+    times_correct   = row.get("times_correct",   0) + (1 if data.quality >= 3 else 0)
+    times_incorrect = row.get("times_incorrect", 0) + (1 if data.quality < 3  else 0)
+
+    supabase.table("user_words").update({
+        "easiness_factor":  new_ef,
+        "interval_days":    new_interval,
+        "repetitions":      new_reps,
+        "next_review_date": next_review.isoformat(),
+        "mastery_level":    new_mastery,
+        "is_mastered":      is_mastered,
+        "times_correct":    times_correct,
+        "times_incorrect":  times_incorrect,
+        "times_reviewed":   row.get("times_reviewed", 0) + 1,
+    }).eq("id", word_id).execute()
+
+    return ReviewResponse(
+        id=word_id,
+        word=row["word"],
+        next_review_date=next_review,
+        mastery_level=new_mastery,
+        interval_days=new_interval,
+        repetitions=new_reps,
+        easiness_factor=new_ef,
+        times_correct=times_correct,
+        times_incorrect=times_incorrect,
+    )
 
 
 @router.delete("/{word_id}")

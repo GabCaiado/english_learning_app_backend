@@ -1,0 +1,408 @@
+[
+  {
+    "input": "he's big mad because we beat his team last night.",
+    "target": "he's very angry because we beat his team last night.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she got big mad when i took her hoodie.",
+    "target": "she got very angry when i took her hoodie.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they were big mad about the spoilers.",
+    "target": "they were extremely angry about the spoilers.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my boss is big mad over the missed deadline.",
+    "target": "my boss is very angry over the missed deadline.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm big mad that my flight was canceled.",
+    "target": "i'm extremely angry that my flight was canceled.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the fans were big mad after the referee's call.",
+    "target": "the fans were very angry after the referee's call.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's big mad at him for lying.",
+    "target": "she's very angry at him for lying.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't get big mad just because you lost a game.",
+    "target": "don't get extremely angry just because you lost a game.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we were big mad when the concert got canceled.",
+    "target": "we were very angry when the concert got canceled.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he came home big mad and slammed the door.",
+    "target": "he came home very angry and slammed the door.",
+    "term": "big mad",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the big mad man shouted in the street.",
+    "target": "the big mad man shouted in the street.",
+    "term": "big mad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "in the phrase 'big mad', big modifies mad.",
+    "target": "in the phrase 'big mad', big modifies mad.",
+    "term": "big mad",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she wore the same dress as the bride at the wedding. big yikes.",
+    "target": "she wore the same dress as the bride at the wedding. that is really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he accidentally called his boss mom during the meeting. big yikes.",
+    "target": "he accidentally called his boss mom during the meeting. that is really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "someone ran into the glass door at the party. big yikes.",
+    "target": "someone ran into the glass door at the party. that is so embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "big yikes, i posted a private message on my public feed.",
+    "target": "that is really embarrassing, i posted a private message on my public feed.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he replied all with the joke meant for his friend. big yikes.",
+    "target": "he replied all with the joke meant for his friend. that's really awkward.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she tripped while giving her presentation. big yikes.",
+    "target": "she tripped while giving her presentation. that was really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "left my headphones in the taxi and realized at home. big yikes.",
+    "target": "left my headphones in the taxi and realized at home. that is so embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she sent a flirty text to her ex by mistake. big yikes.",
+    "target": "she sent a flirty text to her ex by mistake. that is very embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he waved back at someone who wasn't waving at him. big yikes.",
+    "target": "he waved back at someone who wasn't waving at him. that is so cringeworthy.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i forgot my lines during the school play. big yikes.",
+    "target": "i forgot my lines during the school play. that was really embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they accidentally forwarded the private photo to the whole group chat. big yikes.",
+    "target": "they accidentally forwarded the private photo to the whole group chat. that is extremely embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i called my teacher mom in front of the class. big yikes.",
+    "target": "i called my teacher mom in front of the class. that is very embarrassing.",
+    "term": "big yikes",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's your body count?",
+    "target": "how many people have you had sex with?",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he flexes his body count on social media.",
+    "target": "he flexes how many people he has had sex with on social media.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's lowkey proud of her body count.",
+    "target": "she's lowkey proud of how many people she has had sex with.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm trying to keep my body count private.",
+    "target": "i'm trying to keep how many people i have had sex with private.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "dating apps make it easy to check someone's body count.",
+    "target": "dating apps make it easy to check how many people someone has had sex with.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is body count a dealbreaker for you?",
+    "target": "is the number of sexual partners a dealbreaker for you?",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "what's your ex's body count?",
+    "target": "how many people has your ex had sex with?",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he lied about his body count.",
+    "target": "he lied about how many people he had sex with.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my body count is five.",
+    "target": "my number of sexual partners is five.",
+    "term": "body count",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the body count after the earthquake was still being tallied.",
+    "target": "the body count after the earthquake was still being tallied.",
+    "term": "body count",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they increased the body count in the report to reflect the casualties.",
+    "target": "they increased the body count in the report to reflect the casualties.",
+    "term": "body count",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that party was cra cra!",
+    "target": "that party was crazy!",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "traffic today was cra cra, i was late",
+    "target": "traffic today was chaotic, i was late",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the concert got cra cra once the headliner showed up",
+    "target": "the concert got wild once the headliner showed up",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "my weekend plans are cra cra, so i can't commit",
+    "target": "my weekend plans are hectic, so i can't commit",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that game went cra cra in the last five minutes",
+    "target": "that game went crazy in the last five minutes",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her reaction was totally cra cra",
+    "target": "her reaction was totally over the top",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the weather turned cra cra overnight",
+    "target": "the weather turned severe overnight",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that breakup was cra cra drama",
+    "target": "that breakup was intense drama",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i was driving and things got cra cra",
+    "target": "i was driving and things got chaotic",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the festival crowd went cra cra during the finale",
+    "target": "the festival crowd went wild during the finale",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his stories are cra cra sometimes",
+    "target": "his stories are crazy sometimes",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the plan sounds cra cra, but let's try",
+    "target": "the plan sounds wild, but let's try",
+    "term": "cra cra",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "wow, deez nutz got him good.",
+    "target": "wow, that trolling phrase got him good.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop saying deez nutz during class.",
+    "target": "stop saying that phrase meant to annoy people during class.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they included deez nutz in the meme.",
+    "target": "they included that phrase used to annoy people in the meme.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "deez nutz are annoying in chat.",
+    "target": "that trolling phrase is annoying in chat.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i got pranked with deez nutz yesterday.",
+    "target": "i got pranked with that trolling phrase yesterday.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is using deez nutz funny?",
+    "target": "is using that phrase to annoy people funny?",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he yelled deez nutz at the other player.",
+    "target": "he yelled that phrase to provoke the other player.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they shouted deez nutz during the livestream.",
+    "target": "they shouted that phrase during the livestream.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "who even says deez nutz anymore?",
+    "target": "who even says that trolling phrase anymore?",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i rolled my eyes when she said deez nutz.",
+    "target": "i rolled my eyes when she said that phrase meant to annoy people.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the joke 'deez nutz' derailed the discussion.",
+    "target": "the joke 'that phrase meant to annoy people' derailed the discussion.",
+    "term": "deez nutz",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  }
+]

@@ -27,6 +27,14 @@ from dotenv import load_dotenv
 OUTPUT_PATH = Path("data/targeted_normalizer_eval_candidates.json")
 DISCOVERED_TERMS_PATH = Path("data/targeted_normalizer_discovered_terms.json")
 
+MODEL_PRICES_PER_1M = {
+    "gpt-5-mini": {"input": 0.25, "output": 2.00},
+    "gpt-5-nano": {"input": 0.05, "output": 0.40},
+    "gpt-4.1-mini": {"input": 0.40, "output": 1.60},
+    "gpt-4.1-nano": {"input": 0.10, "output": 0.40},
+    "gpt-4o-mini": {"input": 0.15, "output": 0.60},
+}
+
 TARGET_TERMS = [
     {
         "term": "jam",
@@ -149,10 +157,10 @@ def normalize_term_spec(spec: dict[str, Any]) -> dict[str, Any] | None:
         examples.append(example)
         senses.add(example[2])
 
-    if senses != {"literal", "slang"}:
+    if "slang" not in senses:
         return None
 
-    return {"term": term, "notes": notes, "examples": examples[:4]}
+    return {"term": term, "notes": notes, "examples": examples[:6], "senses": sorted(senses)}
 
 
 def load_term_specs(path: Path) -> list[dict[str, Any]]:
@@ -322,6 +330,18 @@ def discover_term_specs(
 
 
 def build_prompt(term_spec: dict[str, Any], examples_per_term: int) -> str:
+    senses = set(term_spec.get("senses") or [])
+    if senses == {"literal", "slang"}:
+        balance_instruction = (
+            f"Include a balanced mix of literal and slang rows. If {examples_per_term} is even, "
+            "generate exactly half literal and half slang."
+        )
+    else:
+        balance_instruction = (
+            "Generate mostly slang normalization rows. Include literal identity rows only if the term "
+            "has a common ordinary non-slang meaning; never invent fake literal uses for slang-only terms."
+        )
+
     return f"""
 Generate exactly {examples_per_term} high-quality evaluation rows for an English slang normalizer.
 
@@ -344,7 +364,13 @@ Seed examples:
 Requirements:
 - Return only JSON matching this schema:
   {{"data":[{{"input":"...","target":"...","term":"{term_spec["term"]}","sense":"literal|slang","source":"openai_targeted_eval"}}]}}
-- Include a balanced mix of literal and slang rows.
+- {balance_instruction}
+- Seed targets may be meaning hints from a source dataset; generated targets must be full standard-English sentence rewrites.
+- Literal rows are safety rows: target must be byte-for-byte identical to input after trimming spaces.
+- Literal rows should use ordinary non-slang contexts, especially physical or dictionary meanings.
+- Slang rows should rewrite only the slang phrase, preserving the rest of the sentence.
+- Do not mark ordinary standard English as slang just because it can be paraphrased.
+- Example: "they beat us by five points" is standard English and should be literal, not slang.
 - Include short natural sentences a learner might save in the app.
 - Avoid wrappers like "people said", "everyone online said", "honestly", "i think".
 - Avoid duplicate inputs.
@@ -361,6 +387,31 @@ def parse_response(text: str) -> list[dict[str, Any]]:
     else:
         rows = []
     return [row for row in rows if isinstance(row, dict)]
+
+
+def write_rows(path: Path, rows: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(rows, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def usage_value(usage: Any, key: str) -> int:
+    if usage is None:
+        return 0
+    if isinstance(usage, dict):
+        return int(usage.get(key) or 0)
+    return int(getattr(usage, key, 0) or 0)
+
+
+def estimate_cost(model: str, input_tokens: int, output_tokens: int) -> float | None:
+    prices = MODEL_PRICES_PER_1M.get(model)
+    if not prices:
+        return None
+    return (
+        input_tokens * prices["input"] / 1_000_000
+        + output_tokens * prices["output"] / 1_000_000
+    )
 
 
 def validate_row(row: dict[str, Any], expected_term: str) -> str | None:
@@ -394,6 +445,7 @@ def main() -> None:
     parser.add_argument("--discovered-terms-output", type=Path, default=DISCOVERED_TERMS_PATH)
     parser.add_argument("--include-default-terms", action="store_true", help="Append the built-in first-batch terms when using --terms-path or --discover-terms.")
     parser.add_argument("--discover-only", action="store_true", help="Only write discovered terms; do not generate eval rows.")
+    parser.add_argument("--start-index", type=int, default=0, help="Skip this many term specs before generation.")
     parser.add_argument("--max-terms", type=int, help="Limit the number of term specs used for row generation.")
     parser.add_argument("--sleep", type=float, default=0.2)
     args = parser.parse_args()
@@ -430,6 +482,9 @@ def main() -> None:
     if args.discover_only:
         return
 
+    if args.start_index:
+        term_specs = term_specs[max(0, args.start_index) :]
+
     if args.max_terms is not None:
         term_specs = term_specs[: args.max_terms]
 
@@ -438,6 +493,8 @@ def main() -> None:
 
     generated: list[dict[str, Any]] = []
     seen_inputs: set[str] = set()
+    total_input_tokens = 0
+    total_output_tokens = 0
 
     for idx, term_spec in enumerate(term_specs, start=1):
         print(f"{idx}/{len(term_specs)} {term_spec['term']}: requesting examples...", flush=True)
@@ -479,6 +536,11 @@ def main() -> None:
             },
         )
 
+        input_tokens = usage_value(response.usage, "input_tokens")
+        output_tokens = usage_value(response.usage, "output_tokens")
+        total_input_tokens += input_tokens
+        total_output_tokens += output_tokens
+
         accepted = 0
         skipped = 0
         try:
@@ -502,16 +564,30 @@ def main() -> None:
             generated.append(row)
             accepted += 1
 
-        print(f"{idx}/{len(term_specs)} {term_spec['term']}: accepted={accepted} skipped={skipped}", flush=True)
+        cost = estimate_cost(args.model, total_input_tokens, total_output_tokens)
+        usage_suffix = (
+            f" tokens=in:{total_input_tokens} out:{total_output_tokens}"
+            + (f" est_cost=${cost:.4f}" if cost is not None else "")
+        )
+        print(
+            f"{idx}/{len(term_specs)} {term_spec['term']}: "
+            f"accepted={accepted} skipped={skipped}{usage_suffix}",
+            flush=True,
+        )
+        write_rows(args.output, generated)
         if args.sleep:
             time.sleep(args.sleep)
 
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    with args.output.open("w", encoding="utf-8") as f:
-        json.dump(generated, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    write_rows(args.output, generated)
 
     print(f"Wrote {len(generated)} candidate rows to {args.output}", flush=True)
+    total_cost = estimate_cost(args.model, total_input_tokens, total_output_tokens)
+    if total_cost is not None:
+        print(
+            f"Token usage: input={total_input_tokens} output={total_output_tokens} "
+            f"estimated_cost=${total_cost:.4f}",
+            flush=True,
+        )
     print("Review candidates before copying approved rows into scripts/build_normalizer_v3_dataset.py.", flush=True)
 
 

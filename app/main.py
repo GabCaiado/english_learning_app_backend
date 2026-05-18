@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import get_settings
-from app.routers import translate, words, users
+from app.routers import translate, translation_feedback, words, users
 
 settings = get_settings()
 
@@ -24,6 +24,7 @@ app.add_middleware(
 
 # Rotas
 app.include_router(translate.router)
+app.include_router(translation_feedback.router)
 app.include_router(words.router)
 app.include_router(users.router)
 

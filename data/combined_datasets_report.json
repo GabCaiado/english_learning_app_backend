@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-05-15T22:08:27.780777+00:00",
+  "model": "gpt-4o-mini",
+  "failed_translations_fetched": 77,
+  "source_counts": {
+    "failed_translations_gpt_detector": 442,
+    "failed_translations_gpt_normalizer": 247,
+    "simulated_eval_detector": 695,
+    "simulated_eval_normalizer": 276
+  },
+  "detector_candidates_total": 1137,
+  "normalizer_candidates_total": 523,
+  "token_usage": {
+    "input": 13563,
+    "output": 20438
+  },
+  "estimated_cost_usd": 0.0143
+}

@@ -1,0 +1,2500 @@
+[
+  {
+    "term": "bad",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 32 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the tire has a bad leak.",
+        "target": "the tire has a bad leak.",
+        "sense": "literal"
+      },
+      {
+        "input": "the weather is bad.",
+        "target": "the weather is bad.",
+        "sense": "literal"
+      },
+      {
+        "input": "this food looks bad.",
+        "target": "this food looks bad.",
+        "sense": "literal"
+      },
+      {
+        "input": "his new song is bad.",
+        "target": "his new song is very good.",
+        "sense": "slang"
+      },
+      {
+        "input": "that trick was bad.",
+        "target": "that trick was incredible.",
+        "sense": "slang"
+      },
+      {
+        "input": "your outfit is bad.",
+        "target": "your outfit is amazing.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "beat",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 38 slang, 47 literal.",
+    "examples": [
+      {
+        "input": "that is a great beat",
+        "target": "that is a great beat",
+        "sense": "literal"
+      },
+      {
+        "input": "i love listening to this beat",
+        "target": "i love listening to this beat",
+        "sense": "literal"
+      },
+      {
+        "input": "the conductor set the beat.",
+        "target": "the conductor set the beat.",
+        "sense": "literal"
+      },
+      {
+        "input": "that beat is sick",
+        "target": "that beat is excellent",
+        "sense": "slang"
+      },
+      {
+        "input": "you're going to be beat after that workout.",
+        "target": "you are going to be exhausted after that workout.",
+        "sense": "slang"
+      },
+      {
+        "input": "i'm totally beat tonight.",
+        "target": "i am completely exhausted tonight.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "bet",
+    "notes": "GenZ dataset meaning: Yes, ok, \"it's on.\". Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used to confirm plans or agreements in a laid-back way..",
+    "examples": [
+      {
+        "input": "You want to meet at 6? Bet.",
+        "target": "[rewrite using meaning: Yes, ok, \"it's on.\"]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "big yikes",
+    "notes": "GenZ dataset meaning: Used to describe something embarrassing.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used in situations where something is particularly awkward or cringeworthy..",
+    "examples": [
+      {
+        "input": "She wore the same dress as the bride at the wedding? Big yikes.",
+        "target": "[rewrite using meaning: Used to describe something embarrassing.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "bop",
+    "notes": "GenZ dataset meaning: An excellent song or album.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Commonly used in reference to music, especially upbeat songs that are hard to resist dancing to..",
+    "examples": [
+      {
+        "input": "This new track is a total bop!",
+        "target": "[rewrite using meaning: An excellent song or album.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "bump",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 32 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "she felt a bump as the elevator started.",
+        "target": "she felt a bump as the elevator started.",
+        "sense": "literal"
+      },
+      {
+        "input": "my car has a bump on the hood.",
+        "target": "my car has a bump on the hood.",
+        "sense": "literal"
+      },
+      {
+        "input": "she felt a bump on her head.",
+        "target": "she felt a bump on her head.",
+        "sense": "literal"
+      },
+      {
+        "input": "we bumped that track at the party.",
+        "target": "we played that track loudly at the party.",
+        "sense": "slang"
+      },
+      {
+        "input": "the dj keeps bumping classic hits.",
+        "target": "the dj keeps playing classic hits loudly.",
+        "sense": "slang"
+      },
+      {
+        "input": "we bumped the track for the whole road trip.",
+        "target": "we played the track loudly for the whole road trip.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "burn",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the candle left a small burn on the table.",
+        "target": "the candle left a small burn on the table.",
+        "sense": "literal"
+      },
+      {
+        "input": "watch out for a burn from the stove.",
+        "target": "watch out for a burn from the stove.",
+        "sense": "literal"
+      },
+      {
+        "input": "the sun gave me a burn at the beach.",
+        "target": "the sun gave me a burn at the beach.",
+        "sense": "literal"
+      },
+      {
+        "input": "that roast delivered a savage burn.",
+        "target": "that roast contained a very harsh insult.",
+        "sense": "slang"
+      },
+      {
+        "input": "his quick burn shut her down.",
+        "target": "his quick insult shut her down.",
+        "sense": "slang"
+      },
+      {
+        "input": "nice burn, you showed him.",
+        "target": "that was an effective insult; you showed him.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "bussin",
+    "notes": "GenZ dataset meaning: Used to say something is good. Primarily used to describe food. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Primarily used to compliment delicious food, but can apply to anything impressive..",
+    "examples": [
+      {
+        "input": "This pizza is bussin’!",
+        "target": "[rewrite using meaning: Used to say something is good. Primarily used to describe food]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "busted",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the old lamp is busted and won't turn on.",
+        "target": "the old lamp is busted and won't turn on.",
+        "sense": "literal"
+      },
+      {
+        "input": "the zipper is busted.",
+        "target": "the zipper is busted.",
+        "sense": "literal"
+      },
+      {
+        "input": "the camera lens is busted.",
+        "target": "the camera lens is busted.",
+        "sense": "literal"
+      },
+      {
+        "input": "they busted him breaking into cars.",
+        "target": "they arrested him for breaking into cars.",
+        "sense": "slang"
+      },
+      {
+        "input": "i got busted cheating on the exam.",
+        "target": "i was caught cheating on the exam.",
+        "sense": "slang"
+      },
+      {
+        "input": "the company got busted for fraud.",
+        "target": "the company was charged with fraud.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "camp",
+    "notes": "GenZ dataset meaning: Something that is ironically trendy. One might consider Crocs to be of the camp aesthetic.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in fashion, particularly in avant-garde or over-the-top styles that are playful or flamboyant..",
+    "examples": [
+      {
+        "input": "That outfit is so camp, it’s amazing.",
+        "target": "[rewrite using meaning: Something that is ironically trendy. One might consider Crocs to be of the camp aesthetic.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cancel culture",
+    "notes": "GenZ dataset meaning: a form of shaming the actions or opinions of a public figure, company, or organization. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: A highly debated topic where individuals are held accountable, often through social media boycotts..",
+    "examples": [
+      {
+        "input": "People are saying he’s canceled after those comments.",
+        "target": "[rewrite using meaning: a form of shaming the actions or opinions of a public figure, company, or organization]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cap",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 127 slang, 75 literal. GenZ dataset meaning: A lie or exaggeration. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Frequently used in conversations to call out someone who is lying or exaggerating..",
+    "examples": [
+      {
+        "input": "the lens cap fell off",
+        "target": "the lens cap fell off",
+        "sense": "literal"
+      },
+      {
+        "input": "he bought a new cap.",
+        "target": "he bought a new cap.",
+        "sense": "literal"
+      },
+      {
+        "input": "the gas cap is loose",
+        "target": "the gas cap is loose",
+        "sense": "literal"
+      },
+      {
+        "input": "stop capping about your rank",
+        "target": "stop lying about your rank",
+        "sense": "slang"
+      },
+      {
+        "input": "stop capping about the rumor.",
+        "target": "stop lying about the rumor.",
+        "sense": "slang"
+      },
+      {
+        "input": "his excuse was cap",
+        "target": "his excuse was a lie",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "catch these hands",
+    "notes": "GenZ dataset meaning: Used to threaten physical combat with someone. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used in confrontational or playful situations when someone is threatening physical action..",
+    "examples": [
+      {
+        "input": "If you keep talking like that, you’re gonna catch these hands.",
+        "target": "[rewrite using meaning: Used to threaten physical combat with someone]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cheugy",
+    "notes": "GenZ dataset meaning: Derogatory term for Millennials. Used when millennials are perceived to be excessively attempting to be trendy or stylish.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used to refer to things that were once popular but are now considered passé, usually in a millennial vs. Gen Z context..",
+    "examples": [
+      {
+        "input": "That phrase is so cheugy, no one says that anymore.",
+        "target": "[rewrite using meaning: Derogatory term for Millennials. Used when millennials are perceived to be excessively attempting to be trendy or stylish.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "chill",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 211 slang, 110 literal.",
+    "examples": [
+      {
+        "input": "a chill wind came through",
+        "target": "a chill wind came through",
+        "sense": "literal"
+      },
+      {
+        "input": "i felt a chill run down my spine.",
+        "target": "i felt a chill run down my spine.",
+        "sense": "literal"
+      },
+      {
+        "input": "the pool water is chill.",
+        "target": "the pool water is chill.",
+        "sense": "literal"
+      },
+      {
+        "input": "we're just chilling at home tonight.",
+        "target": "we are just relaxing at home tonight.",
+        "sense": "slang"
+      },
+      {
+        "input": "that concert was chill.",
+        "target": "that concert was relaxed.",
+        "sense": "slang"
+      },
+      {
+        "input": "that neighbor seems chill",
+        "target": "that neighbor seems relaxed",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "clean",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 8 slang, 4 literal.",
+    "examples": [
+      {
+        "input": "make sure the windows are clean.",
+        "target": "make sure the windows are clean.",
+        "sense": "literal"
+      },
+      {
+        "input": "please clean the table.",
+        "target": "please clean the table.",
+        "sense": "literal"
+      },
+      {
+        "input": "i need to clean my shoes.",
+        "target": "i need to clean my shoes.",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm not gonna lie that was clean",
+        "target": "honestly that was impressive",
+        "sense": "slang"
+      },
+      {
+        "input": "that performance was clean.",
+        "target": "that performance was very precise and polished.",
+        "sense": "slang"
+      },
+      {
+        "input": "she has a clean flow on that track.",
+        "target": "she delivers a very precise and skillful flow on that track.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cold",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the soup is cold.",
+        "target": "the soup is cold.",
+        "sense": "literal"
+      },
+      {
+        "input": "a cold wind blew.",
+        "target": "a cold wind blew.",
+        "sense": "literal"
+      },
+      {
+        "input": "the room felt cold.",
+        "target": "the room felt cold.",
+        "sense": "literal"
+      },
+      {
+        "input": "they remained cold after the argument.",
+        "target": "they remained emotionally distant after the argument.",
+        "sense": "slang"
+      },
+      {
+        "input": "his response was cold.",
+        "target": "his response was unfriendly.",
+        "sense": "slang"
+      },
+      {
+        "input": "he gave a cold performance.",
+        "target": "he gave an unemotional performance.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cooked",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 188 slang, 143 literal.",
+    "examples": [
+      {
+        "input": "breakfast was cooked early",
+        "target": "breakfast was cooked early",
+        "sense": "literal"
+      },
+      {
+        "input": "the vegetables are cooked",
+        "target": "the vegetables are cooked",
+        "sense": "literal"
+      },
+      {
+        "input": "the pasta was cooked well",
+        "target": "the pasta was cooked well",
+        "sense": "literal"
+      },
+      {
+        "input": "they are cooked for the interview",
+        "target": "they are in trouble for the interview",
+        "sense": "slang"
+      },
+      {
+        "input": "i am cooked for the interview.",
+        "target": "i am in trouble for the interview.",
+        "sense": "slang"
+      },
+      {
+        "input": "i'm cooked without my notes",
+        "target": "i am in trouble without my notes",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cover",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the cover for the jar is missing.",
+        "target": "the cover for the jar is missing.",
+        "sense": "literal"
+      },
+      {
+        "input": "i need a cover for the grill.",
+        "target": "i need a cover for the grill.",
+        "sense": "literal"
+      },
+      {
+        "input": "the book cover is torn.",
+        "target": "the book cover is torn.",
+        "sense": "literal"
+      },
+      {
+        "input": "can she cover for me on friday?",
+        "target": "can she take my shift on friday?",
+        "sense": "slang"
+      },
+      {
+        "input": "i'll cover the morning route this week.",
+        "target": "i'll take the morning route this week.",
+        "sense": "slang"
+      },
+      {
+        "input": "i need someone to cover the meeting.",
+        "target": "i need someone to take my place at the meeting.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "cracked",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 72 slang, 38 literal.",
+    "examples": [
+      {
+        "input": "his tooth is cracked.",
+        "target": "his tooth is cracked.",
+        "sense": "literal"
+      },
+      {
+        "input": "the mirror in the hallway is cracked.",
+        "target": "the mirror in the hallway is cracked.",
+        "sense": "literal"
+      },
+      {
+        "input": "the paint on the wall is cracked.",
+        "target": "the paint on the wall is cracked.",
+        "sense": "literal"
+      },
+      {
+        "input": "he's cracked after the loss.",
+        "target": "he is emotionally distraught after the loss.",
+        "sense": "slang"
+      },
+      {
+        "input": "she is cracked at chess",
+        "target": "she is very good at chess",
+        "sense": "slang"
+      },
+      {
+        "input": "the hacker cracked the server.",
+        "target": "the hacker broke into the server.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "crush",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 27 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "use a jar to crush the garlic.",
+        "target": "use a jar to crush the garlic.",
+        "sense": "literal"
+      },
+      {
+        "input": "the machine will crush the cans.",
+        "target": "the machine will crush the cans.",
+        "sense": "literal"
+      },
+      {
+        "input": "she tried to crush the ice for the drinks.",
+        "target": "she tried to crush the ice for the drinks.",
+        "sense": "literal"
+      },
+      {
+        "input": "he admitted he had a crush on his coworker.",
+        "target": "he admitted he was romantically attracted to his coworker.",
+        "sense": "slang"
+      },
+      {
+        "input": "i told her i had a crush on her.",
+        "target": "i told her i was romantically attracted to her.",
+        "sense": "slang"
+      },
+      {
+        "input": "do you have a crush on anyone right now?",
+        "target": "are you romantically attracted to anyone right now?",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "dank",
+    "notes": "GenZ dataset meaning: excellent or of very high quality. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Commonly used in internet slang to refer to memes or humor that are edgy or particularly funny..",
+    "examples": [
+      {
+        "input": "That meme is so dank!",
+        "target": "[rewrite using meaning: excellent or of very high quality]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "dead",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 0 slang, 0 literal.",
+    "examples": [
+      {
+        "input": "the battery is dead",
+        "target": "the battery is dead",
+        "sense": "literal"
+      },
+      {
+        "input": "that joke has me dead",
+        "target": "that joke made me laugh a lot",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "dip",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 35 slang, 71 literal.",
+    "examples": [
+      {
+        "input": "dip the vegetables in hummus",
+        "target": "dip the vegetables in hummus",
+        "sense": "literal"
+      },
+      {
+        "input": "dip the strawberries in chocolate.",
+        "target": "dip the strawberries in chocolate.",
+        "sense": "literal"
+      },
+      {
+        "input": "dip the brush in the paint.",
+        "target": "dip the brush in the paint.",
+        "sense": "literal"
+      },
+      {
+        "input": "he dipped from the party early.",
+        "target": "he left the party early.",
+        "sense": "slang"
+      },
+      {
+        "input": "let's dip before the traffic gets bad.",
+        "target": "let's leave before the traffic gets bad.",
+        "sense": "slang"
+      },
+      {
+        "input": "she dipped without saying goodbye.",
+        "target": "she left without saying goodbye.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "drag",
+    "notes": "GenZ dataset meaning: If you drag someone, you're criticizing or making fun of them. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in social media when someone is publicly called out or ridiculed..",
+    "examples": [
+      {
+        "input": "She dragged him for his terrible performance.",
+        "target": "[rewrite using meaning: If you drag someone, you're criticizing or making fun of them]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "drip",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 106 slang, 74 literal. GenZ dataset meaning: Another way of saying swag, drip is a term for a cool or sexy trend or style.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used in fashion circles to compliment someone’s style or outfit..",
+    "examples": [
+      {
+        "input": "paint started to drip",
+        "target": "paint started to drip",
+        "sense": "literal"
+      },
+      {
+        "input": "the pipe had a slow drip",
+        "target": "the pipe had a slow drip",
+        "sense": "literal"
+      },
+      {
+        "input": "there is a drip coming from the faucet.",
+        "target": "there is a drip coming from the faucet.",
+        "sense": "literal"
+      },
+      {
+        "input": "her jacket adds drip",
+        "target": "her jacket adds style",
+        "sense": "slang"
+      },
+      {
+        "input": "the outfit has drip",
+        "target": "the outfit has style",
+        "sense": "slang"
+      },
+      {
+        "input": "the jacket has drip.",
+        "target": "the jacket has style.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "drop",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the toddler dropped his toy.",
+        "target": "the toddler dropped his toy.",
+        "sense": "literal"
+      },
+      {
+        "input": "she dropped the plate and it broke.",
+        "target": "she dropped the plate and it broke.",
+        "sense": "literal"
+      },
+      {
+        "input": "be careful not to drop your phone.",
+        "target": "be careful not to drop your phone.",
+        "sense": "literal"
+      },
+      {
+        "input": "the band dropped their debut album today.",
+        "target": "the band released their debut album today.",
+        "sense": "slang"
+      },
+      {
+        "input": "the label dropped the remastered recordings.",
+        "target": "the label released the remastered recordings.",
+        "sense": "slang"
+      },
+      {
+        "input": "the developer dropped an update for the game.",
+        "target": "the developer released an update for the game.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "e-boy",
+    "notes": "GenZ dataset meaning: similar to emo or goth culture, but they use the internet to express themselves.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Describes a fashion or online subculture associated with platforms like TikTok and Instagram..",
+    "examples": [
+      {
+        "input": "He’s such an e-boy with those black nails and chains.",
+        "target": "[rewrite using meaning: similar to emo or goth culture, but they use the internet to express themselves.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "e-girl",
+    "notes": "GenZ dataset meaning: similar to emo or goth culture, but they use the internet to express themselves.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Commonly associated with social media platforms like TikTok, where users embrace a specific style influenced by internet and alternative culture..",
+    "examples": [
+      {
+        "input": "She’s such an e-girl with her neon eyeliner and platform boots.",
+        "target": "[rewrite using meaning: similar to emo or goth culture, but they use the internet to express themselves.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "fam",
+    "notes": "GenZ dataset meaning: Fam is a shorter word for family, but don't be fooled– it can be used to describe your friends or the way Millennials use \"bro\".. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used in casual conversation to address close friends or acquaintances..",
+    "examples": [
+      {
+        "input": "What’s good, fam? Long time no see!",
+        "target": "[rewrite using meaning: Fam is a shorter word for family, but don't be fooled– it can be used to describe your friends or the way Millennials use \"bro\".]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "ffs",
+    "notes": "GenZ dataset meaning: For fuck sake. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used informally, especially in text or online communication to show irritation..",
+    "examples": [
+      {
+        "input": "FFS, why is this meeting taking so long?",
+        "target": "[rewrite using meaning: For fuck sake]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "finesse",
+    "notes": "GenZ dataset meaning: Finesse means to trick or manipulate someone or a situation in order to get what you want.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Typically used when someone gets what they want through charm, skill, or slyness..",
+    "examples": [
+      {
+        "input": "He finessed his way into the VIP section.",
+        "target": "[rewrite using meaning: Finesse means to trick or manipulate someone or a situation in order to get what you want.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "finna",
+    "notes": "GenZ dataset meaning: shortened term for saying \"I'm going to\". Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in informal speech to indicate imminent action, popular in certain dialects of English..",
+    "examples": [
+      {
+        "input": "I’m finna head out.",
+        "target": "[rewrite using meaning: shortened term for saying \"I'm going to\"]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "fire",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 135 slang, 75 literal.",
+    "examples": [
+      {
+        "input": "the oven caught fire",
+        "target": "the oven caught fire",
+        "sense": "literal"
+      },
+      {
+        "input": "the fire kept us warm.",
+        "target": "the fire kept us warm.",
+        "sense": "literal"
+      },
+      {
+        "input": "the fire truck arrived",
+        "target": "the fire truck arrived",
+        "sense": "literal"
+      },
+      {
+        "input": "this verse is fire",
+        "target": "this verse is excellent",
+        "sense": "slang"
+      },
+      {
+        "input": "the edit was straight fire",
+        "target": "the edit was excellent",
+        "sense": "slang"
+      },
+      {
+        "input": "this song is fire",
+        "target": "this song is excellent",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "flex",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 143 slang, 75 literal.",
+    "examples": [
+      {
+        "input": "flex your ankle gently",
+        "target": "flex your ankle gently",
+        "sense": "literal"
+      },
+      {
+        "input": "he flexed his muscle",
+        "target": "he flexed his muscle",
+        "sense": "literal"
+      },
+      {
+        "input": "he asked me to flex my arm.",
+        "target": "he asked me to flex my arm.",
+        "sense": "literal"
+      },
+      {
+        "input": "that promotion is a flex",
+        "target": "that promotion is showing off",
+        "sense": "slang"
+      },
+      {
+        "input": "the new watch is a big flex.",
+        "target": "the new watch is a big way to show off.",
+        "sense": "slang"
+      },
+      {
+        "input": "that fit was a flex.",
+        "target": "that fit was showing off.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "floor",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "she dropped the plate on the floor.",
+        "target": "she dropped the plate on the floor.",
+        "sense": "literal"
+      },
+      {
+        "input": "mop the floor after you cook.",
+        "target": "mop the floor after you cook.",
+        "sense": "literal"
+      },
+      {
+        "input": "there's a crack in the floor near the door.",
+        "target": "there's a crack in the floor near the door.",
+        "sense": "literal"
+      },
+      {
+        "input": "her performance totally floored the judges.",
+        "target": "her performance completely astonished the judges.",
+        "sense": "slang"
+      },
+      {
+        "input": "i felt floored after hearing the verdict.",
+        "target": "i felt overwhelmed after hearing the verdict.",
+        "sense": "slang"
+      },
+      {
+        "input": "the sudden resignation floored the staff.",
+        "target": "the sudden resignation stunned the staff.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "fresh",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the paint is fresh.",
+        "target": "the paint is fresh.",
+        "sense": "literal"
+      },
+      {
+        "input": "she bought fresh flowers.",
+        "target": "she bought fresh flowers.",
+        "sense": "literal"
+      },
+      {
+        "input": "we need fresh water.",
+        "target": "we need fresh water.",
+        "sense": "literal"
+      },
+      {
+        "input": "don't get fresh with me.",
+        "target": "don't be rude to me.",
+        "sense": "slang"
+      },
+      {
+        "input": "stop being fresh.",
+        "target": "stop being rude.",
+        "sense": "slang"
+      },
+      {
+        "input": "those sneakers are fresh.",
+        "target": "those sneakers are stylish.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "g.o.a.t",
+    "notes": "GenZ dataset meaning: The greatest of all time. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Frequently used in sports but has expanded to any field where someone is considered the best..",
+    "examples": [
+      {
+        "input": "Michael Jordan is the GOAT of basketball.",
+        "target": "[rewrite using meaning: The greatest of all time]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "ghost",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 130 slang, 74 literal.",
+    "examples": [
+      {
+        "input": "the ghost movie was old",
+        "target": "the ghost movie was old",
+        "sense": "literal"
+      },
+      {
+        "input": "the haunted house had a ghost",
+        "target": "the haunted house had a ghost",
+        "sense": "literal"
+      },
+      {
+        "input": "the story described a friendly ghost who helps children.",
+        "target": "the story described a friendly ghost who helps children.",
+        "sense": "literal"
+      },
+      {
+        "input": "she ghosted me after the date",
+        "target": "she stopped responding to me after the date",
+        "sense": "slang"
+      },
+      {
+        "input": "he ghosted my messages",
+        "target": "he stopped responding to my messages",
+        "sense": "slang"
+      },
+      {
+        "input": "they might ghost the client",
+        "target": "they might stop responding to the client",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "ghosting",
+    "notes": "GenZ dataset meaning: common amongst the earlier talking stages of a relationship. Ghosting someone means you start ignoring them or stop texting them back.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used in online dating or friendships where one party disappears with no warning..",
+    "examples": [
+      {
+        "input": "We were talking for weeks, and then she just ghosted me.",
+        "target": "[rewrite using meaning: common amongst the earlier talking stages of a relationship. Ghosting someone means you start ignoring them or stop texting them back.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "glow up",
+    "notes": "GenZ dataset meaning: a makeover or transformation from bad to good.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Mostly used when someone has improved their looks, style, or general confidence..",
+    "examples": [
+      {
+        "input": "She really had a glow up since high school.",
+        "target": "[rewrite using meaning: a makeover or transformation from bad to good.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "grinding",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 7 slang, 1 literal.",
+    "examples": [
+      {
+        "input": "the machine is grinding metal",
+        "target": "the machine is grinding metal",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm grindding roblox",
+        "target": "i am playing roblox intensely",
+        "sense": "slang"
+      },
+      {
+        "input": "i'm grinding roblox",
+        "target": "i am playing roblox intensely",
+        "sense": "slang"
+      },
+      {
+        "input": "i'm grindding valorant",
+        "target": "i am playing valorant intensely",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hammered",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "i hammered the two pieces together.",
+        "target": "i hammered the two pieces together.",
+        "sense": "literal"
+      },
+      {
+        "input": "we hammered the stakes into the ground.",
+        "target": "we hammered the stakes into the ground.",
+        "sense": "literal"
+      },
+      {
+        "input": "i hammered the picture frame to secure it.",
+        "target": "i hammered the picture frame to secure it.",
+        "sense": "literal"
+      },
+      {
+        "input": "by midnight she was completely hammered.",
+        "target": "by midnight she was completely drunk.",
+        "sense": "slang"
+      },
+      {
+        "input": "i got hammered at the wedding last weekend.",
+        "target": "i got very drunk at the wedding last weekend.",
+        "sense": "slang"
+      },
+      {
+        "input": "he texted me while he was hammered.",
+        "target": "he texted me while he was very drunk.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hang",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the keys hang on a hook by the door.",
+        "target": "the keys hang on a hook by the door.",
+        "sense": "literal"
+      },
+      {
+        "input": "he watched the pendant hang from her neck.",
+        "target": "he watched the pendant hang from her neck.",
+        "sense": "literal"
+      },
+      {
+        "input": "please hang the picture on the wall.",
+        "target": "please hang the picture on the wall.",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm just hanging with my cousins.",
+        "target": "i'm just spending time with my cousins.",
+        "sense": "slang"
+      },
+      {
+        "input": "we can hang at my place.",
+        "target": "we can spend time at my place.",
+        "sense": "slang"
+      },
+      {
+        "input": "do you want to hang this weekend?",
+        "target": "do you want to spend time together this weekend?",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "heat",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the engine produced a lot of heat during the trip.",
+        "target": "the engine produced a lot of heat during the trip.",
+        "sense": "literal"
+      },
+      {
+        "input": "during summer, the heat can be dangerous.",
+        "target": "during summer, the heat can be dangerous.",
+        "sense": "literal"
+      },
+      {
+        "input": "i can't sleep because of the heat tonight.",
+        "target": "i can't sleep because of the heat tonight.",
+        "sense": "literal"
+      },
+      {
+        "input": "the pitcher brought the heat on the last pitch.",
+        "target": "the pitcher threw very fast on the last pitch.",
+        "sense": "slang"
+      },
+      {
+        "input": "when he raps, he brings the heat every time.",
+        "target": "when he raps, he performs exceptionally well every time.",
+        "sense": "slang"
+      },
+      {
+        "input": "they turned up the heat in the third quarter.",
+        "target": "they increased their intensity in the third quarter.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "high-key",
+    "notes": "GenZ dataset meaning: the opposite of being low-key.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Used to express that something is not being hidden or downplayed..",
+    "examples": [
+      {
+        "input": "I high-key love this song.",
+        "target": "[rewrite using meaning: the opposite of being low-key.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hit",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the storm hit the coast last night.",
+        "target": "the storm hit the coast last night.",
+        "sense": "literal"
+      },
+      {
+        "input": "please don't hit the glass.",
+        "target": "please don't hit the glass.",
+        "sense": "literal"
+      },
+      {
+        "input": "they hit the target with three arrows.",
+        "target": "they hit the target with three arrows.",
+        "sense": "literal"
+      },
+      {
+        "input": "the new single is a hit.",
+        "target": "the new single is very popular.",
+        "sense": "slang"
+      },
+      {
+        "input": "the startup's app is a hit among teens.",
+        "target": "the startup's app is very popular among teenagers.",
+        "sense": "slang"
+      },
+      {
+        "input": "the charity event was a hit.",
+        "target": "the charity event was very successful.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hits different",
+    "notes": "GenZ dataset meaning: Something that is better in a peculiar manner. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used when comparing emotional experiences or moods tied to specific circumstances..",
+    "examples": [
+      {
+        "input": "This song hits different at night.",
+        "target": "[rewrite using meaning: Something that is better in a peculiar manner]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hooked",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 38 slang, 159 literal.",
+    "examples": [
+      {
+        "input": "the fish was hooked.",
+        "target": "the fish was hooked.",
+        "sense": "literal"
+      },
+      {
+        "input": "the coat got hooked on the fence.",
+        "target": "the coat got hooked on the fence.",
+        "sense": "literal"
+      },
+      {
+        "input": "the fish was hooked on the line.",
+        "target": "the fish was hooked on the line.",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm hooked on collecting sneakers.",
+        "target": "i am very interested in collecting sneakers.",
+        "sense": "slang"
+      },
+      {
+        "input": "he's hooked on his phone all night.",
+        "target": "he is using his phone constantly all night.",
+        "sense": "slang"
+      },
+      {
+        "input": "you're hooked if you try that cake.",
+        "target": "you will become addicted if you try that cake.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "hot",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the coffee is hot.",
+        "target": "the coffee is hot.",
+        "sense": "literal"
+      },
+      {
+        "input": "it's a hot day.",
+        "target": "it's a hot day.",
+        "sense": "literal"
+      },
+      {
+        "input": "the water is hot.",
+        "target": "the water is hot.",
+        "sense": "literal"
+      },
+      {
+        "input": "she's hot.",
+        "target": "she is very attractive.",
+        "sense": "slang"
+      },
+      {
+        "input": "he is hot right now.",
+        "target": "he is very popular at the moment.",
+        "sense": "slang"
+      },
+      {
+        "input": "that take was hot.",
+        "target": "that remark was bold and impressive.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "iykyk",
+    "notes": "GenZ dataset meaning: Acronym for \"If you know, you know.\" Used to describe inside jokes.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Generally used to reference inside jokes or niche knowledge..",
+    "examples": [
+      {
+        "input": "That hidden message in the movie was iconic. IYKYK.",
+        "target": "[rewrite using meaning: Acronym for \"If you know, you know.\" Used to describe inside jokes.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "i’m weak",
+    "notes": "GenZ dataset meaning: Similar to \"I'm dead\", this is just another term to use when you find something hilarious. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Commonly used when something makes you laugh hard, often exaggerated in digital conversations..",
+    "examples": [
+      {
+        "input": "That joke had me weak!",
+        "target": "[rewrite using meaning: Similar to \"I'm dead\", this is just another term to use when you find something hilarious]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "kill",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "doctors worked to kill the infection.",
+        "target": "doctors worked to kill the infection.",
+        "sense": "literal"
+      },
+      {
+        "input": "the pesticide will kill the insects on my plants.",
+        "target": "the pesticide will kill the insects on my plants.",
+        "sense": "literal"
+      },
+      {
+        "input": "the medicine will kill the bacteria.",
+        "target": "the medicine will kill the bacteria.",
+        "sense": "literal"
+      },
+      {
+        "input": "we killed the presentation and closed the deal.",
+        "target": "we did extremely well in the presentation and closed the deal.",
+        "sense": "slang"
+      },
+      {
+        "input": "she killed the sales target this quarter.",
+        "target": "she exceeded the sales target by a large margin this quarter.",
+        "sense": "slang"
+      },
+      {
+        "input": "you killed it on stage last night.",
+        "target": "you performed extremely well on stage last night.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "l",
+    "notes": "GenZ dataset meaning: Shorthand for loss/losing. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used when referring to a failure or mishap, either personally or generally.",
+    "examples": [
+      {
+        "input": "I forgot my wallet at home, that’s an L.",
+        "target": "[rewrite using meaning: Shorthand for loss/losing]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "l+ratio",
+    "notes": "GenZ dataset meaning: Response to a comment or action on the internet that is particularly bad.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Popularized on social media platforms to signify that someone not only failed but also had their failure amplified through backlash..",
+    "examples": [
+      {
+        "input": "Your tweet got 5 likes and 100 replies calling you out. L + ratio.",
+        "target": "[rewrite using meaning: Response to a comment or action on the internet that is particularly bad.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "legit",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 50 slang, 304 literal.",
+    "examples": [
+      {
+        "input": "the website is legit",
+        "target": "the website is legit",
+        "sense": "literal"
+      },
+      {
+        "input": "the company is legit",
+        "target": "the company is legit",
+        "sense": "literal"
+      },
+      {
+        "input": "the business is legit",
+        "target": "the business is legit",
+        "sense": "literal"
+      },
+      {
+        "input": "the idea looks legit.",
+        "target": "the idea looks excellent.",
+        "sense": "slang"
+      },
+      {
+        "input": "this win was legit.",
+        "target": "this win was excellent.",
+        "sense": "slang"
+      },
+      {
+        "input": "this idea was legit",
+        "target": "this idea was excellent",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "lit",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 163 slang, 111 literal.",
+    "examples": [
+      {
+        "input": "the match lit after a few strikes.",
+        "target": "the match lit after a few strikes.",
+        "sense": "literal"
+      },
+      {
+        "input": "the lamp lit the room",
+        "target": "the lamp lit the room",
+        "sense": "literal"
+      },
+      {
+        "input": "the hallway was brightly lit",
+        "target": "the hallway was brightly lit",
+        "sense": "literal"
+      },
+      {
+        "input": "the festival got lit after sunset",
+        "target": "the festival got exciting after sunset",
+        "sense": "slang"
+      },
+      {
+        "input": "the festival got lit",
+        "target": "the festival got exciting",
+        "sense": "slang"
+      },
+      {
+        "input": "that performance was lit.",
+        "target": "that performance was exciting.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "main character",
+    "notes": "GenZ dataset meaning: a phrase used to describe someone who is generally well-liked and charismatic. It can also be used to describe someone when they're making a scene, but not necessarily in a bad way. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in social media to refer to people who seem to be leading an extraordinary or dramatic life..",
+    "examples": [
+      {
+        "input": "She’s living her life like she’s the main character in a movie.",
+        "target": "[rewrite using meaning: a phrase used to describe someone who is generally well-liked and charismatic. It can also be used to describe someone when they're making a scene, but not necessarily in a bad way]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "mid",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 130 slang, 7 literal.",
+    "examples": [
+      {
+        "input": "we met in mid july",
+        "target": "we met in mid July",
+        "sense": "literal"
+      },
+      {
+        "input": "the meeting is in mid March",
+        "target": "the meeting is in mid March",
+        "sense": "literal"
+      },
+      {
+        "input": "we are planning it for mid December",
+        "target": "we are planning it for mid December",
+        "sense": "literal"
+      },
+      {
+        "input": "this meal is mid",
+        "target": "this meal is mediocre",
+        "sense": "slang"
+      },
+      {
+        "input": "this performance feels mid",
+        "target": "this performance feels mediocre",
+        "sense": "slang"
+      },
+      {
+        "input": "the episode was mid",
+        "target": "the episode was mediocre",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "nasty",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 150 slang, 230 literal.",
+    "examples": [
+      {
+        "input": "the food was nasty",
+        "target": "the food was nasty",
+        "sense": "literal"
+      },
+      {
+        "input": "the milk tasted nasty",
+        "target": "the milk tasted nasty",
+        "sense": "literal"
+      },
+      {
+        "input": "the trash smelled nasty",
+        "target": "the trash smelled nasty",
+        "sense": "literal"
+      },
+      {
+        "input": "his goal was nasty",
+        "target": "his goal was amazing",
+        "sense": "slang"
+      },
+      {
+        "input": "that slide was nasty.",
+        "target": "that slide was impressive.",
+        "sense": "slang"
+      },
+      {
+        "input": "his solo was nasty",
+        "target": "his solo was amazing",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "paper",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "i printed the report on recycled paper.",
+        "target": "i printed the report on recycled paper.",
+        "sense": "literal"
+      },
+      {
+        "input": "the paper is wet from the rain.",
+        "target": "the paper is wet from the rain.",
+        "sense": "literal"
+      },
+      {
+        "input": "can you hand me the paper?",
+        "target": "can you hand me the paper?",
+        "sense": "literal"
+      },
+      {
+        "input": "we need paper to start the business.",
+        "target": "we need money to start the business.",
+        "sense": "slang"
+      },
+      {
+        "input": "don't sleep on the paper.",
+        "target": "don't ignore the chance to make money.",
+        "sense": "slang"
+      },
+      {
+        "input": "i'm working overtime for paper.",
+        "target": "i am working overtime to earn money.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "periodt",
+    "notes": "GenZ dataset meaning: Used to add emphasis to something. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used to add emphasis to a statement, signaling that there’s no further debate..",
+    "examples": [
+      {
+        "input": "That’s the best movie of all time, periodt.",
+        "target": "[rewrite using meaning: Used to add emphasis to something]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "pop",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the balloon popped with a loud pop.",
+        "target": "the balloon popped with a loud pop.",
+        "sense": "literal"
+      },
+      {
+        "input": "the tire will pop if you drive over that nail.",
+        "target": "the tire will pop if you drive over that nail.",
+        "sense": "literal"
+      },
+      {
+        "input": "she watched the bubble pop on her finger.",
+        "target": "she watched the bubble pop on her finger.",
+        "sense": "literal"
+      },
+      {
+        "input": "the new cafe popped on opening day.",
+        "target": "the new cafe became very popular on opening day.",
+        "sense": "slang"
+      },
+      {
+        "input": "that song popped overnight.",
+        "target": "that song became very popular overnight.",
+        "sense": "slang"
+      },
+      {
+        "input": "the comedian popped during his set.",
+        "target": "the comedian got the crowd excited during his set.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "press",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 38 slang, 38 literal.",
+    "examples": [
+      {
+        "input": "press the paper between two books.",
+        "target": "press the paper between two books.",
+        "sense": "literal"
+      },
+      {
+        "input": "press the dough flat before baking.",
+        "target": "press the dough flat before baking.",
+        "sense": "literal"
+      },
+      {
+        "input": "press the button to start the machine.",
+        "target": "press the button to start the machine.",
+        "sense": "literal"
+      },
+      {
+        "input": "don't press me for details.",
+        "target": "don't push me for details.",
+        "sense": "slang"
+      },
+      {
+        "input": "the startup is hoping to attract press interest.",
+        "target": "the startup is hoping to attract media interest.",
+        "sense": "slang"
+      },
+      {
+        "input": "she pressed him to sign the contract.",
+        "target": "she urged him to sign the contract.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "props",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the theater donated old props.",
+        "target": "the theater donated old props.",
+        "sense": "literal"
+      },
+      {
+        "input": "she arranged the props backstage.",
+        "target": "she arranged the props backstage.",
+        "sense": "literal"
+      },
+      {
+        "input": "the props table is behind the stage.",
+        "target": "the props table is behind the stage.",
+        "sense": "literal"
+      },
+      {
+        "input": "she deserves props for her dedication.",
+        "target": "she deserves credit for her dedication.",
+        "sense": "slang"
+      },
+      {
+        "input": "give him props for finishing the project.",
+        "target": "give him credit for finishing the project.",
+        "sense": "slang"
+      },
+      {
+        "input": "props!",
+        "target": "well done!",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "rent free",
+    "notes": "GenZ dataset meaning: To be constantly thinking or upset about something.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Commonly used for anything that someone keeps thinking about obsessively..",
+    "examples": [
+      {
+        "input": "That song is living rent-free in my head",
+        "target": "[rewrite using meaning: To be constantly thinking or upset about something.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "ride",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "he fixed the ride so it runs smoothly.",
+        "target": "he fixed the ride so it runs smoothly.",
+        "sense": "literal"
+      },
+      {
+        "input": "she needs a ride to her doctor's appointment.",
+        "target": "she needs a ride to her doctor's appointment.",
+        "sense": "literal"
+      },
+      {
+        "input": "the ride to school takes twenty minutes.",
+        "target": "the ride to school takes twenty minutes.",
+        "sense": "literal"
+      },
+      {
+        "input": "she will ride you until you apologize.",
+        "target": "she will criticize you until you apologize.",
+        "sense": "slang"
+      },
+      {
+        "input": "he gets ridden by his boss for tiny mistakes.",
+        "target": "his boss criticizes him for tiny mistakes.",
+        "sense": "slang"
+      },
+      {
+        "input": "stop riding her for being late.",
+        "target": "stop criticizing her for being late.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "rip",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "they ripped a hole in the tarp.",
+        "target": "they ripped a hole in the tarp.",
+        "sense": "literal"
+      },
+      {
+        "input": "i need to rip this envelope open.",
+        "target": "i need to rip this envelope open.",
+        "sense": "literal"
+      },
+      {
+        "input": "she ripped her shirt on the fence.",
+        "target": "she ripped her shirt on the fence.",
+        "sense": "literal"
+      },
+      {
+        "input": "he ripped into the team after the loss.",
+        "target": "he severely criticized the team after the loss.",
+        "sense": "slang"
+      },
+      {
+        "input": "don't let them rip you for a mistake.",
+        "target": "don't let them harshly criticize you for a mistake.",
+        "sense": "slang"
+      },
+      {
+        "input": "the host ripped the guest for missing facts.",
+        "target": "the host criticized the guest for missing facts.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "salty",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 178 slang, 105 literal. GenZ dataset meaning: Used when someone feels jealous. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in competitive environments or when someone is overly upset about a minor issue..",
+    "examples": [
+      {
+        "input": "the soup is salty",
+        "target": "the soup is salty",
+        "sense": "literal"
+      },
+      {
+        "input": "salty water covered the rocks",
+        "target": "salty water covered the rocks",
+        "sense": "literal"
+      },
+      {
+        "input": "the broth was too salty",
+        "target": "the broth was too salty",
+        "sense": "literal"
+      },
+      {
+        "input": "he is salty after losing",
+        "target": "he is upset after losing",
+        "sense": "slang"
+      },
+      {
+        "input": "my teammates got me all tilted. now i'm salty af and playing like shit.",
+        "target": "my teammates made me very frustrated. now i am very upset and playing very badly.",
+        "sense": "slang"
+      },
+      {
+        "input": "that reply was salty",
+        "target": "that reply sounded upset",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "savage",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the hunters found a savage bear near the cabin.",
+        "target": "the hunters found a savage bear near the cabin.",
+        "sense": "literal"
+      },
+      {
+        "input": "the storm was savage along the coast.",
+        "target": "the storm was savage along the coast.",
+        "sense": "literal"
+      },
+      {
+        "input": "the firefighter warned of a savage wildfire.",
+        "target": "the firefighter warned of a savage wildfire.",
+        "sense": "literal"
+      },
+      {
+        "input": "they posted a savage reply.",
+        "target": "they posted a brutally harsh reply.",
+        "sense": "slang"
+      },
+      {
+        "input": "the finale had a savage twist.",
+        "target": "the finale had an impressively ruthless twist.",
+        "sense": "slang"
+      },
+      {
+        "input": "the comedian's joke was savage.",
+        "target": "the comedian's joke was brutally harsh.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "sharp",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 73 slang, 73 literal.",
+    "examples": [
+      {
+        "input": "the needle is sharp",
+        "target": "the needle is sharp",
+        "sense": "literal"
+      },
+      {
+        "input": "the razor has a sharp edge.",
+        "target": "the razor has a sharp edge.",
+        "sense": "literal"
+      },
+      {
+        "input": "the corner of the table is sharp.",
+        "target": "the corner of the table is sharp.",
+        "sense": "literal"
+      },
+      {
+        "input": "she has a sharp eye for design.",
+        "target": "she has a keen eye for design.",
+        "sense": "slang"
+      },
+      {
+        "input": "the new haircut makes him look sharp.",
+        "target": "the new haircut makes him look well-groomed.",
+        "sense": "slang"
+      },
+      {
+        "input": "his outfit looks sharp",
+        "target": "his outfit looks stylish",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "sheesh",
+    "notes": "GenZ dataset meaning: To praise someone when they are doing something good. The one being praised is to do the \"ice in my veins\" pose popularized by Basketball player D'Angelo Russell.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Can be used in response to something impressive or unexpected, especially when exaggerated for effect..",
+    "examples": [
+      {
+        "input": "Sheesh, that’s a lot of money!",
+        "target": "[rewrite using meaning: To praise someone when they are doing something good. The one being praised is to do the \"ice in my veins\" pose popularized by Basketball player D'Angelo Russell.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "shoot",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the soldier was ordered to shoot.",
+        "target": "the soldier was ordered to shoot.",
+        "sense": "literal"
+      },
+      {
+        "input": "he loves to shoot landscapes at sunrise.",
+        "target": "he loves to shoot landscapes at sunrise.",
+        "sense": "literal"
+      },
+      {
+        "input": "don't shoot the wildlife unless you have a permit.",
+        "target": "don't shoot the wildlife unless you have a permit.",
+        "sense": "literal"
+      },
+      {
+        "input": "if that works, shoot me an email.",
+        "target": "if that works, send me an email.",
+        "sense": "slang"
+      },
+      {
+        "input": "shoot me your availability for next week.",
+        "target": "send me your availability for next week.",
+        "sense": "slang"
+      },
+      {
+        "input": "before you leave, shoot me a note about the keys.",
+        "target": "before you leave, send me a note about the keys.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "sick",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 144 slang, 76 literal.",
+    "examples": [
+      {
+        "input": "he felt sick after lunch",
+        "target": "he felt sick after lunch",
+        "sense": "literal"
+      },
+      {
+        "input": "the patient is sick",
+        "target": "the patient is sick",
+        "sense": "literal"
+      },
+      {
+        "input": "she called in sick.",
+        "target": "she called in sick.",
+        "sense": "literal"
+      },
+      {
+        "input": "her trick looked sick.",
+        "target": "her trick looked excellent.",
+        "sense": "slang"
+      },
+      {
+        "input": "that skateboard trick was sick",
+        "target": "that skateboard trick was excellent",
+        "sense": "slang"
+      },
+      {
+        "input": "that goal was sick.",
+        "target": "that goal was excellent.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "simp",
+    "notes": "GenZ dataset meaning: Sycophancy, being overly affectionate in pursuit of a sexual relationship. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Typically used as a derogatory term for someone who tries too hard to impress or please someone they’re attracted to..",
+    "examples": [
+      {
+        "input": "He buys her gifts every day, he’s such a simp.",
+        "target": "[rewrite using meaning: Sycophancy, being overly affectionate in pursuit of a sexual relationship]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "sip tea",
+    "notes": "GenZ dataset meaning: Gossiping (spilling the tea). Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Can be used in gossip situations or when someone is staying out of a conflict but observing it..",
+    "examples": [
+      {
+        "input": "I’m just here to sip tea and watch the drama unfold.",
+        "target": "[rewrite using meaning: Gossiping (spilling the tea)]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "sis",
+    "notes": "GenZ dataset meaning: A shortened version of \"sister\", this term is typically used to greet a friend, no matter their gender.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Commonly used among women as a term of camaraderie or affection..",
+    "examples": [
+      {
+        "input": "Sis, you are killing it in that outfit!",
+        "target": "[rewrite using meaning: A shortened version of \"sister\", this term is typically used to greet a friend, no matter their gender.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "slay",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 52 slang, 6 literal.",
+    "examples": [
+      {
+        "input": "the hunter plans to slay the deer.",
+        "target": "the hunter plans to slay the deer.",
+        "sense": "literal"
+      },
+      {
+        "input": "the knight will slay the dragon.",
+        "target": "the knight will slay the dragon.",
+        "sense": "literal"
+      },
+      {
+        "input": "the hero slayed the monster",
+        "target": "the hero slayed the monster",
+        "sense": "literal"
+      },
+      {
+        "input": "he slayed the outfit",
+        "target": "he did extremely well in the outfit",
+        "sense": "slang"
+      },
+      {
+        "input": "you always slay when you sing.",
+        "target": "you always perform exceptionally well when you sing.",
+        "sense": "slang"
+      },
+      {
+        "input": "she is slaying the audition",
+        "target": "she is doing extremely well in the audition",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "smol",
+    "notes": "GenZ dataset meaning: Something that is small, and in most cases exceptionally adorable.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Typically used when describing pets, babies, or anything tiny and endearing..",
+    "examples": [
+      {
+        "input": "Look at that smol puppy, it’s adorable!",
+        "target": "[rewrite using meaning: Something that is small, and in most cases exceptionally adorable.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "snack",
+    "notes": "GenZ dataset meaning: a person that you find attractive. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: A compliment used in dating or flirting contexts, implying someone is good-looking and appealing..",
+    "examples": [
+      {
+        "input": "He showed up to the party looking like a whole snack.",
+        "target": "[rewrite using meaning: a person that you find attractive]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "snatched",
+    "notes": "GenZ dataset meaning: If someone is looking snatched, they look really good, particularly their outfit. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in beauty and fashion to indicate someone looks flawless..",
+    "examples": [
+      {
+        "input": "Her makeup was snatched at the event.",
+        "target": "[rewrite using meaning: If someone is looking snatched, they look really good, particularly their outfit]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "splash",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the artist used a bright splash of color.",
+        "target": "the artist used a bright splash of color.",
+        "sense": "literal"
+      },
+      {
+        "input": "she added a splash of lemon to the tea.",
+        "target": "she added a splash of lemon to the tea.",
+        "sense": "literal"
+      },
+      {
+        "input": "be careful not to splash paint on your shoes.",
+        "target": "be careful not to splash paint on your shoes.",
+        "sense": "literal"
+      },
+      {
+        "input": "i'm not going to splash out on a new laptop.",
+        "target": "i'm not going to spend a lot of money on a new laptop.",
+        "sense": "slang"
+      },
+      {
+        "input": "we splashed the cash at the party.",
+        "target": "we spent a lot of money to show off at the party.",
+        "sense": "slang"
+      },
+      {
+        "input": "the company splashed out on a lavish launch.",
+        "target": "the company spent a lot of money on a lavish launch.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "spot",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the coffee left a spot on the table.",
+        "target": "the coffee left a spot on the table.",
+        "sense": "literal"
+      },
+      {
+        "input": "he cleaned the spot with soap.",
+        "target": "he cleaned the spot with soap.",
+        "sense": "literal"
+      },
+      {
+        "input": "there's a muddy spot on my shoe.",
+        "target": "there's a muddy spot on my shoe.",
+        "sense": "literal"
+      },
+      {
+        "input": "we spotted the car near the station.",
+        "target": "we noticed the car near the station.",
+        "sense": "slang"
+      },
+      {
+        "input": "she spotted him a few dollars until payday.",
+        "target": "she lent him a few dollars until payday.",
+        "sense": "slang"
+      },
+      {
+        "input": "i spotted her in the crowd.",
+        "target": "i noticed her in the crowd.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stan",
+    "notes": "GenZ dataset meaning: Supporting something. Specifically used in some cases to the idolatry support of personalities.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Originally from an Eminem song, it refers to obsessive fans but has since been reclaimed to mean intense admiration..",
+    "examples": [
+      {
+        "input": "I stan BTS so hard!",
+        "target": "[rewrite using meaning: Supporting something. Specifically used in some cases to the idolatry support of personalities.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stoked",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "we stoked the embers so the flames would grow.",
+        "target": "we stoked the embers so the flames would grow.",
+        "sense": "literal"
+      },
+      {
+        "input": "the chef stoked the wood-fired oven all afternoon.",
+        "target": "the chef stoked the wood-fired oven all afternoon.",
+        "sense": "literal"
+      },
+      {
+        "input": "they stoked the furnace all morning.",
+        "target": "they stoked the furnace all morning.",
+        "sense": "literal"
+      },
+      {
+        "input": "they're stoked to meet you.",
+        "target": "they are very excited to meet you.",
+        "sense": "slang"
+      },
+      {
+        "input": "she's stoked for her birthday party.",
+        "target": "she is very excited about her birthday party.",
+        "sense": "slang"
+      },
+      {
+        "input": "he's totally stoked about the new job.",
+        "target": "he is very excited about the new job.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stomp",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "i need to stomp the snow off my boots.",
+        "target": "i need to stomp the snow off my boots.",
+        "sense": "literal"
+      },
+      {
+        "input": "they were stomping grapes during the festival.",
+        "target": "they were stomping grapes during the festival.",
+        "sense": "literal"
+      },
+      {
+        "input": "the toddler likes to stomp in puddles.",
+        "target": "the toddler likes to stomp in puddles.",
+        "sense": "literal"
+      },
+      {
+        "input": "we got stomped in the playoffs.",
+        "target": "we were beaten badly in the playoffs.",
+        "sense": "slang"
+      },
+      {
+        "input": "they stomped the other team in the finals.",
+        "target": "they defeated the other team decisively in the finals.",
+        "sense": "slang"
+      },
+      {
+        "input": "he stomped the other players in the online game.",
+        "target": "he defeated the other players easily in the online game.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "stunt",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "a trained team executed the stunt.",
+        "target": "a trained team executed the stunt.",
+        "sense": "literal"
+      },
+      {
+        "input": "they rehearsed the car stunt all week.",
+        "target": "they rehearsed the car stunt all week.",
+        "sense": "literal"
+      },
+      {
+        "input": "she hired a stunt double for the fight scene.",
+        "target": "she hired a stunt double for the fight scene.",
+        "sense": "literal"
+      },
+      {
+        "input": "he likes to stunt whenever he gets new clothes.",
+        "target": "he likes to show off whenever he gets new clothes.",
+        "sense": "slang"
+      },
+      {
+        "input": "he likes to stunt on his ex.",
+        "target": "he likes to show off in front of his ex.",
+        "sense": "slang"
+      },
+      {
+        "input": "we caught him trying to stunt.",
+        "target": "we caught him trying to show off.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "take several seats",
+    "notes": "GenZ dataset meaning: If someone is really getting on your nerves, you might tell them to take several seats.. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often used in arguments or when someone is being overly dramatic or intrusive..",
+    "examples": [
+      {
+        "input": "You’re being way too extra right now, take several seats.",
+        "target": "[rewrite using meaning: If someone is really getting on your nerves, you might tell them to take several seats.]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "tea",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 83 slang, 139 literal.",
+    "examples": [
+      {
+        "input": "she spilled tea on the table",
+        "target": "she spilled tea on the table",
+        "sense": "literal"
+      },
+      {
+        "input": "she spilled tea on her shirt",
+        "target": "she spilled tea on her shirt",
+        "sense": "literal"
+      },
+      {
+        "input": "she brewed tea before class",
+        "target": "she brewed tea before class",
+        "sense": "literal"
+      },
+      {
+        "input": "spill the tea",
+        "target": "share the gossip",
+        "sense": "slang"
+      },
+      {
+        "input": "what's the tea about the group chat",
+        "target": "what is the gossip about the group chat",
+        "sense": "slang"
+      },
+      {
+        "input": "share the tea from the office",
+        "target": "share the gossip from the office",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "tfw",
+    "notes": "GenZ dataset meaning: That feeling when. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Often paired with an image or caption to convey an emotion or experience, mostly used in memes..",
+    "examples": [
+      {
+        "input": "TFW you finish a big project and can finally relax",
+        "target": "[rewrite using meaning: That feeling when]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "tight",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 72 slang, 72 literal.",
+    "examples": [
+      {
+        "input": "this knot is pulled tight.",
+        "target": "this knot is pulled tight.",
+        "sense": "literal"
+      },
+      {
+        "input": "her bracelet is too tight on her wrist.",
+        "target": "her bracelet is too tight on her wrist.",
+        "sense": "literal"
+      },
+      {
+        "input": "the jar lid is tight.",
+        "target": "the jar lid is tight.",
+        "sense": "literal"
+      },
+      {
+        "input": "we are tight now",
+        "target": "we are close friends now",
+        "sense": "slang"
+      },
+      {
+        "input": "his sneaker game is tight.",
+        "target": "his sneakers are very stylish.",
+        "sense": "slang"
+      },
+      {
+        "input": "don't be so tight.",
+        "target": "don't be so stingy.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "trip",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 32 slang, 40 literal.",
+    "examples": [
+      {
+        "input": "i'm worried i'll trip during the performance.",
+        "target": "i'm worried i'll trip during the performance.",
+        "sense": "literal"
+      },
+      {
+        "input": "he is overreacting because the meeting was delayed.",
+        "target": "he is overreacting because the meeting was delayed.",
+        "sense": "literal"
+      },
+      {
+        "input": "they tripped on the uneven pavement.",
+        "target": "they tripped on the uneven pavement.",
+        "sense": "literal"
+      },
+      {
+        "input": "calm down, don't trip, we'll finish on time.",
+        "target": "calm down, don't worry, we'll finish on time.",
+        "sense": "slang"
+      },
+      {
+        "input": "they're tripping about the cost of the repairs.",
+        "target": "they are worrying about the cost of the repairs.",
+        "sense": "slang"
+      },
+      {
+        "input": "don't trip, i already bought tickets.",
+        "target": "don't worry, i already bought tickets.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "vibe",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 28 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the device's vibe interfered with the signal.",
+        "target": "the device's vibe interfered with the signal.",
+        "sense": "literal"
+      },
+      {
+        "input": "there was a steady vibe under the floorboards.",
+        "target": "there was a steady vibe under the floorboards.",
+        "sense": "literal"
+      },
+      {
+        "input": "after the drill i noticed a strange vibe in my chest.",
+        "target": "after the drill i noticed a strange vibe in my chest.",
+        "sense": "literal"
+      },
+      {
+        "input": "we lost the vibe after the argument.",
+        "target": "the mood deteriorated after the argument.",
+        "sense": "slang"
+      },
+      {
+        "input": "the party has a relaxed vibe.",
+        "target": "the party has a relaxed atmosphere.",
+        "sense": "slang"
+      },
+      {
+        "input": "she gives a positive vibe.",
+        "target": "she gives a positive impression.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "w",
+    "notes": "GenZ dataset meaning: Shorthand for win. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Typically used in conversations to celebrate success, achievements, or positive outcomes.",
+    "examples": [
+      {
+        "input": "Got the job today, big W!",
+        "target": "[rewrite using meaning: Shorthand for win]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "washed",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 75 slang, 39 literal.",
+    "examples": [
+      {
+        "input": "the white towel was washed twice.",
+        "target": "the white towel was washed twice.",
+        "sense": "literal"
+      },
+      {
+        "input": "i have washed the sheets this morning.",
+        "target": "i have washed the sheets this morning.",
+        "sense": "literal"
+      },
+      {
+        "input": "i washed the dishes after dinner.",
+        "target": "i washed the dishes after dinner.",
+        "sense": "literal"
+      },
+      {
+        "input": "that goalie is washed",
+        "target": "that goalie is no longer good",
+        "sense": "slang"
+      },
+      {
+        "input": "this rapper is washed.",
+        "target": "this rapper is no longer good at making music.",
+        "sense": "slang"
+      },
+      {
+        "input": "my skill is washed after the break.",
+        "target": "my skill has declined after the break.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "woke",
+    "notes": "GenZ dataset meaning: being politically aware. Generate normalizer rows that preserve the intended meaning in standard English. If the term has a common literal/non-slang meaning, include literal identity rows. Context: Originally used in activist circles, it has since been co-opted and sometimes used sarcastically..",
+    "examples": [
+      {
+        "input": "He’s really woke about climate change.",
+        "target": "[rewrite using meaning: being politically aware]",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "wreck",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the wreck on the highway closed two lanes.",
+        "target": "the wreck on the highway closed two lanes.",
+        "sense": "literal"
+      },
+      {
+        "input": "the boat wreck was towed to the marina.",
+        "target": "the boat wreck was towed to the marina.",
+        "sense": "literal"
+      },
+      {
+        "input": "the aircraft wreck is still being examined.",
+        "target": "the aircraft wreck is still being examined.",
+        "sense": "literal"
+      },
+      {
+        "input": "that breakup wrecked her.",
+        "target": "that breakup devastated her.",
+        "sense": "slang"
+      },
+      {
+        "input": "that breakup wrecked her for months.",
+        "target": "that breakup devastated her for months.",
+        "sense": "slang"
+      },
+      {
+        "input": "midterms wrecked me last week.",
+        "target": "midterms overwhelmed me last week.",
+        "sense": "slang"
+      }
+    ]
+  },
+  {
+    "term": "zone",
+    "notes": "Generate balanced literal and slang/idiomatic variants for this English normalizer term. Literal rows are safety rows: their target must copy the input exactly. Slang rows should rewrite only the slang meaning into standard English. Use the seed meanings but create new natural learner sentences. Current reviewed seeds: 36 slang, 36 literal.",
+    "examples": [
+      {
+        "input": "the smoking zone is outside the building.",
+        "target": "the smoking zone is outside the building.",
+        "sense": "literal"
+      },
+      {
+        "input": "she works in the industrial zone.",
+        "target": "she works in the industrial zone.",
+        "sense": "literal"
+      },
+      {
+        "input": "we mapped the danger zone on the coast.",
+        "target": "we mapped the danger zone on the coast.",
+        "sense": "literal"
+      },
+      {
+        "input": "when i'm in the zone, time flies.",
+        "target": "when i am highly focused, time passes quickly.",
+        "sense": "slang"
+      },
+      {
+        "input": "after two cups of coffee i'm in the zone.",
+        "target": "after two cups of coffee i become highly focused.",
+        "sense": "slang"
+      },
+      {
+        "input": "they got in the zone and solved the problem quickly.",
+        "target": "they became extremely focused and solved the problem quickly.",
+        "sense": "slang"
+      }
+    ]
+  }
+]

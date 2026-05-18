@@ -1,0 +1,338 @@
+[
+  {
+    "input": "if you keep talking like that, you're going to catch these hands.",
+    "target": "if you keep talking like that, you're going to be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "say that again and you'll catch these hands.",
+    "target": "say that again and you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't push me or you'll catch these hands.",
+    "target": "don't push me or you'll get punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watch your mouth or you'll catch these hands.",
+    "target": "watch your mouth or you'll be hit.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "mess with my stuff and you're going to catch these hands.",
+    "target": "mess with my stuff and you're going to be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you don't apologize, you'll catch these hands.",
+    "target": "if you don't apologize, you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "keep running your mouth and you will catch these hands.",
+    "target": "keep running your mouth and you will be hit.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "one more insult and you'll catch these hands.",
+    "target": "one more insult and you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he told me i would catch these hands if i laughed.",
+    "target": "he told me i would be punched if i laughed.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they said i might catch these hands over that comment.",
+    "target": "they said i might be punched over that comment.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "joking aside, stop it or you'll catch these hands.",
+    "target": "joking aside, stop it or you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "try that again in person and you'll catch these hands.",
+    "target": "try that again in person and you'll be punched.",
+    "term": "catch these hands",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she really had a glow up since high school.",
+    "target": "she really had a dramatic makeover since high school.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his glow up after college was insane.",
+    "target": "his transformation after college was insane.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they've had a glow up this year.",
+    "target": "they've had a major transformation this year.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that singer's glow up is unbelievable.",
+    "target": "that singer's transformation is unbelievable.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the haircut and new wardrobe she got a glow up.",
+    "target": "after the haircut and new wardrobe she got a makeover.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i love her glow up in the new photos.",
+    "target": "i love her transformation in the new photos.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he's had a huge glow up since his first album.",
+    "target": "he's had a huge transformation since his first album.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "watching my friend have a glow up gave me inspiration.",
+    "target": "watching my friend have a makeover gave me inspiration.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that character's glow-up in the show was the best arc.",
+    "target": "that character's transformation in the show was the best arc.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we all noticed his glow up after he started working out.",
+    "target": "we all noticed his transformation after he started working out.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's glowing up and feels so confident.",
+    "target": "she's becoming more attractive and feels so confident.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after years of struggling, their glow up surprised everyone.",
+    "target": "after years of struggling, their transformation surprised everyone.",
+    "term": "glow up",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this song hits different at night.",
+    "target": "this song feels unusually better at night.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "coffee hits different on a rainy morning.",
+    "target": "coffee feels especially good on a rainy morning.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that old movie hits different when you watch it with your dad.",
+    "target": "that old movie feels more meaningful when you watch it with your dad.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "summer at the lake hits different.",
+    "target": "summer at the lake feels uniquely better.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "winning after a long losing streak hits different.",
+    "target": "winning after a long losing streak feels particularly satisfying.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her laugh hits different in person.",
+    "target": "her laugh sounds especially charming in person.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this playlist hits different after a breakup.",
+    "target": "this playlist feels especially cathartic after a breakup.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that view hits different from up here.",
+    "target": "that view feels noticeably better from up here.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "homemade soup hits different when you're sick.",
+    "target": "homemade soup tastes especially comforting when you're sick.",
+    "term": "hits different",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the new hammer hits different than the old one.",
+    "target": "the new hammer hits different than the old one.",
+    "term": "hits different",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the bat hits different with the new grip.",
+    "target": "the bat hits different with the new grip.",
+    "term": "hits different",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the ball hits different when it strikes the rim.",
+    "target": "the ball hits different when it strikes the rim.",
+    "term": "hits different",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that song is living rent-free in my head",
+    "target": "that song is constantly in my head",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that joke lives rent-free in his mind",
+    "target": "that joke is constantly in his mind",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the breakup is living rent-free in her thoughts",
+    "target": "the breakup is constantly in her thoughts",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that meme has been living rent-free in my brain",
+    "target": "that meme has been constantly in my brain",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his mistake is living rent-free in his head",
+    "target": "his mistake is constantly in his head",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that question is living rent-free in my mind",
+    "target": "that question is constantly in my mind",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the argument lives rent-free in their heads",
+    "target": "the argument is constantly in their heads",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that commercial is living rent-free in my head",
+    "target": "that commercial is constantly in my head",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this rumor has been living rent-free in people's minds",
+    "target": "this rumor has been constantly in people's minds",
+    "term": "rent free",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the first month is rent free",
+    "target": "the first month is rent free",
+    "term": "rent free",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they offered a rent free office space to startups",
+    "target": "they offered a rent free office space to startups",
+    "term": "rent free",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "is the storage unit rent free with the lease",
+    "target": "is the storage unit rent free with the lease",
+    "term": "rent free",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

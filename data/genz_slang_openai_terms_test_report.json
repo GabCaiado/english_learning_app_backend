@@ -1,0 +1,131 @@
+{
+  "dataset_id": "MLBtrio/genz-slang-dataset",
+  "base_specs_read": 58,
+  "genz_rows_read": 199,
+  "output_specs": 98,
+  "new_terms_added": 40,
+  "slang_seed_examples_added": 40,
+  "skipped_existing_examples": 3,
+  "top_terms": [
+    [
+      "asl",
+      2
+    ],
+    [
+      "irl",
+      2
+    ],
+    [
+      "gmta",
+      2
+    ],
+    [
+      "imo",
+      2
+    ],
+    [
+      "b4n",
+      2
+    ],
+    [
+      "w",
+      1
+    ],
+    [
+      "l",
+      1
+    ],
+    [
+      "l+ratio",
+      1
+    ],
+    [
+      "dank",
+      1
+    ],
+    [
+      "cheugy",
+      1
+    ],
+    [
+      "tfw",
+      1
+    ],
+    [
+      "woke",
+      1
+    ],
+    [
+      "bop",
+      1
+    ],
+    [
+      "g.o.a.t",
+      1
+    ],
+    [
+      "smol",
+      1
+    ],
+    [
+      "fam",
+      1
+    ],
+    [
+      "glow up",
+      1
+    ],
+    [
+      "stan",
+      1
+    ],
+    [
+      "ghosting",
+      1
+    ],
+    [
+      "salty",
+      1
+    ],
+    [
+      "sip tea",
+      1
+    ],
+    [
+      "drip",
+      1
+    ],
+    [
+      "iykyk",
+      1
+    ],
+    [
+      "rent free",
+      1
+    ],
+    [
+      "catch these hands",
+      1
+    ],
+    [
+      "drag",
+      1
+    ],
+    [
+      "bussin",
+      1
+    ],
+    [
+      "snatched",
+      1
+    ],
+    [
+      "cancel culture",
+      1
+    ],
+    [
+      "ffs",
+      1
+    ]
+  ]
+}

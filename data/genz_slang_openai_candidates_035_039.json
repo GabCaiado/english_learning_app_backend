@@ -1,0 +1,415 @@
+[
+  {
+    "input": "that movie was mid, nothing special.",
+    "target": "that movie was mediocre, nothing special.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the album is mid compared to their older work.",
+    "target": "the album is mediocre compared to their older work.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this season of the show feels mid.",
+    "target": "this season of the show feels mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the game is fun but the story is mid.",
+    "target": "the game is fun but the story is mediocre.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "his performance was mid at best.",
+    "target": "his performance was mediocre at best.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the new single was mid, not worth replaying.",
+    "target": "the new single was mediocre, not worth replaying.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that restaurant is mid, the food is just okay.",
+    "target": "that restaurant is mediocre, the food is just okay.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "reviews said the film was mid and forgettable.",
+    "target": "reviews said the film was mediocre and forgettable.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "their set tonight was mid, no energy.",
+    "target": "their set tonight was mediocre, no energy.",
+    "term": "mid",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "set the fan to mid for a gentle breeze.",
+    "target": "set the fan to mid for a gentle breeze.",
+    "term": "mid",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "place the book on the mid shelf between the top and bottom.",
+    "target": "place the book on the mid shelf between the top and bottom.",
+    "term": "mid",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the needle stopped at mid on the gauge.",
+    "target": "the needle stopped at mid on the gauge.",
+    "term": "mid",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "why's he acting so sus all of a sudden?",
+    "target": "why's he acting so suspicious all of a sudden?",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that new player is sus, don't trust them.",
+    "target": "that new player is suspicious, don't trust them.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "her alibi sounds sus to me.",
+    "target": "her alibi sounds suspicious to me.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "this file name looks sus; scan it before opening.",
+    "target": "this file name looks suspicious; scan it before opening.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he stayed quiet the whole meeting, sus.",
+    "target": "he stayed quiet the whole meeting, suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's been acting sus since the announcement.",
+    "target": "she's been acting suspicious since the announcement.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "don't meet him alone; he's pretty sus.",
+    "target": "don't meet him alone; he's pretty suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that explanation is sus af.",
+    "target": "that explanation is extremely suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i think the timing of that message is sus.",
+    "target": "i think the timing of that message is suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they voted out the crewmate because he looked sus.",
+    "target": "they voted out the crewmate because he looked suspicious.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the deal sounds sus, walk away.",
+    "target": "the deal sounds suspicious, walk away.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "stop being sus and tell the truth.",
+    "target": "stop being suspicious and tell the truth.",
+    "term": "sus",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "spill the tea, i need to know what happened!",
+    "target": "tell me the gossip, i need to know what happened!",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "spill the tea, i want to hear all the details!",
+    "target": "tell me the gossip, i want to hear all the details!",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she's always serving tea about her coworkers",
+    "target": "she's always gossiping about her coworkers",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "did you get the tea about their breakup?",
+    "target": "did you get the gossip about their breakup?",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i heard some tea in the group chat last night",
+    "target": "i heard some gossip in the group chat last night",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "got any tea from the meeting?",
+    "target": "got any gossip from the meeting?",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "spill the tea on what happened at the show",
+    "target": "tell me the gossip about what happened at the show",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they're spilling the tea about last night's fight",
+    "target": "they're sharing the gossip about last night's fight",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "keep the tea to yourself for now",
+    "target": "keep the gossip to yourself for now",
+    "term": "tea",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i drink tea every morning",
+    "target": "i drink tea every morning",
+    "term": "tea",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "would you like some tea?",
+    "target": "would you like some tea?",
+    "term": "tea",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she put the tea on the table.",
+    "target": "she put the tea on the table.",
+    "term": "tea",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i'm about to beat my face for this event tonight.",
+    "target": "i'm about to apply makeup to my face for this event tonight.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she beat her face for the photoshoot.",
+    "target": "she applied makeup to her face for the photoshoot.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "we beat our faces before every drag show.",
+    "target": "we apply makeup to our faces before every drag show.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he always beats his face when he gets ready for dates.",
+    "target": "he always applies makeup to his face when he gets ready for dates.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they beat their faces for the competition.",
+    "target": "they apply makeup to their faces for the competition.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i need to beat my face before the livestream starts.",
+    "target": "i need to apply makeup to my face before the livestream starts.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i will beat my face and then go to the party.",
+    "target": "i will apply makeup to my face and then go to the party.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after i beat my face, i'll show you the tutorial.",
+    "target": "after i apply makeup to my face, i'll show you the tutorial.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do you beat your face differently for daytime looks?",
+    "target": "do you apply makeup to your face differently for daytime looks?",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the tutorial teaches how to beat your face like a pro.",
+    "target": "the tutorial teaches how to apply makeup to your face like a professional.",
+    "term": "beat your face",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "do not beat your face against the door.",
+    "target": "do not beat your face against the door.",
+    "term": "beat your face",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "if you beat your face on the pavement, you could get a concussion.",
+    "target": "if you beat your face on the pavement, you could get a concussion.",
+    "term": "beat your face",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "he pulled a big brain move during the meeting.",
+    "target": "he pulled a move that made him feel foolish and regretful during the meeting.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "i had a big brain moment and left my keys inside the car.",
+    "target": "i had a moment where i did something so silly i now regret it and left my keys inside the car.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "she showed big brain energy and spilled coffee on her laptop.",
+    "target": "she showed behavior that was foolish and left her feeling regretful and spilled coffee on her laptop.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "that was a big brain idea; now we have to redo everything.",
+    "target": "that was an idea that turned out to be foolish; now we have to redo everything.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "big brain, he locked himself out trying to be clever.",
+    "target": "what a foolish move, he locked himself out trying to be clever.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "they called it a big brain play but it ruined the presentation.",
+    "target": "they called it a play that was actually foolish but it ruined the presentation.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "nice big brain move leaving your wallet at home.",
+    "target": "nice stupid move leaving your wallet at home.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "after the big brain slip, she regretted sending the message.",
+    "target": "after the careless mistake, she regretted sending the message.",
+    "term": "big brain",
+    "sense": "slang",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the skull model had a big brain inside.",
+    "target": "the skull model had a big brain inside.",
+    "term": "big brain",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the ape's big brain surprised the researchers.",
+    "target": "the ape's big brain surprised the researchers.",
+    "term": "big brain",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  },
+  {
+    "input": "the diagram labeled the big brain and the spinal cord.",
+    "target": "the diagram labeled the big brain and the spinal cord.",
+    "term": "big brain",
+    "sense": "literal",
+    "source": "openai_targeted_eval"
+  }
+]

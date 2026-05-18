@@ -79413,5 +79413,2124 @@
     "term": "zone",
     "sense": "literal",
     "source": "targeted_hard_training"
+  },
+  {
+    "input": "i'm grindding roblox",
+    "target": "i am playing roblox intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "23150ffc-af9e-4476-9e84-ac6f6165e847",
+    "failure_type": "missed_gaming_slang_typo"
+  },
+  {
+    "input": "i'm grinding roblox",
+    "target": "i am playing roblox intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23150ffc-af9e-4476-9e84-ac6f6165e847",
+    "failure_type": "missed_gaming_slang_typo"
+  },
+  {
+    "input": "i'm grindding valorant",
+    "target": "i am playing valorant intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23150ffc-af9e-4476-9e84-ac6f6165e847",
+    "failure_type": "missed_gaming_slang_typo"
+  },
+  {
+    "input": "i'm grinding fortnite",
+    "target": "i am playing fortnite intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23150ffc-af9e-4476-9e84-ac6f6165e847",
+    "failure_type": "missed_gaming_slang_typo"
+  },
+  {
+    "input": "i'm grindin ranked",
+    "target": "i am playing ranked mode intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23150ffc-af9e-4476-9e84-ac6f6165e847",
+    "failure_type": "missed_gaming_slang_typo"
+  },
+  {
+    "input": "i'm grinding valorant ranked",
+    "target": "i am playing ranked Valorant intensely",
+    "term": "grinding",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23150ffc-af9e-4476-9e84-ac6f6165e847",
+    "failure_type": "missed_gaming_slang_typo"
+  },
+  {
+    "input": "i lowkey need a new phone",
+    "target": "i kind of need a new phone",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "1594694f-81f9-4893-8198-707331c5a353",
+    "failure_type": "missed_slang_softener"
+  },
+  {
+    "input": "that game is lowkey fun",
+    "target": "that game is somewhat fun",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "1594694f-81f9-4893-8198-707331c5a353",
+    "failure_type": "missed_slang_softener"
+  },
+  {
+    "input": "she lowkey carried the team",
+    "target": "she somewhat carried the team",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "1594694f-81f9-4893-8198-707331c5a353",
+    "failure_type": "missed_slang_softener"
+  },
+  {
+    "input": "this song is lowkey fire",
+    "target": "this song is somewhat excellent",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "1594694f-81f9-4893-8198-707331c5a353",
+    "failure_type": "missed_slang_softener"
+  },
+  {
+    "input": "that answer is lowkey wrong",
+    "target": "that answer is somewhat wrong",
+    "term": "lowkey",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "1594694f-81f9-4893-8198-707331c5a353",
+    "failure_type": "missed_slang_softener"
+  },
+  {
+    "input": "stop capping about your rank",
+    "target": "stop lying about your rank",
+    "term": "capping",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "f7fa5949-f831-4315-aa7c-03d23c80fa97",
+    "failure_type": "missed_slang_variant"
+  },
+  {
+    "input": "don't cap about your score",
+    "target": "do not lie about your score",
+    "term": "cap",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f7fa5949-f831-4315-aa7c-03d23c80fa97",
+    "failure_type": "missed_slang_variant"
+  },
+  {
+    "input": "he is capping about being diamond",
+    "target": "he is lying about being diamond",
+    "term": "cap",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f7fa5949-f831-4315-aa7c-03d23c80fa97",
+    "failure_type": "missed_slang_variant"
+  },
+  {
+    "input": "stop the cap",
+    "target": "stop lying",
+    "term": "cap",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f7fa5949-f831-4315-aa7c-03d23c80fa97",
+    "failure_type": "missed_slang_variant"
+  },
+  {
+    "input": "that's cap",
+    "target": "that is a lie",
+    "term": "cap",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f7fa5949-f831-4315-aa7c-03d23c80fa97",
+    "failure_type": "missed_slang_variant"
+  },
+  {
+    "input": "no cap that was scary",
+    "target": "honestly that was scary",
+    "term": "cap",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f7fa5949-f831-4315-aa7c-03d23c80fa97",
+    "failure_type": "missed_slang_variant"
+  },
+  {
+    "input": "this match is free",
+    "target": "this match is easy to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "this lobby is free",
+    "target": "this lobby is easy to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that ranked match is free",
+    "target": "that ranked match is easy to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "this game is free for us",
+    "target": "this game is easy for us to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that ranked game was free",
+    "target": "that ranked game was easy to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "this round is free",
+    "target": "this round is easy to win",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "their defense is free",
+    "target": "their defense is easy to beat",
+    "term": "free",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "91e84cb5-d607-4f56-95bb-bd994c22d3df",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i sold that round",
+    "target": "i played badly and caused us to lose that round",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i sold the match",
+    "target": "i played badly and caused the match to go poorly",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he sold the final fight",
+    "target": "he played badly and caused the final fight to go poorly",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she sold the clutch",
+    "target": "she played badly and failed at the critical moment",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "we sold the game in overtime",
+    "target": "we played badly and caused the game to go poorly in overtime",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "don't sell this round",
+    "target": "do not play badly and ruin this round",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i sold the one versus one",
+    "target": "i played badly and lost the one versus one",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "our tank sold the fight",
+    "target": "our tank played badly and caused the fight to go poorly",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he sold my ranked game",
+    "target": "he played badly and ruined my ranked game",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "we almost sold that round",
+    "target": "we almost played badly and ruined that round",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she sold the last push",
+    "target": "she played badly and ruined the last push",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "please don't sell the match",
+    "target": "please do not play badly and ruin the match",
+    "term": "sold",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6bd5c831-84a1-4f7f-a425-96e40e8a949e",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she served looks at the party",
+    "target": "she looked very stylish at the party",
+    "term": "served",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "de1f0d52-c66c-4c25-a9e5-680a2938a558",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "that outfit served looks",
+    "target": "that outfit looked very stylish",
+    "term": "served",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "de1f0d52-c66c-4c25-a9e5-680a2938a558",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "he served looks in that jacket",
+    "target": "he looked very stylish in that jacket",
+    "term": "served",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "de1f0d52-c66c-4c25-a9e5-680a2938a558",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "that comment was pure shade",
+    "target": "that comment was a subtle insult",
+    "term": "shade",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "52227e53-9ed8-4990-8662-7ca71b7367e8",
+    "failure_type": "missed_slang_idiom"
+  },
+  {
+    "input": "she threw shade in the meeting",
+    "target": "she made a subtle insult in the meeting",
+    "term": "shade",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "52227e53-9ed8-4990-8662-7ca71b7367e8",
+    "failure_type": "missed_slang_idiom"
+  },
+  {
+    "input": "his reply had shade",
+    "target": "his reply had a subtle insult",
+    "term": "shade",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "52227e53-9ed8-4990-8662-7ca71b7367e8",
+    "failure_type": "missed_slang_idiom"
+  },
+  {
+    "input": "that caption was shade",
+    "target": "that caption was a subtle insult",
+    "term": "shade",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "52227e53-9ed8-4990-8662-7ca71b7367e8",
+    "failure_type": "missed_slang_idiom"
+  },
+  {
+    "input": "he keeps throwing shade",
+    "target": "he keeps making subtle insults",
+    "term": "shade",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "52227e53-9ed8-4990-8662-7ca71b7367e8",
+    "failure_type": "missed_slang_idiom"
+  },
+  {
+    "input": "he is salty after losing",
+    "target": "he is upset after losing",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "b4679363-a2a2-4362-aebb-be01b41021a9",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "why are you so salty",
+    "target": "why are you so upset",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b4679363-a2a2-4362-aebb-be01b41021a9",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that reply sounded salty",
+    "target": "that reply sounded upset",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b4679363-a2a2-4362-aebb-be01b41021a9",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "my teammates got me all tilted. now i'm salty af and playing like shit.",
+    "target": "my teammates made me very frustrated. now i am very upset and playing very badly.",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b4679363-a2a2-4362-aebb-be01b41021a9",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "she got salty after the match",
+    "target": "she became upset after the match",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b4679363-a2a2-4362-aebb-be01b41021a9",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that salty comment was unnecessary",
+    "target": "that upset comment was unnecessary",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b4679363-a2a2-4362-aebb-be01b41021a9",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "the soup is salty",
+    "target": "the soup is salty",
+    "term": "salty",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "68e48e4d-22de-410e-8c8f-1d9fd09c47d9",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "she ghosted me after the date",
+    "target": "she stopped responding to me after the date",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "6020aba3-6aa9-4eb9-812f-72fbe8675a32",
+    "failure_type": "missed_slang_social"
+  },
+  {
+    "input": "he ghosted the group chat",
+    "target": "he stopped responding to the group chat",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6020aba3-6aa9-4eb9-812f-72fbe8675a32",
+    "failure_type": "missed_slang_social"
+  },
+  {
+    "input": "my friend ghosted me again",
+    "target": "my friend stopped responding to me again",
+    "term": "ghosted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "6020aba3-6aa9-4eb9-812f-72fbe8675a32",
+    "failure_type": "missed_slang_social"
+  },
+  {
+    "input": "my phone died",
+    "target": "my phone stopped working because the battery ran out",
+    "term": "died",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "d6d43cae-2c58-459a-8009-0150cfde2e25",
+    "failure_type": "informal_meaning"
+  },
+  {
+    "input": "my laptop died during class",
+    "target": "my laptop stopped working because the battery ran out during class",
+    "term": "died",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "d6d43cae-2c58-459a-8009-0150cfde2e25",
+    "failure_type": "informal_meaning"
+  },
+  {
+    "input": "his controller died mid game",
+    "target": "his controller stopped working because the battery ran out during the game",
+    "term": "died",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "d6d43cae-2c58-459a-8009-0150cfde2e25",
+    "failure_type": "informal_meaning"
+  },
+  {
+    "input": "i'm down bad for her",
+    "target": "i am extremely attracted to her",
+    "term": "down bad",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "4ea1eff7-d372-47ac-a47f-908e27411c6a",
+    "failure_type": "missed_slang_romantic"
+  },
+  {
+    "input": "he is down bad for his crush",
+    "target": "he is extremely attracted to his crush",
+    "term": "down bad",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "4ea1eff7-d372-47ac-a47f-908e27411c6a",
+    "failure_type": "missed_slang_romantic"
+  },
+  {
+    "input": "they are down bad after one date",
+    "target": "they are extremely attracted after one date",
+    "term": "down bad",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "4ea1eff7-d372-47ac-a47f-908e27411c6a",
+    "failure_type": "missed_slang_romantic"
+  },
+  {
+    "input": "that joke sent me",
+    "target": "that joke made me laugh a lot",
+    "term": "sent me",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "934e949c-24b8-44df-9537-7b146f8de066",
+    "failure_type": "missed_slang_reaction"
+  },
+  {
+    "input": "that meme sent me",
+    "target": "that meme made me laugh a lot",
+    "term": "sent me",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "934e949c-24b8-44df-9537-7b146f8de066",
+    "failure_type": "missed_slang_reaction"
+  },
+  {
+    "input": "her reaction sent me",
+    "target": "her reaction made me laugh a lot",
+    "term": "sent me",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "934e949c-24b8-44df-9537-7b146f8de066",
+    "failure_type": "missed_slang_reaction"
+  },
+  {
+    "input": "send me the file",
+    "target": "send me the file",
+    "term": "send",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "41ac7b78-b8c0-40a2-b67a-396c7dad8e07",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "he folded under pressure",
+    "target": "he gave up or failed under pressure",
+    "term": "folded",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "2841401a-57ff-4d86-9712-54ceaba12310",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "our team folded in overtime",
+    "target": "our team failed in overtime",
+    "term": "folded",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "2841401a-57ff-4d86-9712-54ceaba12310",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "she folded during the argument",
+    "target": "she gave up during the argument",
+    "term": "folded",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "2841401a-57ff-4d86-9712-54ceaba12310",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "this game is laggy af",
+    "target": "this game is very laggy",
+    "term": "af",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "23c289b7-4d2b-4688-b65d-1dfec1c47707",
+    "failure_type": "internet_intensifier"
+  },
+  {
+    "input": "that lobby was sweaty af",
+    "target": "that lobby was very competitive",
+    "term": "af",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23c289b7-4d2b-4688-b65d-1dfec1c47707",
+    "failure_type": "internet_intensifier"
+  },
+  {
+    "input": "my internet is slow af",
+    "target": "my internet is very slow",
+    "term": "af",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "23c289b7-4d2b-4688-b65d-1dfec1c47707",
+    "failure_type": "internet_intensifier"
+  },
+  {
+    "input": "i need to clutch this round",
+    "target": "i need to succeed in this round at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she clutched the final round",
+    "target": "she succeeded in the final round at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that save was clutch",
+    "target": "that save was important at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that clutch was insane",
+    "target": "that last moment win was incredible",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he clutched the one versus three",
+    "target": "he won the one versus three at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "we need a clutch play",
+    "target": "we need an important play at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he needs to clutch this",
+    "target": "he needs to succeed at this critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i clutched the last fight",
+    "target": "i succeeded in the last fight at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that clutch won us the game",
+    "target": "that critical moment win won us the game",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she hit a clutch shot",
+    "target": "she hit an important shot at a critical moment",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "clutch this for us",
+    "target": "succeed at this critical moment for us",
+    "term": "clutch",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "bcb3326c-b7e9-4e38-a64d-91a51c159206",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that take is wild",
+    "target": "that opinion is shocking or extreme",
+    "term": "wild",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "b6e0a991-27e0-4847-a7d0-142581044772",
+    "failure_type": "missed_slang_judgment"
+  },
+  {
+    "input": "his story was wild",
+    "target": "his story was shocking or extreme",
+    "term": "wild",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b6e0a991-27e0-4847-a7d0-142581044772",
+    "failure_type": "missed_slang_judgment"
+  },
+  {
+    "input": "this comment section is wild",
+    "target": "this comment section is shocking or extreme",
+    "term": "wild",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "b6e0a991-27e0-4847-a7d0-142581044772",
+    "failure_type": "missed_slang_judgment"
+  },
+  {
+    "input": "we got cooked in ranked",
+    "target": "we lost badly in ranked mode",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "that team cooked us",
+    "target": "that team beat us badly",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "they cooked us in overtime",
+    "target": "they beat us badly in overtime",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "we got cooked by that squad",
+    "target": "we were beaten badly by that squad",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "their top laner cooked us",
+    "target": "their top laner beat us badly",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "he cooked in the debate",
+    "target": "he performed extremely well in the debate",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "she cooked during the presentation",
+    "target": "she performed extremely well during the presentation",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "let him cook",
+    "target": "let him keep going",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "we got cooked in overtime",
+    "target": "we lost badly in overtime",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "our team got cooked",
+    "target": "our team lost badly",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "the enemy cooked us in ranked",
+    "target": "the enemy beat us badly in ranked mode",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "their squad cooked our lobby",
+    "target": "their squad beat our lobby badly",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "she cooked everyone in the debate",
+    "target": "she performed extremely well against everyone in the debate",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "he cooked with that answer",
+    "target": "he performed extremely well with that answer",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "they cooked on stage",
+    "target": "they performed extremely well on stage",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "let her cook",
+    "target": "let her keep going",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "we're cooked without a healer",
+    "target": "we are in trouble without a healer",
+    "term": "cooked",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ed5bbb1d-82ce-4adf-8e4b-7188a74c3382",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "spill the tea",
+    "target": "share the gossip",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "tell me the tea",
+    "target": "tell me the gossip",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "she has tea about the drama",
+    "target": "she has gossip about the drama",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "give me the tea",
+    "target": "give me the gossip",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "he spilled the tea in the group chat",
+    "target": "he shared the gossip in the group chat",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "there is tea about the breakup",
+    "target": "there is gossip about the breakup",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "what's the tea on that rumor",
+    "target": "what is the gossip about that rumor",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "don't spill the tea yet",
+    "target": "do not share the gossip yet",
+    "term": "tea",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "a99d517d-d1c2-44a6-ad88-308d78c5d10f",
+    "failure_type": "wrong_slang_sense"
+  },
+  {
+    "input": "bro carried the lobby",
+    "target": "he performed very well for the whole lobby",
+    "term": "carried",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "8a1d4f73-620e-42c0-86a6-5873b7199250",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she carried our team",
+    "target": "she performed very well for our team",
+    "term": "carried",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "8a1d4f73-620e-42c0-86a6-5873b7199250",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he carried the match",
+    "target": "he performed very well for the whole match",
+    "term": "carried",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "8a1d4f73-620e-42c0-86a6-5873b7199250",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i'm hardstuck bronze",
+    "target": "i am unable to rank up from bronze",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "f6d01647-b430-47d8-8c4b-ff68f6dcf8b5",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she is hardstuck silver",
+    "target": "she is unable to rank up from silver",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f6d01647-b430-47d8-8c4b-ff68f6dcf8b5",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "we are hardstuck gold",
+    "target": "we are unable to rank up from gold",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f6d01647-b430-47d8-8c4b-ff68f6dcf8b5",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he is hardstuck platinum",
+    "target": "he is unable to rank up from platinum",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f6d01647-b430-47d8-8c4b-ff68f6dcf8b5",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i've been hardstuck for weeks",
+    "target": "i have been unable to rank up for weeks",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f6d01647-b430-47d8-8c4b-ff68f6dcf8b5",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "our duo is hardstuck diamond",
+    "target": "our duo is unable to rank up from diamond",
+    "term": "hardstuck",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "f6d01647-b430-47d8-8c4b-ff68f6dcf8b5",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i'm tilted after that game",
+    "target": "i am frustrated after that game",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he got tilted after losing",
+    "target": "he became frustrated after losing",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "don't queue while tilted",
+    "target": "do not queue while frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "im tilted",
+    "target": "i am frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i'm getting tilted already",
+    "target": "i am already getting frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that camper is making me so tilted",
+    "target": "that camper is making me very frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "my teammates tilted me",
+    "target": "my teammates frustrated me",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "this match tilted me so hard",
+    "target": "this match frustrated me a lot",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i'm tilted rn",
+    "target": "i am frustrated right now",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "stop playing while tilted",
+    "target": "stop playing while frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that throw made me tilted",
+    "target": "that mistake made me frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "losing that fight tilted me",
+    "target": "losing that fight frustrated me",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "he is too tilted to play",
+    "target": "he is too frustrated to play",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "she gets tilted after every loss",
+    "target": "she gets frustrated after every loss",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "the lag tilted our whole team",
+    "target": "the lag frustrated our whole team",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i was tilted for the rest of the match",
+    "target": "i was frustrated for the rest of the match",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "being camped tilted me",
+    "target": "being camped frustrated me",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "mute chat if you get tilted",
+    "target": "mute chat if you get frustrated",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that bad call tilted everyone",
+    "target": "that bad call frustrated everyone",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "i'm so tilted right now",
+    "target": "i am very frustrated right now",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "58f7127a-1c6c-41ae-b13f-6ad7c2c0c67a",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that fit ate",
+    "target": "that outfit looked excellent",
+    "term": "",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "b68952d2-9b06-47bf-97ec-c5b7e17a9b6b",
+    "failure_type": "slang_positive"
+  },
+  {
+    "input": "he's got rizz",
+    "target": "he has charisma",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "070ef82a-b853-4ca7-8897-71dff60ea6ab",
+    "failure_type": "slang_personality"
+  },
+  {
+    "input": "she has rizz",
+    "target": "she has charisma",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "070ef82a-b853-4ca7-8897-71dff60ea6ab",
+    "failure_type": "slang_personality"
+  },
+  {
+    "input": "that guy has no rizz",
+    "target": "that guy has no charisma",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "070ef82a-b853-4ca7-8897-71dff60ea6ab",
+    "failure_type": "slang_personality"
+  },
+  {
+    "input": "his rizz is unreal",
+    "target": "his charisma is unreal",
+    "term": "rizz",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "070ef82a-b853-4ca7-8897-71dff60ea6ab",
+    "failure_type": "slang_personality"
+  },
+  {
+    "input": "i'm not gonna lie that was clean",
+    "target": "honestly that was impressive",
+    "term": "clean",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "64ab4e55-d0f9-40c6-9f88-7e5ac58820bd",
+    "failure_type": "slang_discourse"
+  },
+  {
+    "input": "that play was clean",
+    "target": "that play was impressive",
+    "term": "clean",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "64ab4e55-d0f9-40c6-9f88-7e5ac58820bd",
+    "failure_type": "slang_discourse"
+  },
+  {
+    "input": "the edit was clean",
+    "target": "the edit was impressive",
+    "term": "clean",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "64ab4e55-d0f9-40c6-9f88-7e5ac58820bd",
+    "failure_type": "slang_discourse"
+  },
+  {
+    "input": "that combo was clean",
+    "target": "that combo was impressive",
+    "term": "clean",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "64ab4e55-d0f9-40c6-9f88-7e5ac58820bd",
+    "failure_type": "slang_discourse"
+  },
+  {
+    "input": "she left me on read",
+    "target": "she read my message and did not respond",
+    "term": "read",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "3953a612-8bca-4e51-b104-5d21391496f4",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "he left me on read again",
+    "target": "he read my message and did not respond again",
+    "term": "read",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "3953a612-8bca-4e51-b104-5d21391496f4",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "don't leave me on read",
+    "target": "do not read my message without responding",
+    "term": "read",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "3953a612-8bca-4e51-b104-5d21391496f4",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "that test humbled me",
+    "target": "that test made me realize I was not as prepared as I thought",
+    "term": "humbled",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "80d6c62c-ea7e-4473-afe6-38e10cb87fc9",
+    "failure_type": "slang_expression"
+  },
+  {
+    "input": "ranked humbled me today",
+    "target": "ranked made me realize I was not as good as I thought today",
+    "term": "humbled",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "80d6c62c-ea7e-4473-afe6-38e10cb87fc9",
+    "failure_type": "slang_expression"
+  },
+  {
+    "input": "that loss humbled us",
+    "target": "that loss made us realize we were not as good as we thought",
+    "term": "humbled",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "80d6c62c-ea7e-4473-afe6-38e10cb87fc9",
+    "failure_type": "slang_expression"
+  },
+  {
+    "input": "the fire is lowkey dangerous",
+    "target": "the fire is somewhat dangerous",
+    "term": "lowkey",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "877f7a4c-41a6-4312-98b5-74d08dbc466d",
+    "failure_type": "literal_intensifier_guard"
+  },
+  {
+    "input": "the lobby has three chairs",
+    "target": "the lobby has three chairs",
+    "term": "",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "af780e49-a5a9-4672-a28e-d6697b557a07",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "i'm getting tilted already by this bullshit chen",
+    "target": "i am already getting frustrated by this annoying Chen",
+    "term": "tilted",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "69e92bdb-602f-47b1-b691-da3b04580b6b",
+    "failure_type": "gaming_slang_tilted"
+  },
+  {
+    "input": "that beat is sick",
+    "target": "that beat is excellent",
+    "term": "beat",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "this beat is sick",
+    "target": "this beat is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that drum pattern is sick",
+    "target": "that drum pattern is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that guitar solo was sick",
+    "target": "that guitar solo was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "this edit is sick",
+    "target": "this edit is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that beat sounds sick",
+    "target": "that beat sounds excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "the beat drop was sick",
+    "target": "the beat drop was excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that bass line is sick",
+    "target": "that bass line is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "this rhythm is sick",
+    "target": "this rhythm is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "his flow on that beat is sick",
+    "target": "his flow on that beat is excellent",
+    "term": "sick",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "eb830617-1085-45c3-b473-f29b8591bcf5",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "she spilled tea on the table",
+    "target": "she spilled tea on the table",
+    "term": "tea",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "eae790bd-ac73-49d9-ac30-f926953584f3",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "why are you pressed",
+    "target": "why are you upset",
+    "term": "pressed",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "e3f9fbaa-2f6e-4147-b540-db5052e06149",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "that reply was salty",
+    "target": "that reply sounded upset",
+    "term": "salty",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "12dbda72-fbdb-4af6-9262-e3d9d7c47a37",
+    "failure_type": "ambiguous_slang"
+  },
+  {
+    "input": "he slaps the table when he laughs",
+    "target": "he slaps the table when he laughs",
+    "term": "slaps",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "3117fa5b-5013-41bd-96f4-baa0bf36ac28",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "we met in mid july",
+    "target": "we met in mid July",
+    "term": "mid",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "472bfe05-950e-4779-8485-a7b6583c95ef",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "they made a bet on the game",
+    "target": "they made a bet on the game",
+    "term": "bet",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "13b90590-8422-468e-85e2-9c0b599ecfc0",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "he is washed now",
+    "target": "he is no longer good now",
+    "term": "washed",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "81009e1d-7ac8-4e77-879c-b79c1a1061c5",
+    "failure_type": "slang_decline"
+  },
+  {
+    "input": "that player is washed",
+    "target": "that player is no longer good",
+    "term": "washed",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "81009e1d-7ac8-4e77-879c-b79c1a1061c5",
+    "failure_type": "slang_decline"
+  },
+  {
+    "input": "the old champion is washed",
+    "target": "the old champion is no longer good",
+    "term": "washed",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "81009e1d-7ac8-4e77-879c-b79c1a1061c5",
+    "failure_type": "slang_decline"
+  },
+  {
+    "input": "people say he is washed",
+    "target": "people say he is no longer good",
+    "term": "washed",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "81009e1d-7ac8-4e77-879c-b79c1a1061c5",
+    "failure_type": "slang_decline"
+  },
+  {
+    "input": "this lobby is sweaty",
+    "target": "this lobby is very competitive",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "we queued into sweats",
+    "target": "we matched against very competitive players",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "their team is sweaty",
+    "target": "their team is very competitive",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "casual mode is sweaty today",
+    "target": "casual mode is very competitive today",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "these players are sweaty",
+    "target": "these players are very competitive",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "ranked is sweaty tonight",
+    "target": "ranked mode is very competitive tonight",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "every match feels sweaty",
+    "target": "every match feels very competitive",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "that enemy team was sweaty",
+    "target": "that enemy team was very competitive",
+    "term": "sweaty",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "281fb5f3-7f64-40d6-a2ab-41f025bf1602",
+    "failure_type": "gaming_slang"
+  },
+  {
+    "input": "people ship them together",
+    "target": "people support them as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_approved",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "i ship those two characters",
+    "target": "i support those two characters as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "fans ship the main characters",
+    "target": "fans support the main characters as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "everyone ships that couple",
+    "target": "everyone supports that couple as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "i ship them so hard",
+    "target": "i strongly support them as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "the fandom ships those two",
+    "target": "the fandom supports those two as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "nobody ships that pairing",
+    "target": "nobody supports that pairing as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "she ships the rivals",
+    "target": "she supports the rivals as a couple",
+    "term": "ship",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "dbf936a4-415d-4245-8965-2ad28d92094a",
+    "failure_type": "slang_relationship"
+  },
+  {
+    "input": "the workers ship packages daily",
+    "target": "the workers ship packages daily",
+    "term": "ship",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "91da9285-fcd6-44b1-bd40-5e7f3ce659e4",
+    "failure_type": "literal_guard"
+  },
+  {
+    "input": "weird flex but okay",
+    "target": "strange way to show off but okay",
+    "term": "flex",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ea021b1f-d75d-4d06-9945-ef91d334c87a",
+    "failure_type": "slang_social"
+  },
+  {
+    "input": "he flexed his new car",
+    "target": "he showed off his new car",
+    "term": "flex",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ea021b1f-d75d-4d06-9945-ef91d334c87a",
+    "failure_type": "slang_social"
+  },
+  {
+    "input": "that expensive watch is a flex",
+    "target": "that expensive watch is showing off",
+    "term": "flex",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ea021b1f-d75d-4d06-9945-ef91d334c87a",
+    "failure_type": "slang_social"
+  },
+  {
+    "input": "stop flexing your rank",
+    "target": "stop showing off your rank",
+    "term": "flex",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ea021b1f-d75d-4d06-9945-ef91d334c87a",
+    "failure_type": "slang_social"
+  },
+  {
+    "input": "his score was a flex",
+    "target": "his score was showing off",
+    "term": "flex",
+    "sense": "slang",
+    "source": "feedback_augmented",
+    "source_feedback_id": "ea021b1f-d75d-4d06-9945-ef91d334c87a",
+    "failure_type": "slang_social"
+  },
+  {
+    "input": "i love that beat!",
+    "target": "i love that beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "e3a99482-248b-4699-a0b2-75bf20ff559d",
+    "failure_type": "literal_music_term"
+  },
+  {
+    "input": "drop the beat!",
+    "target": "start the beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "659c7493-9216-497e-a41c-64885d309e71",
+    "failure_type": "music_phrase"
+  },
+  {
+    "input": "that is a great beat",
+    "target": "that is a great beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "86445750-6ed2-4666-8502-d7a99438f77b",
+    "failure_type": "literal_music_term"
+  },
+  {
+    "input": "i love listening to this beat",
+    "target": "i love listening to this beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_approved",
+    "source_feedback_id": "cae71574-e454-4303-b151-8c8b15e1d1fb",
+    "failure_type": "literal_music_term"
+  },
+  {
+    "input": "the machine is grinding metal",
+    "target": "the machine is grinding metal",
+    "term": "grinding",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "she cooked rice for dinner",
+    "target": "she cooked rice for dinner",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the chef cooked the soup",
+    "target": "the chef cooked the soup",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "she carried the box upstairs",
+    "target": "she carried the box upstairs",
+    "term": "carried",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the cap is on the bottle",
+    "target": "the cap is on the bottle",
+    "term": "cap",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the phone died after five years",
+    "target": "the phone died after five years",
+    "term": "died",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "he pressed the red button",
+    "target": "he pressed the red button",
+    "term": "pressed",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the wild horse ran across the field",
+    "target": "the wild horse ran across the field",
+    "term": "wild",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the picture is tilted",
+    "target": "the picture is tilted",
+    "term": "tilted",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "tilt the screen slightly",
+    "target": "tilt the screen slightly",
+    "term": "tilted",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the table is tilted to one side",
+    "target": "the table is tilted to one side",
+    "term": "tilted",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the chair tilted backward",
+    "target": "the chair tilted backward",
+    "term": "tilted",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "she cooked pasta for dinner",
+    "target": "she cooked pasta for dinner",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "he cooked rice yesterday",
+    "target": "he cooked rice yesterday",
+    "term": "cooked",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "she sold her old laptop",
+    "target": "she sold her old laptop",
+    "term": "sold",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "they sold tickets online",
+    "target": "they sold tickets online",
+    "term": "sold",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "he sold his car yesterday",
+    "target": "he sold his car yesterday",
+    "term": "sold",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the beat is steady",
+    "target": "the beat is steady",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the song has a slow beat",
+    "target": "the song has a slow beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the beat drops after the intro",
+    "target": "the beat drops after the intro",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the beat is too fast",
+    "target": "the beat is too fast",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the beat starts at the chorus",
+    "target": "the beat starts at the chorus",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the producer changed the beat",
+    "target": "the producer changed the beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "this song has a heavy beat",
+    "target": "this song has a heavy beat",
+    "term": "beat",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "i drank green tea",
+    "target": "i drank green tea",
+    "term": "tea",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the tea bag ripped",
+    "target": "the tea bag ripped",
+    "term": "tea",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "he spilled hot tea on his shirt",
+    "target": "he spilled hot tea on his shirt",
+    "term": "tea",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the meeting is in mid March",
+    "target": "the meeting is in mid March",
+    "term": "mid",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "we are planning it for mid December",
+    "target": "we are planning it for mid December",
+    "term": "mid",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the project starts in mid August",
+    "target": "the project starts in mid August",
+    "term": "mid",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "she moved here in mid September",
+    "target": "she moved here in mid September",
+    "term": "mid",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the store opens in mid November",
+    "target": "the store opens in mid November",
+    "term": "mid",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the cargo ship arrived late",
+    "target": "the cargo ship arrived late",
+    "term": "ship",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the shirt was washed yesterday",
+    "target": "the shirt was washed yesterday",
+    "term": "washed",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "press the clutch slowly",
+    "target": "press the clutch slowly",
+    "term": "clutch",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "his shirt is sweaty after the run",
+    "target": "his shirt is sweaty after the run",
+    "term": "sweaty",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the app is free to download",
+    "target": "the app is free to download",
+    "term": "free",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the concert is free tonight",
+    "target": "the concert is free tonight",
+    "term": "free",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "this sample is free",
+    "target": "this sample is free",
+    "term": "free",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "the free version has ads",
+    "target": "the free version has ads",
+    "term": "free",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "basic math is useful",
+    "target": "basic math is useful",
+    "term": "basic",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "bring an extra towel",
+    "target": "bring an extra towel",
+    "term": "extra",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
+  },
+  {
+    "input": "we sat in the shade",
+    "target": "we sat in the shade",
+    "term": "shade",
+    "sense": "literal",
+    "source": "feedback_literal_guard"
   }
 ]

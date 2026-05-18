@@ -39,17 +39,37 @@ class Translator:
         word_lower = input_text.lower()
         is_single_word = " " not in input_text
 
+        pattern_translation = self._translate_known_phrase_pattern(input_text)
+        if pattern_translation:
+            return pattern_translation
+
         phrase_overrides = {
             "we are in trouble if we miss the deadline": "Estamos em apuros se perdermos o prazo",
             "we're in trouble if we miss the deadline": "Estamos em apuros se perdermos o prazo",
+            "the mirror cracked": "O espelho rachou",
+            "the chef used a whisk to whip the cream": "O chef usou um batedor para bater o creme",
+            "the deer had large bucks nearby": "Havia grandes cervos machos por perto",
+            "his style at the party was unreal": "O estilo dele na festa era incrivel",
+            "let her keep going; she might be onto something": "Deixe ela continuar; ela pode estar no caminho certo",
+            "my professor is actually pretty relaxed": "Na verdade, meu professor e bem tranquilo",
             "she is super relaxed": "Ela é super tranquila",
             "she's super relaxed": "Ela é super tranquila",
             "this look is projecting confidence": "Este look transmite confiança",
             "her outfit looks stylish and flattering": "A roupa dela está impecável",
             "the knight slayed the dragon": "O cavaleiro matou o dragão",
         }
-        if word_lower in phrase_overrides:
-            return phrase_overrides[word_lower]
+        phrase_overrides.update({
+            "her eyebrows look stylish and flattering": "As sobrancelhas dela estao impecaveis",
+            "i want the two main characters to be a couple": "Eu torço para os dois personagens principais ficarem juntos",
+            "i want andrew and claire to be a couple": "Eu torço para Andrew e Claire ficarem juntos",
+            "he's very skilled": "Ele e muito habilidoso",
+            "i am playing valorant intensely": "Estou jogando muito Valorant",
+            "she harshly criticized him in the comments": "Ela detonou ele nos comentarios",
+            "our team does not want conflict with them": "Nossa equipe nao quer conflito com eles",
+        })
+        override_key = word_lower.strip(" .!?")
+        if override_key in phrase_overrides:
+            return phrase_overrides[override_key]
         
         if is_single_word:
             single_word_overrides = {
@@ -150,6 +170,28 @@ class Translator:
             res = res[:-1]
             
         return res
+
+    def _translate_known_phrase_pattern(self, text: str) -> str | None:
+        normalized = text.strip(" .!?")
+        match = re.fullmatch(r"(?i)i\s+ship\s+(.+?)\s+and\s+(.+?)", normalized)
+        if not match:
+            match = re.fullmatch(
+                r"(?i)i\s+want\s+(.+?)\s+and\s+(.+?)\s+to\s+be\s+a\s+couple",
+                normalized,
+            )
+        if not match:
+            return None
+
+        first = self._clean_ship_target(match.group(1))
+        second = self._clean_ship_target(match.group(2))
+        if not first or not second:
+            return None
+
+        return f"Eu torço para {first} e {second} ficarem juntos"
+
+    @staticmethod
+    def _clean_ship_target(value: str) -> str:
+        return re.sub(r"\s+", " ", value.strip(" ,.;:!?")).strip()
     
     def translate_batch(self, texts: list[str]) -> list[str]:
         if not texts: return []

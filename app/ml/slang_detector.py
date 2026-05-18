@@ -35,6 +35,10 @@ AMBIGUOUS_SLANG = {
     "flex", "drop", "catch", "hard", "soft", "legit", "shady", "drip",
     "jam", "my jam", "crash", "crash at", "crashed at", "nasty", "ate", "dip", "dipped", "trip", "tripping",
     "chill", "cooked", "serving", "snatched", "slayed",
+    "cracked", "cracked at", "plug for", "loaded", "broke", "owned", "juice", "sauce",
+    "grind", "blue", "cheddar", "bucks", "whip", "bounce", "roll",
+    "clutch", "ship", "shade", "beat", "mid", "fresh", "sharp", "tight",
+    "the bomb",
 }
 
 class SlangDetector:

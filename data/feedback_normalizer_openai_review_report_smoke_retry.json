@@ -1,0 +1,25 @@
+{
+  "input_files": [
+    "data\\feedback_normalizer_openai_candidates_smoke_retry.json"
+  ],
+  "approved_rows": 8,
+  "rejected_rows": 0,
+  "approved_by_sense": {
+    "literal": 4,
+    "slang": 4
+  },
+  "unique_terms": 2,
+  "top_terms": [
+    [
+      "bad",
+      4
+    ],
+    [
+      "beat",
+      4
+    ]
+  ],
+  "thin_terms": [],
+  "rejected_reasons": {},
+  "rejected_preview": []
+}
