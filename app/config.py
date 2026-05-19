@@ -10,6 +10,9 @@ class Settings(BaseSettings):
     supabase_jwt_secret: str
     database_url: str
     
+    # Cache
+    redis_url: str = "redis://localhost:6379/0"
+
     # App
     debug: bool = False
     environment: str = "development"

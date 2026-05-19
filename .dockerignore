@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.git/
+.gitignore
+tests/
+data/
+dataset_generation/
+scripts/
+*.md
+.vscode/
