@@ -1,105 +1,107 @@
+import uuid
 import jwt
-from fastapi import Depends, HTTPException, Security
+from typing import Optional
+from fastapi import Depends, HTTPException, Security, Request, status
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
+from sqlalchemy.orm import Session
 
 from app.config import get_settings
-from app.database import get_supabase
+from app.database import get_db
+from app.models.user import User, UserStatus, UserRole
+from app.services.auth_service import RSAKeyManager
 
-security = HTTPBearer()
+security = HTTPBearer(auto_error=False)
 settings = get_settings()
 
-def get_current_user(res: HTTPAuthorizationCredentials = Security(security)) -> str:
+async def get_current_user(
+    request: Request,
+    res: Optional[HTTPAuthorizationCredentials] = Security(security),
+    db: Session = Depends(get_db)
+) -> User:
     """
-    Valida o JWT emitido pelo Supabase e retorna o user_id (sub).
+    Validates the custom JWT access token.
+    Reads access_token cookie as primary, falling back to Authorization: Bearer header.
     """
-    token = res.credentials
-    
-    import base64
-    
-    try:
-        # Preferimos validar via Supabase Auth API.
-        # Isso funciona tanto para JWTs HS256 quanto RS256.
-        supabase = get_supabase()
-        auth_res = supabase.auth.get_user(token)
-        user = getattr(auth_res, "user", None)
-        if user and getattr(user, "id", None):
-            return user.id
+    token = request.cookies.get("access_token")
+    if not token and res:
+        token = res.credentials
 
-    except Exception as e:
-        # Fallback para validacao local de JWT (compatibilidade com setups antigos).
-        print(f"[Auth] Fallback local JWT apos falha no get_user: {str(e)}")
-
-    try:
-        # Supabase JWT secrets are base64 encoded. 
-        # Adding padding if necessary to avoid 'Incorrect padding' error.
-        secret_str = settings.supabase_jwt_secret
-        padding = len(secret_str) % 4
-        if padding > 0:
-            secret_str += "=" * (4 - padding)
-            
-        secret = base64.b64decode(secret_str)
-        
-        try:
-            payload = jwt.decode(
-                token, 
-                secret, 
-                algorithms=["HS256"],
-                options={
-                    "verify_aud": False,
-                    "verify_iat": True,
-                    "verify_exp": True
-                }
-            )
-        except jwt.InvalidSignatureError:
-            # Fallback for some configurations where the secret is literal
-            payload = jwt.decode(
-                token, 
-                settings.supabase_jwt_secret, 
-                algorithms=["HS256"],
-                options={
-                    "verify_aud": False,
-                    "verify_iat": True,
-                    "verify_exp": True
-                }
-            )
-        
-        user_id = payload.get("sub")
-        if not user_id:
-            raise HTTPException(status_code=401, detail="Token invalido: 'sub' ausente")
-            
-        return user_id
-        
-    except jwt.ExpiredSignatureError:
-        print("[Auth] Token expirado")
-        raise HTTPException(status_code=401, detail="Token expirado")
-    except jwt.InvalidTokenError as e:
-        print(f"[Auth] Erro JWT: {str(e)}")
-        raise HTTPException(status_code=401, detail=f"Token invalido: {str(e)}")
-    except Exception as e:
-        print(f"[Auth] Erro inesperado: {str(e)}")
-        raise HTTPException(status_code=401, detail="Erro ao validar autenticacao")
-
-
-def get_current_admin(user_id: str = Depends(get_current_user)) -> str:
-    """
-    Requires the authenticated user to have role='admin' in profiles.
-    Normal learners remain role='user' and cannot access review endpoints.
-    """
-    try:
-        supabase = get_supabase()
-        result = (
-            supabase.table("profiles")
-            .select("role")
-            .eq("id", user_id)
-            .single()
-            .execute()
+    if not token:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Autenticacao necessaria"
         )
-        role = (result.data or {}).get("role", "user")
-    except Exception as exc:
-        print(f"[Auth] Erro ao buscar role do usuario: {str(exc)}")
-        role = "user"
 
-    if role != "admin":
-        raise HTTPException(status_code=403, detail="Admin access required")
+    try:
+        public_key = RSAKeyManager.get_public_key()
+        payload = jwt.decode(
+            token,
+            public_key,
+            algorithms=["RS256"],
+            options={"verify_aud": False}
+        )
+    except jwt.ExpiredSignatureError:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Token de acesso expirado"
+        )
+    except jwt.InvalidTokenError:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Token de acesso invalido"
+        )
 
-    return user_id
+    user_id_str = payload.get("sub")
+    token_version = payload.get("token_version")
+    if not user_id_str:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Requisicao invalida"
+        )
+
+    try:
+        user_uuid = uuid.UUID(user_id_str)
+    except ValueError:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Token de acesso invalido"
+        )
+
+    from app.repositories.user_repository import UserRepository
+    user_repo = UserRepository(db)
+    user = user_repo.get_by_id(user_uuid)
+    if not user:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Usuario nao encontrado"
+        )
+
+    if user.token_version != token_version:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Sessao expirada"
+        )
+
+    if user.status == UserStatus.PENDING_VERIFICATION:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Verifique seu email antes de continuar"
+        )
+    elif user.status == UserStatus.DISABLED or user.status == UserStatus.BANNED:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Conta desativada ou suspensa"
+        )
+
+    return user
+
+async def get_current_admin(
+    current_user: User = Depends(get_current_user)
+) -> User:
+    """Requires the authenticated user to be an admin."""
+    if current_user.role != UserRole.ADMIN:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Acesso restrito a administradores"
+        )
+    return current_user

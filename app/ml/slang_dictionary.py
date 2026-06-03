@@ -110,26 +110,29 @@ class SlangDictionary:
         })
         self._loaded = False
     
-    def load_from_supabase(self, supabase_client):
+    def load_from_db(self, db_session):
         if self._loaded:
             return
         
-        print("Carregando dicionario de girias...")
+        print("Carregando dicionario de girias do banco de dados (SQLAlchemy)...")
+        from app.models.vocabulary import SlangDictionaryEntry
+        from sqlalchemy import select
         
-        response = supabase_client.table("slang_dictionary").select("*").execute()
+        stmt = select(SlangDictionaryEntry)
+        rows = db_session.scalars(stmt).all()
         
-        for row in response.data:
-            slang = row["word"].lower()
-            normalized = row.get("normalized_form")
+        for row in rows:
+            slang = row.word.lower()
+            normalized = row.normalized_form
             self._cache[slang] = SlangInfo(
                 slang=slang,
                 normalized=normalized if normalized else slang,
-                meaning_en=row.get("meaning_en", ""),
-                meaning_pt=row.get("translation_pt", ""),
-                formality=row.get("formality_level", "informal"),
-                region=row.get("region", "universal"),
-                category=row.get("category", ""),
-                examples=row.get("example_sentences", []) or []
+                meaning_en=row.meaning_en or "",
+                meaning_pt=row.meaning_pt or row.translation_pt or "",
+                formality=row.formality_level or "informal",
+                region=row.region or "universal",
+                category=row.category or "",
+                examples=[ex.example_en for ex in row.examples] if row.examples else []
             )
         
         self._loaded = True

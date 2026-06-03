@@ -1,3 +1,4 @@
+import uuid
 from pydantic import BaseModel, Field
 from typing import Optional
 from datetime import date
@@ -12,7 +13,7 @@ class WordCreate(BaseModel):
 
 class WordResponse(BaseModel):
     """Response with word data"""
-    id: str
+    id: uuid.UUID
     word: str
     normalized_form: Optional[str]
     translation: Optional[str]
@@ -28,6 +29,9 @@ class WordResponse(BaseModel):
     mastery_level: str
     times_correct: int
     times_incorrect: int
+
+    class Config:
+        from_attributes = True
 
 
 class WordAnalysisResponse(BaseModel):
@@ -51,7 +55,7 @@ class ReviewRequest(BaseModel):
 
 class ReviewResponse(BaseModel):
     """Updated spaced repetition state after a review"""
-    id: str
+    id: uuid.UUID
     word: str
     next_review_date: date
     mastery_level: str
@@ -60,6 +64,9 @@ class ReviewResponse(BaseModel):
     easiness_factor: float
     times_correct: int
     times_incorrect: int
+
+    class Config:
+        from_attributes = True
 
 
 class SentenceTranslationResponse(BaseModel):

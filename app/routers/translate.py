@@ -1,23 +1,27 @@
 from fastapi import APIRouter, Depends, HTTPException, Body
+from sqlalchemy.orm import Session
 
-from app.database import get_supabase
-from app.ml.pipeline import get_pipeline
+from app.database import get_db
+from app.services.translation_service import TranslationService
 from app.schemas.word import WordAnalysisResponse, SentenceTranslationResponse
 from app.auth import get_current_user
+from app.models.user import User
 
 router = APIRouter(prefix="/translate", tags=["translate"])
 
 
 @router.get("/word/{word}", response_model=WordAnalysisResponse)
-async def analyze_word(word: str, user_id: str = Depends(get_current_user)):
+async def analyze_word(
+    word: str,
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
     """
     Analyzes a word.
     Detects if it's slang, translates, generates embedding.
     """
-    supabase = get_supabase()
-    pipeline = get_pipeline(supabase)
-    
-    result = pipeline.analyze_word(word)
+    translation_service = TranslationService(db)
+    result = translation_service.analyze_word(word)
     
     return WordAnalysisResponse(
         original=result.original,
@@ -34,7 +38,11 @@ async def analyze_word(word: str, user_id: str = Depends(get_current_user)):
 
 
 @router.post("/sentence", response_model=SentenceTranslationResponse)
-async def translate_sentence(sentence: str = Body(..., embed=True), user_id: str = Depends(get_current_user)):
+async def translate_sentence(
+    sentence: str = Body(..., embed=True),
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
     """
     Translates a full sentence.
     Detects slangs, normalizes, translates.
@@ -42,10 +50,8 @@ async def translate_sentence(sentence: str = Body(..., embed=True), user_id: str
     if not sentence or len(sentence) > 1000:
         raise HTTPException(400, "Invalid or too long sentence")
     
-    supabase = get_supabase()
-    pipeline = get_pipeline(supabase)
-    
-    result = pipeline.translate_sentence(sentence)
+    translation_service = TranslationService(db)
+    result = translation_service.translate_sentence(sentence)
     
     return SentenceTranslationResponse(**result)
 

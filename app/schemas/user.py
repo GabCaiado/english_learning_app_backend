@@ -1,10 +1,11 @@
+import uuid
 from pydantic import BaseModel, Field
 from typing import Optional
 from datetime import datetime, date
 
 class UserProfile(BaseModel):
     """Dados do perfil completo do usuario"""
-    id: str
+    id: uuid.UUID
     role: str = "user"
     username: Optional[str] = None
     full_name: Optional[str] = None
@@ -19,6 +20,9 @@ class UserProfile(BaseModel):
     created_at: Optional[datetime] = None
     updated_at: Optional[datetime] = None
 
+    class Config:
+        from_attributes = True
+
 class UserUpdate(BaseModel):
     """Campos que o usuario pode atualizar no perfil"""
     username: Optional[str] = None
@@ -27,3 +31,4 @@ class UserUpdate(BaseModel):
     native_language: Optional[str] = None
     learning_level: Optional[str] = None
     daily_goal: Optional[int] = None
+

@@ -1,3 +1,4 @@
+import uuid
 from datetime import datetime
 from typing import Any, Optional
 
@@ -16,8 +17,8 @@ class TranslationFeedbackCreate(BaseModel):
 
 
 class TranslationFeedbackResponse(BaseModel):
-    id: str
-    user_id: str
+    id: uuid.UUID
+    user_id: uuid.UUID
     input_text: str
     model_normalized: Optional[str]
     model_translation: Optional[str]
@@ -32,6 +33,9 @@ class TranslationFeedbackResponse(BaseModel):
     status: str
     created_at: Optional[datetime] = None
     reviewed_at: Optional[datetime] = None
+
+    class Config:
+        from_attributes = True
 
 
 class TranslationFeedbackApprove(BaseModel):

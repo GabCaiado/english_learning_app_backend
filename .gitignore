@@ -239,3 +239,8 @@ Thumbs.db
 # Local notes/docs
 *.md
 !README.md
+
+# Security
+keys/
+*.pem
+

@@ -129,7 +129,7 @@ class TranslationPipeline:
     4. Camada 4: Tradução (Helsinki-NLP)
     """
     
-    def __init__(self, supabase_client):
+    def __init__(self, db_session):
         self.translator = get_translator()
         self.embeddings = get_embedding_generator()
         self.dictionary = get_slang_dictionary()
@@ -140,7 +140,7 @@ class TranslationPipeline:
         self.examples_manager = get_examples_manager()
         
         # Carrega dicionario do banco de dados
-        self.dictionary.load_from_supabase(supabase_client)
+        self.dictionary.load_from_db(db_session)
     
     def analyze_word(self, word: str) -> WordAnalysis:
         """
@@ -173,9 +173,6 @@ class TranslationPipeline:
         
         if slang_info:
             if is_ambiguous:
-                # Bare ambiguous words need context before the app can say the
-                # slang sense is the primary one. Keep the word neutral here;
-                # the modal still exposes the slang meaning as an alternative.
                 is_really_slang = False
             else:
                 is_really_slang = True
@@ -445,8 +442,8 @@ class TranslationPipeline:
 # Pipeline global
 _pipeline: Optional[TranslationPipeline] = None
 
-def get_pipeline(supabase_client: Optional[any] = None) -> TranslationPipeline:
+def get_pipeline(db_session: Optional[any] = None) -> TranslationPipeline:
     global _pipeline
     if _pipeline is None:
-        _pipeline = TranslationPipeline(supabase_client)
+        _pipeline = TranslationPipeline(db_session)
     return _pipeline
