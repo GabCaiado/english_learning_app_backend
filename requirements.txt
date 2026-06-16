@@ -37,6 +37,7 @@ pydantic-settings>=2.14.0
 
 # Utilitarios
 httpx==0.28.1
+aiosmtplib>=3.0.0
 numpy>=1.26.0,<2.0
 pandas>=2.2.0
 sentencepiece==0.2.1

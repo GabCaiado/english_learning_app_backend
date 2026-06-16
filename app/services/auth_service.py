@@ -239,6 +239,16 @@ class AuthService:
             raise ValueError("Credenciais invalidas")
 
         # Verify status
+        if user.status == UserStatus.PENDING_VERIFICATION:
+            self.audit_repo.create_audit_log(
+                user_id=user.id,
+                event_type="LOGIN_BLOCKED_STATUS",
+                request_id=request_id,
+                ip_hash=ip_hash,
+                event_metadata={"status": user.status.value}
+            )
+            raise PermissionError("EMAIL_NOT_VERIFIED")
+
         if user.status == UserStatus.DISABLED or user.status == UserStatus.BANNED:
             self.audit_repo.create_audit_log(
                 user_id=user.id,
@@ -427,7 +437,7 @@ class AuthService:
 
         if not user:
             print(f"[AuthService] Password reset requested for unregistered email: {email}")
-            return
+            raise ValueError("E-mail não encontrado.")
 
         # Generate reset token
         raw_token = self.generate_random_token()

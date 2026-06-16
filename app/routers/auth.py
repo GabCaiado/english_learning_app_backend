@@ -195,12 +195,15 @@ async def forgot_password(
     ip_address = request.client.host if request.client else None
     request_id = get_request_id(request)
 
-    await auth_service.forgot_password(
-        email=payload.email,
-        ip_address=ip_address,
-        request_id=request_id
-    )
-    return {"status": "success", "message": "Se o email estiver cadastrado, um link de redefinicao sera enviado."}
+    try:
+        await auth_service.forgot_password(
+            email=payload.email,
+            ip_address=ip_address,
+            request_id=request_id
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=str(e))
+    return {"status": "success", "message": "Link de redefinição enviado com sucesso."}
 
 
 @router.post("/reset-password")

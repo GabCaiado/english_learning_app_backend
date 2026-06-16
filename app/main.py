@@ -12,7 +12,7 @@ from sqlalchemy import text
 
 from app.config import get_settings
 from app.database import engine, get_db
-from app.routers import auth, translate, translation_feedback, words, users
+from app.routers import admin, auth, translate, translation_feedback, words, users
 
 settings = get_settings()
 
@@ -95,6 +95,7 @@ async def csrf_protect(request: Request, call_next):
 
 
 # Routers
+app.include_router(admin.router)
 app.include_router(auth.router)
 app.include_router(translate.router)
 app.include_router(translation_feedback.router)

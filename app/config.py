@@ -38,6 +38,15 @@ class Settings(BaseSettings):
 
     openai_api_key: Optional[str] = None
 
+    # Email (SMTP)
+    smtp_host: Optional[str] = None
+    smtp_port: int = 587
+    smtp_secure: bool = False
+    smtp_user: Optional[str] = None
+    smtp_pass: Optional[str] = None
+    smtp_from: str = "noreply@example.com"
+    frontend_url: str
+
     # ML
     slang_normalizer_model_path: str = "models/slang_normalizer_v4_best"
 
