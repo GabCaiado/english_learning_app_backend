@@ -344,6 +344,46 @@ class AuthService:
             raise ValueError("Usuario nao encontrado ou excluido")
 
         if token_obj.revoked_at is not None:
+            now = datetime.now(timezone.utc)
+            revoked_at = token_obj.revoked_at
+            if revoked_at.tzinfo is None:
+                revoked_at = revoked_at.replace(tzinfo=timezone.utc)
+
+            # 30-second grace period for concurrent requests during token rotation
+            if (now - revoked_at).total_seconds() < 30:
+                active_token = self.refresh_repo.get_active_token_in_family(token_obj.family_id)
+                new_raw_refresh = self.generate_random_token()
+                new_hash = self.hash_token(new_raw_refresh)
+                refresh_expires = datetime.now(timezone.utc) + timedelta(days=settings.jwt_refresh_expire_days)
+
+                if active_token:
+                    self.refresh_repo.revoke_refresh_token(active_token)
+
+                new_token_obj = self.refresh_repo.store_refresh_token(
+                    user_id=user.id,
+                    token_hash=new_hash,
+                    family_id=token_obj.family_id,
+                    expires_at=refresh_expires,
+                    ip_hash=ip_hash,
+                    user_agent=user_agent,
+                    device_name=device_name
+                )
+
+                if active_token:
+                    self.session_repo.delete_session_by_refresh_token_id(active_token.id)
+                self.session_repo.create_session(
+                    user_id=user.id,
+                    refresh_token_id=new_token_obj.id,
+                    ip_hash=ip_hash,
+                    user_agent=user_agent,
+                    device_name=device_name
+                )
+
+                new_access, jti = self.create_access_token(user)
+                new_csrf = self.generate_random_token()
+
+                return new_access, new_raw_refresh, new_csrf
+
             # Revoke entire token family to protect account
             self.refresh_repo.revoke_entire_family(token_obj.family_id)
 

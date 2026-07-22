@@ -46,6 +46,18 @@ class RefreshTokenRepository:
         stmt = select(RefreshToken).where(RefreshToken.token_hash == token_hash)
         return self.db.scalars(stmt).first()
 
+    def get_active_token_in_family(self, family_id: uuid.UUID) -> Optional[RefreshToken]:
+        stmt = (
+            select(RefreshToken)
+            .where(
+                RefreshToken.family_id == family_id,
+                RefreshToken.revoked_at.is_(None),
+                RefreshToken.expires_at > func.now()
+            )
+            .order_by(RefreshToken.created_at.desc())
+        )
+        return self.db.scalars(stmt).first()
+
     def revoke_refresh_token(self, token: RefreshToken) -> RefreshToken:
         token.revoked_at = func.now()
         self.db.add(token)

@@ -35,7 +35,8 @@ def get_request_id(request: Request) -> str:
 
 def set_auth_cookies(response: Response, access_token: str, refresh_token: str, csrf_token: str):
     is_prod = settings.environment == "production"
-    domain = settings.cookie_domain if settings.cookie_domain else None
+    raw_domain = settings.cookie_domain.strip() if settings.cookie_domain else ""
+    domain = raw_domain if raw_domain and raw_domain != "localhost" else None
 
     response.set_cookie(
         key="access_token",
@@ -45,7 +46,7 @@ def set_auth_cookies(response: Response, access_token: str, refresh_token: str, 
         samesite="lax",
         path="/",
         domain=domain,
-        max_age=settings.jwt_expire_minutes * 60 # 5 minutes
+        max_age=settings.jwt_expire_minutes * 60 # 15 minutes
     )
 
     response.set_cookie(
@@ -71,7 +72,8 @@ def set_auth_cookies(response: Response, access_token: str, refresh_token: str, 
     )
 
 def clear_auth_cookies(response: Response):
-    domain = settings.cookie_domain if settings.cookie_domain else None
+    raw_domain = settings.cookie_domain.strip() if settings.cookie_domain else ""
+    domain = raw_domain if raw_domain and raw_domain != "localhost" else None
     response.delete_cookie("access_token", path="/", domain=domain)
     response.delete_cookie("refresh_token", path="/", domain=domain)
     response.delete_cookie("csrf_token", path="/", domain=domain)
