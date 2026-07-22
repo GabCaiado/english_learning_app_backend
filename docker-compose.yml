@@ -23,6 +23,7 @@ services:
       - ./keys:/app/keys
       - ./migrations:/app/migrations
       - ./scripts:/app/scripts
+      - ./data:/app/data
       - ./alembic.ini:/app/alembic.ini
       - hf_cache:/root/.cache/huggingface
     command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload

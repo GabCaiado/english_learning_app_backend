@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     database_url: str
 
     jwt_algorithm: str = "RS256"
-    jwt_expire_minutes: int = 5
+    jwt_expire_minutes: int = 15
     jwt_refresh_expire_days: int = 30
     token_pepper: str
     cookie_domain: Optional[str] = None

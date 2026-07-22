@@ -7,12 +7,15 @@ from app.database import get_db
 from app.models.failed_translation import FailedTranslation
 from app.models.user import User
 from app.schemas.admin import (
+    AmplifyVocabularyRequest,
+    AmplifyVocabularyResponse,
     DatasetGenerateRequest,
     DatasetGenerateResponse,
     DatasetStatsResponse,
     MilestoneInfo,
+    VocabularyInfoResponse,
 )
-from app.services.dataset_generator import generate_batch
+from app.services.dataset_generator import amplify_vocabulary, extract_known_vocabulary, generate_batch
 
 router = APIRouter(prefix="/admin", tags=["admin"])
 
@@ -45,6 +48,7 @@ async def generate_dataset(
             categories=request.categories,
             context_style=request.context_style,
             slang_mix=request.slang_mix,
+            target_word=request.target_word,
         )
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc))
@@ -133,4 +137,49 @@ async def get_dataset_stats(
         balance_ok=balance_ok,
         distilbert_ready=total_approved >= 500,
         byt5_ready=total_approved >= 2000,
+    )
+
+
+@router.get("/dataset/vocabulary", response_model=VocabularyInfoResponse)
+async def get_vocabulary(
+    current_admin: User = Depends(get_current_admin),
+    db: Session = Depends(get_db),
+):
+    """Returns every unique slang word/phrase already known across all generated rows."""
+    words = extract_known_vocabulary(db)
+    return VocabularyInfoResponse(unique_words=len(words), words=words)
+
+
+@router.post("/dataset/amplify", response_model=AmplifyVocabularyResponse)
+async def amplify_dataset_vocabulary(
+    request: AmplifyVocabularyRequest,
+    current_admin: User = Depends(get_current_admin),
+    db: Session = Depends(get_db),
+):
+    """
+    For every known slang word, generates fresh sentence variations via OpenAI
+    and scores them with the local detector — same auto-approve/review-queue
+    logic as /dataset/generate.
+    """
+    try:
+        result = amplify_vocabulary(
+            db=db,
+            admin_user=current_admin,
+            variations_per_word=request.variations_per_word,
+            words=request.words,
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
+    except RuntimeError as exc:
+        raise HTTPException(status_code=500, detail=str(exc))
+
+    return AmplifyVocabularyResponse(
+        words_processed=result["words_processed"],
+        generated=result["generated"],
+        auto_approved=result["auto_approved"],
+        queued_for_review=result["queued_for_review"],
+        message=(
+            f"Amplified {result['words_processed']} words into {result['generated']} new sentences — "
+            f"{result['auto_approved']} auto-approved, {result['queued_for_review']} added to your review queue."
+        ),
     )
