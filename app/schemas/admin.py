@@ -8,12 +8,17 @@ class DatasetGenerateRequest(BaseModel):
     context_style: str = Field(default="text_message")
     slang_mix: float = Field(default=0.6, ge=0.2, le=0.9)
     target_word: Optional[str] = None
+    avoid_overrepresented: bool = Field(
+        default=True,
+        description="Steer the prompt away from words that already have plenty of slang AND neutral examples in the dataset.",
+    )
 
 
 class DatasetGenerateResponse(BaseModel):
     generated: int
     auto_approved: int
     queued_for_review: int
+    avoided_words: list[str] = Field(default_factory=list)
     message: str
 
 
@@ -40,10 +45,17 @@ class DatasetStatsResponse(BaseModel):
 class VocabularyInfoResponse(BaseModel):
     unique_words: int
     words: list[str]
+    word_counts: dict[str, int] = Field(
+        default_factory=dict,
+        description="Existing slang-usage example count per known word.",
+    )
+    overrepresented_words: list[str] = Field(
+        default_factory=list,
+        description="Words that already meet the shared coverage thresholds and would be skipped by Amplify Vocabulary.",
+    )
 
 
 class AmplifyVocabularyRequest(BaseModel):
-    variations_per_word: int = Field(default=10, ge=4, le=20)
     words: Optional[list[str]] = Field(
         default=None,
         description="Subset of words to amplify. Defaults to all known vocabulary.",
@@ -52,6 +64,7 @@ class AmplifyVocabularyRequest(BaseModel):
 
 class AmplifyVocabularyResponse(BaseModel):
     words_processed: int
+    words_skipped: int
     generated: int
     auto_approved: int
     queued_for_review: int

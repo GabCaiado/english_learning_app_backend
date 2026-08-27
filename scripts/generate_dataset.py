@@ -6,7 +6,8 @@ import torch
 from tqdm import tqdm
 from datasets import load_dataset
 from transformers import T5Tokenizer, T5ForConditionalGeneration
-from app.database import get_supabase
+from sqlalchemy import text
+from app.database import SessionLocal
 
 DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -289,11 +290,14 @@ class Paraphraser:
 
 def fetch_slangs_from_db() -> list[dict]:
     """Pares curados do Supabase (fonte mais confiavel)."""
-    print("Buscando girias do Supabase...")
-    supabase = get_supabase()
-    res = supabase.table("slang_dictionary").select("word, normalized_form").execute()
+    print("Buscando girias do banco...")
+    db = SessionLocal()
+    try:
+        rows = db.execute(text("SELECT word, normalized_form FROM slang_dictionary")).mappings().all()
+    finally:
+        db.close()
     pairs = []
-    for row in res.data:
+    for row in rows:
         slang = (row.get("word") or "").strip().lower()
         normalized = (row.get("normalized_form") or "").strip()
         if slang and normalized and slang != normalized.lower():
@@ -420,8 +424,12 @@ def generate():
     det_rows = []
 
     # Positivos: gírias do banco + curadas
-    supabase = get_supabase()
-    for row in supabase.table("slang_dictionary").select("word").execute().data:
+    db = SessionLocal()
+    try:
+        slang_rows = db.execute(text("SELECT word FROM slang_dictionary")).mappings().all()
+    finally:
+        db.close()
+    for row in slang_rows:
         w = (row.get("word") or "").strip()
         if w:
             det_rows.append({"text": w, "label": 1})

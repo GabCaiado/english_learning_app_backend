@@ -2,25 +2,25 @@ import json
 import os
 import re
 from collections import Counter
-from supabase import create_client
+from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 
 def analyze_coverage():
     print("--- Iniciando Analise de Cobertura de Treino ---")
-    
+
     # Carrega .env
     load_dotenv()
-    
-    # 1. Carrega Girias do Supabase
-    url = os.environ.get('SUPABASE_URL')
-    key = os.environ.get('SUPABASE_SERVICE_KEY') # Usar service key para garantir acesso
-    if not url or not key:
-        print("Erro: SUPABASE_URL ou SUPABASE_KEY nao configurados.")
+
+    # 1. Carrega Girias do banco
+    database_url = os.environ.get('DATABASE_URL')
+    if not database_url:
+        print("Erro: DATABASE_URL nao configurado.")
         return
 
-    supabase = create_client(url, key)
-    response = supabase.table('slang_dictionary').select('word').execute()
-    db_slangs = [item['word'].lower() for item in response.data]
+    engine = create_engine(database_url)
+    with engine.connect() as conn:
+        rows = conn.execute(text("SELECT word FROM slang_dictionary")).mappings().all()
+    db_slangs = [row['word'].lower() for row in rows]
     print(f"Total de girias no dicionario (DB): {len(db_slangs)}")
 
     # 2. Carrega Datasets de Treino

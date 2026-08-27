@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import uuid
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
@@ -23,23 +24,47 @@ BACKEND_ROOT = Path(__file__).resolve().parents[1]
 if str(BACKEND_ROOT) not in sys.path:
     sys.path.insert(0, str(BACKEND_ROOT))
 
-from app.database import get_supabase
+from sqlalchemy import select
+
+from app.database import SessionLocal
+from app.models.failed_translation import FailedTranslation
 
 DEFAULT_GOLD_EXPORT = BACKEND_ROOT / "data" / "feedback_gold_candidates.json"
 DEFAULT_TRAIN_EXPORT = BACKEND_ROOT / "data" / "feedback_training_candidates.jsonl"
 
 
+def _row_to_dict(row: FailedTranslation) -> dict[str, Any]:
+    return {
+        "id": str(row.id),
+        "created_at": row.created_at.isoformat() if row.created_at else None,
+        "source": row.source,
+        "user_feedback": row.user_feedback,
+        "input_text": row.input_text,
+        "model_normalized": row.model_normalized,
+        "model_translation": row.model_translation,
+        "model_is_slang": row.model_is_slang,
+        "model_metadata": row.model_metadata,
+        "expected_normalized": row.expected_normalized,
+        "expected_translation": row.expected_translation,
+        "expected_is_slang": row.expected_is_slang,
+        "failure_type": row.failure_type,
+        "status": row.status,
+    }
+
+
 def fetch_rows(status: str, limit: int) -> list[dict[str, Any]]:
-    supabase = get_supabase()
-    result = (
-        supabase.table("failed_translations")
-        .select("*")
-        .eq("status", status)
-        .order("created_at", desc=False)
-        .limit(limit)
-        .execute()
-    )
-    return result.data or []
+    db = SessionLocal()
+    try:
+        stmt = (
+            select(FailedTranslation)
+            .where(FailedTranslation.status == status)
+            .order_by(FailedTranslation.created_at.asc())
+            .limit(limit)
+        )
+        rows = db.scalars(stmt).all()
+    finally:
+        db.close()
+    return [_row_to_dict(row) for row in rows]
 
 
 def print_row(row: dict[str, Any]) -> None:
@@ -75,53 +100,54 @@ def review_rows(limit: int) -> None:
         print("No failed translations need review.")
         return
 
-    supabase = get_supabase()
-    for row in rows:
-        print_row(row)
-        action = prompt_default("Action: approve / reject / skip", "skip").lower()
+    db = SessionLocal()
+    try:
+        for row in rows:
+            print_row(row)
+            action = prompt_default("Action: approve / reject / skip", "skip").lower()
 
-        if action in {"skip", "s", ""}:
-            continue
+            if action in {"skip", "s", ""}:
+                continue
 
-        if action in {"reject", "r"}:
-            supabase.table("failed_translations").update(
-                {
-                    "status": "rejected",
-                    "reviewed_at": datetime.now(UTC).isoformat(),
-                }
-            ).eq("id", row["id"]).execute()
-            print("Rejected.")
-            continue
+            record = db.get(FailedTranslation, uuid.UUID(row["id"]))
+            if record is None:
+                continue
 
-        if action not in {"approve", "a"}:
-            print("Unknown action; skipped.")
-            continue
+            if action in {"reject", "r"}:
+                record.status = "rejected"
+                record.reviewed_at = datetime.now(UTC)
+                db.commit()
+                print("Rejected.")
+                continue
 
-        expected_normalized = prompt_default(
-            "Expected normalized English",
-            row.get("model_normalized") or row.get("input_text") or "",
-        )
-        expected_translation = prompt_default(
-            "Expected Portuguese",
-            row.get("model_translation") or "",
-        )
-        expected_is_slang = prompt_bool("Expected is slang", row.get("model_is_slang"))
-        failure_type = prompt_default(
-            "Failure type",
-            "wrong_slang_sense",
-        )
+            if action not in {"approve", "a"}:
+                print("Unknown action; skipped.")
+                continue
 
-        supabase.table("failed_translations").update(
-            {
-                "expected_normalized": expected_normalized,
-                "expected_translation": expected_translation,
-                "expected_is_slang": expected_is_slang,
-                "failure_type": failure_type,
-                "status": "approved",
-                "reviewed_at": datetime.now(UTC).isoformat(),
-            }
-        ).eq("id", row["id"]).execute()
-        print("Approved.")
+            expected_normalized = prompt_default(
+                "Expected normalized English",
+                row.get("model_normalized") or row.get("input_text") or "",
+            )
+            expected_translation = prompt_default(
+                "Expected Portuguese",
+                row.get("model_translation") or "",
+            )
+            expected_is_slang = prompt_bool("Expected is slang", row.get("model_is_slang"))
+            failure_type = prompt_default(
+                "Failure type",
+                "wrong_slang_sense",
+            )
+
+            record.expected_normalized = expected_normalized
+            record.expected_translation = expected_translation
+            record.expected_is_slang = expected_is_slang
+            record.failure_type = failure_type
+            record.status = "approved"
+            record.reviewed_at = datetime.now(UTC)
+            db.commit()
+            print("Approved.")
+    finally:
+        db.close()
 
 
 def gold_row(row: dict[str, Any]) -> dict[str, Any]:
@@ -174,18 +200,21 @@ def export_approved(
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
     if mark_exported:
-        supabase = get_supabase()
-        exported_at = datetime.now(UTC).isoformat()
-        for row in rows:
-            supabase.table("failed_translations").update(
-                {
-                    "status": "added_to_training",
-                    "model_metadata": {
-                        **(row.get("model_metadata") or {}),
-                        "exported_at": exported_at,
-                    },
+        db = SessionLocal()
+        try:
+            exported_at = datetime.now(UTC).isoformat()
+            for row in rows:
+                record = db.get(FailedTranslation, uuid.UUID(row["id"]))
+                if record is None:
+                    continue
+                record.status = "added_to_training"
+                record.model_metadata = {
+                    **(row.get("model_metadata") or {}),
+                    "exported_at": exported_at,
                 }
-            ).eq("id", row["id"]).execute()
+            db.commit()
+        finally:
+            db.close()
 
     print(f"Exported {len(rows)} approved rows.")
     print(f"Gold candidates: {gold_path}")

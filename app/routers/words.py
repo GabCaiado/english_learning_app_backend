@@ -9,9 +9,18 @@ from app.auth import get_current_user
 from app.models.user import User
 from app.models.vocabulary import UserWord, WordExample
 from app.ml.slang_detector import AMBIGUOUS_SLANG
-from app.schemas.word import WordCreate, WordResponse, ReviewRequest, ReviewResponse
+from app.schemas.word import (
+    WordCreate,
+    WordResponse,
+    WordListResponse,
+    ReviewRequest,
+    ReviewResponse,
+    WordOfTheDayResponse,
+    DailyWordCount,
+)
 from app.services.word_service import WordService
 from app.services.translation_service import TranslationService
+from app.repositories.word_repository import WordRepository
 
 router = APIRouter(prefix="/words", tags=["words"])
 
@@ -101,18 +110,17 @@ async def add_word(
     return _word_to_response(user_word, meaning_en=analysis.meaning_en, meaning_pt=analysis.meaning_pt)
 
 
-@router.get("/", response_model=list[WordResponse])
+@router.get("/", response_model=WordListResponse)
 async def get_user_words(
     current_user: User = Depends(get_current_user),
     db: Session = Depends(get_db),
     limit: int = 50,
     offset: int = 0,
 ):
-    """Returns the user's words"""
-    word_service = WordService(db)
-    words = word_service.word_repo.get_all_user_words(current_user.id)
-    words = words[offset: offset + limit]
-    return [_word_to_response(w) for w in words]
+    """Returns a page of the user's words"""
+    word_repo = WordRepository(db)
+    words, total = word_repo.get_user_words_page(current_user.id, limit=limit, offset=offset)
+    return WordListResponse(items=[_word_to_response(w) for w in words], total=total)
 
 
 @router.get("/review")
@@ -124,6 +132,30 @@ async def get_words_for_review(
     word_service = WordService(db)
     due = word_service.get_due_reviews(current_user.id)
     return [_word_to_response(w) for w in due[:20]]
+
+
+@router.get("/word-of-the-day", response_model=WordOfTheDayResponse)
+async def get_word_of_the_day(
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+):
+    """Returns a new word (not yet in the user's vocabulary) with translation and example"""
+    word_service = WordService(db)
+    translation_service = TranslationService(db)
+    result = await word_service.get_word_of_the_day(current_user.id, translation_service)
+    if not result:
+        raise HTTPException(status_code=503, detail="Nao foi possivel buscar a palavra do dia")
+    return WordOfTheDayResponse(**result)
+
+
+@router.get("/progress/weekly", response_model=list[DailyWordCount])
+async def get_weekly_progress(
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+):
+    """Returns the count of words added per day for the last 7 days"""
+    word_service = WordService(db)
+    return word_service.get_weekly_progress(current_user.id)
 
 
 @router.post("/{word_id}/review", response_model=ReviewResponse)

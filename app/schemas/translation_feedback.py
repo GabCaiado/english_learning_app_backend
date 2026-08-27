@@ -38,11 +38,22 @@ class TranslationFeedbackResponse(BaseModel):
         from_attributes = True
 
 
+class TranslationFeedbackListResponse(BaseModel):
+    """Paginated page of feedback rows for admin review"""
+    items: list[TranslationFeedbackResponse]
+    total: int
+
+
 class TranslationFeedbackApprove(BaseModel):
     expected_normalized: str = Field(..., min_length=1, max_length=1000)
     expected_translation: Optional[str] = Field(default=None, max_length=1000)
     expected_is_slang: Optional[bool] = None
-    failure_type: str = Field(default="wrong_slang_sense", max_length=120)
+    # For ai_generated/ai_amplified rows: this doubles as the reviewer's
+    # confirmation signal. failure_type="correct" with an untouched draft is
+    # a valid approval (the reviewer judged GPT's guess correct); any other
+    # failure_type requires expected_* to actually differ from GPT's draft —
+    # see approve_feedback()._seed_values / was_edited.
+    failure_type: str = Field(..., min_length=1, max_length=120)
 
 
 class TranslationFeedbackReject(BaseModel):

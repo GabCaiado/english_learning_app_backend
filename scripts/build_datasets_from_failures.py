@@ -41,8 +41,10 @@ if str(BACKEND_ROOT) not in sys.path:
     sys.path.insert(0, str(BACKEND_ROOT))
 
 from dotenv import load_dotenv
+from sqlalchemy import select
 
-from app.database import get_supabase
+from app.database import SessionLocal
+from app.models.failed_translation import FailedTranslation
 
 
 DATA_DIR = BACKEND_ROOT / "data"
@@ -104,21 +106,33 @@ def estimate_cost(model: str, input_tokens: int, output_tokens: int) -> float | 
 # ── Step 1: Fetch failed_translations from Supabase ───────────────────────────
 
 def fetch_failed_translations(limit: int) -> list[dict[str, Any]]:
-    supabase = get_supabase()
-    result = (
-        supabase.table("failed_translations")
-        .select(
-            "id, input_text, model_normalized, model_translation, model_is_slang, "
-            "model_metadata, expected_normalized, expected_is_slang, failure_type, status"
+    db = SessionLocal()
+    try:
+        stmt = (
+            select(FailedTranslation)
+            .where(FailedTranslation.status == "approved")
+            .order_by(FailedTranslation.created_at.asc())
+            .limit(limit)
         )
-        .eq("status", "approved")
-        .order("created_at", desc=False)
-        .limit(limit)
-        .execute()
-    )
-    rows = result.data or []
-    # Keep only rows that have an input
-    return [row for row in rows if clean(row.get("input_text", ""))]
+        rows = db.scalars(stmt).all()
+    finally:
+        db.close()
+    return [
+        {
+            "id": str(row.id),
+            "input_text": row.input_text,
+            "model_normalized": row.model_normalized,
+            "model_translation": row.model_translation,
+            "model_is_slang": row.model_is_slang,
+            "model_metadata": row.model_metadata,
+            "expected_normalized": row.expected_normalized,
+            "expected_is_slang": row.expected_is_slang,
+            "failure_type": row.failure_type,
+            "status": row.status,
+        }
+        for row in rows
+        if clean(row.input_text)
+    ]
 
 
 # ── Step 2: GPT generates training pairs from failed_translations ─────────────

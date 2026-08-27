@@ -1,4 +1,4 @@
-from app.database import get_supabase
+from app.database import SessionLocal
 from app.ml.pipeline import get_pipeline
 import os
 
@@ -14,11 +14,11 @@ def main():
     print("=" * 60)
 
     try:
-        # Conecta ao Supabase
-        supabase = get_supabase()
-        
+        # Conecta ao banco
+        db = SessionLocal()
+
         # Cria pipeline
-        pipeline = get_pipeline(supabase)
+        pipeline = get_pipeline(db)
         
         # Testa palavras
         test_words = [

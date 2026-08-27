@@ -274,11 +274,6 @@ class AuthService:
         # Clear login failures on success
         await self.clear_failures(email)
 
-        # Update last login info
-        user.last_activity_date = date.today()
-        self.db.add(user)
-        self.db.commit()
-
         # Create JWT Access Token and JTI
         access_token, jti = self.create_access_token(user)
 

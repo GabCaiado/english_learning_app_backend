@@ -184,6 +184,16 @@ def load_term_specs(path: Path) -> list[dict[str, Any]]:
     return dedupe_term_specs(terms)
 
 
+def load_excluded_terms(path: Path | None) -> set[str]:
+    if not path:
+        return set()
+    with path.open("r", encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, list):
+        raise SystemExit(f"{path} must contain a JSON list of terms.")
+    return {clean(str(term)).lower() for term in data if clean(str(term))}
+
+
 def dedupe_term_specs(term_specs: list[dict[str, Any]]) -> list[dict[str, Any]]:
     seen: set[str] = set()
     unique = []
@@ -447,6 +457,15 @@ def main() -> None:
     parser.add_argument("--discover-only", action="store_true", help="Only write discovered terms; do not generate eval rows.")
     parser.add_argument("--start-index", type=int, default=0, help="Skip this many term specs before generation.")
     parser.add_argument("--max-terms", type=int, help="Limit the number of term specs used for row generation.")
+    parser.add_argument(
+        "--exclude-terms-file",
+        type=Path,
+        help=(
+            "JSON list of terms to skip (e.g. data/overrepresented_terms.json from "
+            "scripts/analyze_term_frequency.py). Excluded from discovery prompts and "
+            "dropped from --terms-path/discovered term specs before generation."
+        ),
+    )
     parser.add_argument("--sleep", type=float, default=0.2)
     args = parser.parse_args()
 
@@ -462,22 +481,34 @@ def main() -> None:
     default_terms = dedupe_term_specs([spec for spec in (normalize_term_spec(item) for item in TARGET_TERMS) if spec])
     term_specs = default_terms
 
+    excluded_terms = load_excluded_terms(args.exclude_terms_file)
+    if excluded_terms:
+        print(f"Loaded {len(excluded_terms)} excluded terms from {args.exclude_terms_file}", flush=True)
+
     if args.terms_path:
         loaded_terms = load_term_specs(args.terms_path)
         term_specs = dedupe_term_specs(default_terms + loaded_terms) if args.include_default_terms else loaded_terms
 
     if args.discover_terms:
+        excluded_specs = [{"term": term} for term in excluded_terms]
         discovered_terms = discover_term_specs(
             client=client,
             model=args.model,
             term_count=args.discover_terms,
-            existing_term_specs=dedupe_term_specs(default_terms + term_specs),
+            existing_term_specs=dedupe_term_specs(default_terms + term_specs + excluded_specs),
             output_path=args.discovered_terms_output,
             batch_size=args.discover_batch_size,
         )
         term_specs = discovered_terms
         if args.include_default_terms:
             term_specs = dedupe_term_specs(default_terms + term_specs)
+
+    if excluded_terms:
+        before = len(term_specs)
+        term_specs = [spec for spec in term_specs if spec["term"] not in excluded_terms]
+        skipped = before - len(term_specs)
+        if skipped:
+            print(f"Skipped {skipped} term specs already over-represented in the dataset.", flush=True)
 
     if args.discover_only:
         return

@@ -2,10 +2,17 @@
 Export approved failed_translations rows directly into training-ready JSON.
 
 Unlike build_datasets_from_failures.py (which spends GPT calls re-deriving
-labels from failures), every row this script reads already carries a trusted
-label — either a human-approved correction (expected_is_slang /
-expected_normalized) or an auto-approved AI-generated row where the local
-detector and the LLM already agreed. So this is a straight, free export.
+labels from failures), every row this script reads has status="approved",
+meaning a human reviewer explicitly confirmed or corrected expected_is_slang /
+expected_normalized via the /translation-feedback/{id}/approve endpoint. So
+this is a straight, free export.
+
+Auto-approval is disabled (see dataset_generator.py) — every AI-generated row
+lands in needs_review and requires a human to either edit it or explicitly
+tick "confirm as correct" before it can reach status="approved". Trust this
+data only as far as you trust that review process; a row being "approved"
+does not by itself guarantee it was scrutinized carefully — see
+model_metadata.was_edited on each row for a weak signal of that.
 
 Run from the backend root:
   python scripts/export_approved_to_training_data.py
@@ -54,11 +61,15 @@ def main() -> None:
     db = SessionLocal()
     try:
         stmt = select(FailedTranslation).where(FailedTranslation.status == "approved")
-        rows = db.scalars(stmt).all()
+        all_rows = db.scalars(stmt).all()
     finally:
         db.close()
 
-    print(f"Fetched {len(rows)} approved rows.")
+    holdout_count = sum(1 for r in all_rows if (r.model_metadata or {}).get("is_eval_holdout"))
+    rows = [r for r in all_rows if not (r.model_metadata or {}).get("is_eval_holdout")]
+
+    print(f"Fetched {len(all_rows)} approved rows ({holdout_count} excluded as frozen eval holdout).")
+    print(f"Using {len(rows)} rows for training export.")
 
     detector_rows: list[dict] = []
     normalizer_rows: list[dict] = []

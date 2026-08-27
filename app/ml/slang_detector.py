@@ -38,7 +38,8 @@ AMBIGUOUS_SLANG = {
     "cracked", "cracked at", "plug for", "loaded", "broke", "owned", "juice", "sauce",
     "grind", "blue", "cheddar", "bucks", "whip", "bounce", "roll",
     "clutch", "ship", "shade", "beat", "mid", "fresh", "sharp", "tight",
-    "the bomb",
+    "the bomb", "flopped", "go off", "let him cook", "let her cook",
+    "spill the tea",
 }
 
 class SlangDetector:

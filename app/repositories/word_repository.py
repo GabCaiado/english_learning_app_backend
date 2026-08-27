@@ -26,6 +26,13 @@ class WordRepository:
         stmt = select(UserWord).where(UserWord.user_id == user_id).order_by(UserWord.created_at.desc())
         return list(self.db.scalars(stmt).all())
 
+    def get_user_words_page(self, user_id: uuid.UUID, limit: int, offset: int) -> tuple[List[UserWord], int]:
+        base = select(UserWord).where(UserWord.user_id == user_id)
+        total = self.db.scalar(select(func.count()).select_from(base.subquery())) or 0
+        stmt = base.order_by(UserWord.created_at.desc()).limit(limit).offset(offset)
+        items = list(self.db.scalars(stmt).all())
+        return items, total
+
     def create_user_word(
         self,
         user_id: uuid.UUID,
@@ -127,6 +134,16 @@ class WordRepository:
         self.db.commit()
         self.db.refresh(entry)
         return entry
+
+    # Progress stats
+    def get_words_added_last_n_days(self, user_id: uuid.UUID, days: int) -> List[UserWord]:
+        from datetime import datetime, timedelta
+        since = datetime.utcnow() - timedelta(days=days - 1)
+        stmt = select(UserWord).where(
+            UserWord.user_id == user_id,
+            UserWord.created_at >= since
+        )
+        return list(self.db.scalars(stmt).all())
 
     # Study Sessions
     def create_study_session(self, user_id: uuid.UUID, session_type: str) -> StudySession:

@@ -37,6 +37,18 @@ CASES = [
     ("snatched", "her outfit looks snatched", "very stylish, flattering, or well put together", True),
     ("slayed", "the knight slayed the dragon", "did very well", False),
     ("slayed", "she slayed that presentation", "did very well", True),
+    ("the bomb", "we learned about the bomb's history in our history class today", "excellent", False),
+    ("the bomb", "the atomic bomb changed the course of world war two", "excellent", False),
+    ("the bomb", "this new song is the bomb", "excellent", True),
+    ("the bomb", "the bomb exploded near the old bridge", "excellent", False),
+    ("flopped", "the fish flopped around on the deck of the boat", "failed badly", False),
+    ("flopped", "the new movie flopped at the box office this weekend", "failed badly", True),
+    ("go off", "the fire alarm went off in the middle of the night", "an encouragement to perform confidently", False),
+    ("go off", "go off, queen, that speech was amazing", "an encouragement to perform confidently", True),
+    ("let him cook", "the kitchen was short-staffed, so let him cook dinner for the guests", "let him keep going because his idea may work", False),
+    ("let him cook", "his plan sounds weird, but let him cook", "let him keep going because his idea may work", True),
+    ("spill the tea", "please spill the tea into the sink before it gets cold", "share the gossip", False),
+    ("spill the tea", "okay girl, spill the tea about what happened last night", "share the gossip", True),
 ]
 
 

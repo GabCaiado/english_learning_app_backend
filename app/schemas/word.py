@@ -34,6 +34,12 @@ class WordResponse(BaseModel):
         from_attributes = True
 
 
+class WordListResponse(BaseModel):
+    """Paginated page of the user's words"""
+    items: list[WordResponse]
+    total: int
+
+
 class WordAnalysisResponse(BaseModel):
     """Response with word analysis"""
     original: str
@@ -67,6 +73,20 @@ class ReviewResponse(BaseModel):
 
     class Config:
         from_attributes = True
+
+
+class WordOfTheDayResponse(BaseModel):
+    """A new word the user hasn't added yet, with translation and an example"""
+    word: str
+    translation_pt: str
+    meaning_pt: Optional[str]
+    example: Optional[str]
+    example_pt: Optional[str]
+
+
+class DailyWordCount(BaseModel):
+    date: date
+    count: int
 
 
 class SentenceTranslationResponse(BaseModel):

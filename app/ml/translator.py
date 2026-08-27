@@ -1,16 +1,60 @@
 from transformers import MarianMTModel, MarianTokenizer
 from functools import lru_cache
+import json
+import os
 import re
 import torch
 
+OVERRIDES_PATH = os.getenv("TRANSLATION_OVERRIDES_PATH", "data/translation_overrides.json")
+
+# Pronouns, articles, prepositions, conjunctions and auxiliaries — closed-class
+# words that can't function as noun/verb/adjective. The multi-sense template
+# heuristic below (f"To {word} something.", f"It is very {word}.") produces
+# ungrammatical prompts for these and should be skipped in favor of a direct
+# translation.
+FUNCTION_WORDS = {
+    "i", "you", "he", "she", "it", "we", "they",
+    "me", "him", "her", "us", "them",
+    "my", "your", "his", "its", "our", "their", "mine", "yours", "hers", "ours", "theirs",
+    "this", "that", "these", "those",
+    "a", "an", "the",
+    "in", "on", "at", "to", "for", "of", "with", "by", "from", "up", "about",
+    "into", "through", "during", "out", "off",
+    "and", "but", "or", "so", "yet", "nor",
+    "am", "is", "are", "was", "were", "be", "been", "being",
+    "have", "has", "had", "do", "does", "did",
+    "will", "would", "shall", "should", "may", "might", "must", "can", "could",
+    "not", "no", "yes",
+    "what", "which", "who", "whom", "how", "when", "where", "why", "if", "then", "than", "as",
+}
+
+
+def _load_file_overrides(path: str) -> dict[str, str]:
+    """
+    Loads admin-approved translation corrections exported from failed_translations
+    (see scripts/export_translation_overrides.py). Missing/empty file is normal —
+    it just means no approved corrections have been exported yet.
+    """
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return {k.lower().strip(" .!?"): v for k, v in data.items() if k and v}
+    except Exception as e:
+        print(f"Erro ao carregar overrides de traducao de '{path}': {e}")
+        return {}
+
+
 class Translator:
     """English to Portuguese translator with intelligent redundancy filtering"""
-    
+
     def __init__(self):
         self.model_name = "Helsinki-NLP/opus-mt-tc-big-en-pt"
         self._model = None
         self._tokenizer = None
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.file_overrides = _load_file_overrides(OVERRIDES_PATH)
     
     @property
     def model(self):
@@ -68,6 +112,8 @@ class Translator:
             "our team does not want conflict with them": "Nossa equipe nao quer conflito com eles",
         })
         override_key = word_lower.strip(" .!?")
+        if override_key in self.file_overrides:
+            return self.file_overrides[override_key]
         if override_key in phrase_overrides:
             return phrase_overrides[override_key]
         
@@ -83,6 +129,15 @@ class Translator:
             }
             if word_lower in single_word_overrides:
                 return single_word_overrides[word_lower]
+
+            if word_lower in FUNCTION_WORDS:
+                # Pronouns/articles/prepositions/etc. have no noun/verb/adjective
+                # sense to extract — translate the word directly instead of
+                # probing it with the templates below.
+                inputs = self.tokenizer(f"{input_text.capitalize()}.", return_tensors="pt").to(self.device)
+                translated = self.model.generate(**inputs, max_new_tokens=50)
+                res = self.tokenizer.decode(translated[0], skip_special_tokens=True).strip()
+                return res.rstrip('.').strip()
 
             results = []
             

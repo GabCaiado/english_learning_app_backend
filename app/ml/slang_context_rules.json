@@ -443,7 +443,83 @@
     "the bomb": [
       "bomb shelter",
       "a bomb",
-      "the bomb exploded"
+      "the bomb exploded",
+      "atomic bomb",
+      "nuclear bomb",
+      "hydrogen bomb",
+      "bomb's history",
+      "history of the bomb",
+      "history class",
+      "world war",
+      "hiroshima",
+      "nagasaki",
+      "dropped the bomb",
+      "invented the bomb",
+      "bomb squad",
+      "bomb threat",
+      "bomb disposal",
+      "car bomb",
+      "planted a bomb",
+      "defuse the bomb",
+      "detonated"
+    ],
+    "flopped": [
+      "fish flopped",
+      "flopped on the bed",
+      "flopped onto the bed",
+      "flopped onto the couch",
+      "flopped down",
+      "flopped into bed",
+      "bird flopped"
+    ],
+    "go off": [
+      "alarm went off",
+      "alarm goes off",
+      "alarm will go off",
+      "alarm should go off",
+      "gun went off",
+      "gun goes off",
+      "bomb went off",
+      "timer went off",
+      "timer goes off",
+      "siren went off",
+      "smoke detector",
+      "fire alarm",
+      "fireworks went off"
+    ],
+    "let him cook": [
+      "cook dinner",
+      "cook breakfast",
+      "cook lunch",
+      "cook the meal",
+      "cook the food",
+      "cook in the kitchen",
+      "let him cook dinner",
+      "let him cook breakfast",
+      "let him cook lunch"
+    ],
+    "let her cook": [
+      "cook dinner",
+      "cook breakfast",
+      "cook lunch",
+      "cook the meal",
+      "cook the food",
+      "cook in the kitchen",
+      "let her cook dinner",
+      "let her cook breakfast",
+      "let her cook lunch"
+    ],
+    "spill the tea": [
+      "spill the tea on",
+      "spill the tea onto",
+      "spill the tea into",
+      "spill the tea over",
+      "spilled the tea on",
+      "spilled the tea into",
+      "spill the hot tea",
+      "cup of tea",
+      "kettle",
+      "teapot"
     ]
   },
   "slang_contexts": {
@@ -796,6 +872,39 @@
     "the bomb": [
       "is the bomb",
       "was the bomb"
+    ],
+    "flopped": [
+      "movie flopped",
+      "album flopped",
+      "show flopped",
+      "launch flopped",
+      "campaign flopped",
+      "single flopped",
+      "game flopped",
+      "flopped at the box office"
+    ],
+    "go off": [
+      "go off queen",
+      "go off king",
+      "let her go off",
+      "let him go off",
+      "about to go off",
+      "you should go off"
+    ],
+    "let him cook": [
+      "let him cook",
+      "let the man cook"
+    ],
+    "let her cook": [
+      "let her cook",
+      "let the woman cook"
+    ],
+    "spill the tea": [
+      "spill the tea about",
+      "spill the tea on what happened",
+      "what's the tea",
+      "come on spill",
+      "girl spill the tea"
     ]
   },
   "literal_regexes": {
@@ -999,7 +1108,29 @@
     ],
     "the bomb": [
       "\\bbomb\\s+shelter\\b",
-      "\\b(?:a|the)\\s+bomb\\s+(?:exploded|shelter)\\b"
+      "\\b(?:a|the)\\s+bomb\\s+(?:exploded|shelter)\\b",
+      "\\b(?:atomic|nuclear|hydrogen)\\s+bomb\\b",
+      "\\bhistory\\s+of\\s+the\\s+bomb\\b",
+      "\\bthe\\s+bomb'?s?\\s+history\\b",
+      "\\b(?:dropped|drop|invented|detonated|defused?|planted)\\s+the\\s+bomb\\b",
+      "\\bbomb\\s+(?:squad|threat|disposal)\\b"
+    ],
+    "flopped": [
+      "\\b(?:fish|bird)\\s+flopped\\b",
+      "\\bflopped\\s+(?:on|onto|into|down)\\s+(?:the\\s+)?(?:bed|couch|chair|floor|grass|deck|ground)\\b"
+    ],
+    "go off": [
+      "\\b(?:alarm|gun|bomb|timer|siren|fireworks?|buzzer)\\s+(?:went|goes|go|will\\s+go|should\\s+go)\\s+off\\b",
+      "\\b(?:smoke\\s+detector|fire\\s+alarm)\\b.*\\bgo\\s+off\\b"
+    ],
+    "let him cook": [
+      "\\blet\\s+him\\s+cook\\s+(?:dinner|lunch|breakfast|the\\s+meal|the\\s+food|in\\s+the\\s+kitchen)\\b"
+    ],
+    "let her cook": [
+      "\\blet\\s+her\\s+cook\\s+(?:dinner|lunch|breakfast|the\\s+meal|the\\s+food|in\\s+the\\s+kitchen)\\b"
+    ],
+    "spill the tea": [
+      "\\bspill(?:ed|ing)?\\s+(?:the|some|my|your|his|her)\\s+(?:hot\\s+)?tea\\s+(?:on|onto|into|over)\\b"
     ]
   },
   "slang_regexes": {
@@ -1178,6 +1309,23 @@
     "the bomb": [
       "\\bis\\s+the\\s+bomb\\b",
       "\\bwas\\s+the\\s+bomb\\b"
+    ],
+    "flopped": [
+      "\\b(?:movie|album|show|launch|campaign|single|game)\\s+flopped\\b",
+      "\\bflopped\\s+(?:at|in)\\s+(?:the\\s+)?(?:box\\s+office|theaters|stores)\\b"
+    ],
+    "go off": [
+      "\\bgo\\s+off\\s+(?:queen|king)\\b",
+      "\\blet\\s+(?:her|him|them)\\s+go\\s+off\\b"
+    ],
+    "let him cook": [
+      "\\blet\\s+him\\s+cook\\b"
+    ],
+    "let her cook": [
+      "\\blet\\s+her\\s+cook\\b"
+    ],
+    "spill the tea": [
+      "\\bspill(?:ed|ing)?\\s+the\\s+tea\\b"
     ]
   }
 }

@@ -15,7 +15,12 @@ from app.schemas.admin import (
     MilestoneInfo,
     VocabularyInfoResponse,
 )
-from app.services.dataset_generator import amplify_vocabulary, extract_known_vocabulary, generate_batch
+from app.services.dataset_generator import (
+    amplify_vocabulary,
+    count_examples_per_word_by_sense,
+    generate_batch,
+    is_word_covered,
+)
 
 router = APIRouter(prefix="/admin", tags=["admin"])
 
@@ -49,21 +54,28 @@ async def generate_dataset(
             context_style=request.context_style,
             slang_mix=request.slang_mix,
             target_word=request.target_word,
+            avoid_overrepresented=request.avoid_overrepresented,
         )
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc))
     except RuntimeError as exc:
         raise HTTPException(status_code=500, detail=str(exc))
 
+    avoided_words = result["avoided_words"]
+    message = (
+        f"Generated {result['generated']} sentences — "
+        f"{result['auto_approved']} auto-approved, "
+        f"{result['queued_for_review']} added to your review queue."
+    )
+    if avoided_words:
+        message += f" Avoided {len(avoided_words)} already well-covered word(s)."
+
     return DatasetGenerateResponse(
         generated=result["generated"],
         auto_approved=result["auto_approved"],
         queued_for_review=result["queued_for_review"],
-        message=(
-            f"Generated {result['generated']} sentences — "
-            f"{result['auto_approved']} auto-approved, "
-            f"{result['queued_for_review']} added to your review queue."
-        ),
+        avoided_words=avoided_words,
+        message=message,
     )
 
 
@@ -145,9 +157,17 @@ async def get_vocabulary(
     current_admin: User = Depends(get_current_admin),
     db: Session = Depends(get_db),
 ):
-    """Returns every unique slang word/phrase already known across all generated rows."""
-    words = extract_known_vocabulary(db)
-    return VocabularyInfoResponse(unique_words=len(words), words=words)
+    """Returns every unique slang word/phrase already known across all generated rows, with existing example counts."""
+    sense_counts = count_examples_per_word_by_sense(db)
+    words = sorted(sense_counts)
+    word_counts = {w: c["slang"] for w, c in sense_counts.items()}
+    overrepresented_words = sorted(w for w, c in sense_counts.items() if is_word_covered(w, c))
+    return VocabularyInfoResponse(
+        unique_words=len(words),
+        words=words,
+        word_counts=word_counts,
+        overrepresented_words=overrepresented_words,
+    )
 
 
 @router.post("/dataset/amplify", response_model=AmplifyVocabularyResponse)
@@ -157,15 +177,17 @@ async def amplify_dataset_vocabulary(
     db: Session = Depends(get_db),
 ):
     """
-    For every known slang word, generates fresh sentence variations via OpenAI
-    and scores them with the local detector — same auto-approve/review-queue
-    logic as /dataset/generate.
+    Tops up each known word to the shared coverage thresholds (same ones
+    Generate Batch uses to decide what's "already well covered") via OpenAI,
+    scoring each new sentence with the local detector — same auto-approve/
+    review-queue logic as /dataset/generate. Ambiguous words get topped up
+    on both slang and neutral senses; words with no literal meaning only get
+    topped up on slang. Words already covered are skipped.
     """
     try:
         result = amplify_vocabulary(
             db=db,
             admin_user=current_admin,
-            variations_per_word=request.variations_per_word,
             words=request.words,
         )
     except ValueError as exc:
@@ -175,11 +197,13 @@ async def amplify_dataset_vocabulary(
 
     return AmplifyVocabularyResponse(
         words_processed=result["words_processed"],
+        words_skipped=result["words_skipped"],
         generated=result["generated"],
         auto_approved=result["auto_approved"],
         queued_for_review=result["queued_for_review"],
         message=(
-            f"Amplified {result['words_processed']} words into {result['generated']} new sentences — "
+            f"Amplified {result['words_processed']} words into {result['generated']} new sentences "
+            f"({result['words_skipped']} already at target were skipped) — "
             f"{result['auto_approved']} auto-approved, {result['queued_for_review']} added to your review queue."
         ),
     )
