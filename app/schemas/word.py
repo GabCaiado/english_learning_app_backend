@@ -1,7 +1,7 @@
 import uuid
 from pydantic import BaseModel, Field
 from typing import Optional
-from datetime import date
+from datetime import date, datetime
 
 
 class WordCreate(BaseModel):
@@ -29,6 +29,7 @@ class WordResponse(BaseModel):
     mastery_level: str
     times_correct: int
     times_incorrect: int
+    created_at: datetime
 
     class Config:
         from_attributes = True
@@ -70,6 +71,7 @@ class ReviewResponse(BaseModel):
     easiness_factor: float
     times_correct: int
     times_incorrect: int
+    xp_earned: int = 0
 
     class Config:
         from_attributes = True

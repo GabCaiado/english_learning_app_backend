@@ -62,6 +62,7 @@ def _word_to_response(user_word: UserWord, meaning_en: Optional[str] = None, mea
         mastery_level=_mastery_level(user_word),
         times_correct=user_word.times_correct,
         times_incorrect=user_word.times_incorrect,
+        created_at=user_word.created_at,
     )
 
 
@@ -190,6 +191,7 @@ async def review_word(
         easiness_factor=round(user_word.easiness_factor, 4),
         times_correct=user_word.times_correct,
         times_incorrect=user_word.times_incorrect,
+        xp_earned=WordService.XP_PER_CORRECT_REVIEW if data.quality >= 3 else 0,
     )
 
 
